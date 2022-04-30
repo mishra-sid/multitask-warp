@@ -163,7 +163,25 @@ export HPARAMS='{
 python -m allennlp train \
 -s .aim/t-${DATASET} configs/warp.jsonnet
 ```
-
+## WARP on NLU evaluation data
+```sh
+export DATASET="alarm"
+export HPARAMS='{
+    "classifier_init":null,
+    "dataset":"nlu",
+    "path": "'$DATASET'",
+    "ensure_whitespace_between":false,
+    "lr":0.001,
+    "max_batch_size":8,
+    "max_tokens_sq":262144,
+    "num_epochs":30,
+    "prompt_better_init":"<mask>",
+    "prompts":[-10,-11,-12,-13,-14,null,-15,-16,-17,-18,-19,"<mask>",-20,-21,-22,-23,-24,null,-25,-26,-27,-28,-29],
+    "seed":1,
+    "transformer_model":"roberta-large"
+}'
+python -m allennlp train -s .aim/t-${DATASET} configs/nlu.jsonnet
+```
 ## WARP_init
 ## Few-Shot Experiments
 ```sh
