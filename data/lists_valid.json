@@ -1,0 +1,210 @@
+{"text":"please remove the following list","scenario":"lists","labels":2}
+{"text":"i want to have a new playlist of songs","scenario":"lists","labels":0}
+{"text":"tell me the name of my lists","scenario":"lists","labels":1}
+{"text":"clear this list","scenario":"lists","labels":2}
+{"text":"please delete this list","scenario":"lists","labels":2}
+{"text":"we're out of paint so take bathroom painting off the list","scenario":"lists","labels":2}
+{"text":"read current lists","scenario":"lists","labels":1}
+{"text":"add red wine to my shopping list","scenario":"lists","labels":0}
+{"text":"delete mike stein from contacts list","scenario":"lists","labels":2}
+{"text":"list lists","scenario":"lists","labels":1}
+{"text":"create a new list by tomorrow","scenario":"lists","labels":0}
+{"text":"find the list","scenario":"lists","labels":1}
+{"text":"new to list","scenario":"lists","labels":0}
+{"text":"remove mike stein from contacts list","scenario":"lists","labels":2}
+{"text":"add this to the list","scenario":"lists","labels":0}
+{"text":"what groups are listed in my contacts","scenario":"lists","labels":1}
+{"text":"can you tell me what's on my list","scenario":"lists","labels":1}
+{"text":"show all the lists that are available in detail","scenario":"lists","labels":1}
+{"text":"bring up a new shopping list","scenario":"lists","labels":0}
+{"text":"do i have anything on my to do list","scenario":"lists","labels":1}
+{"text":"delete butterfly clips from my wish list","scenario":"lists","labels":2}
+{"text":"read my to do list","scenario":"lists","labels":1}
+{"text":"tdl","scenario":"lists","labels":1}
+{"text":"replace","scenario":"lists","labels":2}
+{"text":"let me know the list","scenario":"lists","labels":1}
+{"text":"remove apple from list","scenario":"lists","labels":2}
+{"text":"get rid of x from the list","scenario":"lists","labels":2}
+{"text":"create a blank list","scenario":"lists","labels":0}
+{"text":"are eggs on my shopping list","scenario":"lists","labels":1}
+{"text":"delete the walmart list","scenario":"lists","labels":2}
+{"text":"get eggs on the list","scenario":"lists","labels":0}
+{"text":"delete list item","scenario":"lists","labels":2}
+{"text":"delete my to do list","scenario":"lists","labels":2}
+{"text":"i need to add pasta and milk to the grocery list","scenario":"lists","labels":0}
+{"text":"erase item from list","scenario":"lists","labels":2}
+{"text":"please make a list of thing i have to shop tomorrow","scenario":"lists","labels":0}
+{"text":"please start a new list","scenario":"lists","labels":0}
+{"text":"read me the content of this list","scenario":"lists","labels":1}
+{"text":"delete this birthday party","scenario":"lists","labels":2}
+{"text":"on my to dos remove mop kitchen","scenario":"lists","labels":2}
+{"text":"delete list blank","scenario":"lists","labels":2}
+{"text":"add milk to my shopping list","scenario":"lists","labels":0}
+{"text":"include an item to a list","scenario":"lists","labels":0}
+{"text":"add mow lawn to things to do list","scenario":"lists","labels":0}
+{"text":"create a new list of my due bills","scenario":"lists","labels":0}
+{"text":"create a new list called grocery store please","scenario":"lists","labels":0}
+{"text":"remove list of due payment of rajesh","scenario":"lists","labels":2}
+{"text":"pull up my shopping list","scenario":"lists","labels":1}
+{"text":"i don't need tesco item any more delete it","scenario":"lists","labels":2}
+{"text":"buying of groceries new list","scenario":"lists","labels":0}
+{"text":"what are my tasks","scenario":"lists","labels":1}
+{"text":"how many events on my list","scenario":"lists","labels":1}
+{"text":"please read me my current lists","scenario":"lists","labels":1}
+{"text":"what is on the list","scenario":"lists","labels":1}
+{"text":"remove item three from the list","scenario":"lists","labels":2}
+{"text":"the list contain what","scenario":"lists","labels":1}
+{"text":"generate fresh list","scenario":"lists","labels":0}
+{"text":"open google keep","scenario":"lists","labels":1}
+{"text":"please give me a list of all of my lists","scenario":"lists","labels":1}
+{"text":"i need to put together a todo list for work","scenario":"lists","labels":0}
+{"text":"go to the list and remove item","scenario":"lists","labels":2}
+{"text":"remove grocery list please","scenario":"lists","labels":2}
+{"text":"please delete my grocery list in entirety","scenario":"lists","labels":2}
+{"text":"list the items on my shopping list","scenario":"lists","labels":1}
+{"text":"create packing checklist","scenario":"lists","labels":0}
+{"text":"make a list of camera photos","scenario":"lists","labels":0}
+{"text":"run over my to do list with me","scenario":"lists","labels":1}
+{"text":"what is on this specific list","scenario":"lists","labels":1}
+{"text":"how many food items on the list","scenario":"lists","labels":1}
+{"text":"on my grocery list please add oranges","scenario":"lists","labels":0}
+{"text":"how many items are on my list","scenario":"lists","labels":1}
+{"text":"add to list","scenario":"lists","labels":0}
+{"text":"add rice on the list","scenario":"lists","labels":0}
+{"text":"i'd like to cancel the trip to vegas next week","scenario":"lists","labels":2}
+{"text":"set up a new list with the following","scenario":"lists","labels":0}
+{"text":"what are all of the items on my list","scenario":"lists","labels":1}
+{"text":"whats on my shopping list","scenario":"lists","labels":1}
+{"text":"please create a new list","scenario":"lists","labels":0}
+{"text":"i want to remove the grocery list from my other lists","scenario":"lists","labels":2}
+{"text":"can i know what i on the list","scenario":"lists","labels":1}
+{"text":"provide what is there on the list","scenario":"lists","labels":1}
+{"text":"delete from playlist my old english songs list","scenario":"lists","labels":2}
+{"text":"mention the list","scenario":"lists","labels":1}
+{"text":"add these documents to the things i need to travel with","scenario":"lists","labels":0}
+{"text":"what are the names of all my current lists","scenario":"lists","labels":1}
+{"text":"read back what i put on my to do list for this week","scenario":"lists","labels":1}
+{"text":"delete the vacation things to do list","scenario":"lists","labels":2}
+{"text":"remove last played song","scenario":"lists","labels":2}
+{"text":"open a new list for me","scenario":"lists","labels":0}
+{"text":"delete item from list","scenario":"lists","labels":2}
+{"text":"please provide the contents of the list","scenario":"lists","labels":1}
+{"text":"delete this item","scenario":"lists","labels":2}
+{"text":"what's still on the list","scenario":"lists","labels":1}
+{"text":"list new","scenario":"lists","labels":0}
+{"text":"read me back whats on my shopping list","scenario":"lists","labels":1}
+{"text":"create a new grocery list","scenario":"lists","labels":0}
+{"text":"create a list for today's tasks","scenario":"lists","labels":0}
+{"text":"delete that item from the list","scenario":"lists","labels":2}
+{"text":"accounts and passwords fasion","scenario":"lists","labels":1}
+{"text":"what do i need to complete first from the list","scenario":"lists","labels":1}
+{"text":"read what lists i have","scenario":"lists","labels":1}
+{"text":"delete task list one","scenario":"lists","labels":2}
+{"text":"get rid of the wednesday list","scenario":"lists","labels":2}
+{"text":"delete the item two from the list","scenario":"lists","labels":2}
+{"text":"please remove the list","scenario":"lists","labels":2}
+{"text":"what open lists do i have","scenario":"lists","labels":1}
+{"text":"delete list for groceries","scenario":"lists","labels":2}
+{"text":"remove shop list","scenario":"lists","labels":2}
+{"text":"do i have anything lists made for christmas shopping","scenario":"lists","labels":1}
+{"text":"can you add gloria to my list of clients","scenario":"lists","labels":0}
+{"text":"what next in my must watch movie list","scenario":"lists","labels":1}
+{"text":"show the list that are available with numbers","scenario":"lists","labels":1}
+{"text":"give me all my lists","scenario":"lists","labels":1}
+{"text":"re add eggs to the list","scenario":"lists","labels":0}
+{"text":"remove cereal from my shopping list","scenario":"lists","labels":2}
+{"text":"google translate","scenario":"lists","labels":1}
+{"text":"please give me the name of all my lists","scenario":"lists","labels":1}
+{"text":"do i have coffee on the grocery list","scenario":"lists","labels":1}
+{"text":"delete all lists","scenario":"lists","labels":2}
+{"text":"belongs on this week's grocery list","scenario":"lists","labels":1}
+{"text":"delete call newspaper from my vacation list","scenario":"lists","labels":2}
+{"text":"what items are on my shopping list","scenario":"lists","labels":1}
+{"text":"can i see my lists for today","scenario":"lists","labels":1}
+{"text":"Get all availables","scenario":"lists","labels":1}
+{"text":"i have corn rice chicken soy sauce dill pickles ranch dressing lentils and milk in the refrigerator what can i make to eat with this","scenario":"lists","labels":1}
+{"text":"can i have my list","scenario":"lists","labels":1}
+{"text":"make a list of numbers for me","scenario":"lists","labels":0}
+{"text":"what's on my list","scenario":"lists","labels":1}
+{"text":"do i have anything on the list","scenario":"lists","labels":1}
+{"text":"remove milk from my grocery list","scenario":"lists","labels":2}
+{"text":"my expenses","scenario":"lists","labels":1}
+{"text":"remove pepper from my grocery list","scenario":"lists","labels":2}
+{"text":"may i know what is there on the list","scenario":"lists","labels":1}
+{"text":"please tell me what lists i have made","scenario":"lists","labels":1}
+{"text":"delete that item","scenario":"lists","labels":2}
+{"text":"scratch item three","scenario":"lists","labels":2}
+{"text":"say the list","scenario":"lists","labels":1}
+{"text":"trash file one","scenario":"lists","labels":2}
+{"text":"what lists do i have that i haven't updated one way or another in the past week","scenario":"lists","labels":1}
+{"text":"please tell me what lists i have","scenario":"lists","labels":1}
+{"text":"get rid of that item","scenario":"lists","labels":2}
+{"text":"can you create a new list in my podcast","scenario":"lists","labels":0}
+{"text":"give me all available lists","scenario":"lists","labels":1}
+{"text":"Delete all mails from fghcom","scenario":"lists","labels":2}
+{"text":"most viewed list","scenario":"lists","labels":1}
+{"text":"add eggs to my grocery's shopping list","scenario":"lists","labels":0}
+{"text":"add grocery shopping to my to do list","scenario":"lists","labels":0}
+{"text":"what are the jobs to be done today","scenario":"lists","labels":1}
+{"text":"please add list of friends to invite for the party","scenario":"lists","labels":0}
+{"text":"get rid of peas","scenario":"lists","labels":2}
+{"text":"please add milk to the grocery list","scenario":"lists","labels":0}
+{"text":"make sure bread is on my grocery list","scenario":"lists","labels":1}
+{"text":"open grocery shopping list and remove bananas","scenario":"lists","labels":2}
+{"text":"create a new list please","scenario":"lists","labels":0}
+{"text":"i have all details about pda's","scenario":"lists","labels":1}
+{"text":"delete the list please","scenario":"lists","labels":2}
+{"text":"what's on my list to do today","scenario":"lists","labels":1}
+{"text":"delete my list","scenario":"lists","labels":2}
+{"text":"give me the details on purchase order","scenario":"lists","labels":1}
+{"text":"please tell me how can I remove the item","scenario":"lists","labels":2}
+{"text":"start new list","scenario":"lists","labels":0}
+{"text":"get rid of this list","scenario":"lists","labels":2}
+{"text":"create a new folder","scenario":"lists","labels":0}
+{"text":"remove my list of notes from last week","scenario":"lists","labels":2}
+{"text":"please destroy this list","scenario":"lists","labels":2}
+{"text":"i need to make a list of bills that are due","scenario":"lists","labels":0}
+{"text":"add this one also","scenario":"lists","labels":0}
+{"text":"remove my to do list","scenario":"lists","labels":2}
+{"text":"can you add milk to my grocery list","scenario":"lists","labels":0}
+{"text":"clear all from my iphone","scenario":"lists","labels":2}
+{"text":"delete bread from shopping list","scenario":"lists","labels":2}
+{"text":"remember to put carrots in there","scenario":"lists","labels":0}
+{"text":"make a grocery list please","scenario":"lists","labels":0}
+{"text":"provide the list","scenario":"lists","labels":1}
+{"text":"what is on my shopping list today","scenario":"lists","labels":1}
+{"text":"i need new list to be created do it now","scenario":"lists","labels":0}
+{"text":"save appointment to list","scenario":"lists","labels":0}
+{"text":"save the new list","scenario":"lists","labels":0}
+{"text":"change that off the list","scenario":"lists","labels":2}
+{"text":"please remove tricep pulldown from my workout list","scenario":"lists","labels":2}
+{"text":"begin a new list","scenario":"lists","labels":0}
+{"text":"add to my groceries","scenario":"lists","labels":0}
+{"text":"produce a new register","scenario":"lists","labels":0}
+{"text":"make new playlist from recent songs","scenario":"lists","labels":0}
+{"text":"tell me my lists","scenario":"lists","labels":1}
+{"text":"delete happy dance playlist","scenario":"lists","labels":2}
+{"text":"i want to start a new list of power tools on sale at true value","scenario":"lists","labels":0}
+{"text":"prepare list","scenario":"lists","labels":0}
+{"text":"what is on my shopping list","scenario":"lists","labels":1}
+{"text":"please remove the kickball list from my contacts grouping","scenario":"lists","labels":2}
+{"text":"tell me what's on my list","scenario":"lists","labels":1}
+{"text":"remove playlist","scenario":"lists","labels":2}
+{"text":"start a new grocery list","scenario":"lists","labels":0}
+{"text":"speak all items for to day","scenario":"lists","labels":1}
+{"text":"this item should be added to the list","scenario":"lists","labels":0}
+{"text":"can you add cups to my grocery list","scenario":"lists","labels":0}
+{"text":"delete apples from my grocery list","scenario":"lists","labels":2}
+{"text":"what is available in your stock of lists","scenario":"lists","labels":1}
+{"text":"start list","scenario":"lists","labels":0}
+{"text":"what on my play list","scenario":"lists","labels":1}
+{"text":"Delete all read sms from sms list","scenario":"lists","labels":2}
+{"text":"away off from list","scenario":"lists","labels":2}
+{"text":"create new list for baby names","scenario":"lists","labels":0}
+{"text":"please delete the last song that played from the playlist","scenario":"lists","labels":2}
+{"text":"remove item from my list","scenario":"lists","labels":2}
+{"text":"add business contacts to contact list","scenario":"lists","labels":0}
+{"text":"give me lists","scenario":"lists","labels":1}
+{"text":"delete everything on the menu","scenario":"lists","labels":2}
+{"text":"i have already given mark his gift today please remove him on my christmas gift list","scenario":"lists","labels":2}
+{"text":"state the list i have","scenario":"lists","labels":1}

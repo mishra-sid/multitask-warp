@@ -1,0 +1,199 @@
+{"text":"i am unable to hear you can you speak little loud","scenario":"audio","labels":3}
+{"text":"decrease volume","scenario":"audio","labels":0}
+{"text":"change volume","scenario":"audio","labels":2}
+{"text":"will you please mute my speakers","scenario":"audio","labels":1}
+{"text":"turn the volume down","scenario":"audio","labels":0}
+{"text":"speaker volume decrease","scenario":"audio","labels":0}
+{"text":"please be quiet","scenario":"audio","labels":1}
+{"text":"set mute mode for one hour","scenario":"audio","labels":1}
+{"text":"turn up volume","scenario":"audio","labels":3}
+{"text":"speakers off","scenario":"audio","labels":1}
+{"text":"your volume is too high please repeat that lower","scenario":"audio","labels":0}
+{"text":"turn up the volume","scenario":"audio","labels":3}
+{"text":"please turn up the volume","scenario":"audio","labels":3}
+{"text":"lower speaker volume","scenario":"audio","labels":0}
+{"text":"turn the volume up on music player","scenario":"audio","labels":3}
+{"text":"enter silence mode","scenario":"audio","labels":1}
+{"text":"i need to hear the volume of the current music","scenario":"audio","labels":3}
+{"text":"lower volume to half","scenario":"audio","labels":0}
+{"text":"raise the volume to fifty","scenario":"audio","labels":3}
+{"text":"quiet mode four hours","scenario":"audio","labels":1}
+{"text":"it's quiet time","scenario":"audio","labels":1}
+{"text":"raise speaker volume","scenario":"audio","labels":3}
+{"text":"turn it up","scenario":"audio","labels":3}
+{"text":"please increase the volume of the music hips don't lie","scenario":"audio","labels":3}
+{"text":"i need you to say that last information again but much louder","scenario":"audio","labels":3}
+{"text":"mute yourself until i say otherwise","scenario":"audio","labels":1}
+{"text":"I need the volume to be quieter","scenario":"audio","labels":0}
+{"text":"turn up music please","scenario":"audio","labels":3}
+{"text":"Hey turn the volume high","scenario":"audio","labels":3}
+{"text":"turn up the speakers","scenario":"audio","labels":3}
+{"text":"please mute the television for one hour","scenario":"audio","labels":1}
+{"text":"mute immediately","scenario":"audio","labels":1}
+{"text":"please pause yourself","scenario":"audio","labels":1}
+{"text":"pause the music","scenario":"audio","labels":1}
+{"text":"turn down media volume","scenario":"audio","labels":0}
+{"text":"silence","scenario":"audio","labels":1}
+{"text":"set the volume higher","scenario":"audio","labels":3}
+{"text":"i can barely hear you","scenario":"audio","labels":3}
+{"text":"i need you to have the volume louder","scenario":"audio","labels":3}
+{"text":"can you change the volume at","scenario":"audio","labels":2}
+{"text":"adjust media volume up","scenario":"audio","labels":3}
+{"text":"please reduce the speaker volume","scenario":"audio","labels":0}
+{"text":"speak softer please","scenario":"audio","labels":0}
+{"text":"please turn the volume down","scenario":"audio","labels":0}
+{"text":"can you turn up the volume on itunes","scenario":"audio","labels":3}
+{"text":"get yourself muted","scenario":"audio","labels":1}
+{"text":"don't respond for fifty seconds","scenario":"audio","labels":1}
+{"text":"it is too loud decrease the volume","scenario":"audio","labels":0}
+{"text":"i want to mute the speaker","scenario":"audio","labels":1}
+{"text":"turn off sound","scenario":"audio","labels":1}
+{"text":"can you please stop speaking","scenario":"audio","labels":1}
+{"text":"i can't hear you speak up","scenario":"audio","labels":3}
+{"text":"mute for the next hour please","scenario":"audio","labels":1}
+{"text":"you're too loud","scenario":"audio","labels":0}
+{"text":"i'm in a meeting please do not speak","scenario":"audio","labels":1}
+{"text":"increase the volume please","scenario":"audio","labels":3}
+{"text":"slow","scenario":"audio","labels":3}
+{"text":"can you place the sound on mute","scenario":"audio","labels":1}
+{"text":"turn the speakers down to five percent","scenario":"audio","labels":0}
+{"text":"can you set radio to mute","scenario":"audio","labels":1}
+{"text":"turn the music lower","scenario":"audio","labels":0}
+{"text":"turn down the volume","scenario":"audio","labels":0}
+{"text":"raise the volume of the speakers to fifty five percent","scenario":"audio","labels":3}
+{"text":"please mute the speakers","scenario":"audio","labels":1}
+{"text":"mute audio","scenario":"audio","labels":1}
+{"text":"raise your volume","scenario":"audio","labels":3}
+{"text":"please keep quiet for the next hour","scenario":"audio","labels":1}
+{"text":"activate silent","scenario":"audio","labels":1}
+{"text":"mute speakers please","scenario":"audio","labels":1}
+{"text":"start the radio now on low volume","scenario":"audio","labels":0}
+{"text":"increase volume to fifty percent","scenario":"audio","labels":3}
+{"text":"turn down volume twenty percent","scenario":"audio","labels":0}
+{"text":"set to silent for five minutes","scenario":"audio","labels":1}
+{"text":"i want the speakers turned up high","scenario":"audio","labels":3}
+{"text":"please adjust the speakers to a lower more comfortable level","scenario":"audio","labels":0}
+{"text":"turn up the volume on my speakers","scenario":"audio","labels":3}
+{"text":"from now on mute","scenario":"audio","labels":1}
+{"text":"turn the vibrate off from speaker","scenario":"audio","labels":1}
+{"text":"increase the volume to fifty","scenario":"audio","labels":3}
+{"text":"turn off speaker","scenario":"audio","labels":1}
+{"text":"turn off audio","scenario":"audio","labels":1}
+{"text":"volume control please","scenario":"audio","labels":2}
+{"text":"i can't hear you can you say it again louder","scenario":"audio","labels":3}
+{"text":"turn up your volume","scenario":"audio","labels":3}
+{"text":"slow the volume speaker","scenario":"audio","labels":0}
+{"text":"raise volume","scenario":"audio","labels":3}
+{"text":"pause for ten seconds","scenario":"audio","labels":1}
+{"text":"please change the volume low of the speakers","scenario":"audio","labels":0}
+{"text":"shut up","scenario":"audio","labels":1}
+{"text":"comfortably adjust sound","scenario":"audio","labels":2}
+{"text":"stop making sounds for forty minutes","scenario":"audio","labels":1}
+{"text":"increase the volume of the left speaker by ten","scenario":"audio","labels":3}
+{"text":"mute yourself until five pm","scenario":"audio","labels":1}
+{"text":"louder","scenario":"audio","labels":3}
+{"text":"increase volume","scenario":"audio","labels":3}
+{"text":"raise the volume of the current music","scenario":"audio","labels":3}
+{"text":"please increase the volume of the current song","scenario":"audio","labels":3}
+{"text":"stay quiet","scenario":"audio","labels":1}
+{"text":"increase the volume a bit","scenario":"audio","labels":3}
+{"text":"speak louder please","scenario":"audio","labels":3}
+{"text":"go silent until three pm","scenario":"audio","labels":1}
+{"text":"sound off","scenario":"audio","labels":1}
+{"text":"can you mute my speaker","scenario":"audio","labels":1}
+{"text":"volume level","scenario":"audio","labels":2}
+{"text":"reduce volume","scenario":"audio","labels":0}
+{"text":"i can't hear just increase the volume","scenario":"audio","labels":3}
+{"text":"turn down the noise","scenario":"audio","labels":1}
+{"text":"set the average of the device","scenario":"audio","labels":2}
+{"text":"give me the volume settings","scenario":"audio","labels":2}
+{"text":"more volume please","scenario":"audio","labels":3}
+{"text":"cut off noise","scenario":"audio","labels":1}
+{"text":"i need to hear sound on my speakers","scenario":"audio","labels":3}
+{"text":"please mute yourself","scenario":"audio","labels":1}
+{"text":"mute the living room speakers","scenario":"audio","labels":1}
+{"text":"please be quiet for another hour","scenario":"audio","labels":1}
+{"text":"can you mute when i am not home","scenario":"audio","labels":1}
+{"text":"could you change the volume","scenario":"audio","labels":2}
+{"text":"turn speaker volume down","scenario":"audio","labels":0}
+{"text":"give a pleasant sound","scenario":"audio","labels":2}
+{"text":"please stop talking","scenario":"audio","labels":1}
+{"text":"quiet please","scenario":"audio","labels":1}
+{"text":"mute yourself when i am in a meeting","scenario":"audio","labels":1}
+{"text":"can you turn it up a little","scenario":"audio","labels":3}
+{"text":"mute speaker","scenario":"audio","labels":1}
+{"text":"no speaking please","scenario":"audio","labels":1}
+{"text":"speak louder","scenario":"audio","labels":3}
+{"text":"don't make any sounds","scenario":"audio","labels":1}
+{"text":"please quiet the speaker","scenario":"audio","labels":1}
+{"text":"get louder","scenario":"audio","labels":3}
+{"text":"can you turn up your volume","scenario":"audio","labels":3}
+{"text":"change volume settings in the negative","scenario":"audio","labels":2}
+{"text":"can you turn up the volume","scenario":"audio","labels":3}
+{"text":"mute please","scenario":"audio","labels":1}
+{"text":"don't speak for a while","scenario":"audio","labels":1}
+{"text":"please speak loud","scenario":"audio","labels":3}
+{"text":"please talk softer","scenario":"audio","labels":0}
+{"text":"mute sound","scenario":"audio","labels":1}
+{"text":"unmute","scenario":"audio","labels":3}
+{"text":"quiet on","scenario":"audio","labels":1}
+{"text":"decrease volume to very soft","scenario":"audio","labels":0}
+{"text":"i need to mute the speaker","scenario":"audio","labels":1}
+{"text":"change volume level to maximum","scenario":"audio","labels":2}
+{"text":"it's really loud can you please turn the music down","scenario":"audio","labels":0}
+{"text":"turn my audio higher","scenario":"audio","labels":3}
+{"text":"mute","scenario":"audio","labels":1}
+{"text":"do not make any noise until morning alarm","scenario":"audio","labels":1}
+{"text":"audio up","scenario":"audio","labels":3}
+{"text":"please do not talk for thirty minutes","scenario":"audio","labels":1}
+{"text":"set mute for twenty minutes","scenario":"audio","labels":1}
+{"text":"i can't hear you","scenario":"audio","labels":3}
+{"text":"make sound louder","scenario":"audio","labels":3}
+{"text":"raise volume to level seven on music player","scenario":"audio","labels":3}
+{"text":"please hold for the next hour","scenario":"audio","labels":1}
+{"text":"the volume of the music playing now should be raised","scenario":"audio","labels":3}
+{"text":"set the volume to low","scenario":"audio","labels":0}
+{"text":"main apne speaker ka volume kam karna chahta hu","scenario":"audio","labels":3}
+{"text":"mute volume now","scenario":"audio","labels":1}
+{"text":"please increase volume in music player","scenario":"audio","labels":3}
+{"text":"stop playing","scenario":"audio","labels":1}
+{"text":"mute the settings","scenario":"audio","labels":1}
+{"text":"turn up media volume","scenario":"audio","labels":3}
+{"text":"decrease the volume to ten percent","scenario":"audio","labels":0}
+{"text":"change the speaker volume to sixty five percent","scenario":"audio","labels":3}
+{"text":"i want to slow down my speaker","scenario":"audio","labels":0}
+{"text":"set the speakers to mute","scenario":"audio","labels":1}
+{"text":"turn off media volume","scenario":"audio","labels":1}
+{"text":"please raise the volume of speaker","scenario":"audio","labels":3}
+{"text":"lower volume of music player","scenario":"audio","labels":0}
+{"text":"lower all volume on speakers please","scenario":"audio","labels":0}
+{"text":"mute the speaker please","scenario":"audio","labels":1}
+{"text":"please turn the volume to the loudest setting","scenario":"audio","labels":3}
+{"text":"speak quieter","scenario":"audio","labels":0}
+{"text":"down the volume","scenario":"audio","labels":0}
+{"text":"don't talk","scenario":"audio","labels":1}
+{"text":"lower the speakers","scenario":"audio","labels":0}
+{"text":"quiet time","scenario":"audio","labels":1}
+{"text":"set the settings to mute","scenario":"audio","labels":1}
+{"text":"no no turn it down","scenario":"audio","labels":0}
+{"text":"not use","scenario":"audio","labels":1}
+{"text":"could you speak a little more softly","scenario":"audio","labels":3}
+{"text":"turn up the sound","scenario":"audio","labels":3}
+{"text":"louder please","scenario":"audio","labels":3}
+{"text":"Shut down the sound","scenario":"audio","labels":1}
+{"text":"set volume to zero","scenario":"audio","labels":1}
+{"text":"lower volume","scenario":"audio","labels":0}
+{"text":"lower audio","scenario":"audio","labels":0}
+{"text":"please turn my speakers on google","scenario":"audio","labels":3}
+{"text":"goodnight","scenario":"audio","labels":1}
+{"text":"please mute the volume control","scenario":"audio","labels":1}
+{"text":"please change the volume to mute","scenario":"audio","labels":1}
+{"text":"turn up radio volume","scenario":"audio","labels":3}
+{"text":"volume louder please","scenario":"audio","labels":3}
+{"text":"low the volume","scenario":"audio","labels":0}
+{"text":"please turn the music up","scenario":"audio","labels":3}
+{"text":"increase volume by one","scenario":"audio","labels":3}
+{"text":"too loud","scenario":"audio","labels":0}
+{"text":"quiet","scenario":"audio","labels":1}
+{"text":"increase volume please","scenario":"audio","labels":3}
+{"text":"can you turn the volume up","scenario":"audio","labels":3}

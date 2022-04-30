@@ -1,0 +1,216 @@
+{"text":"open uber","scenario":"transport","labels":1}
+{"text":"how long should the drive to work take","scenario":"transport","labels":3}
+{"text":"get me a ride on the commuter train from nj to ny","scenario":"transport","labels":2}
+{"text":"please book the next taxi","scenario":"transport","labels":1}
+{"text":"directions please","scenario":"transport","labels":0}
+{"text":"show me the train schedules between madrid and barcelona for tomorrow","scenario":"transport","labels":0}
+{"text":"book a train ticket weekend of the twenty sixth phoenix to los angeles","scenario":"transport","labels":2}
+{"text":"what time does the train to place leave","scenario":"transport","labels":0}
+{"text":"what is the quickest way to my work downtown without hitting any traffic","scenario":"transport","labels":0}
+{"text":"book me a train ticket to atlanta please","scenario":"transport","labels":2}
+{"text":"show me today train time of kalka at jodhpur","scenario":"transport","labels":0}
+{"text":"book me a train ticket to chicago for tomorrow morning before ten","scenario":"transport","labels":2}
+{"text":"i need to book a train ticket to la","scenario":"transport","labels":2}
+{"text":"what is the traffic like","scenario":"transport","labels":3}
+{"text":"get me the local train timing to destination cstm","scenario":"transport","labels":0}
+{"text":"how will my drive me","scenario":"transport","labels":3}
+{"text":"book me a cab going to location","scenario":"transport","labels":1}
+{"text":"please access gps to direct me","scenario":"transport","labels":0}
+{"text":"book a train ticket with a berth seat to lucknow for next week","scenario":"transport","labels":2}
+{"text":"show me the train schedules to the metropolitan opera house","scenario":"transport","labels":0}
+{"text":"are there any construction areas on harvard","scenario":"transport","labels":3}
+{"text":"how long until we get to chicago","scenario":"transport","labels":0}
+{"text":"find a taxi to go home","scenario":"transport","labels":1}
+{"text":"open lyft","scenario":"transport","labels":1}
+{"text":"i want to buy a train ticket tomorrow for boston to new york","scenario":"transport","labels":2}
+{"text":"book me an uber","scenario":"transport","labels":1}
+{"text":"what train stations close to me also sell tickets","scenario":"transport","labels":0}
+{"text":"what's the traffic on the one hundred and one","scenario":"transport","labels":3}
+{"text":"is there is a high traffic","scenario":"transport","labels":3}
+{"text":"are there are any delays on my commute","scenario":"transport","labels":3}
+{"text":"get me an uber please","scenario":"transport","labels":1}
+{"text":"secure train passage for me on july three","scenario":"transport","labels":2}
+{"text":"get nearest hospital","scenario":"transport","labels":0}
+{"text":"what are the trains i could board tonight to head to lyon this evening","scenario":"transport","labels":0}
+{"text":"map out a route from here to abita brew pub","scenario":"transport","labels":0}
+{"text":"which place has more traffic","scenario":"transport","labels":3}
+{"text":"what is the current traffic in washington town","scenario":"transport","labels":3}
+{"text":"get me a ride to hospital","scenario":"transport","labels":1}
+{"text":"in delhi traffic level too high","scenario":"transport","labels":3}
+{"text":"what time does the train to iowa leave","scenario":"transport","labels":0}
+{"text":"traffic alert","scenario":"transport","labels":3}
+{"text":"give me the train time","scenario":"transport","labels":0}
+{"text":"i need a train ticket for today to chicago","scenario":"transport","labels":2}
+{"text":"find a taxi for me","scenario":"transport","labels":1}
+{"text":"book a ticket for today in irctc site for the stored information","scenario":"transport","labels":2}
+{"text":"book tomorrow's train ticket for me to bombay in any train","scenario":"transport","labels":2}
+{"text":"i want you to book a train ticket for me","scenario":"transport","labels":2}
+{"text":"book a train ticket for me","scenario":"transport","labels":2}
+{"text":"how long will it take to get to austin tx.","scenario":"transport","labels":0}
+{"text":"what is the traffic like now","scenario":"transport","labels":3}
+{"text":"please book train ticket to new york","scenario":"transport","labels":2}
+{"text":"when is the next train arriving to union station from grand central station","scenario":"transport","labels":0}
+{"text":"what time do the trains depart to atlanta","scenario":"transport","labels":0}
+{"text":"what time does the train depart from downtown los angeles to santa barbara","scenario":"transport","labels":0}
+{"text":"what is the first metro to dc","scenario":"transport","labels":0}
+{"text":"what is the current traffic","scenario":"transport","labels":3}
+{"text":"how long will it take me to drive to the panic concert tomorrow","scenario":"transport","labels":0}
+{"text":"call to the customer care","scenario":"transport","labels":1}
+{"text":"show me the direction of this location","scenario":"transport","labels":0}
+{"text":"book me a taxi to the mall of america please","scenario":"transport","labels":1}
+{"text":"call city cab to airport","scenario":"transport","labels":1}
+{"text":"schedule city cab from home to airport at eight am","scenario":"transport","labels":1}
+{"text":"i would like to know the train timings to bournemouth tomorrow","scenario":"transport","labels":0}
+{"text":"what's the traffic situation from kamycka to dejvicka","scenario":"transport","labels":3}
+{"text":"what time can i catch the train to dc and arrive by nine am","scenario":"transport","labels":0}
+{"text":"list all train time to ny","scenario":"transport","labels":0}
+{"text":"please check the train schedule for wednesday at five pm going to rockville","scenario":"transport","labels":0}
+{"text":"please book a taxi for me","scenario":"transport","labels":1}
+{"text":"how can i go to rome by train on Wednesday next week","scenario":"transport","labels":0}
+{"text":"how long does it take to get there","scenario":"transport","labels":0}
+{"text":"tell me the trains from california to new jersey after eleven pm","scenario":"transport","labels":0}
+{"text":"find an uber driver available for tonight after ten pm","scenario":"transport","labels":1}
+{"text":"book three round trip train tickets for sunday at seven pm return ticket of next week sunday at eight am","scenario":"transport","labels":2}
+{"text":"i need a taxi for tomorrow at seven pm to the arena","scenario":"transport","labels":1}
+{"text":"where is the train station","scenario":"transport","labels":0}
+{"text":"please book a ticket on train number seventy three using my debit card","scenario":"transport","labels":0}
+{"text":"what time is the train to san francisco due","scenario":"transport","labels":0}
+{"text":"book a train ticket to boston tomorrow","scenario":"transport","labels":2}
+{"text":"what time does the train leave penn station","scenario":"transport","labels":0}
+{"text":"fetch me two train tickets for the earliest train to paris","scenario":"transport","labels":2}
+{"text":"road speed manoeuvres","scenario":"transport","labels":0}
+{"text":"is there traffic right now in maiden lane","scenario":"transport","labels":3}
+{"text":"book a ticket for me on a train to get to boston tomorrow what is available","scenario":"transport","labels":2}
+{"text":"what are the train schedules to new york","scenario":"transport","labels":0}
+{"text":"i need a gold class ticket on train number five using my credit card","scenario":"transport","labels":2}
+{"text":"call a taxi","scenario":"transport","labels":1}
+{"text":"what is the schedule time of punjab mail to reach gwalior","scenario":"transport","labels":0}
+{"text":"current traffic","scenario":"transport","labels":3}
+{"text":"get me a train ticket to atlanta","scenario":"transport","labels":0}
+{"text":"get me the number for local taxi service","scenario":"transport","labels":1}
+{"text":"what are the train times for","scenario":"transport","labels":0}
+{"text":"book ola cab for now","scenario":"transport","labels":1}
+{"text":"find me a train ticket next monday to new york city","scenario":"transport","labels":2}
+{"text":"give information about the traffic near my location please","scenario":"transport","labels":3}
+{"text":"is the traffic smooth right now","scenario":"transport","labels":3}
+{"text":"direct me towards nearest railway station","scenario":"transport","labels":0}
+{"text":"can you book me a train ticket to boston for next tuesday","scenario":"transport","labels":2}
+{"text":"book me a train ticket for this afternoon to chicago","scenario":"transport","labels":2}
+{"text":"get me two train tickets from where i am now to dallas arriving before dark","scenario":"transport","labels":2}
+{"text":"book an uber for me","scenario":"transport","labels":1}
+{"text":"are there any accidents on my way to work","scenario":"transport","labels":3}
+{"text":"hey when is the next local from mumbai to pune","scenario":"transport","labels":0}
+{"text":"i need a cab in thirty minutes","scenario":"transport","labels":1}
+{"text":"i need directions to madison st","scenario":"transport","labels":0}
+{"text":"what time does the next train leave to paris","scenario":"transport","labels":0}
+{"text":"how is traffic in city","scenario":"transport","labels":3}
+{"text":"find me train tickets","scenario":"transport","labels":2}
+{"text":"book my chair class ac train ticket from manhattan to new york","scenario":"transport","labels":2}
+{"text":"what the traffic condition outside my office","scenario":"transport","labels":3}
+{"text":"show me train tickets","scenario":"transport","labels":2}
+{"text":"can you book a train ticket for me under dollars","scenario":"transport","labels":2}
+{"text":"coach and fare","scenario":"transport","labels":2}
+{"text":"set up a taxi for eleven am tomorrow","scenario":"transport","labels":1}
+{"text":"source and destination","scenario":"transport","labels":2}
+{"text":"what is the current traffic situation","scenario":"transport","labels":3}
+{"text":"how heavy is traffic now in denver","scenario":"transport","labels":3}
+{"text":"check all cab companies and get a time booked for three pm","scenario":"transport","labels":1}
+{"text":"i want the cheapest train ticket to new york","scenario":"transport","labels":2}
+{"text":"what is the train schedule to denver","scenario":"transport","labels":0}
+{"text":"from where can i get a train ticket for athens","scenario":"transport","labels":0}
+{"text":"call the phone number","scenario":"transport","labels":1}
+{"text":"book uber taxi for my travel","scenario":"transport","labels":1}
+{"text":"i need to go to lyon book a train ticket","scenario":"transport","labels":2}
+{"text":"what are the train times to chicago","scenario":"transport","labels":0}
+{"text":"get me a taxi","scenario":"transport","labels":1}
+{"text":"transportation ticket booking train","scenario":"transport","labels":2}
+{"text":"buy a train ticket to cleveland for april fourteenth","scenario":"transport","labels":2}
+{"text":"how much is a round trip train ticket to go to new york","scenario":"transport","labels":0}
+{"text":"need a taxi for my travel","scenario":"transport","labels":1}
+{"text":"book a taxi at my home address for right now","scenario":"transport","labels":1}
+{"text":"when is the next train to center city philadelphia","scenario":"transport","labels":0}
+{"text":"which route has less traffic today","scenario":"transport","labels":3}
+{"text":"directions to virginia beach va","scenario":"transport","labels":0}
+{"text":"book a taxi for tomorrow morning","scenario":"transport","labels":1}
+{"text":"length of traffic","scenario":"transport","labels":3}
+{"text":"direction to local train station","scenario":"transport","labels":0}
+{"text":"what is the traffic like today","scenario":"transport","labels":3}
+{"text":"book a taxi to go to the movies at one","scenario":"transport","labels":1}
+{"text":"train times place","scenario":"transport","labels":0}
+{"text":"i need a train ticket to cambridge from here","scenario":"transport","labels":2}
+{"text":"please book train ticket from mumbai to sangli for tomorrow morning","scenario":"transport","labels":2}
+{"text":"book a train ticket to arrive in cambridge by eight thirty pm today","scenario":"transport","labels":2}
+{"text":"how is the current traffic between","scenario":"transport","labels":3}
+{"text":"send an uber to me right now","scenario":"transport","labels":1}
+{"text":"can i get a train ticket to chicago for next saturday around noon","scenario":"transport","labels":0}
+{"text":"can you please book a train ticket for next saturday to boston","scenario":"transport","labels":2}
+{"text":"tell me my options for a train to los angles next wednesday or thursday","scenario":"transport","labels":0}
+{"text":"book a taxi","scenario":"transport","labels":1}
+{"text":"please book a ticket of rajdhani express train from jaipur","scenario":"transport","labels":2}
+{"text":"how long will it take to get to the airport","scenario":"transport","labels":0}
+{"text":"show me map of this location","scenario":"transport","labels":0}
+{"text":"i'd like a listing of all train ticket prices for this location please","scenario":"transport","labels":0}
+{"text":"book a taxi uber","scenario":"transport","labels":1}
+{"text":"find ny train time","scenario":"transport","labels":0}
+{"text":"what amount of traffic in this road","scenario":"transport","labels":3}
+{"text":"at four pm how long will be the remaining travel time to the destination","scenario":"transport","labels":0}
+{"text":"can you tell me the times the train leaves for chicago","scenario":"transport","labels":0}
+{"text":"i need a ticket on the train to new york city tomorrow","scenario":"transport","labels":2}
+{"text":"what is the commute time to the theater","scenario":"transport","labels":0}
+{"text":"are there any trips to location a provided by the train","scenario":"transport","labels":0}
+{"text":"what are the traffic conditions on the one hundred and one","scenario":"transport","labels":3}
+{"text":"i need to book a train ticket from mumbai to goa","scenario":"transport","labels":2}
+{"text":"are there any roadblocks","scenario":"transport","labels":3}
+{"text":"book a taxi to start from here","scenario":"transport","labels":1}
+{"text":"i need a train ticket to","scenario":"transport","labels":2}
+{"text":"tell me if i should use the train or bus to get across town today","scenario":"transport","labels":0}
+{"text":"help me book a train ticket","scenario":"transport","labels":2}
+{"text":"what is time of indianapolis express","scenario":"transport","labels":0}
+{"text":"how is my commute","scenario":"transport","labels":3}
+{"text":"i want to book a train ticket","scenario":"transport","labels":2}
+{"text":"when is the next train to london","scenario":"transport","labels":0}
+{"text":"show me route to my phone location on yesterday twelve pm","scenario":"transport","labels":0}
+{"text":"book me a train ticket at earliest time tomorrow","scenario":"transport","labels":2}
+{"text":"train departure","scenario":"transport","labels":0}
+{"text":"buy me a ticket to boston","scenario":"transport","labels":2}
+{"text":"how's the traffic downtown","scenario":"transport","labels":3}
+{"text":"show all train and time to ny","scenario":"transport","labels":0}
+{"text":"how is the traffic now","scenario":"transport","labels":3}
+{"text":"when is the arrival of the train at waverley station","scenario":"transport","labels":0}
+{"text":"call a taxi to pick me up at work","scenario":"transport","labels":1}
+{"text":"train ticket please","scenario":"transport","labels":2}
+{"text":"what is the timing of bagmati express","scenario":"transport","labels":0}
+{"text":"how far is walmart from here","scenario":"transport","labels":0}
+{"text":"show me the shortest route towards nearest train station","scenario":"transport","labels":0}
+{"text":"what does the traffic look like headed to la","scenario":"transport","labels":3}
+{"text":"how long will it take me to drive to work today","scenario":"transport","labels":3}
+{"text":"directions","scenario":"transport","labels":0}
+{"text":"how long is it from dalls to san antonio by train","scenario":"transport","labels":0}
+{"text":"show me where i can find a train","scenario":"transport","labels":0}
+{"text":"rccg ikoyi lagos distance by train will take how long and which direction","scenario":"transport","labels":0}
+{"text":"directions to place","scenario":"transport","labels":0}
+{"text":"how long untill i get home","scenario":"transport","labels":3}
+{"text":"how to go the nearest mall as soon as possible","scenario":"transport","labels":0}
+{"text":"i would like to know the route the train will go to get to miami","scenario":"transport","labels":0}
+{"text":"i need a taxi to go home","scenario":"transport","labels":1}
+{"text":"please give me the traffic report for this afternoon","scenario":"transport","labels":3}
+{"text":"book train to london","scenario":"transport","labels":2}
+{"text":"traffic please","scenario":"transport","labels":3}
+{"text":"how do i get home from here","scenario":"transport","labels":0}
+{"text":"i am in need of a taxi right now","scenario":"transport","labels":1}
+{"text":"what times does the train run on sundays in beaumont tx","scenario":"transport","labels":0}
+{"text":"where is the closest train depot","scenario":"transport","labels":0}
+{"text":"please order one train ticket to los angeles","scenario":"transport","labels":2}
+{"text":"when is the last train from phoenix","scenario":"transport","labels":0}
+{"text":"what time does the train leave philadelphia","scenario":"transport","labels":0}
+{"text":"get city cab here to airport","scenario":"transport","labels":1}
+{"text":"book me a ticket to paris on eurostar this weekend","scenario":"transport","labels":2}
+{"text":"how heavy is traffic on interstate twenty","scenario":"transport","labels":3}
+{"text":"i need directions to meijer gardens","scenario":"transport","labels":0}
+{"text":"find me a cheap train ticket for miamy","scenario":"transport","labels":2}
+{"text":"are there any traffic restrictions due to the president's visit","scenario":"transport","labels":3}
+{"text":"what time does virgin train arrive at manchester","scenario":"transport","labels":0}
+{"text":"call a taxi company","scenario":"transport","labels":1}
+{"text":"how is the traffic in mg road","scenario":"transport","labels":3}
+{"text":"give me current information about traffic at central park road","scenario":"transport","labels":3}
+{"text":"please purchase a train ticket for this weekend","scenario":"transport","labels":2}
