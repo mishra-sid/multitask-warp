@@ -70,6 +70,9 @@ class ArpClassifier(Model):
             logger.warning("Treating as a regression task!")
             num_labels = 1
 
+        print("Num LABELS##################: ", num_labels)
+        print(self._label_namespace)
+
         self._num_labels = num_labels
 
         self._loss: Union[torch.nn.CrossEntropyLoss, torch.nn.MSELoss]
