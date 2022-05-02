@@ -55,7 +55,7 @@ local H = hparams;
     "pytorch_seed": (H.seed) % 65536,
 
     "dataset_reader": {
-        "type": "huggingface",
+        "type": "nlu",
         "path": 'data/nlu_evaluation_data/' + H.path,
         "name": if H.cross_validation then (H.dataset + '_cross_validation_' + H.seed) else H.dataset,
         "ensure_whitespace_between": H.ensure_whitespace_between,
