@@ -1,897 +1,897 @@
-{"text":"set a remainder at three pm to pick jo","scenario":"calendar","labels":2}
-{"text":"delete meeting scheduled with john on twenty one march","scenario":"calendar","labels":1}
-{"text":"i'm going to the oar concert in paris on march twenty four","scenario":"calendar","labels":2}
-{"text":"set a notification for sports game","scenario":"calendar","labels":2}
-{"text":"repeat daily","scenario":"calendar","labels":2}
-{"text":"i would like it to make doctor appointments etc for me","scenario":"calendar","labels":2}
-{"text":"please set reminder","scenario":"calendar","labels":2}
-{"text":"is there a parade on friday","scenario":"calendar","labels":0}
-{"text":"please remind me of all the nba scores in a week","scenario":"calendar","labels":2}
-{"text":"what reminders do i have","scenario":"calendar","labels":0}
-{"text":"please delete all meetings of today after seven pm","scenario":"calendar","labels":1}
-{"text":"remind me that i have a meeting at three pm tomorrow","scenario":"calendar","labels":2}
-{"text":"do i have anything going on saturday at five pm","scenario":"calendar","labels":0}
-{"text":"what is my schedule like today","scenario":"calendar","labels":0}
-{"text":"i'd like to know more about the scheduled event","scenario":"calendar","labels":0}
-{"text":"for every odd numbered sunday set a reminder for","scenario":"calendar","labels":2}
-{"text":"remove my dinner event for monday","scenario":"calendar","labels":1}
-{"text":"add an event labeled dan's graduation party may fifth in goshen","scenario":"calendar","labels":2}
-{"text":"erase events","scenario":"calendar","labels":1}
-{"text":"check when the show starts","scenario":"calendar","labels":0}
-{"text":"do i have any events today","scenario":"calendar","labels":0}
-{"text":"add mike and jack to festival calendar","scenario":"calendar","labels":2}
-{"text":"where are the boston redso game playing next","scenario":"calendar","labels":0}
-{"text":"tell me when the hockey game tickets are for","scenario":"calendar","labels":0}
-{"text":"when is my lunch break","scenario":"calendar","labels":0}
-{"text":"john's birthday is march fifth please note this","scenario":"calendar","labels":2}
-{"text":"add john's birthday on twenty five march","scenario":"calendar","labels":2}
-{"text":"set first week of june as holiday in my calendar","scenario":"calendar","labels":2}
-{"text":"did i set reminder for tomorrow meeting at five pm","scenario":"calendar","labels":0}
-{"text":"please tell me the main points of my two hundred meeting from this afternoon","scenario":"calendar","labels":0}
-{"text":"what is up in my schedule today","scenario":"calendar","labels":0}
-{"text":"remind me to go to bed before one am everyday","scenario":"calendar","labels":2}
-{"text":"set my cooking classes on tuesdays at five pm","scenario":"calendar","labels":2}
-{"text":"set an event on second march at twelve pm noon in your calendar for jim's birthday","scenario":"calendar","labels":2}
-{"text":"remind me about the meeting tomorrow at six","scenario":"calendar","labels":2}
-{"text":"please clear my calendar of all events","scenario":"calendar","labels":1}
-{"text":"remind me to take the casserole out of the oven at seven hundred and forty five pm","scenario":"calendar","labels":2}
-{"text":"can you set the location to my sisters house for this event","scenario":"calendar","labels":2}
-{"text":"tell me the meetings i have for the week","scenario":"calendar","labels":0}
-{"text":"i need to let my small group know the location has changed","scenario":"calendar","labels":2}
-{"text":"please put me your input to know my schedule","scenario":"calendar","labels":2}
-{"text":"add conference call at four pm to my reminders for today","scenario":"calendar","labels":2}
-{"text":"cancel all appointments in my calendar","scenario":"calendar","labels":1}
-{"text":"please remind me one hour before the meeting i have tomorrow morning","scenario":"calendar","labels":2}
-{"text":"where is my meeting","scenario":"calendar","labels":0}
-{"text":"delete next calendar event","scenario":"calendar","labels":1}
-{"text":"add appointment with dentist tomorrow","scenario":"calendar","labels":2}
-{"text":"add event in calendar and mention others","scenario":"calendar","labels":2}
-{"text":"plan a meeting tomorrow morning","scenario":"calendar","labels":2}
-{"text":"what reminders do i have scheduled before noon tomorrow","scenario":"calendar","labels":0}
-{"text":"can you erase the haircut i have scheduled for friday","scenario":"calendar","labels":1}
-{"text":"make an alert for my birthday","scenario":"calendar","labels":2}
-{"text":"remind me at work to take a meeting with dave on friday","scenario":"calendar","labels":2}
-{"text":"add my sister on calendar for pedicures on friday","scenario":"calendar","labels":2}
-{"text":"set a notification about my meeting next tuesday","scenario":"calendar","labels":2}
-{"text":"remove anniversary event from my calendar","scenario":"calendar","labels":1}
-{"text":"mark april twenty as my brother's birthday","scenario":"calendar","labels":2}
-{"text":"good","scenario":"calendar","labels":0}
-{"text":"what can you tell me about this saturday","scenario":"calendar","labels":0}
-{"text":"i need a reminder for friday's meeting","scenario":"calendar","labels":2}
-{"text":"what events are in my calendar for today","scenario":"calendar","labels":0}
-{"text":"what can you tell me about the dance on friday","scenario":"calendar","labels":0}
-{"text":"add a lunch date to my calendar for march fifteenth from twelve noon to one pm","scenario":"calendar","labels":2}
-{"text":"i want to make a note on my calendar for the event tomorrow at the library","scenario":"calendar","labels":2}
-{"text":"reschedule meeting","scenario":"calendar","labels":2}
-{"text":"please put my birthday party on the calendar","scenario":"calendar","labels":2}
-{"text":"remove all the events on my calendar","scenario":"calendar","labels":1}
-{"text":"set a meeting with bill","scenario":"calendar","labels":2}
-{"text":"weekend appointments","scenario":"calendar","labels":0}
-{"text":"i have a doctor's appointment at two pm today","scenario":"calendar","labels":0}
-{"text":"i'd like monday to remain open","scenario":"calendar","labels":1}
-{"text":"what do i have planned for friday","scenario":"calendar","labels":0}
-{"text":"remind me about tomorrows lunch meeting at one","scenario":"calendar","labels":2}
-{"text":"could you remind me to take my car from garage because i may go for a long drive today","scenario":"calendar","labels":2}
-{"text":"send me a notification an hour before my next calendar events","scenario":"calendar","labels":2}
-{"text":"what are the reminder i had set for tomorrow","scenario":"calendar","labels":0}
-{"text":"next week my uncle birthday","scenario":"calendar","labels":2}
-{"text":"who i am meeting with on Wednesday at four pm","scenario":"calendar","labels":0}
-{"text":"when is the wedding scheduled","scenario":"calendar","labels":0}
-{"text":"delete all events for tomorrow","scenario":"calendar","labels":1}
-{"text":"make sure to remind me to pay my bills tomorrow morning","scenario":"calendar","labels":2}
-{"text":"clear event from calendar and refresh","scenario":"calendar","labels":1}
-{"text":"please delete all calendar events","scenario":"calendar","labels":1}
-{"text":"show me future events","scenario":"calendar","labels":0}
-{"text":"any events in my calendar today","scenario":"calendar","labels":0}
-{"text":"go to calendar and schedule event","scenario":"calendar","labels":2}
-{"text":"add valia's wedding the next saturday at eight o clock","scenario":"calendar","labels":2}
-{"text":"is there a birthday party today","scenario":"calendar","labels":0}
-{"text":"lets get something on the calendar for tuesday","scenario":"calendar","labels":2}
-{"text":"add a meeting with my mother for next sunday","scenario":"calendar","labels":2}
-{"text":"delete the birthday party tomorrow at two pm","scenario":"calendar","labels":1}
-{"text":"on october first at two pm lunch with ann","scenario":"calendar","labels":2}
-{"text":"set a reminder for my meeting today","scenario":"calendar","labels":2}
-{"text":"what events are upcoming today","scenario":"calendar","labels":0}
-{"text":"meeting at eight am to twelve pm","scenario":"calendar","labels":2}
-{"text":"send me a reminder to pick up my dog from the groomer at one pm","scenario":"calendar","labels":2}
-{"text":"add jim and jerry to event","scenario":"calendar","labels":2}
-{"text":"today is john's birthday","scenario":"calendar","labels":0}
-{"text":"tell me about my schedule for the next month","scenario":"calendar","labels":0}
-{"text":"what schedule event do i have for this month","scenario":"calendar","labels":0}
-{"text":"what time does the zach brown concert on june third begin","scenario":"calendar","labels":0}
-{"text":"send me notice of meeting wednesday nine am","scenario":"calendar","labels":2}
-{"text":"list my today's meeting","scenario":"calendar","labels":0}
-{"text":"don't let me forget i have a parent teacher conference this monday at four hundred pm","scenario":"calendar","labels":2}
-{"text":"what are the pending reminders","scenario":"calendar","labels":0}
-{"text":"what are my meetings for this week","scenario":"calendar","labels":0}
-{"text":"schedule a two hour empty time block on saturday","scenario":"calendar","labels":2}
-{"text":"do i have an appointment next wednesday","scenario":"calendar","labels":0}
-{"text":"show me the calendar","scenario":"calendar","labels":0}
-{"text":"between may one and december thirty one what meetings occurred","scenario":"calendar","labels":0}
-{"text":"notify me about the meetings over a period of some days","scenario":"calendar","labels":0}
-{"text":"cancel tomorrow's meeting with chuck","scenario":"calendar","labels":1}
-{"text":"tell me about umf","scenario":"calendar","labels":0}
-{"text":"erase the meeting tomorrow at ten am","scenario":"calendar","labels":1}
-{"text":"please remove the doctor appointment in my calendar for february twelfth at nine am","scenario":"calendar","labels":1}
-{"text":"do i have any off days this week","scenario":"calendar","labels":0}
-{"text":"can you schedule me for a hair cut on april first in saskatoon","scenario":"calendar","labels":2}
-{"text":"remind me tomorrow at ten am about the meeting","scenario":"calendar","labels":2}
-{"text":"have john join me on the tenth at the fifth floor meeting","scenario":"calendar","labels":2}
-{"text":"events happening between eight am and five pm today","scenario":"calendar","labels":0}
-{"text":"tell me about the meeting i have this week","scenario":"calendar","labels":0}
-{"text":"i need a repeating reminder for every monday at three hundred and thirty pm","scenario":"calendar","labels":2}
-{"text":"what time is the concert starting","scenario":"calendar","labels":0}
-{"text":"let me know about my meetings after some days","scenario":"calendar","labels":0}
-{"text":"please list reminders coming up soon","scenario":"calendar","labels":0}
-{"text":"hey make sure i go to sarahs birthday party on the twelveth","scenario":"calendar","labels":2}
-{"text":"can you tell me when my appointment is supposed to occur","scenario":"calendar","labels":0}
-{"text":"delete any and all events","scenario":"calendar","labels":1}
-{"text":"confirm that my notification is set to remind me when i leave","scenario":"calendar","labels":0}
-{"text":"when is my meeting with human resources","scenario":"calendar","labels":0}
-{"text":"am i booked for something","scenario":"calendar","labels":0}
-{"text":"do i have any appointments scheduled for march twenty four two thousand and seventeen","scenario":"calendar","labels":0}
-{"text":"set a repeating calendar event","scenario":"calendar","labels":2}
-{"text":"let me know on tuesday if i have messages","scenario":"calendar","labels":2}
-{"text":"hello google take me to google calendar please","scenario":"calendar","labels":2}
-{"text":"how many meetings do i have today from nine to five pm","scenario":"calendar","labels":0}
-{"text":"cancel the tomorrow's meeting from my calendar","scenario":"calendar","labels":1}
-{"text":"where is the venue in which the marriage of tom is going to take place","scenario":"calendar","labels":0}
-{"text":"clear everything off my calendar for the rest of the year","scenario":"calendar","labels":1}
-{"text":"make sure there is no events on my calendar","scenario":"calendar","labels":1}
-{"text":"what do i have on the schedule today from twelve pm to two pm","scenario":"calendar","labels":0}
-{"text":"add a note to attend","scenario":"calendar","labels":2}
-{"text":"hi olly please cancel all the programs for friday","scenario":"calendar","labels":1}
-{"text":"remind me to start getting ready by five pm please","scenario":"calendar","labels":2}
-{"text":"set a reminder for the twenty third","scenario":"calendar","labels":2}
-{"text":"meeting update my calendar to reflect meeting","scenario":"calendar","labels":2}
-{"text":"do i have any appointments set for tomorrow","scenario":"calendar","labels":0}
-{"text":"delete event for tuesday","scenario":"calendar","labels":1}
-{"text":"do i have anywhere to be between eight am and five pm today","scenario":"calendar","labels":0}
-{"text":"please set an event at ten am one month and two days from now to have a garage sale at my house","scenario":"calendar","labels":2}
-{"text":"is susan's birthday on march one","scenario":"calendar","labels":0}
-{"text":"please check my appointments","scenario":"calendar","labels":0}
-{"text":"save this event","scenario":"calendar","labels":2}
-{"text":"i want this event to be reminded throughout this month","scenario":"calendar","labels":2}
-{"text":"set a monthly event","scenario":"calendar","labels":2}
-{"text":"more information on this event","scenario":"calendar","labels":0}
-{"text":"plan for tomorrow","scenario":"calendar","labels":0}
-{"text":"please remind me to go to the post office","scenario":"calendar","labels":2}
-{"text":"note my event with person on date at place","scenario":"calendar","labels":2}
-{"text":"will you remind me to go to hockey class every sunday afternoon","scenario":"calendar","labels":2}
-{"text":"do i have any meetings scheduled the weekend after next","scenario":"calendar","labels":0}
-{"text":"set notification before this event","scenario":"calendar","labels":2}
-{"text":"add dinner with my sister on march eighteenth","scenario":"calendar","labels":2}
-{"text":"remind me thirty minutes before my meeting at three pm tomorrow","scenario":"calendar","labels":2}
-{"text":"what meetings are available in march","scenario":"calendar","labels":0}
-{"text":"can you remind me to go to the corner store on tuesday","scenario":"calendar","labels":2}
-{"text":"remind me of my meeting","scenario":"calendar","labels":2}
-{"text":"all meetings between tenth and thirteenth may","scenario":"calendar","labels":0}
-{"text":"was my afternoon meeting cancelled","scenario":"calendar","labels":0}
-{"text":"can you please set twelve noon prayer for every friday","scenario":"calendar","labels":2}
-{"text":"repeat my reminders from yesterday","scenario":"calendar","labels":0}
-{"text":"i have a flight to take on the fifteenth","scenario":"calendar","labels":2}
-{"text":"cancel medical engagements this weekend","scenario":"calendar","labels":1}
-{"text":"are there any meetings set for next wednesday","scenario":"calendar","labels":0}
-{"text":"remind me to move so there is no weight gain","scenario":"calendar","labels":2}
-{"text":"meeting the next day","scenario":"calendar","labels":2}
-{"text":"put me in on tuesday the twenty first at ten with al","scenario":"calendar","labels":2}
-{"text":"what is going on today from two four pm","scenario":"calendar","labels":0}
-{"text":"i need to set up a meeting with debra for thursday at three pm","scenario":"calendar","labels":2}
-{"text":"what's coming up this week","scenario":"calendar","labels":0}
-{"text":"how does my day look like tomorrow","scenario":"calendar","labels":0}
-{"text":"clear calendar events all","scenario":"calendar","labels":1}
-{"text":"change my plan erase my next event","scenario":"calendar","labels":1}
-{"text":"set up a reoccurring grocery store trip for every sunday","scenario":"calendar","labels":2}
-{"text":"am i free on sunday day","scenario":"calendar","labels":0}
-{"text":"don't let me forget to call alex","scenario":"calendar","labels":2}
-{"text":"cancel upcoming event","scenario":"calendar","labels":1}
-{"text":"i want to see each of my pending reminders","scenario":"calendar","labels":0}
-{"text":"mark reminder with these people","scenario":"calendar","labels":2}
-{"text":"cancel next meeting","scenario":"calendar","labels":1}
-{"text":"i want my to tell me when a new anime season will come out","scenario":"calendar","labels":2}
-{"text":"what's for today","scenario":"calendar","labels":0}
-{"text":"clear all items on my calendar for april","scenario":"calendar","labels":1}
-{"text":"please erase the next birthday event","scenario":"calendar","labels":1}
-{"text":"what time is the work meeting","scenario":"calendar","labels":0}
-{"text":"show me the list of missed events","scenario":"calendar","labels":0}
-{"text":"is it thursday tomorrow","scenario":"calendar","labels":0}
-{"text":"delete the next event today","scenario":"calendar","labels":1}
-{"text":"what do i need to remember","scenario":"calendar","labels":0}
-{"text":"can you remind me to something in sometime","scenario":"calendar","labels":2}
-{"text":"clear my schedule for this date","scenario":"calendar","labels":1}
-{"text":"what is happening after one and before three pm","scenario":"calendar","labels":0}
-{"text":"delete my next event","scenario":"calendar","labels":1}
-{"text":"when will the match start","scenario":"calendar","labels":0}
-{"text":"invite people to the calendar event","scenario":"calendar","labels":2}
-{"text":"i don't want to attend the dinner on march first any more so could you remove it from my agenda","scenario":"calendar","labels":1}
-{"text":"repeating event meeting on mondays","scenario":"calendar","labels":2}
-{"text":"can you give me the movie schedule","scenario":"calendar","labels":0}
-{"text":"is there anything i should be reminded about","scenario":"calendar","labels":0}
-{"text":"schedule a sales meeting for wednesday at eleven am","scenario":"calendar","labels":2}
-{"text":"remember me to meet reveca today at six pm","scenario":"calendar","labels":2}
-{"text":"set reminder for tomorrow for this item","scenario":"calendar","labels":2}
-{"text":"schedule an event in my calendar for the pool party at jack's place this saturday","scenario":"calendar","labels":2}
-{"text":"can you pull up the latest time so i won't be late for my appointment","scenario":"calendar","labels":0}
-{"text":"whatever the next event is in the calendar delete it","scenario":"calendar","labels":1}
-{"text":"do i have any undone tasks","scenario":"calendar","labels":0}
-{"text":"set a event that will happen everyday","scenario":"calendar","labels":2}
-{"text":"cancel next event","scenario":"calendar","labels":1}
-{"text":"set a reminder for my shopping trip tomorrow at five pm","scenario":"calendar","labels":2}
-{"text":"please set dinner plans at seven pm for every friday in april","scenario":"calendar","labels":2}
-{"text":"pleas set a reminder for a meeting i have on tuesday next week","scenario":"calendar","labels":2}
-{"text":"when is my anniversary","scenario":"calendar","labels":0}
-{"text":"let me know when the meeting is gonna happen","scenario":"calendar","labels":2}
-{"text":"put monday meeting on calendar every Monday","scenario":"calendar","labels":2}
-{"text":"clear everything from the calendar","scenario":"calendar","labels":1}
-{"text":"what time is the party tonight","scenario":"calendar","labels":0}
-{"text":"when do i have that test","scenario":"calendar","labels":0}
-{"text":"my calendar is to be updated with all rccg event in march","scenario":"calendar","labels":2}
-{"text":"could you please schedule a meeting with this person","scenario":"calendar","labels":2}
-{"text":"create an event in my calendar","scenario":"calendar","labels":2}
-{"text":"please clear my calendar for tomorrow","scenario":"calendar","labels":1}
-{"text":"what's my agenda for the remainder of the week","scenario":"calendar","labels":0}
-{"text":"will you remind me of my gym class on my calendar one hour before","scenario":"calendar","labels":2}
-{"text":"set reminder for three o'clock","scenario":"calendar","labels":2}
-{"text":"when is my next dentist appointment","scenario":"calendar","labels":0}
-{"text":"remind me about my anniversary in one day advance","scenario":"calendar","labels":2}
-{"text":"remove all from calendar","scenario":"calendar","labels":1}
-{"text":"cancel my meeting tomorrow","scenario":"calendar","labels":1}
-{"text":"tell me the date of inauguration of my friend sams business","scenario":"calendar","labels":0}
-{"text":"please remove the appointment on april first","scenario":"calendar","labels":1}
-{"text":"make me alert in the morning about tomorrows meeting","scenario":"calendar","labels":2}
-{"text":"in the calendar put that we are having dinner with frank at eight pm on the ninth of august","scenario":"calendar","labels":2}
-{"text":"can you list out my meetings today","scenario":"calendar","labels":0}
-{"text":"tell me the current meetings","scenario":"calendar","labels":0}
-{"text":"please cancel all my events for today","scenario":"calendar","labels":1}
-{"text":"avinash go with me on fifth april movie commando","scenario":"calendar","labels":2}
-{"text":"delete the christmas party at the church next wednesday","scenario":"calendar","labels":1}
-{"text":"in the choose how you would like to be notified section check the email box for each type of notification you'd like to receive","scenario":"calendar","labels":2}
-{"text":"don't want of next event in calendar so delete it","scenario":"calendar","labels":1}
-{"text":"is my meeting with bob tomorrow at three pm","scenario":"calendar","labels":0}
-{"text":"set up the meeting with justin and katrina","scenario":"calendar","labels":2}
-{"text":"six am","scenario":"calendar","labels":2}
-{"text":"i have to be in hawaii for this upcoming event can you add this","scenario":"calendar","labels":2}
-{"text":"schedule meeting on tuesday","scenario":"calendar","labels":2}
-{"text":"remove event from calendar","scenario":"calendar","labels":1}
-{"text":"choose calendar","scenario":"calendar","labels":1}
-{"text":"what is the date for the event scheduled on the twentieth of february","scenario":"calendar","labels":0}
-{"text":"remind me of this meeting soon","scenario":"calendar","labels":2}
-{"text":"i no longer need to see the doctor can that event be removed","scenario":"calendar","labels":1}
-{"text":"how much mehta willing to invest in my company in meeting which held today at five hundred and twenty pm","scenario":"calendar","labels":0}
-{"text":"calendar six o'clock departure tomorrow morning with mike and jo","scenario":"calendar","labels":2}
-{"text":"i want you to remove this event","scenario":"calendar","labels":1}
-{"text":"schedule a meeting this monday with peter francis in the afternoon","scenario":"calendar","labels":2}
-{"text":"remind me of my meeting on","scenario":"calendar","labels":2}
-{"text":"event reminder mona tuesday","scenario":"calendar","labels":2}
-{"text":"call bill to reschedule our meeting","scenario":"calendar","labels":0}
-{"text":"can you put sunday hockey class in my calendar as recurrent event","scenario":"calendar","labels":2}
-{"text":"create calendar info for albert's marriage","scenario":"calendar","labels":2}
-{"text":"create a new daily event","scenario":"calendar","labels":2}
-{"text":"do i have any get togethers this week","scenario":"calendar","labels":0}
-{"text":"what's on for the fourteenth afternoon that i could go with the two year old twins","scenario":"calendar","labels":0}
-{"text":"what time do i have a doctors appointment on the twenty second","scenario":"calendar","labels":0}
-{"text":"remind me to start supper this afternoon at five","scenario":"calendar","labels":2}
-{"text":"my calendar to be added with bola birthday of twelveth july","scenario":"calendar","labels":2}
-{"text":"where is my meeting at nine am","scenario":"calendar","labels":0}
-{"text":"please add superbowl to calendar","scenario":"calendar","labels":2}
-{"text":"please delete samantha's party","scenario":"calendar","labels":1}
-{"text":"are there any events happening next week","scenario":"calendar","labels":0}
-{"text":"remind me jack birthday is on fifteenth march","scenario":"calendar","labels":0}
-{"text":"i want a reminder for an editor's meeting at two pm thursday","scenario":"calendar","labels":2}
-{"text":"schedule a meeting with al on tuesday","scenario":"calendar","labels":2}
-{"text":"can you please disregard the party that i will be going to this weekend on my calendar","scenario":"calendar","labels":1}
-{"text":"schedule dinner with sara and jamie","scenario":"calendar","labels":2}
-{"text":"what events are going on next week","scenario":"calendar","labels":0}
-{"text":"following event","scenario":"calendar","labels":2}
-{"text":"i need to confirm all meetings for today can the invite person","scenario":"calendar","labels":0}
-{"text":"delete all my calendar events","scenario":"calendar","labels":1}
-{"text":"tell next day's event","scenario":"calendar","labels":0}
-{"text":"at what time is my appointment with dentist scheduled","scenario":"calendar","labels":0}
-{"text":"remove everything in the calendar","scenario":"calendar","labels":1}
-{"text":"cancel all the meeting today","scenario":"calendar","labels":1}
-{"text":"please arrange to remind about this job","scenario":"calendar","labels":2}
-{"text":"add event baseball practice five pm tonight","scenario":"calendar","labels":2}
-{"text":"go to calendar","scenario":"calendar","labels":2}
-{"text":"do i have any tasks today","scenario":"calendar","labels":0}
-{"text":"daily monthly or yearly event if necessary choose the interval between events","scenario":"calendar","labels":2}
-{"text":"set reminder for meeting","scenario":"calendar","labels":2}
-{"text":"remind me about the meeting tomorrow at two pm","scenario":"calendar","labels":2}
-{"text":"cancel event","scenario":"calendar","labels":1}
-{"text":"is there any pending reminder today","scenario":"calendar","labels":0}
-{"text":"create a calendar event with mike and jo at six o'clock tomorrow morning departing for muscat","scenario":"calendar","labels":2}
-{"text":"can you brief about the next scheduled events","scenario":"calendar","labels":0}
-{"text":"clear my calendar for tomorrow","scenario":"calendar","labels":1}
-{"text":"reschedule the party to thursday","scenario":"calendar","labels":1}
-{"text":"remind me of my meeting with ms boland on wednesday eight hundred am on tuesday seven pm","scenario":"calendar","labels":2}
-{"text":"next thursday i need to be reminded to call the bank","scenario":"calendar","labels":2}
-{"text":"calendar up when is my financial meeting on friday","scenario":"calendar","labels":0}
-{"text":"my schedule","scenario":"calendar","labels":0}
-{"text":"what are my meetings in the coming week","scenario":"calendar","labels":0}
-{"text":"add birthday to every year","scenario":"calendar","labels":2}
-{"text":"hayathis daughter baby shower","scenario":"calendar","labels":2}
-{"text":"what day is payday","scenario":"calendar","labels":0}
-{"text":"remind upcoming meeting with eminem","scenario":"calendar","labels":2}
-{"text":"march one is susan's birthday right","scenario":"calendar","labels":0}
-{"text":"set an appointment for allen on tomorrow","scenario":"calendar","labels":2}
-{"text":"can you remind me to take the garbage out on tuesday","scenario":"calendar","labels":2}
-{"text":"set alarm reminder for calendar","scenario":"calendar","labels":2}
-{"text":"alert me two hours before my meeting on tuesday with client happening at ten in the morning","scenario":"calendar","labels":2}
-{"text":"i need to get groceries tomorrow","scenario":"calendar","labels":2}
-{"text":"is the birthday event on fifteenth of this month true","scenario":"calendar","labels":0}
-{"text":"set a daily meeting for eight am","scenario":"calendar","labels":2}
-{"text":"can you make this event repetitive","scenario":"calendar","labels":2}
-{"text":"remind me to call mom every tuesday at ten am","scenario":"calendar","labels":2}
-{"text":"notify me when the event is going to take place","scenario":"calendar","labels":2}
-{"text":"keep looking for more detailed info on the annual tea party and inform me accordingly","scenario":"calendar","labels":0}
-{"text":"i need to set a reminder to go to a work meeting on friday at two hundred pm","scenario":"calendar","labels":2}
-{"text":"please give me an update on the election every thirty minutes","scenario":"calendar","labels":2}
-{"text":"can i remove a reminder","scenario":"calendar","labels":1}
-{"text":"set and event for the fifteenth of every month to remind me to pay my internet bill","scenario":"calendar","labels":2}
-{"text":"i am no longer going to wyatts birthday party","scenario":"calendar","labels":1}
-{"text":"remind me to go shopping every week","scenario":"calendar","labels":2}
-{"text":"what to i have on the schedule tomorrow morning","scenario":"calendar","labels":0}
-{"text":"remove events","scenario":"calendar","labels":1}
-{"text":"how busy am i this week","scenario":"calendar","labels":0}
-{"text":"who is invited to tomorrow's get together","scenario":"calendar","labels":0}
-{"text":"how many calories did i burn between three and five today","scenario":"calendar","labels":0}
-{"text":"notify me in fifteen before meeting starts","scenario":"calendar","labels":2}
-{"text":"what's was the upcoming event","scenario":"calendar","labels":0}
-{"text":"is there any upcoming events","scenario":"calendar","labels":0}
-{"text":"remind me to wash the windows","scenario":"calendar","labels":2}
-{"text":"remind me that i have a meeting with cassy for an ola event happening tomorrow","scenario":"calendar","labels":2}
-{"text":"put my doctors appointment on the calendar","scenario":"calendar","labels":2}
-{"text":"schedule my meeting with mr john hopkins tomorrow one pm in the afternoon after lunch","scenario":"calendar","labels":2}
-{"text":"cancel dentist appointment for this week","scenario":"calendar","labels":1}
-{"text":"set meeting with joanna on Saturday four pm","scenario":"calendar","labels":2}
-{"text":"please add a birthday party on saturday evening","scenario":"calendar","labels":2}
-{"text":"what is month in my calendar","scenario":"calendar","labels":0}
-{"text":"remove john's birthday from the calendar","scenario":"calendar","labels":1}
-{"text":"hey olly on the twentieth clear my calendar","scenario":"calendar","labels":1}
-{"text":"give me the schedule for today's events","scenario":"calendar","labels":0}
-{"text":"do i have any events set","scenario":"calendar","labels":0}
-{"text":"create a new event every friday at noon","scenario":"calendar","labels":2}
-{"text":"when is my next meeting with joe","scenario":"calendar","labels":2}
-{"text":"set up a meeting with my tanya for every thursday at ten am","scenario":"calendar","labels":2}
-{"text":"set my calendar to remind me to buy groceries every friday","scenario":"calendar","labels":2}
-{"text":"could you check the reminders and tell me what are pending","scenario":"calendar","labels":0}
-{"text":"remove all my meetings for the rest of the week","scenario":"calendar","labels":1}
-{"text":"clean my entire calendar","scenario":"calendar","labels":1}
-{"text":"what reminders do i have set","scenario":"calendar","labels":0}
-{"text":"remove the event off the calendar","scenario":"calendar","labels":1}
-{"text":"remind me at two pm tuesday for the three pm meeting with the boss","scenario":"calendar","labels":2}
-{"text":"set a reminder for an hour from now about the chickens","scenario":"calendar","labels":2}
-{"text":"remove my car payment on the fifteenth from my calendar","scenario":"calendar","labels":1}
-{"text":"is there any party on my calendar for this weekend","scenario":"calendar","labels":0}
-{"text":"is there any reminder which is most urgent","scenario":"calendar","labels":0}
-{"text":"please give me a two hour warning before next saturdays meeting","scenario":"calendar","labels":2}
-{"text":"remind me daily at eleven am for meeting with boss","scenario":"calendar","labels":2}
-{"text":"remind me tomorrow at ten am to wish my friend","scenario":"calendar","labels":2}
-{"text":"i will need a reminder of the three pm teachers meeting on thursday","scenario":"calendar","labels":2}
-{"text":"remind me about the upcoming national holiday","scenario":"calendar","labels":2}
-{"text":"i want all my events deleted","scenario":"calendar","labels":1}
-{"text":"do i have a dr appointment on the sixth","scenario":"calendar","labels":0}
-{"text":"i want my to find free movies online for me","scenario":"calendar","labels":2}
-{"text":"please remove march nineteenth's scheduled event","scenario":"calendar","labels":1}
-{"text":"please alert me on friday at eight hundred am to go to the gym","scenario":"calendar","labels":2}
-{"text":"remove everything from the calendar","scenario":"calendar","labels":1}
-{"text":"remind me to make a pizza tomorrow morning","scenario":"calendar","labels":2}
-{"text":"set a reminder for the meeting friday at three pm","scenario":"calendar","labels":2}
-{"text":"remind me to meet james at work tomorrow at nine am","scenario":"calendar","labels":2}
-{"text":"information of recent events","scenario":"calendar","labels":0}
-{"text":"please remove this event from my calendar","scenario":"calendar","labels":1}
-{"text":"set a reminder every day at noon to take medication","scenario":"calendar","labels":2}
-{"text":"do i have a busy day today","scenario":"calendar","labels":0}
-{"text":"remove next meeting today in my calendar","scenario":"calendar","labels":1}
-{"text":"please remove my next event","scenario":"calendar","labels":1}
-{"text":"what are my next three events","scenario":"calendar","labels":0}
-{"text":"can you delete the dentist appointment","scenario":"calendar","labels":1}
-{"text":"could you repeat this event","scenario":"calendar","labels":2}
-{"text":"is my schedule full for tomorrow from eight am to two pm","scenario":"calendar","labels":0}
-{"text":"event calendar monas wedding tuesday","scenario":"calendar","labels":2}
-{"text":"do i have a lunch on friday","scenario":"calendar","labels":0}
-{"text":"please remind me for the function at miami tomorrow","scenario":"calendar","labels":2}
-{"text":"please set up a meeting with jonh for monday","scenario":"calendar","labels":2}
-{"text":"create an empty calendar event for next saturday at ten am","scenario":"calendar","labels":2}
-{"text":"schedule a reminder on fifteenth march and input name as meeting","scenario":"calendar","labels":2}
-{"text":"remind me to pick up mark at the airport at six pm","scenario":"calendar","labels":2}
-{"text":"at what time does the next redso game start","scenario":"calendar","labels":0}
-{"text":"erase all content in my calendar","scenario":"calendar","labels":1}
-{"text":"do i have any remainders for today","scenario":"calendar","labels":0}
-{"text":"what purpose the event been scheduled for","scenario":"calendar","labels":0}
-{"text":"meeting reminder","scenario":"calendar","labels":2}
-{"text":"what is my schedule for the day","scenario":"calendar","labels":0}
-{"text":"please set a reminder for my five pm meeting today","scenario":"calendar","labels":2}
-{"text":"give me information about the concert on tuesday night","scenario":"calendar","labels":0}
-{"text":"please remind me about swatishs birthday","scenario":"calendar","labels":2}
-{"text":"what is the the meeting schedule","scenario":"calendar","labels":0}
-{"text":"is there any event today in my calendar","scenario":"calendar","labels":0}
-{"text":"i'd like to update my calendar","scenario":"calendar","labels":2}
-{"text":"remind to at eight pm to take my medicine","scenario":"calendar","labels":2}
-{"text":"do i have any meetings tomorrow at nine pm","scenario":"calendar","labels":0}
-{"text":"read me my calendar for the month","scenario":"calendar","labels":0}
-{"text":"cancel the breakfast at tiffany's","scenario":"calendar","labels":1}
-{"text":"please delete this event","scenario":"calendar","labels":1}
-{"text":"did i ask you to remind me of anything","scenario":"calendar","labels":0}
-{"text":"add a meeting with john donaldson to my calendar and","scenario":"calendar","labels":2}
-{"text":"setting repeating event in calendar","scenario":"calendar","labels":2}
-{"text":"make an event for a dentist appointment Thursday at nine am","scenario":"calendar","labels":2}
-{"text":"remind","scenario":"calendar","labels":2}
-{"text":"add this event to my calendar","scenario":"calendar","labels":2}
-{"text":"can you add my brother's birthday dinner at rusk for march twenty third","scenario":"calendar","labels":2}
-{"text":"do i have a soccer game this weekend","scenario":"calendar","labels":0}
-{"text":"set a lunch date for next tuesday at noon with sarah at black angus","scenario":"calendar","labels":2}
-{"text":"is tonight the full moon","scenario":"calendar","labels":0}
-{"text":"create an event for a john's birthday","scenario":"calendar","labels":2}
-{"text":"tell me when i have an event","scenario":"calendar","labels":2}
-{"text":"what are my notifications","scenario":"calendar","labels":0}
-{"text":"how soon is my anniversary","scenario":"calendar","labels":0}
-{"text":"i would need to be notified of church services on sundays at eleven am","scenario":"calendar","labels":2}
-{"text":"when is the party scheduled","scenario":"calendar","labels":0}
-{"text":"what time do i work tomorrow","scenario":"calendar","labels":0}
-{"text":"add a reminder to april fourth to go to the dentist","scenario":"calendar","labels":2}
-{"text":"may i ask you to add a new event to my calendar","scenario":"calendar","labels":2}
-{"text":"delete","scenario":"calendar","labels":1}
-{"text":"set a two weeks reminder for the twentieth of every quarter beginning twentieth of march to pay my hoa","scenario":"calendar","labels":2}
-{"text":"i need an event three days from now scheduled with amy","scenario":"calendar","labels":2}
-{"text":"set up a notification about tomorrow's meeting at ten","scenario":"calendar","labels":2}
-{"text":"does my calendar say i'm free on april one two thousand and seventeen","scenario":"calendar","labels":0}
-{"text":"remind me tonight to pick up my dry cleaning at eight pm","scenario":"calendar","labels":2}
-{"text":"make a meeting with tom around nine am on tuesday","scenario":"calendar","labels":2}
-{"text":"add sally's birthday to calendar for saturday at ten pm","scenario":"calendar","labels":2}
-{"text":"make a reminder at one pm every Monday until i remove it","scenario":"calendar","labels":2}
-{"text":"please tell me where the fair is going to be this year","scenario":"calendar","labels":0}
-{"text":"list all pending reminders","scenario":"calendar","labels":0}
-{"text":"hey olly make sure my calendar is completely clear tomorrow","scenario":"calendar","labels":1}
-{"text":"set meeting for january twenty five","scenario":"calendar","labels":2}
-{"text":"note to self saturday sixteenth of march eight hundred valia's wedding","scenario":"calendar","labels":2}
-{"text":"what's on my schedule next week","scenario":"calendar","labels":0}
-{"text":"will you remind me of my next dentist appointment one day before","scenario":"calendar","labels":2}
-{"text":"on my sisters birthday send her flowers","scenario":"calendar","labels":2}
-{"text":"remind me about my next meeting a few hours ahead of time","scenario":"calendar","labels":2}
-{"text":"remind me about tomorrows meeting","scenario":"calendar","labels":2}
-{"text":"what date is it","scenario":"calendar","labels":0}
-{"text":"please add dinner plans to my calendar for sunday","scenario":"calendar","labels":2}
-{"text":"did i have any plans later on tonight at eight pm","scenario":"calendar","labels":0}
-{"text":"crate event swimming day on thursday and set it to repeat","scenario":"calendar","labels":2}
-{"text":"do i have any thing going on at five","scenario":"calendar","labels":0}
-{"text":"is the birthday dinner on the calendar for friday","scenario":"calendar","labels":0}
-{"text":"what are my calendar event","scenario":"calendar","labels":0}
-{"text":"schedule event for every wednesday","scenario":"calendar","labels":2}
-{"text":"please schedule a meeting with brian billings in accounting","scenario":"calendar","labels":2}
-{"text":"remind me at this time","scenario":"calendar","labels":2}
-{"text":"let me know later","scenario":"calendar","labels":2}
-{"text":"i don't need that event anymore","scenario":"calendar","labels":1}
-{"text":"please remove the appointment which i have made with mrjim","scenario":"calendar","labels":1}
-{"text":"where is tuesday's morning meeting","scenario":"calendar","labels":0}
-{"text":"delete all my events in my calendar","scenario":"calendar","labels":1}
-{"text":"what time does the downtown parade start","scenario":"calendar","labels":0}
-{"text":"every other monday remind me to take out the recycling","scenario":"calendar","labels":2}
-{"text":"please find information about the zach brown concert on june third","scenario":"calendar","labels":0}
-{"text":"please set this event on repeat this date","scenario":"calendar","labels":2}
-{"text":"can you schedule a meeting with mr chen on next monday six hundred pm","scenario":"calendar","labels":2}
-{"text":"remind me about meeting next week","scenario":"calendar","labels":2}
-{"text":"could you tell me who's birthdays are there in february","scenario":"calendar","labels":0}
-{"text":"erase my calendar","scenario":"calendar","labels":1}
-{"text":"remind me to go to the gym every Monday and Tuesday","scenario":"calendar","labels":2}
-{"text":"don't let me forget i need a reminder for march twenty seventh at noon","scenario":"calendar","labels":2}
-{"text":"tell me calendar event for tomorrow","scenario":"calendar","labels":2}
-{"text":"what time am i supposed to pick up john again","scenario":"calendar","labels":0}
-{"text":"remind me to contact old friends that i have not talked with in six months before they pass","scenario":"calendar","labels":2}
-{"text":"notify me about all meetings tomorrow","scenario":"calendar","labels":2}
-{"text":"set an event happy birthday john to repeat on twenty one january two thousand and seventeen","scenario":"calendar","labels":2}
-{"text":"google do i have any appointments on my calendar for friday","scenario":"calendar","labels":0}
-{"text":"delete my dr k appointment in march","scenario":"calendar","labels":1}
-{"text":"make a note to pay the electricity bill and remind me on saturday at nine am","scenario":"calendar","labels":2}
-{"text":"tell me what is on my schedule for today","scenario":"calendar","labels":0}
-{"text":"do i have an event on this date","scenario":"calendar","labels":0}
-{"text":"remove the next event from calendar","scenario":"calendar","labels":1}
-{"text":"set meeting with the ceo tomorrow","scenario":"calendar","labels":2}
-{"text":"set reminder to go workout at the gym every friday at eight hundred am","scenario":"calendar","labels":2}
-{"text":"on twenty third march i have to go to meet my aunt","scenario":"calendar","labels":2}
-{"text":"when is christmas according to the calendar","scenario":"calendar","labels":0}
-{"text":"alert me at the time of the event","scenario":"calendar","labels":2}
-{"text":"is jessica's birthday on april twelfth","scenario":"calendar","labels":0}
-{"text":"remove all the events from calendar","scenario":"calendar","labels":1}
-{"text":"iterate events on the note","scenario":"calendar","labels":0}
-{"text":"what do i have to do on monday","scenario":"calendar","labels":0}
-{"text":"don't let me forget tomorrow's meeting with sheila","scenario":"calendar","labels":2}
-{"text":"three pm meeting tomorrow remind me four hours prior to that meeting","scenario":"calendar","labels":2}
-{"text":"please remind me about valia's wedding two days before","scenario":"calendar","labels":2}
-{"text":"did you place the reminder about the meeting for tomorrow","scenario":"calendar","labels":0}
-{"text":"remind me of the event in my calendar","scenario":"calendar","labels":2}
-{"text":"please create an event with only these people","scenario":"calendar","labels":2}
-{"text":"on monday the twentieth i need to have a conversation with greg about our weekend trip","scenario":"calendar","labels":2}
-{"text":"send me a reminder of my meeting with tom next friday","scenario":"calendar","labels":2}
-{"text":"what time is the meeting tomorrow","scenario":"calendar","labels":0}
-{"text":"on friday please put dentist appointment at three","scenario":"calendar","labels":2}
-{"text":"please check and tell me about the reminders i have placed today","scenario":"calendar","labels":0}
-{"text":"is it any ones birthday","scenario":"calendar","labels":0}
-{"text":"give the time of classical music concert today in the city","scenario":"calendar","labels":0}
-{"text":"schedule","scenario":"calendar","labels":0}
-{"text":"please delete my calendar events","scenario":"calendar","labels":1}
-{"text":"what reminders do i have currently","scenario":"calendar","labels":0}
-{"text":"delete my doctors appointment this week","scenario":"calendar","labels":1}
-{"text":"mark dad's retirement dinner for april fourth","scenario":"calendar","labels":2}
-{"text":"what are the upcoming events","scenario":"calendar","labels":0}
-{"text":"please tell me what is on the calendar for this weekend","scenario":"calendar","labels":0}
-{"text":"today needs to be marked as my cheat day","scenario":"calendar","labels":2}
-{"text":"set the event name to interview","scenario":"calendar","labels":2}
-{"text":"remind me to pay my bills at the start of every month","scenario":"calendar","labels":2}
-{"text":"remind me about the picnic at regent park","scenario":"calendar","labels":2}
-{"text":"remind me every tuesday to go to the dry cleaners","scenario":"calendar","labels":2}
-{"text":"remove father's day from calendar","scenario":"calendar","labels":1}
-{"text":"what is my schedule for tomorrow morning","scenario":"calendar","labels":0}
-{"text":"create an event gym day on monday and set it to repeat","scenario":"calendar","labels":2}
-{"text":"do i have a party tomorrow save on my calendar","scenario":"calendar","labels":0}
-{"text":"what events are on my calendar","scenario":"calendar","labels":0}
-{"text":"set a reminder about tomorrows meeting at nine am","scenario":"calendar","labels":2}
-{"text":"make my calendar empty","scenario":"calendar","labels":1}
-{"text":"is there anything on my calendar","scenario":"calendar","labels":0}
-{"text":"do i have a doctors appointment today","scenario":"calendar","labels":0}
-{"text":"is there anything i need to be aware of","scenario":"calendar","labels":0}
-{"text":"give me a reminder twenty four hours before my Friday meeting with edg","scenario":"calendar","labels":2}
-{"text":"do i have any reminders pending","scenario":"calendar","labels":0}
-{"text":"i need to add an event on may fifth two thousand and seventeen location goshen for danny's graduation party","scenario":"calendar","labels":2}
-{"text":"please add an event to my calendar","scenario":"calendar","labels":2}
-{"text":"remind me to do something then","scenario":"calendar","labels":2}
-{"text":"make new schedule for tomorrow meeting","scenario":"calendar","labels":2}
-{"text":"tell me when the event starts","scenario":"calendar","labels":2}
-{"text":"set a reminder on fifteenth march as meeting","scenario":"calendar","labels":2}
-{"text":"four pm","scenario":"calendar","labels":2}
-{"text":"jonathan wants to meet up sundays at eleven can you remind me saturday night every week","scenario":"calendar","labels":2}
-{"text":"clear calendar of mine","scenario":"calendar","labels":1}
-{"text":"can you delete this dinner party event","scenario":"calendar","labels":1}
-{"text":"what's the schedule for this date","scenario":"calendar","labels":0}
-{"text":"what are we doing next week","scenario":"calendar","labels":0}
-{"text":"tell me something to remind this week","scenario":"calendar","labels":2}
-{"text":"create event christmas on december twenty five two thousand and seventeen and set it to a repeating reminder","scenario":"calendar","labels":2}
-{"text":"set up notification for meeting","scenario":"calendar","labels":2}
-{"text":"remind upcoming event's","scenario":"calendar","labels":2}
-{"text":"when is peter's birthday","scenario":"calendar","labels":0}
-{"text":"hi olly please remove the birthday event on coming sunday","scenario":"calendar","labels":1}
-{"text":"remove all events from my calendar","scenario":"calendar","labels":1}
-{"text":"show todays reminders","scenario":"calendar","labels":0}
-{"text":"notify me when this happens","scenario":"calendar","labels":2}
-{"text":"set a birthday event for martin","scenario":"calendar","labels":2}
-{"text":"add lee's birthday to the calendar on twenty two june","scenario":"calendar","labels":2}
-{"text":"please relocate all dates to the trash","scenario":"calendar","labels":1}
-{"text":"place a recurring occurence in my calendar","scenario":"calendar","labels":2}
-{"text":"do i have a two pm appointment","scenario":"calendar","labels":0}
-{"text":"remind me to get milk tomorrow","scenario":"calendar","labels":2}
-{"text":"remove the doctor's appointment i added to my calendar for february twelfth at nine am","scenario":"calendar","labels":1}
-{"text":"what time is my reservation for this saturday","scenario":"calendar","labels":0}
-{"text":"what are the events next week","scenario":"calendar","labels":0}
-{"text":"are there team meetups on the schedule this month","scenario":"calendar","labels":0}
-{"text":"clear all events from my calendar for next week","scenario":"calendar","labels":1}
-{"text":"add to calendar rick's birthday party on feb twenty nine","scenario":"calendar","labels":2}
-{"text":"remove new year from calendar","scenario":"calendar","labels":1}
-{"text":"remind me about my schedule for the afternoon","scenario":"calendar","labels":2}
-{"text":"attend party before the meeting","scenario":"calendar","labels":2}
-{"text":"meeting with love the next day","scenario":"calendar","labels":2}
-{"text":"clear my schedule","scenario":"calendar","labels":1}
-{"text":"what's happening this weekend","scenario":"calendar","labels":0}
-{"text":"please show today meting with clients","scenario":"calendar","labels":0}
-{"text":"are there any reminders left","scenario":"calendar","labels":0}
-{"text":"new event lunch outback","scenario":"calendar","labels":2}
-{"text":"cancel sam's party","scenario":"calendar","labels":1}
-{"text":"nice","scenario":"calendar","labels":2}
-{"text":"reminder set","scenario":"calendar","labels":2}
-{"text":"remove all events from calendar","scenario":"calendar","labels":1}
-{"text":"what's on today's schedule","scenario":"calendar","labels":0}
-{"text":"can you read my meetings today","scenario":"calendar","labels":0}
-{"text":"give me the list of all events coming up in the next month and set notifications for all of them","scenario":"calendar","labels":2}
-{"text":"set a meeting with tom on tuesday at nine am","scenario":"calendar","labels":2}
-{"text":"i would ask it to play the beep sound continuously","scenario":"calendar","labels":2}
-{"text":"i have a meeting with justin and katrina for friday","scenario":"calendar","labels":2}
-{"text":"there are many important event in this month note down that","scenario":"calendar","labels":2}
-{"text":"is my birthday this month","scenario":"calendar","labels":0}
-{"text":"i want to add something to my calendar","scenario":"calendar","labels":2}
-{"text":"wipe my calendar clean","scenario":"calendar","labels":1}
-{"text":"i am having a meeting on tomorrow set it","scenario":"calendar","labels":2}
-{"text":"its jim's birthday on second march mark it in your calendar","scenario":"calendar","labels":2}
-{"text":"please organize a meeting with my co workers","scenario":"calendar","labels":2}
-{"text":"add lunch appointment with lisa to january second at twelve thirty pm","scenario":"calendar","labels":2}
-{"text":"what events are on this month's schedule","scenario":"calendar","labels":0}
-{"text":"what are my next schedules","scenario":"calendar","labels":0}
-{"text":"what are the events in my calendar this week","scenario":"calendar","labels":0}
-{"text":"send invites to mike and jane for the nine am saturday appointment","scenario":"calendar","labels":2}
-{"text":"name can you tell me when i","scenario":"calendar","labels":0}
-{"text":"please set a notification on twenty third october about meeting with my colleague","scenario":"calendar","labels":2}
-{"text":"show me events that are going on right now","scenario":"calendar","labels":0}
-{"text":"notify me when my rent due","scenario":"calendar","labels":2}
-{"text":"do i have an appointment for lunch tomorrow","scenario":"calendar","labels":0}
-{"text":"remind me about my meeting at two pm","scenario":"calendar","labels":2}
-{"text":"remind me daily about inauguration function","scenario":"calendar","labels":2}
-{"text":"are there any mma events coming to golden one center","scenario":"calendar","labels":0}
-{"text":"for the next month how many meeting days available do i have that are convenient for me","scenario":"calendar","labels":0}
-{"text":"is thirteen november marked as holiday","scenario":"calendar","labels":0}
-{"text":"what is on event calendar for today","scenario":"calendar","labels":0}
-{"text":"where the party will take start","scenario":"calendar","labels":0}
-{"text":"do i have any available time for a doctor's appointment on tuesday morning","scenario":"calendar","labels":2}
-{"text":"give me the details of next reminder","scenario":"calendar","labels":0}
-{"text":"tell me my schedule for later this afternoon","scenario":"calendar","labels":0}
-{"text":"set up a meeting with my son's teacher for friday","scenario":"calendar","labels":2}
-{"text":"add jane's birthday party at one hundred and twenty three main for two pm tomorrow on my calendar","scenario":"calendar","labels":2}
-{"text":"will there any events downtown this weekend","scenario":"calendar","labels":0}
-{"text":"add my doctor appointment for the fifteenth","scenario":"calendar","labels":2}
-{"text":"please add a four pm appointment for every tuesday","scenario":"calendar","labels":2}
-{"text":"i have a event clock remind me","scenario":"calendar","labels":2}
-{"text":"make a repeating reminder for my yoga practice every day at noon","scenario":"calendar","labels":2}
-{"text":"set new reminder to every day","scenario":"calendar","labels":2}
-{"text":"please remind me of my teachers meeting on thursday at three pm","scenario":"calendar","labels":2}
-{"text":"exhibition two thousand and seventeen mass on mar twenty five make a note of it on the corresponding date","scenario":"calendar","labels":2}
-{"text":"prompt me about tv programme at sixteen fifteen on Thursday at bbc four","scenario":"calendar","labels":2}
-{"text":"there's a good band playing tonight at nine at jazz bar i want to go","scenario":"calendar","labels":2}
-{"text":"remove twenty fourth march meeting from schedule","scenario":"calendar","labels":1}
-{"text":"create new meeting event at two pm","scenario":"calendar","labels":2}
-{"text":"please set event on seven pm","scenario":"calendar","labels":2}
-{"text":"what do i need to remind for this afternoon","scenario":"calendar","labels":0}
-{"text":"how much time do i have left until the pta meeting","scenario":"calendar","labels":0}
-{"text":"note this event to my calendar","scenario":"calendar","labels":2}
-{"text":"may i ask you to remove next event from my calendar","scenario":"calendar","labels":1}
-{"text":"can you tell me about today","scenario":"calendar","labels":0}
-{"text":"what is the plan today","scenario":"calendar","labels":0}
-{"text":"upcoming meeting","scenario":"calendar","labels":2}
-{"text":"make an event reminder for a meeting with mona on tuesday","scenario":"calendar","labels":2}
-{"text":"delete the monthly recurring team meeting till june","scenario":"calendar","labels":1}
-{"text":"delete my meeting for two o'clock pm today","scenario":"calendar","labels":1}
-{"text":"do i need to pick up the kids from anything today","scenario":"calendar","labels":0}
-{"text":"please remove the parent teacher conference scheduled on march seven","scenario":"calendar","labels":1}
-{"text":"make event","scenario":"calendar","labels":2}
-{"text":"what reminders do i have today","scenario":"calendar","labels":0}
-{"text":"erase my current events from calendar","scenario":"calendar","labels":1}
-{"text":"just let me know the important work interviews in the next two days","scenario":"calendar","labels":2}
-{"text":"do i have any reminders for today","scenario":"calendar","labels":0}
-{"text":"can you repeat this event","scenario":"calendar","labels":2}
-{"text":"when is the bill cycle","scenario":"calendar","labels":0}
-{"text":"do i have a sales meeting today","scenario":"calendar","labels":0}
-{"text":"report the concert lineup with start times","scenario":"calendar","labels":0}
-{"text":"delete all meetings for tomorrow","scenario":"calendar","labels":1}
-{"text":"i want you to schedule a meeting with bryce jessie and carol for tomorrow at nine am","scenario":"calendar","labels":2}
-{"text":"clear up my calendar","scenario":"calendar","labels":1}
-{"text":"please alert me","scenario":"calendar","labels":2}
-{"text":"remove calendar events","scenario":"calendar","labels":1}
-{"text":"hey place an event in my calendar to go to the dentist on friday april seventh at four hundred and fifty park avenue new york ny eleven thousand two hundred and thirty two","scenario":"calendar","labels":2}
-{"text":"set a reminder alert for saturday nine am towards payment of electricity bill","scenario":"calendar","labels":2}
-{"text":"when was the last meeting","scenario":"calendar","labels":0}
-{"text":"remind me to have the presentation ready by ten on Wednesday","scenario":"calendar","labels":2}
-{"text":"make sure i have nothing to do on friday","scenario":"calendar","labels":0}
-{"text":"take birthday party off of calendar for may","scenario":"calendar","labels":1}
-{"text":"enter a reminder in my calendar for three pm meeting tomorrow","scenario":"calendar","labels":2}
-{"text":"is the meeting scheduled for tomorrow","scenario":"calendar","labels":0}
-{"text":"what do i have to do today","scenario":"calendar","labels":1}
-{"text":"add a meeting to my calendar for nine am with tom","scenario":"calendar","labels":2}
-{"text":"how me all my pending reminders","scenario":"calendar","labels":0}
-{"text":"let me know the morning of my doctor appointment on the twelfth","scenario":"calendar","labels":2}
-{"text":"what is next on my calendar","scenario":"calendar","labels":0}
-{"text":"delete all recurring staff meetings","scenario":"calendar","labels":1}
-{"text":"is mary's birthday party tonight","scenario":"calendar","labels":0}
-{"text":"remind me about tomorrows meeting tonight","scenario":"calendar","labels":2}
-{"text":"drop my june holiday from calendar","scenario":"calendar","labels":1}
-{"text":"give me today's calendar events after six pm","scenario":"calendar","labels":0}
-{"text":"bring up calendar and schedule meeting with ri april first ten am","scenario":"calendar","labels":2}
-{"text":"remind me of dinner with mom tonight on my calendar","scenario":"calendar","labels":2}
-{"text":"remind me about the meeting tomorrow one hour before","scenario":"calendar","labels":2}
-{"text":"tell me all the events between today and the twenty first","scenario":"calendar","labels":0}
-{"text":"tell me my meetings this Wednesday morning","scenario":"calendar","labels":0}
-{"text":"delete the next event in the calendar","scenario":"calendar","labels":1}
-{"text":"what events do i have today","scenario":"calendar","labels":0}
-{"text":"add weekly one pm call to calendar","scenario":"calendar","labels":2}
-{"text":"delete eric's bday from the calendar","scenario":"calendar","labels":1}
-{"text":"add haircut to my appointments on saturday afternoon at four","scenario":"calendar","labels":2}
-{"text":"where will the event be held","scenario":"calendar","labels":0}
-{"text":"hey please provide information about events by the end of the day","scenario":"calendar","labels":0}
-{"text":"send a calendar appointment to jan","scenario":"calendar","labels":2}
-{"text":"do i have a doctor's appointment in my calendar","scenario":"calendar","labels":0}
-{"text":"delete my next calendar event","scenario":"calendar","labels":1}
-{"text":"what day and time is the acme meeting in san diego california","scenario":"calendar","labels":0}
-{"text":"what appointments do i have today","scenario":"calendar","labels":0}
-{"text":"add a reminder of a conference for tomorrow in new york","scenario":"calendar","labels":2}
-{"text":"can you add my business meeting to the work calendar","scenario":"calendar","labels":2}
-{"text":"tell me about the next devil's hockey game friday","scenario":"calendar","labels":0}
-{"text":"add a meeting at the office with brian for three pm on tuesday","scenario":"calendar","labels":2}
-{"text":"what's on my calendar","scenario":"calendar","labels":0}
-{"text":"set a reminder for april seventh at four pm","scenario":"calendar","labels":2}
-{"text":"for a new event or meeting request choose repeat on the toolbar","scenario":"calendar","labels":2}
-{"text":"what do i have for today","scenario":"calendar","labels":0}
-{"text":"please check third event of twenty second of march twenty seventeen","scenario":"calendar","labels":0}
-{"text":"can you delete the doctors appointment i had Tuesday","scenario":"calendar","labels":1}
-{"text":"find and delete all of my weekend events with evan parker","scenario":"calendar","labels":1}
-{"text":"events description","scenario":"calendar","labels":0}
-{"text":"add a party in ny city for this saturday","scenario":"calendar","labels":2}
-{"text":"set any appointment for this event in my calendar","scenario":"calendar","labels":2}
-{"text":"add yoga to my calendar for friday","scenario":"calendar","labels":2}
-{"text":"give some of delete in today events","scenario":"calendar","labels":1}
-{"text":"i need to meet with debby tomorrow","scenario":"calendar","labels":2}
-{"text":"put my brother's birthday in my calendar for july fourth","scenario":"calendar","labels":2}
-{"text":"remember event for date","scenario":"calendar","labels":2}
-{"text":"clear my schedule for the month","scenario":"calendar","labels":1}
-{"text":"please remind me that i have a meeting tomorrow ten in the morning","scenario":"calendar","labels":2}
-{"text":"are there any reminders set for today","scenario":"calendar","labels":0}
-{"text":"can you confirm that my meeting for tomorrow has been cancelled","scenario":"calendar","labels":0}
-{"text":"schedule lunch with tom next week on monday at eleven thirty am","scenario":"calendar","labels":2}
-{"text":"set calendar for date and time with this person","scenario":"calendar","labels":2}
-{"text":"set aside this day for this calendar event","scenario":"calendar","labels":2}
-{"text":"remove upcoming task","scenario":"calendar","labels":1}
-{"text":"do i have any events happening next week","scenario":"calendar","labels":0}
-{"text":"remind this event in future","scenario":"calendar","labels":2}
-{"text":"can you remind me to order the turkey three weeks before thanksgiving","scenario":"calendar","labels":2}
-{"text":"can you clear the next event","scenario":"calendar","labels":1}
-{"text":"cancel dinner tonight","scenario":"calendar","labels":1}
-{"text":"jack birthday is on fifteenth march set a reminder","scenario":"calendar","labels":2}
-{"text":"do i have any meetings next week","scenario":"calendar","labels":0}
-{"text":"delete upcoming event","scenario":"calendar","labels":1}
-{"text":"please delete all reminder of sunday","scenario":"calendar","labels":1}
-{"text":"write down that i am going to meet with jenny on the third okay","scenario":"calendar","labels":2}
-{"text":"find remainder and delete","scenario":"calendar","labels":1}
-{"text":"delete my whole calendar for today","scenario":"calendar","labels":1}
-{"text":"please add this event","scenario":"calendar","labels":2}
-{"text":"add the following date and time to my calendar","scenario":"calendar","labels":2}
-{"text":"what time is my next appointment","scenario":"calendar","labels":0}
-{"text":"please restart and remove all the entries in the calendar","scenario":"calendar","labels":1}
-{"text":"let me know about my next meeting two hours before it starts","scenario":"calendar","labels":2}
-{"text":"what do i have scheduled for tomorrow i need to cancel","scenario":"calendar","labels":1}
-{"text":"please remove that event from my calendar","scenario":"calendar","labels":1}
-{"text":"whats my schedule today","scenario":"calendar","labels":0}
-{"text":"remind me when the concert tickets go on sale","scenario":"calendar","labels":2}
-{"text":"set a reminder of meeting at nine am tomorrow","scenario":"calendar","labels":2}
-{"text":"go to calendar and delete an third event of twenty seventh of march twenty seventeen","scenario":"calendar","labels":1}
-{"text":"next event is canceled","scenario":"calendar","labels":1}
-{"text":"remove all scheduled events on my calendar please","scenario":"calendar","labels":1}
-{"text":"when the meeting start","scenario":"calendar","labels":0}
-{"text":"set a meeting with the hr department for the end of the month","scenario":"calendar","labels":2}
-{"text":"update the calendar with the last event removed","scenario":"calendar","labels":1}
-{"text":"just set me reminders about pending payment of children school fees","scenario":"calendar","labels":2}
-{"text":"what time is the cantonese dog festival","scenario":"calendar","labels":0}
-{"text":"book a meeting with chelsea","scenario":"calendar","labels":2}
-{"text":"tell me about oldest reminder","scenario":"calendar","labels":0}
-{"text":"show future events","scenario":"calendar","labels":0}
-{"text":"delete the shopping trip i have scheduled march twenty third","scenario":"calendar","labels":1}
-{"text":"i want you to remind me to take my rain coat because it may rain","scenario":"calendar","labels":2}
-{"text":"remind me about mike's birthdays","scenario":"calendar","labels":2}
-{"text":"remember to pick me up by twelve noon from the airport i have a three pm meeting","scenario":"calendar","labels":2}
-{"text":"delete my surprise event for thursday","scenario":"calendar","labels":1}
-{"text":"who am i meeting with later","scenario":"calendar","labels":0}
-{"text":"in the last year how many hours have i been in meetings","scenario":"calendar","labels":0}
-{"text":"i want you to remove the wedding on the tenth from my calendar","scenario":"calendar","labels":1}
-{"text":"how many pending reminders do i have","scenario":"calendar","labels":0}
-{"text":"notify me two hours before my meeting","scenario":"calendar","labels":2}
-{"text":"add a meeting tomorrow with a pamela at six","scenario":"calendar","labels":2}
-{"text":"with whom do i have a sales interview tomorrow","scenario":"calendar","labels":0}
-{"text":"remove thursday's lunch from my calendar","scenario":"calendar","labels":1}
-{"text":"is there any reminder for me","scenario":"calendar","labels":0}
-{"text":"clear future event","scenario":"calendar","labels":1}
-{"text":"remind me to send the presentation today at one pm","scenario":"calendar","labels":2}
-{"text":"tell me what's happening this week","scenario":"calendar","labels":0}
-{"text":"what is the next event in my calendar","scenario":"calendar","labels":0}
-{"text":"i am going tomorrow for a function","scenario":"calendar","labels":2}
-{"text":"mark the event monthly","scenario":"calendar","labels":2}
-{"text":"what time is the evening meeting i have with john","scenario":"calendar","labels":0}
-{"text":"give me a reminder at eight pm for the game","scenario":"calendar","labels":2}
-{"text":"calendar henvich marriage","scenario":"calendar","labels":2}
-{"text":"i have a function at washington tomorrow remind it","scenario":"calendar","labels":2}
-{"text":"remove trip event","scenario":"calendar","labels":1}
-{"text":"remind me two days before","scenario":"calendar","labels":2}
-{"text":"remove that event from calendar","scenario":"calendar","labels":1}
-{"text":"remove this event from my calendar","scenario":"calendar","labels":1}
-{"text":"cancel the meeting next week Thursday at two pm","scenario":"calendar","labels":1}
-{"text":"pencil in coffee with jamal at starbucks for three pm on tuesday","scenario":"calendar","labels":2}
-{"text":"set a notification for fifth march that i have a doctor's appointment at ten am","scenario":"calendar","labels":2}
-{"text":"would you please notify me about the event in my calendar","scenario":"calendar","labels":2}
-{"text":"open calendar and erase all events for all months","scenario":"calendar","labels":1}
-{"text":"what's going on between three hundred and thirty and four","scenario":"calendar","labels":0}
-{"text":"do i have anything scheduled in my events","scenario":"calendar","labels":0}
-{"text":"i needed to prepare for a meeting","scenario":"calendar","labels":0}
-{"text":"please remove event name","scenario":"calendar","labels":1}
-{"text":"add to calendar and repeat","scenario":"calendar","labels":2}
-{"text":"remind me to meet with steve at one pm tomorrow","scenario":"calendar","labels":2}
-{"text":"notify me on march eleventh the day of my appointment","scenario":"calendar","labels":2}
-{"text":"add meeting with all employees on march twenty at nine am","scenario":"calendar","labels":2}
-{"text":"add my co worker ann to submit project for work on tuesday","scenario":"calendar","labels":2}
-{"text":"i have a department head meeting friday at nine am sharp","scenario":"calendar","labels":2}
-{"text":"repeat an event in my calendar","scenario":"calendar","labels":2}
-{"text":"set reminder for two pm about my meeting","scenario":"calendar","labels":2}
-{"text":"show me all meeting reminder","scenario":"calendar","labels":0}
-{"text":"repeat daily activity","scenario":"calendar","labels":2}
-{"text":"do i have a meeting on saturday march twenty fifth","scenario":"calendar","labels":0}
-{"text":"remind me about the meeting with dentist on the twenty third of may","scenario":"calendar","labels":2}
-{"text":"can you remind me to go to dentist appointment one day before","scenario":"calendar","labels":2}
-{"text":"reset all events in calendar","scenario":"calendar","labels":1}
-{"text":"when the birthday will be","scenario":"calendar","labels":0}
-{"text":"how long will my lunch meeting be on tuesday","scenario":"calendar","labels":0}
-{"text":"cancel all meetings for today","scenario":"calendar","labels":1}
-{"text":"will you send a calendar invite out to james and alice for brunch at eleven am on tuesday","scenario":"calendar","labels":2}
-{"text":"what time is my meeting","scenario":"calendar","labels":0}
-{"text":"do i have an appointment next week","scenario":"calendar","labels":0}
-{"text":"repeat birthday","scenario":"calendar","labels":2}
-{"text":"schedule brunch at ten am today and invite tiffany and jessica please","scenario":"calendar","labels":2}
-{"text":"set the event to recur on the first monday of the month","scenario":"calendar","labels":2}
-{"text":"add on my calendar for today joe smith at one pm","scenario":"calendar","labels":2}
-{"text":"do i have a meeting this afternoon","scenario":"calendar","labels":0}
-{"text":"erase all events on the calendar","scenario":"calendar","labels":1}
-{"text":"can i know what i have to do the next saturday at six pm","scenario":"calendar","labels":2}
-{"text":"set event date in calendar with others","scenario":"calendar","labels":2}
-{"text":"do i have any reminders set","scenario":"calendar","labels":0}
-{"text":"add birthday at john's house on twenty three may two thousand and seventeen","scenario":"calendar","labels":2}
-{"text":"can you invite mr chen for a meeting next monday six hundred pm","scenario":"calendar","labels":2}
-{"text":"who am i eating lunch with today","scenario":"calendar","labels":0}
-{"text":"make a note of my doctor's appointment on wednesday next week","scenario":"calendar","labels":2}
-{"text":"free up my schedule for the next week","scenario":"calendar","labels":1}
-{"text":"when is bank holiday","scenario":"calendar","labels":0}
-{"text":"can you remind me of sunday gym every saturday evening","scenario":"calendar","labels":2}
-{"text":"remind me of the following event","scenario":"calendar","labels":2}
-{"text":"display my schedule for today","scenario":"calendar","labels":0}
-{"text":"set a weekly meeting for friday nine am","scenario":"calendar","labels":2}
-{"text":"i want to add an event to my calendar","scenario":"calendar","labels":2}
-{"text":"do i have anything on this date","scenario":"calendar","labels":0}
-{"text":"can you read me my next reminders","scenario":"calendar","labels":0}
-{"text":"set soccer game with mark in my calendar for tuesday night","scenario":"calendar","labels":2}
-{"text":"hey place an event in my calendar to go to the doctor on friday april fourteenth at one hundred and twenty three water street new york ny eleven thousand two hundred and eighty nine","scenario":"calendar","labels":2}
-{"text":"when does the next meeting start","scenario":"calendar","labels":0}
-{"text":"can you remind me about kirsten's dinner party on the first of may","scenario":"calendar","labels":2}
-{"text":"calendar event","scenario":"calendar","labels":2}
-{"text":"open events this week","scenario":"calendar","labels":0}
-{"text":"remove standup on friday at ten am","scenario":"calendar","labels":1}
-{"text":"what is happening this weekend","scenario":"calendar","labels":0}
-{"text":"remind me tomorrow at four about an event","scenario":"calendar","labels":2}
-{"text":"pencil me in for sarahs birthday party on the twelveth","scenario":"calendar","labels":2}
-{"text":"please add this event to my calendar","scenario":"calendar","labels":2}
-{"text":"invite john to a meeting tomorrow morning at nine o'clock","scenario":"calendar","labels":2}
-{"text":"on twenty third february rahul will come with me on india cricket match","scenario":"calendar","labels":2}
-{"text":"alert","scenario":"calendar","labels":2}
-{"text":"family date this monday","scenario":"calendar","labels":2}
-{"text":"set a reminder for wishing a friend tomorrow at ten am","scenario":"calendar","labels":2}
-{"text":"tell me the locations of my meetings for today","scenario":"calendar","labels":0}
-{"text":"set reminder anna for every monday","scenario":"calendar","labels":2}
-{"text":"what do i have planned next","scenario":"calendar","labels":0}
-{"text":"remain day after events in calendar","scenario":"calendar","labels":2}
-{"text":"reminders for card payments","scenario":"calendar","labels":2}
-{"text":"calendar event send invite bill malinda","scenario":"calendar","labels":2}
-{"text":"erase my appointment with ted","scenario":"calendar","labels":1}
-{"text":"am i busy this weekend","scenario":"calendar","labels":0}
-{"text":"set repeating reminder for every sunday","scenario":"calendar","labels":2}
-{"text":"please add party at chucky cheese to calendar","scenario":"calendar","labels":2}
-{"text":"remind me the reminders i have set","scenario":"calendar","labels":0}
-{"text":"what's up today","scenario":"calendar","labels":0}
-{"text":"remove event","scenario":"calendar","labels":1}
-{"text":"invite jack for meeting tomorrow","scenario":"calendar","labels":2}
-{"text":"notify me about the evening meeting five minute in advance","scenario":"calendar","labels":2}
-{"text":"could you add this on my calendar please","scenario":"calendar","labels":2}
-{"text":"is tomorrow a holiday","scenario":"calendar","labels":0}
-{"text":"remind me if anything else happens","scenario":"calendar","labels":2}
-{"text":"show me my reminders","scenario":"calendar","labels":0}
-{"text":"can you remove seeing dentist from my calendar","scenario":"calendar","labels":1}
-{"text":"twelveth july is bola's birthday and my calendar to be updated with this date","scenario":"calendar","labels":2}
-{"text":"i have set reminders","scenario":"calendar","labels":0}
-{"text":"make an appointment for me next saturday at five at the library and set a reminder","scenario":"calendar","labels":2}
-{"text":"set reminder for date night with husband next friday","scenario":"calendar","labels":2}
-{"text":"give me the information of today's cricket match","scenario":"calendar","labels":0}
-{"text":"what's on my agenda","scenario":"calendar","labels":0}
-{"text":"do i have anything scheduled for today","scenario":"calendar","labels":0}
-{"text":"cancel","scenario":"calendar","labels":1}
-{"text":"set reminder","scenario":"calendar","labels":2}
-{"text":"remove all my appointments for today","scenario":"calendar","labels":1}
-{"text":"let me know if there is a town meeting monday","scenario":"calendar","labels":0}
-{"text":"read upcoming event's","scenario":"calendar","labels":0}
-{"text":"add event for meeting with james","scenario":"calendar","labels":2}
-{"text":"google is my thursday appointment with my dentist","scenario":"calendar","labels":0}
-{"text":"remind me for tomorrow interview","scenario":"calendar","labels":2}
-{"text":"please remind to sleep at nine pm","scenario":"calendar","labels":2}
-{"text":"what time does the meeting start","scenario":"calendar","labels":0}
-{"text":"remind me about the brantly gilbert concert at us bank arena at eight tomorrow","scenario":"calendar","labels":2}
-{"text":"remove wyatt's birthday party on my calendar","scenario":"calendar","labels":1}
-{"text":"set the event to recur every week","scenario":"calendar","labels":2}
-{"text":"details","scenario":"calendar","labels":0}
-{"text":"set an event","scenario":"calendar","labels":2}
-{"text":"book my next free day in the calendar for me to get a haircut at sally's","scenario":"calendar","labels":2}
-{"text":"go to the next event in the calendar and delete it","scenario":"calendar","labels":1}
-{"text":"is today my brothers birthday","scenario":"calendar","labels":0}
-{"text":"remind me after a month","scenario":"calendar","labels":2}
-{"text":"clear my next event","scenario":"calendar","labels":1}
-{"text":"next month my brothers birthday","scenario":"calendar","labels":2}
-{"text":"please add march fifth as john's birthday","scenario":"calendar","labels":2}
-{"text":"today calendar","scenario":"calendar","labels":0}
-{"text":"set a meeting with phil every wednesday for five pm","scenario":"calendar","labels":2}
-{"text":"create reminder for laundry at eight pm","scenario":"calendar","labels":2}
-{"text":"meetings","scenario":"calendar","labels":2}
-{"text":"set up the following event in the calendar with the following people","scenario":"calendar","labels":2}
+{"sentence":"set a remainder at three pm to pick jo","label":2,"idx":0}
+{"sentence":"delete meeting scheduled with john on twenty one march","label":1,"idx":1}
+{"sentence":"i'm going to the oar concert in paris on march twenty four","label":2,"idx":2}
+{"sentence":"set a notification for sports game","label":2,"idx":3}
+{"sentence":"repeat daily","label":2,"idx":4}
+{"sentence":"i would like it to make doctor appointments etc for me","label":2,"idx":5}
+{"sentence":"please set reminder","label":2,"idx":6}
+{"sentence":"is there a parade on friday","label":0,"idx":7}
+{"sentence":"please remind me of all the nba scores in a week","label":2,"idx":8}
+{"sentence":"what reminders do i have","label":0,"idx":9}
+{"sentence":"please delete all meetings of today after seven pm","label":1,"idx":10}
+{"sentence":"remind me that i have a meeting at three pm tomorrow","label":2,"idx":11}
+{"sentence":"do i have anything going on saturday at five pm","label":0,"idx":12}
+{"sentence":"what is my schedule like today","label":0,"idx":13}
+{"sentence":"i'd like to know more about the scheduled event","label":0,"idx":14}
+{"sentence":"for every odd numbered sunday set a reminder for","label":2,"idx":15}
+{"sentence":"remove my dinner event for monday","label":1,"idx":16}
+{"sentence":"add an event labeled dan's graduation party may fifth in goshen","label":2,"idx":17}
+{"sentence":"erase events","label":1,"idx":18}
+{"sentence":"check when the show starts","label":0,"idx":19}
+{"sentence":"do i have any events today","label":0,"idx":20}
+{"sentence":"add mike and jack to festival calendar","label":2,"idx":21}
+{"sentence":"where are the boston redso game playing next","label":0,"idx":22}
+{"sentence":"tell me when the hockey game tickets are for","label":0,"idx":23}
+{"sentence":"when is my lunch break","label":0,"idx":24}
+{"sentence":"john's birthday is march fifth please note this","label":2,"idx":25}
+{"sentence":"add john's birthday on twenty five march","label":2,"idx":26}
+{"sentence":"set first week of june as holiday in my calendar","label":2,"idx":27}
+{"sentence":"did i set reminder for tomorrow meeting at five pm","label":0,"idx":28}
+{"sentence":"please tell me the main points of my two hundred meeting from this afternoon","label":0,"idx":29}
+{"sentence":"what is up in my schedule today","label":0,"idx":30}
+{"sentence":"remind me to go to bed before one am everyday","label":2,"idx":31}
+{"sentence":"set my cooking classes on tuesdays at five pm","label":2,"idx":32}
+{"sentence":"set an event on second march at twelve pm noon in your calendar for jim's birthday","label":2,"idx":33}
+{"sentence":"remind me about the meeting tomorrow at six","label":2,"idx":34}
+{"sentence":"please clear my calendar of all events","label":1,"idx":35}
+{"sentence":"remind me to take the casserole out of the oven at seven hundred and forty five pm","label":2,"idx":36}
+{"sentence":"can you set the location to my sisters house for this event","label":2,"idx":37}
+{"sentence":"tell me the meetings i have for the week","label":0,"idx":38}
+{"sentence":"i need to let my small group know the location has changed","label":2,"idx":39}
+{"sentence":"please put me your input to know my schedule","label":2,"idx":40}
+{"sentence":"add conference call at four pm to my reminders for today","label":2,"idx":41}
+{"sentence":"cancel all appointments in my calendar","label":1,"idx":42}
+{"sentence":"please remind me one hour before the meeting i have tomorrow morning","label":2,"idx":43}
+{"sentence":"where is my meeting","label":0,"idx":44}
+{"sentence":"delete next calendar event","label":1,"idx":45}
+{"sentence":"add appointment with dentist tomorrow","label":2,"idx":46}
+{"sentence":"add event in calendar and mention others","label":2,"idx":47}
+{"sentence":"plan a meeting tomorrow morning","label":2,"idx":48}
+{"sentence":"what reminders do i have scheduled before noon tomorrow","label":0,"idx":49}
+{"sentence":"can you erase the haircut i have scheduled for friday","label":1,"idx":50}
+{"sentence":"make an alert for my birthday","label":2,"idx":51}
+{"sentence":"remind me at work to take a meeting with dave on friday","label":2,"idx":52}
+{"sentence":"add my sister on calendar for pedicures on friday","label":2,"idx":53}
+{"sentence":"set a notification about my meeting next tuesday","label":2,"idx":54}
+{"sentence":"remove anniversary event from my calendar","label":1,"idx":55}
+{"sentence":"mark april twenty as my brother's birthday","label":2,"idx":56}
+{"sentence":"good","label":0,"idx":57}
+{"sentence":"what can you tell me about this saturday","label":0,"idx":58}
+{"sentence":"i need a reminder for friday's meeting","label":2,"idx":59}
+{"sentence":"what events are in my calendar for today","label":0,"idx":60}
+{"sentence":"what can you tell me about the dance on friday","label":0,"idx":61}
+{"sentence":"add a lunch date to my calendar for march fifteenth from twelve noon to one pm","label":2,"idx":62}
+{"sentence":"i want to make a note on my calendar for the event tomorrow at the library","label":2,"idx":63}
+{"sentence":"reschedule meeting","label":2,"idx":64}
+{"sentence":"please put my birthday party on the calendar","label":2,"idx":65}
+{"sentence":"remove all the events on my calendar","label":1,"idx":66}
+{"sentence":"set a meeting with bill","label":2,"idx":67}
+{"sentence":"weekend appointments","label":0,"idx":68}
+{"sentence":"i have a doctor's appointment at two pm today","label":0,"idx":69}
+{"sentence":"i'd like monday to remain open","label":1,"idx":70}
+{"sentence":"what do i have planned for friday","label":0,"idx":71}
+{"sentence":"remind me about tomorrows lunch meeting at one","label":2,"idx":72}
+{"sentence":"could you remind me to take my car from garage because i may go for a long drive today","label":2,"idx":73}
+{"sentence":"send me a notification an hour before my next calendar events","label":2,"idx":74}
+{"sentence":"what are the reminder i had set for tomorrow","label":0,"idx":75}
+{"sentence":"next week my uncle birthday","label":2,"idx":76}
+{"sentence":"who i am meeting with on Wednesday at four pm","label":0,"idx":77}
+{"sentence":"when is the wedding scheduled","label":0,"idx":78}
+{"sentence":"delete all events for tomorrow","label":1,"idx":79}
+{"sentence":"make sure to remind me to pay my bills tomorrow morning","label":2,"idx":80}
+{"sentence":"clear event from calendar and refresh","label":1,"idx":81}
+{"sentence":"please delete all calendar events","label":1,"idx":82}
+{"sentence":"show me future events","label":0,"idx":83}
+{"sentence":"any events in my calendar today","label":0,"idx":84}
+{"sentence":"go to calendar and schedule event","label":2,"idx":85}
+{"sentence":"add valia's wedding the next saturday at eight o clock","label":2,"idx":86}
+{"sentence":"is there a birthday party today","label":0,"idx":87}
+{"sentence":"lets get something on the calendar for tuesday","label":2,"idx":88}
+{"sentence":"add a meeting with my mother for next sunday","label":2,"idx":89}
+{"sentence":"delete the birthday party tomorrow at two pm","label":1,"idx":90}
+{"sentence":"on october first at two pm lunch with ann","label":2,"idx":91}
+{"sentence":"set a reminder for my meeting today","label":2,"idx":92}
+{"sentence":"what events are upcoming today","label":0,"idx":93}
+{"sentence":"meeting at eight am to twelve pm","label":2,"idx":94}
+{"sentence":"send me a reminder to pick up my dog from the groomer at one pm","label":2,"idx":95}
+{"sentence":"add jim and jerry to event","label":2,"idx":96}
+{"sentence":"today is john's birthday","label":0,"idx":97}
+{"sentence":"tell me about my schedule for the next month","label":0,"idx":98}
+{"sentence":"what schedule event do i have for this month","label":0,"idx":99}
+{"sentence":"what time does the zach brown concert on june third begin","label":0,"idx":100}
+{"sentence":"send me notice of meeting wednesday nine am","label":2,"idx":101}
+{"sentence":"list my today's meeting","label":0,"idx":102}
+{"sentence":"don't let me forget i have a parent teacher conference this monday at four hundred pm","label":2,"idx":103}
+{"sentence":"what are the pending reminders","label":0,"idx":104}
+{"sentence":"what are my meetings for this week","label":0,"idx":105}
+{"sentence":"schedule a two hour empty time block on saturday","label":2,"idx":106}
+{"sentence":"do i have an appointment next wednesday","label":0,"idx":107}
+{"sentence":"show me the calendar","label":0,"idx":108}
+{"sentence":"between may one and december thirty one what meetings occurred","label":0,"idx":109}
+{"sentence":"notify me about the meetings over a period of some days","label":0,"idx":110}
+{"sentence":"cancel tomorrow's meeting with chuck","label":1,"idx":111}
+{"sentence":"tell me about umf","label":0,"idx":112}
+{"sentence":"erase the meeting tomorrow at ten am","label":1,"idx":113}
+{"sentence":"please remove the doctor appointment in my calendar for february twelfth at nine am","label":1,"idx":114}
+{"sentence":"do i have any off days this week","label":0,"idx":115}
+{"sentence":"can you schedule me for a hair cut on april first in saskatoon","label":2,"idx":116}
+{"sentence":"remind me tomorrow at ten am about the meeting","label":2,"idx":117}
+{"sentence":"have john join me on the tenth at the fifth floor meeting","label":2,"idx":118}
+{"sentence":"events happening between eight am and five pm today","label":0,"idx":119}
+{"sentence":"tell me about the meeting i have this week","label":0,"idx":120}
+{"sentence":"i need a repeating reminder for every monday at three hundred and thirty pm","label":2,"idx":121}
+{"sentence":"what time is the concert starting","label":0,"idx":122}
+{"sentence":"let me know about my meetings after some days","label":0,"idx":123}
+{"sentence":"please list reminders coming up soon","label":0,"idx":124}
+{"sentence":"hey make sure i go to sarahs birthday party on the twelveth","label":2,"idx":125}
+{"sentence":"can you tell me when my appointment is supposed to occur","label":0,"idx":126}
+{"sentence":"delete any and all events","label":1,"idx":127}
+{"sentence":"confirm that my notification is set to remind me when i leave","label":0,"idx":128}
+{"sentence":"when is my meeting with human resources","label":0,"idx":129}
+{"sentence":"am i booked for something","label":0,"idx":130}
+{"sentence":"do i have any appointments scheduled for march twenty four two thousand and seventeen","label":0,"idx":131}
+{"sentence":"set a repeating calendar event","label":2,"idx":132}
+{"sentence":"let me know on tuesday if i have messages","label":2,"idx":133}
+{"sentence":"hello google take me to google calendar please","label":2,"idx":134}
+{"sentence":"how many meetings do i have today from nine to five pm","label":0,"idx":135}
+{"sentence":"cancel the tomorrow's meeting from my calendar","label":1,"idx":136}
+{"sentence":"where is the venue in which the marriage of tom is going to take place","label":0,"idx":137}
+{"sentence":"clear everything off my calendar for the rest of the year","label":1,"idx":138}
+{"sentence":"make sure there is no events on my calendar","label":1,"idx":139}
+{"sentence":"what do i have on the schedule today from twelve pm to two pm","label":0,"idx":140}
+{"sentence":"add a note to attend","label":2,"idx":141}
+{"sentence":"hi olly please cancel all the programs for friday","label":1,"idx":142}
+{"sentence":"remind me to start getting ready by five pm please","label":2,"idx":143}
+{"sentence":"set a reminder for the twenty third","label":2,"idx":144}
+{"sentence":"meeting update my calendar to reflect meeting","label":2,"idx":145}
+{"sentence":"do i have any appointments set for tomorrow","label":0,"idx":146}
+{"sentence":"delete event for tuesday","label":1,"idx":147}
+{"sentence":"do i have anywhere to be between eight am and five pm today","label":0,"idx":148}
+{"sentence":"please set an event at ten am one month and two days from now to have a garage sale at my house","label":2,"idx":149}
+{"sentence":"is susan's birthday on march one","label":0,"idx":150}
+{"sentence":"please check my appointments","label":0,"idx":151}
+{"sentence":"save this event","label":2,"idx":152}
+{"sentence":"i want this event to be reminded throughout this month","label":2,"idx":153}
+{"sentence":"set a monthly event","label":2,"idx":154}
+{"sentence":"more information on this event","label":0,"idx":155}
+{"sentence":"plan for tomorrow","label":0,"idx":156}
+{"sentence":"please remind me to go to the post office","label":2,"idx":157}
+{"sentence":"note my event with person on date at place","label":2,"idx":158}
+{"sentence":"will you remind me to go to hockey class every sunday afternoon","label":2,"idx":159}
+{"sentence":"do i have any meetings scheduled the weekend after next","label":0,"idx":160}
+{"sentence":"set notification before this event","label":2,"idx":161}
+{"sentence":"add dinner with my sister on march eighteenth","label":2,"idx":162}
+{"sentence":"remind me thirty minutes before my meeting at three pm tomorrow","label":2,"idx":163}
+{"sentence":"what meetings are available in march","label":0,"idx":164}
+{"sentence":"can you remind me to go to the corner store on tuesday","label":2,"idx":165}
+{"sentence":"remind me of my meeting","label":2,"idx":166}
+{"sentence":"all meetings between tenth and thirteenth may","label":0,"idx":167}
+{"sentence":"was my afternoon meeting cancelled","label":0,"idx":168}
+{"sentence":"can you please set twelve noon prayer for every friday","label":2,"idx":169}
+{"sentence":"repeat my reminders from yesterday","label":0,"idx":170}
+{"sentence":"i have a flight to take on the fifteenth","label":2,"idx":171}
+{"sentence":"cancel medical engagements this weekend","label":1,"idx":172}
+{"sentence":"are there any meetings set for next wednesday","label":0,"idx":173}
+{"sentence":"remind me to move so there is no weight gain","label":2,"idx":174}
+{"sentence":"meeting the next day","label":2,"idx":175}
+{"sentence":"put me in on tuesday the twenty first at ten with al","label":2,"idx":176}
+{"sentence":"what is going on today from two four pm","label":0,"idx":177}
+{"sentence":"i need to set up a meeting with debra for thursday at three pm","label":2,"idx":178}
+{"sentence":"what's coming up this week","label":0,"idx":179}
+{"sentence":"how does my day look like tomorrow","label":0,"idx":180}
+{"sentence":"clear calendar events all","label":1,"idx":181}
+{"sentence":"change my plan erase my next event","label":1,"idx":182}
+{"sentence":"set up a reoccurring grocery store trip for every sunday","label":2,"idx":183}
+{"sentence":"am i free on sunday day","label":0,"idx":184}
+{"sentence":"don't let me forget to call alex","label":2,"idx":185}
+{"sentence":"cancel upcoming event","label":1,"idx":186}
+{"sentence":"i want to see each of my pending reminders","label":0,"idx":187}
+{"sentence":"mark reminder with these people","label":2,"idx":188}
+{"sentence":"cancel next meeting","label":1,"idx":189}
+{"sentence":"i want my to tell me when a new anime season will come out","label":2,"idx":190}
+{"sentence":"what's for today","label":0,"idx":191}
+{"sentence":"clear all items on my calendar for april","label":1,"idx":192}
+{"sentence":"please erase the next birthday event","label":1,"idx":193}
+{"sentence":"what time is the work meeting","label":0,"idx":194}
+{"sentence":"show me the list of missed events","label":0,"idx":195}
+{"sentence":"is it thursday tomorrow","label":0,"idx":196}
+{"sentence":"delete the next event today","label":1,"idx":197}
+{"sentence":"what do i need to remember","label":0,"idx":198}
+{"sentence":"can you remind me to something in sometime","label":2,"idx":199}
+{"sentence":"clear my schedule for this date","label":1,"idx":200}
+{"sentence":"what is happening after one and before three pm","label":0,"idx":201}
+{"sentence":"delete my next event","label":1,"idx":202}
+{"sentence":"when will the match start","label":0,"idx":203}
+{"sentence":"invite people to the calendar event","label":2,"idx":204}
+{"sentence":"i don't want to attend the dinner on march first any more so could you remove it from my agenda","label":1,"idx":205}
+{"sentence":"repeating event meeting on mondays","label":2,"idx":206}
+{"sentence":"can you give me the movie schedule","label":0,"idx":207}
+{"sentence":"is there anything i should be reminded about","label":0,"idx":208}
+{"sentence":"schedule a sales meeting for wednesday at eleven am","label":2,"idx":209}
+{"sentence":"remember me to meet reveca today at six pm","label":2,"idx":210}
+{"sentence":"set reminder for tomorrow for this item","label":2,"idx":211}
+{"sentence":"schedule an event in my calendar for the pool party at jack's place this saturday","label":2,"idx":212}
+{"sentence":"can you pull up the latest time so i won't be late for my appointment","label":0,"idx":213}
+{"sentence":"whatever the next event is in the calendar delete it","label":1,"idx":214}
+{"sentence":"do i have any undone tasks","label":0,"idx":215}
+{"sentence":"set a event that will happen everyday","label":2,"idx":216}
+{"sentence":"cancel next event","label":1,"idx":217}
+{"sentence":"set a reminder for my shopping trip tomorrow at five pm","label":2,"idx":218}
+{"sentence":"please set dinner plans at seven pm for every friday in april","label":2,"idx":219}
+{"sentence":"pleas set a reminder for a meeting i have on tuesday next week","label":2,"idx":220}
+{"sentence":"when is my anniversary","label":0,"idx":221}
+{"sentence":"let me know when the meeting is gonna happen","label":2,"idx":222}
+{"sentence":"put monday meeting on calendar every Monday","label":2,"idx":223}
+{"sentence":"clear everything from the calendar","label":1,"idx":224}
+{"sentence":"what time is the party tonight","label":0,"idx":225}
+{"sentence":"when do i have that test","label":0,"idx":226}
+{"sentence":"my calendar is to be updated with all rccg event in march","label":2,"idx":227}
+{"sentence":"could you please schedule a meeting with this person","label":2,"idx":228}
+{"sentence":"create an event in my calendar","label":2,"idx":229}
+{"sentence":"please clear my calendar for tomorrow","label":1,"idx":230}
+{"sentence":"what's my agenda for the remainder of the week","label":0,"idx":231}
+{"sentence":"will you remind me of my gym class on my calendar one hour before","label":2,"idx":232}
+{"sentence":"set reminder for three o'clock","label":2,"idx":233}
+{"sentence":"when is my next dentist appointment","label":0,"idx":234}
+{"sentence":"remind me about my anniversary in one day advance","label":2,"idx":235}
+{"sentence":"remove all from calendar","label":1,"idx":236}
+{"sentence":"cancel my meeting tomorrow","label":1,"idx":237}
+{"sentence":"tell me the date of inauguration of my friend sams business","label":0,"idx":238}
+{"sentence":"please remove the appointment on april first","label":1,"idx":239}
+{"sentence":"make me alert in the morning about tomorrows meeting","label":2,"idx":240}
+{"sentence":"in the calendar put that we are having dinner with frank at eight pm on the ninth of august","label":2,"idx":241}
+{"sentence":"can you list out my meetings today","label":0,"idx":242}
+{"sentence":"tell me the current meetings","label":0,"idx":243}
+{"sentence":"please cancel all my events for today","label":1,"idx":244}
+{"sentence":"avinash go with me on fifth april movie commando","label":2,"idx":245}
+{"sentence":"delete the christmas party at the church next wednesday","label":1,"idx":246}
+{"sentence":"in the choose how you would like to be notified section check the email box for each type of notification you'd like to receive","label":2,"idx":247}
+{"sentence":"don't want of next event in calendar so delete it","label":1,"idx":248}
+{"sentence":"is my meeting with bob tomorrow at three pm","label":0,"idx":249}
+{"sentence":"set up the meeting with justin and katrina","label":2,"idx":250}
+{"sentence":"six am","label":2,"idx":251}
+{"sentence":"i have to be in hawaii for this upcoming event can you add this","label":2,"idx":252}
+{"sentence":"schedule meeting on tuesday","label":2,"idx":253}
+{"sentence":"remove event from calendar","label":1,"idx":254}
+{"sentence":"choose calendar","label":1,"idx":255}
+{"sentence":"what is the date for the event scheduled on the twentieth of february","label":0,"idx":256}
+{"sentence":"remind me of this meeting soon","label":2,"idx":257}
+{"sentence":"i no longer need to see the doctor can that event be removed","label":1,"idx":258}
+{"sentence":"how much mehta willing to invest in my company in meeting which held today at five hundred and twenty pm","label":0,"idx":259}
+{"sentence":"calendar six o'clock departure tomorrow morning with mike and jo","label":2,"idx":260}
+{"sentence":"i want you to remove this event","label":1,"idx":261}
+{"sentence":"schedule a meeting this monday with peter francis in the afternoon","label":2,"idx":262}
+{"sentence":"remind me of my meeting on","label":2,"idx":263}
+{"sentence":"event reminder mona tuesday","label":2,"idx":264}
+{"sentence":"call bill to reschedule our meeting","label":0,"idx":265}
+{"sentence":"can you put sunday hockey class in my calendar as recurrent event","label":2,"idx":266}
+{"sentence":"create calendar info for albert's marriage","label":2,"idx":267}
+{"sentence":"create a new daily event","label":2,"idx":268}
+{"sentence":"do i have any get togethers this week","label":0,"idx":269}
+{"sentence":"what's on for the fourteenth afternoon that i could go with the two year old twins","label":0,"idx":270}
+{"sentence":"what time do i have a doctors appointment on the twenty second","label":0,"idx":271}
+{"sentence":"remind me to start supper this afternoon at five","label":2,"idx":272}
+{"sentence":"my calendar to be added with bola birthday of twelveth july","label":2,"idx":273}
+{"sentence":"where is my meeting at nine am","label":0,"idx":274}
+{"sentence":"please add superbowl to calendar","label":2,"idx":275}
+{"sentence":"please delete samantha's party","label":1,"idx":276}
+{"sentence":"are there any events happening next week","label":0,"idx":277}
+{"sentence":"remind me jack birthday is on fifteenth march","label":0,"idx":278}
+{"sentence":"i want a reminder for an editor's meeting at two pm thursday","label":2,"idx":279}
+{"sentence":"schedule a meeting with al on tuesday","label":2,"idx":280}
+{"sentence":"can you please disregard the party that i will be going to this weekend on my calendar","label":1,"idx":281}
+{"sentence":"schedule dinner with sara and jamie","label":2,"idx":282}
+{"sentence":"what events are going on next week","label":0,"idx":283}
+{"sentence":"following event","label":2,"idx":284}
+{"sentence":"i need to confirm all meetings for today can the invite person","label":0,"idx":285}
+{"sentence":"delete all my calendar events","label":1,"idx":286}
+{"sentence":"tell next day's event","label":0,"idx":287}
+{"sentence":"at what time is my appointment with dentist scheduled","label":0,"idx":288}
+{"sentence":"remove everything in the calendar","label":1,"idx":289}
+{"sentence":"cancel all the meeting today","label":1,"idx":290}
+{"sentence":"please arrange to remind about this job","label":2,"idx":291}
+{"sentence":"add event baseball practice five pm tonight","label":2,"idx":292}
+{"sentence":"go to calendar","label":2,"idx":293}
+{"sentence":"do i have any tasks today","label":0,"idx":294}
+{"sentence":"daily monthly or yearly event if necessary choose the interval between events","label":2,"idx":295}
+{"sentence":"set reminder for meeting","label":2,"idx":296}
+{"sentence":"remind me about the meeting tomorrow at two pm","label":2,"idx":297}
+{"sentence":"cancel event","label":1,"idx":298}
+{"sentence":"is there any pending reminder today","label":0,"idx":299}
+{"sentence":"create a calendar event with mike and jo at six o'clock tomorrow morning departing for muscat","label":2,"idx":300}
+{"sentence":"can you brief about the next scheduled events","label":0,"idx":301}
+{"sentence":"clear my calendar for tomorrow","label":1,"idx":302}
+{"sentence":"reschedule the party to thursday","label":1,"idx":303}
+{"sentence":"remind me of my meeting with ms boland on wednesday eight hundred am on tuesday seven pm","label":2,"idx":304}
+{"sentence":"next thursday i need to be reminded to call the bank","label":2,"idx":305}
+{"sentence":"calendar up when is my financial meeting on friday","label":0,"idx":306}
+{"sentence":"my schedule","label":0,"idx":307}
+{"sentence":"what are my meetings in the coming week","label":0,"idx":308}
+{"sentence":"add birthday to every year","label":2,"idx":309}
+{"sentence":"hayathis daughter baby shower","label":2,"idx":310}
+{"sentence":"what day is payday","label":0,"idx":311}
+{"sentence":"remind upcoming meeting with eminem","label":2,"idx":312}
+{"sentence":"march one is susan's birthday right","label":0,"idx":313}
+{"sentence":"set an appointment for allen on tomorrow","label":2,"idx":314}
+{"sentence":"can you remind me to take the garbage out on tuesday","label":2,"idx":315}
+{"sentence":"set alarm reminder for calendar","label":2,"idx":316}
+{"sentence":"alert me two hours before my meeting on tuesday with client happening at ten in the morning","label":2,"idx":317}
+{"sentence":"i need to get groceries tomorrow","label":2,"idx":318}
+{"sentence":"is the birthday event on fifteenth of this month true","label":0,"idx":319}
+{"sentence":"set a daily meeting for eight am","label":2,"idx":320}
+{"sentence":"can you make this event repetitive","label":2,"idx":321}
+{"sentence":"remind me to call mom every tuesday at ten am","label":2,"idx":322}
+{"sentence":"notify me when the event is going to take place","label":2,"idx":323}
+{"sentence":"keep looking for more detailed info on the annual tea party and inform me accordingly","label":0,"idx":324}
+{"sentence":"i need to set a reminder to go to a work meeting on friday at two hundred pm","label":2,"idx":325}
+{"sentence":"please give me an update on the election every thirty minutes","label":2,"idx":326}
+{"sentence":"can i remove a reminder","label":1,"idx":327}
+{"sentence":"set and event for the fifteenth of every month to remind me to pay my internet bill","label":2,"idx":328}
+{"sentence":"i am no longer going to wyatts birthday party","label":1,"idx":329}
+{"sentence":"remind me to go shopping every week","label":2,"idx":330}
+{"sentence":"what to i have on the schedule tomorrow morning","label":0,"idx":331}
+{"sentence":"remove events","label":1,"idx":332}
+{"sentence":"how busy am i this week","label":0,"idx":333}
+{"sentence":"who is invited to tomorrow's get together","label":0,"idx":334}
+{"sentence":"how many calories did i burn between three and five today","label":0,"idx":335}
+{"sentence":"notify me in fifteen before meeting starts","label":2,"idx":336}
+{"sentence":"what's was the upcoming event","label":0,"idx":337}
+{"sentence":"is there any upcoming events","label":0,"idx":338}
+{"sentence":"remind me to wash the windows","label":2,"idx":339}
+{"sentence":"remind me that i have a meeting with cassy for an ola event happening tomorrow","label":2,"idx":340}
+{"sentence":"put my doctors appointment on the calendar","label":2,"idx":341}
+{"sentence":"schedule my meeting with mr john hopkins tomorrow one pm in the afternoon after lunch","label":2,"idx":342}
+{"sentence":"cancel dentist appointment for this week","label":1,"idx":343}
+{"sentence":"set meeting with joanna on Saturday four pm","label":2,"idx":344}
+{"sentence":"please add a birthday party on saturday evening","label":2,"idx":345}
+{"sentence":"what is month in my calendar","label":0,"idx":346}
+{"sentence":"remove john's birthday from the calendar","label":1,"idx":347}
+{"sentence":"hey olly on the twentieth clear my calendar","label":1,"idx":348}
+{"sentence":"give me the schedule for today's events","label":0,"idx":349}
+{"sentence":"do i have any events set","label":0,"idx":350}
+{"sentence":"create a new event every friday at noon","label":2,"idx":351}
+{"sentence":"when is my next meeting with joe","label":2,"idx":352}
+{"sentence":"set up a meeting with my tanya for every thursday at ten am","label":2,"idx":353}
+{"sentence":"set my calendar to remind me to buy groceries every friday","label":2,"idx":354}
+{"sentence":"could you check the reminders and tell me what are pending","label":0,"idx":355}
+{"sentence":"remove all my meetings for the rest of the week","label":1,"idx":356}
+{"sentence":"clean my entire calendar","label":1,"idx":357}
+{"sentence":"what reminders do i have set","label":0,"idx":358}
+{"sentence":"remove the event off the calendar","label":1,"idx":359}
+{"sentence":"remind me at two pm tuesday for the three pm meeting with the boss","label":2,"idx":360}
+{"sentence":"set a reminder for an hour from now about the chickens","label":2,"idx":361}
+{"sentence":"remove my car payment on the fifteenth from my calendar","label":1,"idx":362}
+{"sentence":"is there any party on my calendar for this weekend","label":0,"idx":363}
+{"sentence":"is there any reminder which is most urgent","label":0,"idx":364}
+{"sentence":"please give me a two hour warning before next saturdays meeting","label":2,"idx":365}
+{"sentence":"remind me daily at eleven am for meeting with boss","label":2,"idx":366}
+{"sentence":"remind me tomorrow at ten am to wish my friend","label":2,"idx":367}
+{"sentence":"i will need a reminder of the three pm teachers meeting on thursday","label":2,"idx":368}
+{"sentence":"remind me about the upcoming national holiday","label":2,"idx":369}
+{"sentence":"i want all my events deleted","label":1,"idx":370}
+{"sentence":"do i have a dr appointment on the sixth","label":0,"idx":371}
+{"sentence":"i want my to find free movies online for me","label":2,"idx":372}
+{"sentence":"please remove march nineteenth's scheduled event","label":1,"idx":373}
+{"sentence":"please alert me on friday at eight hundred am to go to the gym","label":2,"idx":374}
+{"sentence":"remove everything from the calendar","label":1,"idx":375}
+{"sentence":"remind me to make a pizza tomorrow morning","label":2,"idx":376}
+{"sentence":"set a reminder for the meeting friday at three pm","label":2,"idx":377}
+{"sentence":"remind me to meet james at work tomorrow at nine am","label":2,"idx":378}
+{"sentence":"information of recent events","label":0,"idx":379}
+{"sentence":"please remove this event from my calendar","label":1,"idx":380}
+{"sentence":"set a reminder every day at noon to take medication","label":2,"idx":381}
+{"sentence":"do i have a busy day today","label":0,"idx":382}
+{"sentence":"remove next meeting today in my calendar","label":1,"idx":383}
+{"sentence":"please remove my next event","label":1,"idx":384}
+{"sentence":"what are my next three events","label":0,"idx":385}
+{"sentence":"can you delete the dentist appointment","label":1,"idx":386}
+{"sentence":"could you repeat this event","label":2,"idx":387}
+{"sentence":"is my schedule full for tomorrow from eight am to two pm","label":0,"idx":388}
+{"sentence":"event calendar monas wedding tuesday","label":2,"idx":389}
+{"sentence":"do i have a lunch on friday","label":0,"idx":390}
+{"sentence":"please remind me for the function at miami tomorrow","label":2,"idx":391}
+{"sentence":"please set up a meeting with jonh for monday","label":2,"idx":392}
+{"sentence":"create an empty calendar event for next saturday at ten am","label":2,"idx":393}
+{"sentence":"schedule a reminder on fifteenth march and input name as meeting","label":2,"idx":394}
+{"sentence":"remind me to pick up mark at the airport at six pm","label":2,"idx":395}
+{"sentence":"at what time does the next redso game start","label":0,"idx":396}
+{"sentence":"erase all content in my calendar","label":1,"idx":397}
+{"sentence":"do i have any remainders for today","label":0,"idx":398}
+{"sentence":"what purpose the event been scheduled for","label":0,"idx":399}
+{"sentence":"meeting reminder","label":2,"idx":400}
+{"sentence":"what is my schedule for the day","label":0,"idx":401}
+{"sentence":"please set a reminder for my five pm meeting today","label":2,"idx":402}
+{"sentence":"give me information about the concert on tuesday night","label":0,"idx":403}
+{"sentence":"please remind me about swatishs birthday","label":2,"idx":404}
+{"sentence":"what is the the meeting schedule","label":0,"idx":405}
+{"sentence":"is there any event today in my calendar","label":0,"idx":406}
+{"sentence":"i'd like to update my calendar","label":2,"idx":407}
+{"sentence":"remind to at eight pm to take my medicine","label":2,"idx":408}
+{"sentence":"do i have any meetings tomorrow at nine pm","label":0,"idx":409}
+{"sentence":"read me my calendar for the month","label":0,"idx":410}
+{"sentence":"cancel the breakfast at tiffany's","label":1,"idx":411}
+{"sentence":"please delete this event","label":1,"idx":412}
+{"sentence":"did i ask you to remind me of anything","label":0,"idx":413}
+{"sentence":"add a meeting with john donaldson to my calendar and","label":2,"idx":414}
+{"sentence":"setting repeating event in calendar","label":2,"idx":415}
+{"sentence":"make an event for a dentist appointment Thursday at nine am","label":2,"idx":416}
+{"sentence":"remind","label":2,"idx":417}
+{"sentence":"add this event to my calendar","label":2,"idx":418}
+{"sentence":"can you add my brother's birthday dinner at rusk for march twenty third","label":2,"idx":419}
+{"sentence":"do i have a soccer game this weekend","label":0,"idx":420}
+{"sentence":"set a lunch date for next tuesday at noon with sarah at black angus","label":2,"idx":421}
+{"sentence":"is tonight the full moon","label":0,"idx":422}
+{"sentence":"create an event for a john's birthday","label":2,"idx":423}
+{"sentence":"tell me when i have an event","label":2,"idx":424}
+{"sentence":"what are my notifications","label":0,"idx":425}
+{"sentence":"how soon is my anniversary","label":0,"idx":426}
+{"sentence":"i would need to be notified of church services on sundays at eleven am","label":2,"idx":427}
+{"sentence":"when is the party scheduled","label":0,"idx":428}
+{"sentence":"what time do i work tomorrow","label":0,"idx":429}
+{"sentence":"add a reminder to april fourth to go to the dentist","label":2,"idx":430}
+{"sentence":"may i ask you to add a new event to my calendar","label":2,"idx":431}
+{"sentence":"delete","label":1,"idx":432}
+{"sentence":"set a two weeks reminder for the twentieth of every quarter beginning twentieth of march to pay my hoa","label":2,"idx":433}
+{"sentence":"i need an event three days from now scheduled with amy","label":2,"idx":434}
+{"sentence":"set up a notification about tomorrow's meeting at ten","label":2,"idx":435}
+{"sentence":"does my calendar say i'm free on april one two thousand and seventeen","label":0,"idx":436}
+{"sentence":"remind me tonight to pick up my dry cleaning at eight pm","label":2,"idx":437}
+{"sentence":"make a meeting with tom around nine am on tuesday","label":2,"idx":438}
+{"sentence":"add sally's birthday to calendar for saturday at ten pm","label":2,"idx":439}
+{"sentence":"make a reminder at one pm every Monday until i remove it","label":2,"idx":440}
+{"sentence":"please tell me where the fair is going to be this year","label":0,"idx":441}
+{"sentence":"list all pending reminders","label":0,"idx":442}
+{"sentence":"hey olly make sure my calendar is completely clear tomorrow","label":1,"idx":443}
+{"sentence":"set meeting for january twenty five","label":2,"idx":444}
+{"sentence":"note to self saturday sixteenth of march eight hundred valia's wedding","label":2,"idx":445}
+{"sentence":"what's on my schedule next week","label":0,"idx":446}
+{"sentence":"will you remind me of my next dentist appointment one day before","label":2,"idx":447}
+{"sentence":"on my sisters birthday send her flowers","label":2,"idx":448}
+{"sentence":"remind me about my next meeting a few hours ahead of time","label":2,"idx":449}
+{"sentence":"remind me about tomorrows meeting","label":2,"idx":450}
+{"sentence":"what date is it","label":0,"idx":451}
+{"sentence":"please add dinner plans to my calendar for sunday","label":2,"idx":452}
+{"sentence":"did i have any plans later on tonight at eight pm","label":0,"idx":453}
+{"sentence":"crate event swimming day on thursday and set it to repeat","label":2,"idx":454}
+{"sentence":"do i have any thing going on at five","label":0,"idx":455}
+{"sentence":"is the birthday dinner on the calendar for friday","label":0,"idx":456}
+{"sentence":"what are my calendar event","label":0,"idx":457}
+{"sentence":"schedule event for every wednesday","label":2,"idx":458}
+{"sentence":"please schedule a meeting with brian billings in accounting","label":2,"idx":459}
+{"sentence":"remind me at this time","label":2,"idx":460}
+{"sentence":"let me know later","label":2,"idx":461}
+{"sentence":"i don't need that event anymore","label":1,"idx":462}
+{"sentence":"please remove the appointment which i have made with mrjim","label":1,"idx":463}
+{"sentence":"where is tuesday's morning meeting","label":0,"idx":464}
+{"sentence":"delete all my events in my calendar","label":1,"idx":465}
+{"sentence":"what time does the downtown parade start","label":0,"idx":466}
+{"sentence":"every other monday remind me to take out the recycling","label":2,"idx":467}
+{"sentence":"please find information about the zach brown concert on june third","label":0,"idx":468}
+{"sentence":"please set this event on repeat this date","label":2,"idx":469}
+{"sentence":"can you schedule a meeting with mr chen on next monday six hundred pm","label":2,"idx":470}
+{"sentence":"remind me about meeting next week","label":2,"idx":471}
+{"sentence":"could you tell me who's birthdays are there in february","label":0,"idx":472}
+{"sentence":"erase my calendar","label":1,"idx":473}
+{"sentence":"remind me to go to the gym every Monday and Tuesday","label":2,"idx":474}
+{"sentence":"don't let me forget i need a reminder for march twenty seventh at noon","label":2,"idx":475}
+{"sentence":"tell me calendar event for tomorrow","label":2,"idx":476}
+{"sentence":"what time am i supposed to pick up john again","label":0,"idx":477}
+{"sentence":"remind me to contact old friends that i have not talked with in six months before they pass","label":2,"idx":478}
+{"sentence":"notify me about all meetings tomorrow","label":2,"idx":479}
+{"sentence":"set an event happy birthday john to repeat on twenty one january two thousand and seventeen","label":2,"idx":480}
+{"sentence":"google do i have any appointments on my calendar for friday","label":0,"idx":481}
+{"sentence":"delete my dr k appointment in march","label":1,"idx":482}
+{"sentence":"make a note to pay the electricity bill and remind me on saturday at nine am","label":2,"idx":483}
+{"sentence":"tell me what is on my schedule for today","label":0,"idx":484}
+{"sentence":"do i have an event on this date","label":0,"idx":485}
+{"sentence":"remove the next event from calendar","label":1,"idx":486}
+{"sentence":"set meeting with the ceo tomorrow","label":2,"idx":487}
+{"sentence":"set reminder to go workout at the gym every friday at eight hundred am","label":2,"idx":488}
+{"sentence":"on twenty third march i have to go to meet my aunt","label":2,"idx":489}
+{"sentence":"when is christmas according to the calendar","label":0,"idx":490}
+{"sentence":"alert me at the time of the event","label":2,"idx":491}
+{"sentence":"is jessica's birthday on april twelfth","label":0,"idx":492}
+{"sentence":"remove all the events from calendar","label":1,"idx":493}
+{"sentence":"iterate events on the note","label":0,"idx":494}
+{"sentence":"what do i have to do on monday","label":0,"idx":495}
+{"sentence":"don't let me forget tomorrow's meeting with sheila","label":2,"idx":496}
+{"sentence":"three pm meeting tomorrow remind me four hours prior to that meeting","label":2,"idx":497}
+{"sentence":"please remind me about valia's wedding two days before","label":2,"idx":498}
+{"sentence":"did you place the reminder about the meeting for tomorrow","label":0,"idx":499}
+{"sentence":"remind me of the event in my calendar","label":2,"idx":500}
+{"sentence":"please create an event with only these people","label":2,"idx":501}
+{"sentence":"on monday the twentieth i need to have a conversation with greg about our weekend trip","label":2,"idx":502}
+{"sentence":"send me a reminder of my meeting with tom next friday","label":2,"idx":503}
+{"sentence":"what time is the meeting tomorrow","label":0,"idx":504}
+{"sentence":"on friday please put dentist appointment at three","label":2,"idx":505}
+{"sentence":"please check and tell me about the reminders i have placed today","label":0,"idx":506}
+{"sentence":"is it any ones birthday","label":0,"idx":507}
+{"sentence":"give the time of classical music concert today in the city","label":0,"idx":508}
+{"sentence":"schedule","label":0,"idx":509}
+{"sentence":"please delete my calendar events","label":1,"idx":510}
+{"sentence":"what reminders do i have currently","label":0,"idx":511}
+{"sentence":"delete my doctors appointment this week","label":1,"idx":512}
+{"sentence":"mark dad's retirement dinner for april fourth","label":2,"idx":513}
+{"sentence":"what are the upcoming events","label":0,"idx":514}
+{"sentence":"please tell me what is on the calendar for this weekend","label":0,"idx":515}
+{"sentence":"today needs to be marked as my cheat day","label":2,"idx":516}
+{"sentence":"set the event name to interview","label":2,"idx":517}
+{"sentence":"remind me to pay my bills at the start of every month","label":2,"idx":518}
+{"sentence":"remind me about the picnic at regent park","label":2,"idx":519}
+{"sentence":"remind me every tuesday to go to the dry cleaners","label":2,"idx":520}
+{"sentence":"remove father's day from calendar","label":1,"idx":521}
+{"sentence":"what is my schedule for tomorrow morning","label":0,"idx":522}
+{"sentence":"create an event gym day on monday and set it to repeat","label":2,"idx":523}
+{"sentence":"do i have a party tomorrow save on my calendar","label":0,"idx":524}
+{"sentence":"what events are on my calendar","label":0,"idx":525}
+{"sentence":"set a reminder about tomorrows meeting at nine am","label":2,"idx":526}
+{"sentence":"make my calendar empty","label":1,"idx":527}
+{"sentence":"is there anything on my calendar","label":0,"idx":528}
+{"sentence":"do i have a doctors appointment today","label":0,"idx":529}
+{"sentence":"is there anything i need to be aware of","label":0,"idx":530}
+{"sentence":"give me a reminder twenty four hours before my Friday meeting with edg","label":2,"idx":531}
+{"sentence":"do i have any reminders pending","label":0,"idx":532}
+{"sentence":"i need to add an event on may fifth two thousand and seventeen location goshen for danny's graduation party","label":2,"idx":533}
+{"sentence":"please add an event to my calendar","label":2,"idx":534}
+{"sentence":"remind me to do something then","label":2,"idx":535}
+{"sentence":"make new schedule for tomorrow meeting","label":2,"idx":536}
+{"sentence":"tell me when the event starts","label":2,"idx":537}
+{"sentence":"set a reminder on fifteenth march as meeting","label":2,"idx":538}
+{"sentence":"four pm","label":2,"idx":539}
+{"sentence":"jonathan wants to meet up sundays at eleven can you remind me saturday night every week","label":2,"idx":540}
+{"sentence":"clear calendar of mine","label":1,"idx":541}
+{"sentence":"can you delete this dinner party event","label":1,"idx":542}
+{"sentence":"what's the schedule for this date","label":0,"idx":543}
+{"sentence":"what are we doing next week","label":0,"idx":544}
+{"sentence":"tell me something to remind this week","label":2,"idx":545}
+{"sentence":"create event christmas on december twenty five two thousand and seventeen and set it to a repeating reminder","label":2,"idx":546}
+{"sentence":"set up notification for meeting","label":2,"idx":547}
+{"sentence":"remind upcoming event's","label":2,"idx":548}
+{"sentence":"when is peter's birthday","label":0,"idx":549}
+{"sentence":"hi olly please remove the birthday event on coming sunday","label":1,"idx":550}
+{"sentence":"remove all events from my calendar","label":1,"idx":551}
+{"sentence":"show todays reminders","label":0,"idx":552}
+{"sentence":"notify me when this happens","label":2,"idx":553}
+{"sentence":"set a birthday event for martin","label":2,"idx":554}
+{"sentence":"add lee's birthday to the calendar on twenty two june","label":2,"idx":555}
+{"sentence":"please relocate all dates to the trash","label":1,"idx":556}
+{"sentence":"place a recurring occurence in my calendar","label":2,"idx":557}
+{"sentence":"do i have a two pm appointment","label":0,"idx":558}
+{"sentence":"remind me to get milk tomorrow","label":2,"idx":559}
+{"sentence":"remove the doctor's appointment i added to my calendar for february twelfth at nine am","label":1,"idx":560}
+{"sentence":"what time is my reservation for this saturday","label":0,"idx":561}
+{"sentence":"what are the events next week","label":0,"idx":562}
+{"sentence":"are there team meetups on the schedule this month","label":0,"idx":563}
+{"sentence":"clear all events from my calendar for next week","label":1,"idx":564}
+{"sentence":"add to calendar rick's birthday party on feb twenty nine","label":2,"idx":565}
+{"sentence":"remove new year from calendar","label":1,"idx":566}
+{"sentence":"remind me about my schedule for the afternoon","label":2,"idx":567}
+{"sentence":"attend party before the meeting","label":2,"idx":568}
+{"sentence":"meeting with love the next day","label":2,"idx":569}
+{"sentence":"clear my schedule","label":1,"idx":570}
+{"sentence":"what's happening this weekend","label":0,"idx":571}
+{"sentence":"please show today meting with clients","label":0,"idx":572}
+{"sentence":"are there any reminders left","label":0,"idx":573}
+{"sentence":"new event lunch outback","label":2,"idx":574}
+{"sentence":"cancel sam's party","label":1,"idx":575}
+{"sentence":"nice","label":2,"idx":576}
+{"sentence":"reminder set","label":2,"idx":577}
+{"sentence":"remove all events from calendar","label":1,"idx":578}
+{"sentence":"what's on today's schedule","label":0,"idx":579}
+{"sentence":"can you read my meetings today","label":0,"idx":580}
+{"sentence":"give me the list of all events coming up in the next month and set notifications for all of them","label":2,"idx":581}
+{"sentence":"set a meeting with tom on tuesday at nine am","label":2,"idx":582}
+{"sentence":"i would ask it to play the beep sound continuously","label":2,"idx":583}
+{"sentence":"i have a meeting with justin and katrina for friday","label":2,"idx":584}
+{"sentence":"there are many important event in this month note down that","label":2,"idx":585}
+{"sentence":"is my birthday this month","label":0,"idx":586}
+{"sentence":"i want to add something to my calendar","label":2,"idx":587}
+{"sentence":"wipe my calendar clean","label":1,"idx":588}
+{"sentence":"i am having a meeting on tomorrow set it","label":2,"idx":589}
+{"sentence":"its jim's birthday on second march mark it in your calendar","label":2,"idx":590}
+{"sentence":"please organize a meeting with my co workers","label":2,"idx":591}
+{"sentence":"add lunch appointment with lisa to january second at twelve thirty pm","label":2,"idx":592}
+{"sentence":"what events are on this month's schedule","label":0,"idx":593}
+{"sentence":"what are my next schedules","label":0,"idx":594}
+{"sentence":"what are the events in my calendar this week","label":0,"idx":595}
+{"sentence":"send invites to mike and jane for the nine am saturday appointment","label":2,"idx":596}
+{"sentence":"name can you tell me when i","label":0,"idx":597}
+{"sentence":"please set a notification on twenty third october about meeting with my colleague","label":2,"idx":598}
+{"sentence":"show me events that are going on right now","label":0,"idx":599}
+{"sentence":"notify me when my rent due","label":2,"idx":600}
+{"sentence":"do i have an appointment for lunch tomorrow","label":0,"idx":601}
+{"sentence":"remind me about my meeting at two pm","label":2,"idx":602}
+{"sentence":"remind me daily about inauguration function","label":2,"idx":603}
+{"sentence":"are there any mma events coming to golden one center","label":0,"idx":604}
+{"sentence":"for the next month how many meeting days available do i have that are convenient for me","label":0,"idx":605}
+{"sentence":"is thirteen november marked as holiday","label":0,"idx":606}
+{"sentence":"what is on event calendar for today","label":0,"idx":607}
+{"sentence":"where the party will take start","label":0,"idx":608}
+{"sentence":"do i have any available time for a doctor's appointment on tuesday morning","label":2,"idx":609}
+{"sentence":"give me the details of next reminder","label":0,"idx":610}
+{"sentence":"tell me my schedule for later this afternoon","label":0,"idx":611}
+{"sentence":"set up a meeting with my son's teacher for friday","label":2,"idx":612}
+{"sentence":"add jane's birthday party at one hundred and twenty three main for two pm tomorrow on my calendar","label":2,"idx":613}
+{"sentence":"will there any events downtown this weekend","label":0,"idx":614}
+{"sentence":"add my doctor appointment for the fifteenth","label":2,"idx":615}
+{"sentence":"please add a four pm appointment for every tuesday","label":2,"idx":616}
+{"sentence":"i have a event clock remind me","label":2,"idx":617}
+{"sentence":"make a repeating reminder for my yoga practice every day at noon","label":2,"idx":618}
+{"sentence":"set new reminder to every day","label":2,"idx":619}
+{"sentence":"please remind me of my teachers meeting on thursday at three pm","label":2,"idx":620}
+{"sentence":"exhibition two thousand and seventeen mass on mar twenty five make a note of it on the corresponding date","label":2,"idx":621}
+{"sentence":"prompt me about tv programme at sixteen fifteen on Thursday at bbc four","label":2,"idx":622}
+{"sentence":"there's a good band playing tonight at nine at jazz bar i want to go","label":2,"idx":623}
+{"sentence":"remove twenty fourth march meeting from schedule","label":1,"idx":624}
+{"sentence":"create new meeting event at two pm","label":2,"idx":625}
+{"sentence":"please set event on seven pm","label":2,"idx":626}
+{"sentence":"what do i need to remind for this afternoon","label":0,"idx":627}
+{"sentence":"how much time do i have left until the pta meeting","label":0,"idx":628}
+{"sentence":"note this event to my calendar","label":2,"idx":629}
+{"sentence":"may i ask you to remove next event from my calendar","label":1,"idx":630}
+{"sentence":"can you tell me about today","label":0,"idx":631}
+{"sentence":"what is the plan today","label":0,"idx":632}
+{"sentence":"upcoming meeting","label":2,"idx":633}
+{"sentence":"make an event reminder for a meeting with mona on tuesday","label":2,"idx":634}
+{"sentence":"delete the monthly recurring team meeting till june","label":1,"idx":635}
+{"sentence":"delete my meeting for two o'clock pm today","label":1,"idx":636}
+{"sentence":"do i need to pick up the kids from anything today","label":0,"idx":637}
+{"sentence":"please remove the parent teacher conference scheduled on march seven","label":1,"idx":638}
+{"sentence":"make event","label":2,"idx":639}
+{"sentence":"what reminders do i have today","label":0,"idx":640}
+{"sentence":"erase my current events from calendar","label":1,"idx":641}
+{"sentence":"just let me know the important work interviews in the next two days","label":2,"idx":642}
+{"sentence":"do i have any reminders for today","label":0,"idx":643}
+{"sentence":"can you repeat this event","label":2,"idx":644}
+{"sentence":"when is the bill cycle","label":0,"idx":645}
+{"sentence":"do i have a sales meeting today","label":0,"idx":646}
+{"sentence":"report the concert lineup with start times","label":0,"idx":647}
+{"sentence":"delete all meetings for tomorrow","label":1,"idx":648}
+{"sentence":"i want you to schedule a meeting with bryce jessie and carol for tomorrow at nine am","label":2,"idx":649}
+{"sentence":"clear up my calendar","label":1,"idx":650}
+{"sentence":"please alert me","label":2,"idx":651}
+{"sentence":"remove calendar events","label":1,"idx":652}
+{"sentence":"hey place an event in my calendar to go to the dentist on friday april seventh at four hundred and fifty park avenue new york ny eleven thousand two hundred and thirty two","label":2,"idx":653}
+{"sentence":"set a reminder alert for saturday nine am towards payment of electricity bill","label":2,"idx":654}
+{"sentence":"when was the last meeting","label":0,"idx":655}
+{"sentence":"remind me to have the presentation ready by ten on Wednesday","label":2,"idx":656}
+{"sentence":"make sure i have nothing to do on friday","label":0,"idx":657}
+{"sentence":"take birthday party off of calendar for may","label":1,"idx":658}
+{"sentence":"enter a reminder in my calendar for three pm meeting tomorrow","label":2,"idx":659}
+{"sentence":"is the meeting scheduled for tomorrow","label":0,"idx":660}
+{"sentence":"what do i have to do today","label":1,"idx":661}
+{"sentence":"add a meeting to my calendar for nine am with tom","label":2,"idx":662}
+{"sentence":"how me all my pending reminders","label":0,"idx":663}
+{"sentence":"let me know the morning of my doctor appointment on the twelfth","label":2,"idx":664}
+{"sentence":"what is next on my calendar","label":0,"idx":665}
+{"sentence":"delete all recurring staff meetings","label":1,"idx":666}
+{"sentence":"is mary's birthday party tonight","label":0,"idx":667}
+{"sentence":"remind me about tomorrows meeting tonight","label":2,"idx":668}
+{"sentence":"drop my june holiday from calendar","label":1,"idx":669}
+{"sentence":"give me today's calendar events after six pm","label":0,"idx":670}
+{"sentence":"bring up calendar and schedule meeting with ri april first ten am","label":2,"idx":671}
+{"sentence":"remind me of dinner with mom tonight on my calendar","label":2,"idx":672}
+{"sentence":"remind me about the meeting tomorrow one hour before","label":2,"idx":673}
+{"sentence":"tell me all the events between today and the twenty first","label":0,"idx":674}
+{"sentence":"tell me my meetings this Wednesday morning","label":0,"idx":675}
+{"sentence":"delete the next event in the calendar","label":1,"idx":676}
+{"sentence":"what events do i have today","label":0,"idx":677}
+{"sentence":"add weekly one pm call to calendar","label":2,"idx":678}
+{"sentence":"delete eric's bday from the calendar","label":1,"idx":679}
+{"sentence":"add haircut to my appointments on saturday afternoon at four","label":2,"idx":680}
+{"sentence":"where will the event be held","label":0,"idx":681}
+{"sentence":"hey please provide information about events by the end of the day","label":0,"idx":682}
+{"sentence":"send a calendar appointment to jan","label":2,"idx":683}
+{"sentence":"do i have a doctor's appointment in my calendar","label":0,"idx":684}
+{"sentence":"delete my next calendar event","label":1,"idx":685}
+{"sentence":"what day and time is the acme meeting in san diego california","label":0,"idx":686}
+{"sentence":"what appointments do i have today","label":0,"idx":687}
+{"sentence":"add a reminder of a conference for tomorrow in new york","label":2,"idx":688}
+{"sentence":"can you add my business meeting to the work calendar","label":2,"idx":689}
+{"sentence":"tell me about the next devil's hockey game friday","label":0,"idx":690}
+{"sentence":"add a meeting at the office with brian for three pm on tuesday","label":2,"idx":691}
+{"sentence":"what's on my calendar","label":0,"idx":692}
+{"sentence":"set a reminder for april seventh at four pm","label":2,"idx":693}
+{"sentence":"for a new event or meeting request choose repeat on the toolbar","label":2,"idx":694}
+{"sentence":"what do i have for today","label":0,"idx":695}
+{"sentence":"please check third event of twenty second of march twenty seventeen","label":0,"idx":696}
+{"sentence":"can you delete the doctors appointment i had Tuesday","label":1,"idx":697}
+{"sentence":"find and delete all of my weekend events with evan parker","label":1,"idx":698}
+{"sentence":"events description","label":0,"idx":699}
+{"sentence":"add a party in ny city for this saturday","label":2,"idx":700}
+{"sentence":"set any appointment for this event in my calendar","label":2,"idx":701}
+{"sentence":"add yoga to my calendar for friday","label":2,"idx":702}
+{"sentence":"give some of delete in today events","label":1,"idx":703}
+{"sentence":"i need to meet with debby tomorrow","label":2,"idx":704}
+{"sentence":"put my brother's birthday in my calendar for july fourth","label":2,"idx":705}
+{"sentence":"remember event for date","label":2,"idx":706}
+{"sentence":"clear my schedule for the month","label":1,"idx":707}
+{"sentence":"please remind me that i have a meeting tomorrow ten in the morning","label":2,"idx":708}
+{"sentence":"are there any reminders set for today","label":0,"idx":709}
+{"sentence":"can you confirm that my meeting for tomorrow has been cancelled","label":0,"idx":710}
+{"sentence":"schedule lunch with tom next week on monday at eleven thirty am","label":2,"idx":711}
+{"sentence":"set calendar for date and time with this person","label":2,"idx":712}
+{"sentence":"set aside this day for this calendar event","label":2,"idx":713}
+{"sentence":"remove upcoming task","label":1,"idx":714}
+{"sentence":"do i have any events happening next week","label":0,"idx":715}
+{"sentence":"remind this event in future","label":2,"idx":716}
+{"sentence":"can you remind me to order the turkey three weeks before thanksgiving","label":2,"idx":717}
+{"sentence":"can you clear the next event","label":1,"idx":718}
+{"sentence":"cancel dinner tonight","label":1,"idx":719}
+{"sentence":"jack birthday is on fifteenth march set a reminder","label":2,"idx":720}
+{"sentence":"do i have any meetings next week","label":0,"idx":721}
+{"sentence":"delete upcoming event","label":1,"idx":722}
+{"sentence":"please delete all reminder of sunday","label":1,"idx":723}
+{"sentence":"write down that i am going to meet with jenny on the third okay","label":2,"idx":724}
+{"sentence":"find remainder and delete","label":1,"idx":725}
+{"sentence":"delete my whole calendar for today","label":1,"idx":726}
+{"sentence":"please add this event","label":2,"idx":727}
+{"sentence":"add the following date and time to my calendar","label":2,"idx":728}
+{"sentence":"what time is my next appointment","label":0,"idx":729}
+{"sentence":"please restart and remove all the entries in the calendar","label":1,"idx":730}
+{"sentence":"let me know about my next meeting two hours before it starts","label":2,"idx":731}
+{"sentence":"what do i have scheduled for tomorrow i need to cancel","label":1,"idx":732}
+{"sentence":"please remove that event from my calendar","label":1,"idx":733}
+{"sentence":"whats my schedule today","label":0,"idx":734}
+{"sentence":"remind me when the concert tickets go on sale","label":2,"idx":735}
+{"sentence":"set a reminder of meeting at nine am tomorrow","label":2,"idx":736}
+{"sentence":"go to calendar and delete an third event of twenty seventh of march twenty seventeen","label":1,"idx":737}
+{"sentence":"next event is canceled","label":1,"idx":738}
+{"sentence":"remove all scheduled events on my calendar please","label":1,"idx":739}
+{"sentence":"when the meeting start","label":0,"idx":740}
+{"sentence":"set a meeting with the hr department for the end of the month","label":2,"idx":741}
+{"sentence":"update the calendar with the last event removed","label":1,"idx":742}
+{"sentence":"just set me reminders about pending payment of children school fees","label":2,"idx":743}
+{"sentence":"what time is the cantonese dog festival","label":0,"idx":744}
+{"sentence":"book a meeting with chelsea","label":2,"idx":745}
+{"sentence":"tell me about oldest reminder","label":0,"idx":746}
+{"sentence":"show future events","label":0,"idx":747}
+{"sentence":"delete the shopping trip i have scheduled march twenty third","label":1,"idx":748}
+{"sentence":"i want you to remind me to take my rain coat because it may rain","label":2,"idx":749}
+{"sentence":"remind me about mike's birthdays","label":2,"idx":750}
+{"sentence":"remember to pick me up by twelve noon from the airport i have a three pm meeting","label":2,"idx":751}
+{"sentence":"delete my surprise event for thursday","label":1,"idx":752}
+{"sentence":"who am i meeting with later","label":0,"idx":753}
+{"sentence":"in the last year how many hours have i been in meetings","label":0,"idx":754}
+{"sentence":"i want you to remove the wedding on the tenth from my calendar","label":1,"idx":755}
+{"sentence":"how many pending reminders do i have","label":0,"idx":756}
+{"sentence":"notify me two hours before my meeting","label":2,"idx":757}
+{"sentence":"add a meeting tomorrow with a pamela at six","label":2,"idx":758}
+{"sentence":"with whom do i have a sales interview tomorrow","label":0,"idx":759}
+{"sentence":"remove thursday's lunch from my calendar","label":1,"idx":760}
+{"sentence":"is there any reminder for me","label":0,"idx":761}
+{"sentence":"clear future event","label":1,"idx":762}
+{"sentence":"remind me to send the presentation today at one pm","label":2,"idx":763}
+{"sentence":"tell me what's happening this week","label":0,"idx":764}
+{"sentence":"what is the next event in my calendar","label":0,"idx":765}
+{"sentence":"i am going tomorrow for a function","label":2,"idx":766}
+{"sentence":"mark the event monthly","label":2,"idx":767}
+{"sentence":"what time is the evening meeting i have with john","label":0,"idx":768}
+{"sentence":"give me a reminder at eight pm for the game","label":2,"idx":769}
+{"sentence":"calendar henvich marriage","label":2,"idx":770}
+{"sentence":"i have a function at washington tomorrow remind it","label":2,"idx":771}
+{"sentence":"remove trip event","label":1,"idx":772}
+{"sentence":"remind me two days before","label":2,"idx":773}
+{"sentence":"remove that event from calendar","label":1,"idx":774}
+{"sentence":"remove this event from my calendar","label":1,"idx":775}
+{"sentence":"cancel the meeting next week Thursday at two pm","label":1,"idx":776}
+{"sentence":"pencil in coffee with jamal at starbucks for three pm on tuesday","label":2,"idx":777}
+{"sentence":"set a notification for fifth march that i have a doctor's appointment at ten am","label":2,"idx":778}
+{"sentence":"would you please notify me about the event in my calendar","label":2,"idx":779}
+{"sentence":"open calendar and erase all events for all months","label":1,"idx":780}
+{"sentence":"what's going on between three hundred and thirty and four","label":0,"idx":781}
+{"sentence":"do i have anything scheduled in my events","label":0,"idx":782}
+{"sentence":"i needed to prepare for a meeting","label":0,"idx":783}
+{"sentence":"please remove event name","label":1,"idx":784}
+{"sentence":"add to calendar and repeat","label":2,"idx":785}
+{"sentence":"remind me to meet with steve at one pm tomorrow","label":2,"idx":786}
+{"sentence":"notify me on march eleventh the day of my appointment","label":2,"idx":787}
+{"sentence":"add meeting with all employees on march twenty at nine am","label":2,"idx":788}
+{"sentence":"add my co worker ann to submit project for work on tuesday","label":2,"idx":789}
+{"sentence":"i have a department head meeting friday at nine am sharp","label":2,"idx":790}
+{"sentence":"repeat an event in my calendar","label":2,"idx":791}
+{"sentence":"set reminder for two pm about my meeting","label":2,"idx":792}
+{"sentence":"show me all meeting reminder","label":0,"idx":793}
+{"sentence":"repeat daily activity","label":2,"idx":794}
+{"sentence":"do i have a meeting on saturday march twenty fifth","label":0,"idx":795}
+{"sentence":"remind me about the meeting with dentist on the twenty third of may","label":2,"idx":796}
+{"sentence":"can you remind me to go to dentist appointment one day before","label":2,"idx":797}
+{"sentence":"reset all events in calendar","label":1,"idx":798}
+{"sentence":"when the birthday will be","label":0,"idx":799}
+{"sentence":"how long will my lunch meeting be on tuesday","label":0,"idx":800}
+{"sentence":"cancel all meetings for today","label":1,"idx":801}
+{"sentence":"will you send a calendar invite out to james and alice for brunch at eleven am on tuesday","label":2,"idx":802}
+{"sentence":"what time is my meeting","label":0,"idx":803}
+{"sentence":"do i have an appointment next week","label":0,"idx":804}
+{"sentence":"repeat birthday","label":2,"idx":805}
+{"sentence":"schedule brunch at ten am today and invite tiffany and jessica please","label":2,"idx":806}
+{"sentence":"set the event to recur on the first monday of the month","label":2,"idx":807}
+{"sentence":"add on my calendar for today joe smith at one pm","label":2,"idx":808}
+{"sentence":"do i have a meeting this afternoon","label":0,"idx":809}
+{"sentence":"erase all events on the calendar","label":1,"idx":810}
+{"sentence":"can i know what i have to do the next saturday at six pm","label":2,"idx":811}
+{"sentence":"set event date in calendar with others","label":2,"idx":812}
+{"sentence":"do i have any reminders set","label":0,"idx":813}
+{"sentence":"add birthday at john's house on twenty three may two thousand and seventeen","label":2,"idx":814}
+{"sentence":"can you invite mr chen for a meeting next monday six hundred pm","label":2,"idx":815}
+{"sentence":"who am i eating lunch with today","label":0,"idx":816}
+{"sentence":"make a note of my doctor's appointment on wednesday next week","label":2,"idx":817}
+{"sentence":"free up my schedule for the next week","label":1,"idx":818}
+{"sentence":"when is bank holiday","label":0,"idx":819}
+{"sentence":"can you remind me of sunday gym every saturday evening","label":2,"idx":820}
+{"sentence":"remind me of the following event","label":2,"idx":821}
+{"sentence":"display my schedule for today","label":0,"idx":822}
+{"sentence":"set a weekly meeting for friday nine am","label":2,"idx":823}
+{"sentence":"i want to add an event to my calendar","label":2,"idx":824}
+{"sentence":"do i have anything on this date","label":0,"idx":825}
+{"sentence":"can you read me my next reminders","label":0,"idx":826}
+{"sentence":"set soccer game with mark in my calendar for tuesday night","label":2,"idx":827}
+{"sentence":"hey place an event in my calendar to go to the doctor on friday april fourteenth at one hundred and twenty three water street new york ny eleven thousand two hundred and eighty nine","label":2,"idx":828}
+{"sentence":"when does the next meeting start","label":0,"idx":829}
+{"sentence":"can you remind me about kirsten's dinner party on the first of may","label":2,"idx":830}
+{"sentence":"calendar event","label":2,"idx":831}
+{"sentence":"open events this week","label":0,"idx":832}
+{"sentence":"remove standup on friday at ten am","label":1,"idx":833}
+{"sentence":"what is happening this weekend","label":0,"idx":834}
+{"sentence":"remind me tomorrow at four about an event","label":2,"idx":835}
+{"sentence":"pencil me in for sarahs birthday party on the twelveth","label":2,"idx":836}
+{"sentence":"please add this event to my calendar","label":2,"idx":837}
+{"sentence":"invite john to a meeting tomorrow morning at nine o'clock","label":2,"idx":838}
+{"sentence":"on twenty third february rahul will come with me on india cricket match","label":2,"idx":839}
+{"sentence":"alert","label":2,"idx":840}
+{"sentence":"family date this monday","label":2,"idx":841}
+{"sentence":"set a reminder for wishing a friend tomorrow at ten am","label":2,"idx":842}
+{"sentence":"tell me the locations of my meetings for today","label":0,"idx":843}
+{"sentence":"set reminder anna for every monday","label":2,"idx":844}
+{"sentence":"what do i have planned next","label":0,"idx":845}
+{"sentence":"remain day after events in calendar","label":2,"idx":846}
+{"sentence":"reminders for card payments","label":2,"idx":847}
+{"sentence":"calendar event send invite bill malinda","label":2,"idx":848}
+{"sentence":"erase my appointment with ted","label":1,"idx":849}
+{"sentence":"am i busy this weekend","label":0,"idx":850}
+{"sentence":"set repeating reminder for every sunday","label":2,"idx":851}
+{"sentence":"please add party at chucky cheese to calendar","label":2,"idx":852}
+{"sentence":"remind me the reminders i have set","label":0,"idx":853}
+{"sentence":"what's up today","label":0,"idx":854}
+{"sentence":"remove event","label":1,"idx":855}
+{"sentence":"invite jack for meeting tomorrow","label":2,"idx":856}
+{"sentence":"notify me about the evening meeting five minute in advance","label":2,"idx":857}
+{"sentence":"could you add this on my calendar please","label":2,"idx":858}
+{"sentence":"is tomorrow a holiday","label":0,"idx":859}
+{"sentence":"remind me if anything else happens","label":2,"idx":860}
+{"sentence":"show me my reminders","label":0,"idx":861}
+{"sentence":"can you remove seeing dentist from my calendar","label":1,"idx":862}
+{"sentence":"twelveth july is bola's birthday and my calendar to be updated with this date","label":2,"idx":863}
+{"sentence":"i have set reminders","label":0,"idx":864}
+{"sentence":"make an appointment for me next saturday at five at the library and set a reminder","label":2,"idx":865}
+{"sentence":"set reminder for date night with husband next friday","label":2,"idx":866}
+{"sentence":"give me the information of today's cricket match","label":0,"idx":867}
+{"sentence":"what's on my agenda","label":0,"idx":868}
+{"sentence":"do i have anything scheduled for today","label":0,"idx":869}
+{"sentence":"cancel","label":1,"idx":870}
+{"sentence":"set reminder","label":2,"idx":871}
+{"sentence":"remove all my appointments for today","label":1,"idx":872}
+{"sentence":"let me know if there is a town meeting monday","label":0,"idx":873}
+{"sentence":"read upcoming event's","label":0,"idx":874}
+{"sentence":"add event for meeting with james","label":2,"idx":875}
+{"sentence":"google is my thursday appointment with my dentist","label":0,"idx":876}
+{"sentence":"remind me for tomorrow interview","label":2,"idx":877}
+{"sentence":"please remind to sleep at nine pm","label":2,"idx":878}
+{"sentence":"what time does the meeting start","label":0,"idx":879}
+{"sentence":"remind me about the brantly gilbert concert at us bank arena at eight tomorrow","label":2,"idx":880}
+{"sentence":"remove wyatt's birthday party on my calendar","label":1,"idx":881}
+{"sentence":"set the event to recur every week","label":2,"idx":882}
+{"sentence":"details","label":0,"idx":883}
+{"sentence":"set an event","label":2,"idx":884}
+{"sentence":"book my next free day in the calendar for me to get a haircut at sally's","label":2,"idx":885}
+{"sentence":"go to the next event in the calendar and delete it","label":1,"idx":886}
+{"sentence":"is today my brothers birthday","label":0,"idx":887}
+{"sentence":"remind me after a month","label":2,"idx":888}
+{"sentence":"clear my next event","label":1,"idx":889}
+{"sentence":"next month my brothers birthday","label":2,"idx":890}
+{"sentence":"please add march fifth as john's birthday","label":2,"idx":891}
+{"sentence":"today calendar","label":0,"idx":892}
+{"sentence":"set a meeting with phil every wednesday for five pm","label":2,"idx":893}
+{"sentence":"create reminder for laundry at eight pm","label":2,"idx":894}
+{"sentence":"meetings","label":2,"idx":895}
+{"sentence":"set up the following event in the calendar with the following people","label":2,"idx":896}

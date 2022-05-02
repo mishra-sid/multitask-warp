@@ -1,124 +1,124 @@
-{"text":"who sings the song about a long black train","scenario":"music","labels":2}
-{"text":"make a note that i don't like this song","scenario":"music","labels":0}
-{"text":"please tell me the name of this band","scenario":"music","labels":2}
-{"text":"what artist is this","scenario":"music","labels":2}
-{"text":"whats the name of the current song","scenario":"music","labels":2}
-{"text":"i hate this song please remember that so that i don't hear this song ever again","scenario":"music","labels":0}
-{"text":"i hate this song","scenario":"music","labels":0}
-{"text":"which type of music it is","scenario":"music","labels":2}
-{"text":"please keep everything i have on this song","scenario":"music","labels":1}
-{"text":"remember that this song is depressing for me please don't play it during the winter days","scenario":"music","labels":0}
-{"text":"i really enjoy this song","scenario":"music","labels":1}
-{"text":"do i have any music by lady antebellum","scenario":"music","labels":2}
-{"text":"tell me the name of this music","scenario":"music","labels":2}
-{"text":"make a laundry setting for the volume at twenty","scenario":"music","labels":3}
-{"text":"i like top forty music","scenario":"music","labels":1}
-{"text":"repeat song","scenario":"music","labels":3}
-{"text":"give five stars to this song","scenario":"music","labels":1}
-{"text":"tell me starting phrase of this music","scenario":"music","labels":2}
-{"text":"when did pop it like it's hot come out","scenario":"music","labels":2}
-{"text":"this is my favorite song","scenario":"music","labels":1}
-{"text":"was this song in the top twenty","scenario":"music","labels":2}
-{"text":"check the current playing music title","scenario":"music","labels":2}
-{"text":"date of recording of the song playing","scenario":"music","labels":2}
-{"text":"please turn on repeat all","scenario":"music","labels":3}
-{"text":"you like the song","scenario":"music","labels":1}
-{"text":"who is the singer","scenario":"music","labels":2}
-{"text":"slow rock it's ok","scenario":"music","labels":1}
-{"text":"please put this playlist on shuffle","scenario":"music","labels":3}
-{"text":"i love zydeco jams","scenario":"music","labels":1}
-{"text":"what is the length of song","scenario":"music","labels":2}
-{"text":"what is the name of the current song","scenario":"music","labels":2}
-{"text":"what song is playing on windows media player","scenario":"music","labels":2}
-{"text":"loop this track","scenario":"music","labels":3}
-{"text":"what is a good rap album that came out this year","scenario":"music","labels":2}
-{"text":"add this channel to pandora","scenario":"music","labels":1}
-{"text":"find me the song currently playing","scenario":"music","labels":2}
-{"text":"please save this song to my favorites","scenario":"music","labels":1}
-{"text":"remember that this song is good but too slow to exercise to","scenario":"music","labels":1}
-{"text":"what genre is most played on my music player","scenario":"music","labels":2}
-{"text":"list out all song","scenario":"music","labels":2}
-{"text":"explanation of the song","scenario":"music","labels":2}
-{"text":"please note i like jazz and hate disco","scenario":"music","labels":1}
-{"text":"who is the song playing by","scenario":"music","labels":2}
-{"text":"please check my playlists for jazz music","scenario":"music","labels":3}
-{"text":"i love the song do you","scenario":"music","labels":1}
-{"text":"tell artist and title of this song","scenario":"music","labels":2}
-{"text":"i don't like this song","scenario":"music","labels":0}
-{"text":"please save that song","scenario":"music","labels":1}
-{"text":"smiley","scenario":"music","labels":2}
-{"text":"enable shuffle","scenario":"music","labels":3}
-{"text":"i want to know about this song","scenario":"music","labels":2}
-{"text":"all i ever want to hear is rap","scenario":"music","labels":1}
-{"text":"do you recognize the song playing on my phone","scenario":"music","labels":2}
-{"text":"can you save this song to my favorites","scenario":"music","labels":1}
-{"text":"cut the songs in this musics","scenario":"music","labels":3}
-{"text":"which song is this one","scenario":"music","labels":2}
-{"text":"what music do i usually listen to","scenario":"music","labels":2}
-{"text":"add that song to my top ten favorites list","scenario":"music","labels":1}
-{"text":"please give me detail of o zaalima song","scenario":"music","labels":2}
-{"text":"hey i like music by sigur ros","scenario":"music","labels":1}
-{"text":"by calling my friends","scenario":"music","labels":1}
-{"text":"what is the title and artist of this song","scenario":"music","labels":2}
-{"text":"repeat the last song again","scenario":"music","labels":3}
-{"text":"make sure my shuffles are always repeat and always shuffled","scenario":"music","labels":3}
-{"text":"i've heard this riff before what song stole this riff it's exactly the same","scenario":"music","labels":2}
-{"text":"add this song to favorites playlist","scenario":"music","labels":1}
-{"text":"what is that song playing in the background","scenario":"music","labels":2}
-{"text":"do not play this song again","scenario":"music","labels":0}
-{"text":"tell me the artist of this song","scenario":"music","labels":2}
-{"text":"give me name and type of this music","scenario":"music","labels":2}
-{"text":"what music is this","scenario":"music","labels":2}
-{"text":"show me results of what i'm listening to","scenario":"music","labels":2}
-{"text":"shuffle the songs in the music library","scenario":"music","labels":3}
-{"text":"add song to running list","scenario":"music","labels":1}
-{"text":"please show me detail of current playing song","scenario":"music","labels":2}
-{"text":"download and save song of dangal movie","scenario":"music","labels":1}
-{"text":"tell me the song track","scenario":"music","labels":2}
-{"text":"neat","scenario":"music","labels":2}
-{"text":"which song is this","scenario":"music","labels":2}
-{"text":"you have to check out kfi he's the best","scenario":"music","labels":1}
-{"text":"whats on the radio that i would like","scenario":"music","labels":3}
-{"text":"what music do i usually like after work","scenario":"music","labels":2}
-{"text":"i like music from when i was a teenager in the","scenario":"music","labels":1}
-{"text":"add my opinion to this song great","scenario":"music","labels":1}
-{"text":"what is the name of the music playing now","scenario":"music","labels":2}
-{"text":"by keying in the computer in social medias","scenario":"music","labels":1}
-{"text":"what have i played the most","scenario":"music","labels":2}
-{"text":"draw pb","scenario":"music","labels":1}
-{"text":"tell me more about adele","scenario":"music","labels":2}
-{"text":"rate five","scenario":"music","labels":1}
-{"text":"i like rock music","scenario":"music","labels":1}
-{"text":"who has covered this song","scenario":"music","labels":2}
-{"text":"whats playing","scenario":"music","labels":2}
-{"text":"please save the current song to favorites","scenario":"music","labels":1}
-{"text":"please rate current song as five stars","scenario":"music","labels":1}
-{"text":"show me the picture of the singer","scenario":"music","labels":2}
-{"text":"is that song from shakira","scenario":"music","labels":2}
-{"text":"repeat this song","scenario":"music","labels":3}
-{"text":"please use shuffle","scenario":"music","labels":3}
-{"text":"sound cloud","scenario":"music","labels":2}
-{"text":"search the album name with katy perry","scenario":"music","labels":2}
-{"text":"i like jazz you should know","scenario":"music","labels":1}
-{"text":"what is the title of this song and please shuffle songs from the artist that sang it","scenario":"music","labels":2}
-{"text":"repeat the song playing now","scenario":"music","labels":3}
-{"text":"thumbs up this song","scenario":"music","labels":1}
-{"text":"what year was this song recorded","scenario":"music","labels":2}
-{"text":"nice music","scenario":"music","labels":1}
-{"text":"save my spotify preferences","scenario":"music","labels":1}
-{"text":"save my opinion on adele's song","scenario":"music","labels":1}
-{"text":"i like electronic music","scenario":"music","labels":1}
-{"text":"what year did this song come out","scenario":"music","labels":2}
-{"text":"this is a good song put it on repeat","scenario":"music","labels":1}
-{"text":"please lower the shuffle rate of hips don't lie","scenario":"music","labels":3}
-{"text":"add that song to my playlist","scenario":"music","labels":1}
-{"text":"from which movie is the song","scenario":"music","labels":2}
-{"text":"select shuffle all","scenario":"music","labels":3}
-{"text":"i have to done it on the post important music file","scenario":"music","labels":1}
-{"text":"remember that this is my favorite music","scenario":"music","labels":1}
-{"text":"give me the details on elton john","scenario":"music","labels":2}
-{"text":"isn't it a lovely song please save this for me","scenario":"music","labels":1}
-{"text":"what is the title of this song","scenario":"music","labels":2}
-{"text":"in classic all music are there ever any singers","scenario":"music","labels":2}
-{"text":"show me music by that artist","scenario":"music","labels":2}
-{"text":"save all of my preferences information specific to songs","scenario":"music","labels":1}
+{"sentence":"who sings the song about a long black train","label":2,"idx":0}
+{"sentence":"make a note that i don't like this song","label":0,"idx":1}
+{"sentence":"please tell me the name of this band","label":2,"idx":2}
+{"sentence":"what artist is this","label":2,"idx":3}
+{"sentence":"whats the name of the current song","label":2,"idx":4}
+{"sentence":"i hate this song please remember that so that i don't hear this song ever again","label":0,"idx":5}
+{"sentence":"i hate this song","label":0,"idx":6}
+{"sentence":"which type of music it is","label":2,"idx":7}
+{"sentence":"please keep everything i have on this song","label":1,"idx":8}
+{"sentence":"remember that this song is depressing for me please don't play it during the winter days","label":0,"idx":9}
+{"sentence":"i really enjoy this song","label":1,"idx":10}
+{"sentence":"do i have any music by lady antebellum","label":2,"idx":11}
+{"sentence":"tell me the name of this music","label":2,"idx":12}
+{"sentence":"make a laundry setting for the volume at twenty","label":3,"idx":13}
+{"sentence":"i like top forty music","label":1,"idx":14}
+{"sentence":"repeat song","label":3,"idx":15}
+{"sentence":"give five stars to this song","label":1,"idx":16}
+{"sentence":"tell me starting phrase of this music","label":2,"idx":17}
+{"sentence":"when did pop it like it's hot come out","label":2,"idx":18}
+{"sentence":"this is my favorite song","label":1,"idx":19}
+{"sentence":"was this song in the top twenty","label":2,"idx":20}
+{"sentence":"check the current playing music title","label":2,"idx":21}
+{"sentence":"date of recording of the song playing","label":2,"idx":22}
+{"sentence":"please turn on repeat all","label":3,"idx":23}
+{"sentence":"you like the song","label":1,"idx":24}
+{"sentence":"who is the singer","label":2,"idx":25}
+{"sentence":"slow rock it's ok","label":1,"idx":26}
+{"sentence":"please put this playlist on shuffle","label":3,"idx":27}
+{"sentence":"i love zydeco jams","label":1,"idx":28}
+{"sentence":"what is the length of song","label":2,"idx":29}
+{"sentence":"what is the name of the current song","label":2,"idx":30}
+{"sentence":"what song is playing on windows media player","label":2,"idx":31}
+{"sentence":"loop this track","label":3,"idx":32}
+{"sentence":"what is a good rap album that came out this year","label":2,"idx":33}
+{"sentence":"add this channel to pandora","label":1,"idx":34}
+{"sentence":"find me the song currently playing","label":2,"idx":35}
+{"sentence":"please save this song to my favorites","label":1,"idx":36}
+{"sentence":"remember that this song is good but too slow to exercise to","label":1,"idx":37}
+{"sentence":"what genre is most played on my music player","label":2,"idx":38}
+{"sentence":"list out all song","label":2,"idx":39}
+{"sentence":"explanation of the song","label":2,"idx":40}
+{"sentence":"please note i like jazz and hate disco","label":1,"idx":41}
+{"sentence":"who is the song playing by","label":2,"idx":42}
+{"sentence":"please check my playlists for jazz music","label":3,"idx":43}
+{"sentence":"i love the song do you","label":1,"idx":44}
+{"sentence":"tell artist and title of this song","label":2,"idx":45}
+{"sentence":"i don't like this song","label":0,"idx":46}
+{"sentence":"please save that song","label":1,"idx":47}
+{"sentence":"smiley","label":2,"idx":48}
+{"sentence":"enable shuffle","label":3,"idx":49}
+{"sentence":"i want to know about this song","label":2,"idx":50}
+{"sentence":"all i ever want to hear is rap","label":1,"idx":51}
+{"sentence":"do you recognize the song playing on my phone","label":2,"idx":52}
+{"sentence":"can you save this song to my favorites","label":1,"idx":53}
+{"sentence":"cut the songs in this musics","label":3,"idx":54}
+{"sentence":"which song is this one","label":2,"idx":55}
+{"sentence":"what music do i usually listen to","label":2,"idx":56}
+{"sentence":"add that song to my top ten favorites list","label":1,"idx":57}
+{"sentence":"please give me detail of o zaalima song","label":2,"idx":58}
+{"sentence":"hey i like music by sigur ros","label":1,"idx":59}
+{"sentence":"by calling my friends","label":1,"idx":60}
+{"sentence":"what is the title and artist of this song","label":2,"idx":61}
+{"sentence":"repeat the last song again","label":3,"idx":62}
+{"sentence":"make sure my shuffles are always repeat and always shuffled","label":3,"idx":63}
+{"sentence":"i've heard this riff before what song stole this riff it's exactly the same","label":2,"idx":64}
+{"sentence":"add this song to favorites playlist","label":1,"idx":65}
+{"sentence":"what is that song playing in the background","label":2,"idx":66}
+{"sentence":"do not play this song again","label":0,"idx":67}
+{"sentence":"tell me the artist of this song","label":2,"idx":68}
+{"sentence":"give me name and type of this music","label":2,"idx":69}
+{"sentence":"what music is this","label":2,"idx":70}
+{"sentence":"show me results of what i'm listening to","label":2,"idx":71}
+{"sentence":"shuffle the songs in the music library","label":3,"idx":72}
+{"sentence":"add song to running list","label":1,"idx":73}
+{"sentence":"please show me detail of current playing song","label":2,"idx":74}
+{"sentence":"download and save song of dangal movie","label":1,"idx":75}
+{"sentence":"tell me the song track","label":2,"idx":76}
+{"sentence":"neat","label":2,"idx":77}
+{"sentence":"which song is this","label":2,"idx":78}
+{"sentence":"you have to check out kfi he's the best","label":1,"idx":79}
+{"sentence":"whats on the radio that i would like","label":3,"idx":80}
+{"sentence":"what music do i usually like after work","label":2,"idx":81}
+{"sentence":"i like music from when i was a teenager in the","label":1,"idx":82}
+{"sentence":"add my opinion to this song great","label":1,"idx":83}
+{"sentence":"what is the name of the music playing now","label":2,"idx":84}
+{"sentence":"by keying in the computer in social medias","label":1,"idx":85}
+{"sentence":"what have i played the most","label":2,"idx":86}
+{"sentence":"draw pb","label":1,"idx":87}
+{"sentence":"tell me more about adele","label":2,"idx":88}
+{"sentence":"rate five","label":1,"idx":89}
+{"sentence":"i like rock music","label":1,"idx":90}
+{"sentence":"who has covered this song","label":2,"idx":91}
+{"sentence":"whats playing","label":2,"idx":92}
+{"sentence":"please save the current song to favorites","label":1,"idx":93}
+{"sentence":"please rate current song as five stars","label":1,"idx":94}
+{"sentence":"show me the picture of the singer","label":2,"idx":95}
+{"sentence":"is that song from shakira","label":2,"idx":96}
+{"sentence":"repeat this song","label":3,"idx":97}
+{"sentence":"please use shuffle","label":3,"idx":98}
+{"sentence":"sound cloud","label":2,"idx":99}
+{"sentence":"search the album name with katy perry","label":2,"idx":100}
+{"sentence":"i like jazz you should know","label":1,"idx":101}
+{"sentence":"what is the title of this song and please shuffle songs from the artist that sang it","label":2,"idx":102}
+{"sentence":"repeat the song playing now","label":3,"idx":103}
+{"sentence":"thumbs up this song","label":1,"idx":104}
+{"sentence":"what year was this song recorded","label":2,"idx":105}
+{"sentence":"nice music","label":1,"idx":106}
+{"sentence":"save my spotify preferences","label":1,"idx":107}
+{"sentence":"save my opinion on adele's song","label":1,"idx":108}
+{"sentence":"i like electronic music","label":1,"idx":109}
+{"sentence":"what year did this song come out","label":2,"idx":110}
+{"sentence":"this is a good song put it on repeat","label":1,"idx":111}
+{"sentence":"please lower the shuffle rate of hips don't lie","label":3,"idx":112}
+{"sentence":"add that song to my playlist","label":1,"idx":113}
+{"sentence":"from which movie is the song","label":2,"idx":114}
+{"sentence":"select shuffle all","label":3,"idx":115}
+{"sentence":"i have to done it on the post important music file","label":1,"idx":116}
+{"sentence":"remember that this is my favorite music","label":1,"idx":117}
+{"sentence":"give me the details on elton john","label":2,"idx":118}
+{"sentence":"isn't it a lovely song please save this for me","label":1,"idx":119}
+{"sentence":"what is the title of this song","label":2,"idx":120}
+{"sentence":"in classic all music are there ever any singers","label":2,"idx":121}
+{"sentence":"show me music by that artist","label":2,"idx":122}
+{"sentence":"save all of my preferences information specific to songs","label":1,"idx":123}

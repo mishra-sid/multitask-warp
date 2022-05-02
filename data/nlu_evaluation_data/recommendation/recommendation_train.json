@@ -1,337 +1,337 @@
-{"text":"show me theatre where pirates of caribbean is playing","scenario":"recommendation","labels":2}
-{"text":"show me concerts in sacramento","scenario":"recommendation","labels":0}
-{"text":"what events are near me","scenario":"recommendation","labels":0}
-{"text":"are there any special events in my town","scenario":"recommendation","labels":0}
-{"text":"find gluten free bakery near me","scenario":"recommendation","labels":1}
-{"text":"what are some highly rated restaurants in this area","scenario":"recommendation","labels":1}
-{"text":"show me reviews of my nearest location food court","scenario":"recommendation","labels":1}
-{"text":"where can i go shopping here","scenario":"recommendation","labels":1}
-{"text":"local area events","scenario":"recommendation","labels":0}
-{"text":"show shops around second street","scenario":"recommendation","labels":1}
-{"text":"what is happening","scenario":"recommendation","labels":0}
-{"text":"what is a good iranian film from two thousand and sixteen","scenario":"recommendation","labels":2}
-{"text":"can you recommend some movies to watch in theater near me","scenario":"recommendation","labels":2}
-{"text":"tell me about things to do in london","scenario":"recommendation","labels":0}
-{"text":"what events are ongoing today in biloxi","scenario":"recommendation","labels":0}
-{"text":"what should i do this weekend","scenario":"recommendation","labels":0}
-{"text":"show me some vegan restaurants close by","scenario":"recommendation","labels":1}
-{"text":"anything going on in los angeles","scenario":"recommendation","labels":0}
-{"text":"tell me about the events near me","scenario":"recommendation","labels":0}
-{"text":"what's happening around me","scenario":"recommendation","labels":0}
-{"text":"tell me what shops are nearby","scenario":"recommendation","labels":1}
-{"text":"suggest me a good restaurant","scenario":"recommendation","labels":1}
-{"text":"what kind of shops are near my locality","scenario":"recommendation","labels":1}
-{"text":"show me movie times","scenario":"recommendation","labels":2}
-{"text":"when does olive garden close today","scenario":"recommendation","labels":1}
-{"text":"what is the nearest mexican restaurant in cleveland","scenario":"recommendation","labels":1}
-{"text":"find a grocery store in town that carries creamed pickled herring","scenario":"recommendation","labels":1}
-{"text":"what's worth watching","scenario":"recommendation","labels":2}
-{"text":"i would like to know the events happening around here","scenario":"recommendation","labels":0}
-{"text":"is there anything to do tonight","scenario":"recommendation","labels":0}
-{"text":"what is happening tomorrow","scenario":"recommendation","labels":0}
-{"text":"is there a well rated pizza place between fourteenth and eighteenth streets","scenario":"recommendation","labels":1}
-{"text":"current events","scenario":"recommendation","labels":0}
-{"text":"what's happening at the library this month","scenario":"recommendation","labels":0}
-{"text":"what movies are playing in columbia","scenario":"recommendation","labels":2}
-{"text":"events in me area","scenario":"recommendation","labels":0}
-{"text":"what movie can i watch tonight on the theater here in boston","scenario":"recommendation","labels":0}
-{"text":"i wish to go for cheap shopping is there any dollars shop nearby","scenario":"recommendation","labels":1}
-{"text":"what exhibits or shows are scheduled at the metropolitan theater","scenario":"recommendation","labels":0}
-{"text":"What's close by for dinner","scenario":"recommendation","labels":1}
-{"text":"what is happening in delhi today","scenario":"recommendation","labels":0}
-{"text":"is swat a good movie","scenario":"recommendation","labels":2}
-{"text":"what kinds of shops are here","scenario":"recommendation","labels":1}
-{"text":"searching for recent happenings on the particular dates","scenario":"recommendation","labels":0}
-{"text":"show current events around me","scenario":"recommendation","labels":0}
-{"text":"where can i get a good burger within five miles","scenario":"recommendation","labels":1}
-{"text":"what events are going on in new york city","scenario":"recommendation","labels":0}
-{"text":"list of the nearby restaurant","scenario":"recommendation","labels":1}
-{"text":"are there any good social events happening in my area","scenario":"recommendation","labels":0}
-{"text":"make a reservation for two at olive garden","scenario":"recommendation","labels":1}
-{"text":"fun stuff to do near me","scenario":"recommendation","labels":0}
-{"text":"what do they have going on at young circle this week","scenario":"recommendation","labels":0}
-{"text":"is there anything happening in town this weekend","scenario":"recommendation","labels":0}
-{"text":"what movies are playing at carmike cinemas","scenario":"recommendation","labels":2}
-{"text":"tell me where i can go shopping in this area","scenario":"recommendation","labels":1}
-{"text":"what events are scheduled for this weekend in me area","scenario":"recommendation","labels":0}
-{"text":"are there dog shows going on near new york city","scenario":"recommendation","labels":0}
-{"text":"what restaurant is open after midnight","scenario":"recommendation","labels":1}
-{"text":"is there anything special going on nearby","scenario":"recommendation","labels":0}
-{"text":"show me best in class theatre","scenario":"recommendation","labels":2}
-{"text":"recommend a movie for me","scenario":"recommendation","labels":2}
-{"text":"suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like","scenario":"recommendation","labels":2}
-{"text":"ocean eleven","scenario":"recommendation","labels":2}
-{"text":"learning games","scenario":"recommendation","labels":2}
-{"text":"where can i eat along route sixty six","scenario":"recommendation","labels":1}
-{"text":"where a good restaurant","scenario":"recommendation","labels":1}
-{"text":"recommend a movie playing in me area","scenario":"recommendation","labels":2}
-{"text":"what stores have clearance","scenario":"recommendation","labels":1}
-{"text":"training day","scenario":"recommendation","labels":2}
-{"text":"where should i go for dinner in san francisco tonight","scenario":"recommendation","labels":0}
-{"text":"what movies are being shown at the regal cinema","scenario":"recommendation","labels":2}
-{"text":"what shops are around here","scenario":"recommendation","labels":1}
-{"text":"show upcoming local events","scenario":"recommendation","labels":0}
-{"text":"what new movies available today","scenario":"recommendation","labels":2}
-{"text":"is there any carnival taking place in our area","scenario":"recommendation","labels":0}
-{"text":"will the fast food shop at the corner open today","scenario":"recommendation","labels":1}
-{"text":"is there any carnival in our place today","scenario":"recommendation","labels":0}
-{"text":"do you have any suggestion action movies","scenario":"recommendation","labels":2}
-{"text":"are there any fun events in la today","scenario":"recommendation","labels":0}
-{"text":"what is going on in me area today","scenario":"recommendation","labels":0}
-{"text":"recommend me a restaurant in west chester","scenario":"recommendation","labels":1}
-{"text":"find a shop that sells beer","scenario":"recommendation","labels":1}
-{"text":"which bar has the most affordable drinks near sixth street","scenario":"recommendation","labels":1}
-{"text":"check for all the movie theater prices and availability for a newly released movie in my location","scenario":"recommendation","labels":2}
-{"text":"when is the yearly cultural event coming up","scenario":"recommendation","labels":0}
-{"text":"where can i shop as a local tourist","scenario":"recommendation","labels":1}
-{"text":"what events near hear are happening this week","scenario":"recommendation","labels":0}
-{"text":"is there a food festival in the area","scenario":"recommendation","labels":0}
-{"text":"i need to know where to get chicken wings in benton ar","scenario":"recommendation","labels":1}
-{"text":"where should i go this weekend","scenario":"recommendation","labels":0}
-{"text":"i'm looking for a casual restaurant for a dinner date","scenario":"recommendation","labels":1}
-{"text":"please show me a list of entertainment options in my area","scenario":"recommendation","labels":0}
-{"text":"where are italian restaurants in me area","scenario":"recommendation","labels":1}
-{"text":"what are the show times of logan","scenario":"recommendation","labels":2}
-{"text":"find me a bar in cleveland open until two am","scenario":"recommendation","labels":1}
-{"text":"find me a zoo or animal park in chicago that open this weekend","scenario":"recommendation","labels":0}
-{"text":"tell me interesting events around","scenario":"recommendation","labels":0}
-{"text":"what shops are near me","scenario":"recommendation","labels":1}
-{"text":"find places to eat near my home","scenario":"recommendation","labels":1}
-{"text":"tell me all the current events in my hometown","scenario":"recommendation","labels":0}
-{"text":"is there any salon in babaji nagar","scenario":"recommendation","labels":1}
-{"text":"where is the nearest walmart","scenario":"recommendation","labels":1}
-{"text":"which is the best place to visit in this month","scenario":"recommendation","labels":1}
-{"text":"find me the cheapest place to buy a new backpack","scenario":"recommendation","labels":1}
-{"text":"list all the events being held in the vicinity","scenario":"recommendation","labels":0}
-{"text":"what gun shows are in tulsa","scenario":"recommendation","labels":0}
-{"text":"are there any good movies running in nearby theaters","scenario":"recommendation","labels":2}
-{"text":"tell me my choices for a good steak restaurant near here","scenario":"recommendation","labels":1}
-{"text":"where is the food festival tonight","scenario":"recommendation","labels":0}
-{"text":"any good bike shops in oxford","scenario":"recommendation","labels":1}
-{"text":"where can i get organic wheat","scenario":"recommendation","labels":1}
-{"text":"search local events in zip code twelve thousand one hundred and twenty one","scenario":"recommendation","labels":0}
-{"text":"searching for any special holidays for us country","scenario":"recommendation","labels":0}
-{"text":"search for local shops","scenario":"recommendation","labels":1}
-{"text":"list events nearby ny","scenario":"recommendation","labels":0}
-{"text":"this weekend what events are going on in seattle","scenario":"recommendation","labels":0}
-{"text":"is there anything happening on jazz scene around edinburgh","scenario":"recommendation","labels":0}
-{"text":"show me all the events happening in milan","scenario":"recommendation","labels":0}
-{"text":"what is tomorrows events","scenario":"recommendation","labels":0}
-{"text":"what are some good restaurants near by","scenario":"recommendation","labels":1}
-{"text":"find shoe shopping near my home","scenario":"recommendation","labels":1}
-{"text":"List ongoing events near me","scenario":"recommendation","labels":0}
-{"text":"today's local events","scenario":"recommendation","labels":0}
-{"text":"what is open late in la","scenario":"recommendation","labels":0}
-{"text":"please look up local restaurants that are open now","scenario":"recommendation","labels":1}
-{"text":"recommend an event happening in my area","scenario":"recommendation","labels":0}
-{"text":"can you tell me where to shop for clothes near my current location","scenario":"recommendation","labels":1}
-{"text":"Show times for nearest theater","scenario":"recommendation","labels":2}
-{"text":"movies with good rotten tomato ratings","scenario":"recommendation","labels":2}
-{"text":"what movies is out there in the local cinema","scenario":"recommendation","labels":2}
-{"text":"could you list out the information on book fairs in washington dc for next week","scenario":"recommendation","labels":0}
-{"text":"where can i find nike shoes in cleveland","scenario":"recommendation","labels":1}
-{"text":"what's happening around town","scenario":"recommendation","labels":0}
-{"text":"where is a nearby park where i can go running","scenario":"recommendation","labels":1}
-{"text":"where can i got to grab some drinks in west chester","scenario":"recommendation","labels":1}
-{"text":"get local events","scenario":"recommendation","labels":0}
-{"text":"what pubs are near the metro station","scenario":"recommendation","labels":1}
-{"text":"ask a shopping malls in me area","scenario":"recommendation","labels":1}
-{"text":"are there any events going on downtown tonight","scenario":"recommendation","labels":0}
-{"text":"are there any events going on at the library this week","scenario":"recommendation","labels":0}
-{"text":"both young drivers and provisional drivers crash more often than other drivers because they have not yet had the wide range of experiences they need to drive safely by themselves research has shown that driving experience is a major factor in reducing road crashes and that the safest time for young drivers is when they are driving under supervision while learning","scenario":"recommendation","labels":0}
-{"text":"give me the name of all the shops in my area","scenario":"recommendation","labels":1}
-{"text":"i'm looking for a bar do you know a good one","scenario":"recommendation","labels":1}
-{"text":"find restaurants within one miles","scenario":"recommendation","labels":1}
-{"text":"where is a good place to eat in seattle","scenario":"recommendation","labels":1}
-{"text":"what should i do in san diego","scenario":"recommendation","labels":0}
-{"text":"find me the oldest hotel in washington dc","scenario":"recommendation","labels":1}
-{"text":"movie times tonight","scenario":"recommendation","labels":2}
-{"text":"what movies are showing in cinema today","scenario":"recommendation","labels":2}
-{"text":"what is happening at that event","scenario":"recommendation","labels":0}
-{"text":"what movies are playing tonight","scenario":"recommendation","labels":2}
-{"text":"where is the nearest olive garden","scenario":"recommendation","labels":1}
-{"text":"do they have any events going on downtown this weekend","scenario":"recommendation","labels":0}
-{"text":"what clothing shops are close to my current location","scenario":"recommendation","labels":1}
-{"text":"what events are coming up","scenario":"recommendation","labels":0}
-{"text":"please recommend a restaurant in seattle","scenario":"recommendation","labels":1}
-{"text":"whats a good place to eat around midtown new york","scenario":"recommendation","labels":1}
-{"text":"let me see cultural events for this weekend in palermo neighborhood","scenario":"recommendation","labels":0}
-{"text":"where is a good place to eat cheap pakistani food","scenario":"recommendation","labels":1}
-{"text":"what's going on","scenario":"recommendation","labels":0}
-{"text":"are there any events happening this weekend","scenario":"recommendation","labels":0}
-{"text":"can you tell me a good place to eat","scenario":"recommendation","labels":1}
-{"text":"tell me chinese restaurants in the area","scenario":"recommendation","labels":1}
-{"text":"it complements the information in drive safe a handbook for western australian road users by providing a practical guide to the driving skills experience good driving habits and attitudes that learner drivers need to develop","scenario":"recommendation","labels":0}
-{"text":"which things should i do when i visit the yellowstone national park","scenario":"recommendation","labels":0}
-{"text":"show me nearest theatre","scenario":"recommendation","labels":2}
-{"text":"where is a good wine bar near me","scenario":"recommendation","labels":1}
-{"text":"current local events","scenario":"recommendation","labels":0}
-{"text":"help me locate a shop that sells clothes for classy ladies","scenario":"recommendation","labels":1}
-{"text":"list local ongoing exhibitions","scenario":"recommendation","labels":0}
-{"text":"what can i do in charlotte","scenario":"recommendation","labels":0}
-{"text":"locate nearby dining places","scenario":"recommendation","labels":1}
-{"text":"whats happening in ny","scenario":"recommendation","labels":0}
-{"text":"give me all ice cream shops within two miles","scenario":"recommendation","labels":1}
-{"text":"show me thai food near me","scenario":"recommendation","labels":1}
-{"text":"please recommend which la lakers basketball game i should attend this month","scenario":"recommendation","labels":0}
-{"text":"are there any events going on nearby","scenario":"recommendation","labels":0}
-{"text":"what type of event","scenario":"recommendation","labels":0}
-{"text":"what movie should i see","scenario":"recommendation","labels":2}
-{"text":"where should i go for mexican food in me area","scenario":"recommendation","labels":1}
-{"text":"events near me","scenario":"recommendation","labels":0}
-{"text":"where can i get something to eat by the art museum","scenario":"recommendation","labels":1}
-{"text":"where is the best pizza on sixth street","scenario":"recommendation","labels":1}
-{"text":"what should i see this weekend","scenario":"recommendation","labels":0}
-{"text":"what is the nearest vegan restaurant","scenario":"recommendation","labels":1}
-{"text":"where is a walking trail near me","scenario":"recommendation","labels":1}
-{"text":"is the farmers market open this weekend in iowa","scenario":"recommendation","labels":0}
-{"text":"tickets","scenario":"recommendation","labels":2}
-{"text":"any events this weekend in pondichery","scenario":"recommendation","labels":0}
-{"text":"any local activities you can recommend in my area","scenario":"recommendation","labels":0}
-{"text":"should i watch this movie","scenario":"recommendation","labels":2}
-{"text":"what's going on around here this weekend","scenario":"recommendation","labels":0}
-{"text":"near by super market","scenario":"recommendation","labels":1}
-{"text":"are there any pharmacy store nearby","scenario":"recommendation","labels":1}
-{"text":"what train companies are near me","scenario":"recommendation","labels":1}
-{"text":"where is the nearest pub in the city","scenario":"recommendation","labels":1}
-{"text":"events in the local area","scenario":"recommendation","labels":0}
-{"text":"i want to take karate classes where are  local karate studios","scenario":"recommendation","labels":1}
-{"text":"when is trolls playing","scenario":"recommendation","labels":2}
-{"text":"please search for events near me","scenario":"recommendation","labels":0}
-{"text":"cisco system","scenario":"recommendation","labels":2}
-{"text":"are there any special events near me this weekend","scenario":"recommendation","labels":0}
-{"text":"please search for events in my location","scenario":"recommendation","labels":0}
-{"text":"tell me about the events going on around my location","scenario":"recommendation","labels":0}
-{"text":"can you tell me about any local events coming up","scenario":"recommendation","labels":0}
-{"text":"deadpool","scenario":"recommendation","labels":2}
-{"text":"any activity in the area","scenario":"recommendation","labels":0}
-{"text":"hit me up with some exciting events in the bay area","scenario":"recommendation","labels":0}
-{"text":"what movies are playing right now","scenario":"recommendation","labels":2}
-{"text":"Show latest events around new york","scenario":"recommendation","labels":0}
-{"text":"what activities are taking place in my area","scenario":"recommendation","labels":0}
-{"text":"what is the nearest theatre that plays the new vin diesel movie","scenario":"recommendation","labels":2}
-{"text":"name stores within ten mile radius with music","scenario":"recommendation","labels":1}
-{"text":"tell me any yard sales happening","scenario":"recommendation","labels":0}
-{"text":"where is a petrol station in five mile radius","scenario":"recommendation","labels":1}
-{"text":"latest movie releases","scenario":"recommendation","labels":2}
-{"text":"which is the nearest restaurants available","scenario":"recommendation","labels":1}
-{"text":"which shops can i find in milan","scenario":"recommendation","labels":1}
-{"text":"ask a restaurant in me area","scenario":"recommendation","labels":1}
-{"text":"is there anything happening nearby","scenario":"recommendation","labels":0}
-{"text":"best restaurant in local area","scenario":"recommendation","labels":1}
-{"text":"where is the closer starbucks","scenario":"recommendation","labels":1}
-{"text":"is there a sports bar near kansas city plaza area","scenario":"recommendation","labels":1}
-{"text":"what is happening locally this weekend","scenario":"recommendation","labels":0}
-{"text":"this candidates guide to the practical driving assessment <unk> has been prepared to help learner drivers develop the skills necessary to pass a and become a safe driver","scenario":"recommendation","labels":0}
-{"text":"what's the most popular curry place in town","scenario":"recommendation","labels":1}
-{"text":"what restaurants are open near me","scenario":"recommendation","labels":1}
-{"text":"what bars are around me","scenario":"recommendation","labels":1}
-{"text":"wine shop","scenario":"recommendation","labels":1}
-{"text":"is there any chinese places in benton ar","scenario":"recommendation","labels":1}
-{"text":"what do they have going on for festivals downtown","scenario":"recommendation","labels":0}
-{"text":"what can i do in berlin","scenario":"recommendation","labels":0}
-{"text":"best shop in local area","scenario":"recommendation","labels":1}
-{"text":"list all the shops that are located in milan","scenario":"recommendation","labels":1}
-{"text":"best reviews restaurant in south sacramento","scenario":"recommendation","labels":1}
-{"text":"what is this event is called which happening my area","scenario":"recommendation","labels":0}
-{"text":"anything interesting going on in the bay area","scenario":"recommendation","labels":0}
-{"text":"where's the closest zoo to where i'm at","scenario":"recommendation","labels":1}
-{"text":"top ten movies","scenario":"recommendation","labels":2}
-{"text":"logan","scenario":"recommendation","labels":2}
-{"text":"where is the closest bar","scenario":"recommendation","labels":1}
-{"text":"where do people shop for clothes here","scenario":"recommendation","labels":1}
-{"text":"are there any concerts this week","scenario":"recommendation","labels":0}
-{"text":"what is the event name going in me area","scenario":"recommendation","labels":0}
-{"text":"whats going on in cincinnati","scenario":"recommendation","labels":0}
-{"text":"security awareness","scenario":"recommendation","labels":2}
-{"text":"any good drama released recently in the cinema","scenario":"recommendation","labels":0}
-{"text":"i want to know the best super market in this local area","scenario":"recommendation","labels":1}
-{"text":"what is happening around here","scenario":"recommendation","labels":0}
-{"text":"what's happening here","scenario":"recommendation","labels":0}
-{"text":"which teams are playing this weekend","scenario":"recommendation","labels":0}
-{"text":"what is happening now","scenario":"recommendation","labels":0}
-{"text":"what events are going in my town this week","scenario":"recommendation","labels":0}
-{"text":"what shops are round here","scenario":"recommendation","labels":1}
-{"text":"which pubs participate in the jazz festival","scenario":"recommendation","labels":0}
-{"text":"where can i go shopping in this area","scenario":"recommendation","labels":1}
-{"text":"can you tell me what movies are playing at the movies tonight","scenario":"recommendation","labels":2}
-{"text":"where is mcdo","scenario":"recommendation","labels":1}
-{"text":"what is going on around me","scenario":"recommendation","labels":0}
-{"text":"please list the best clothing shops near me","scenario":"recommendation","labels":1}
-{"text":"local market","scenario":"recommendation","labels":0}
-{"text":"what are the local events","scenario":"recommendation","labels":0}
-{"text":"whats a new sci fi movie","scenario":"recommendation","labels":2}
-{"text":"are there any grocery stores nearby","scenario":"recommendation","labels":1}
-{"text":"hockey","scenario":"recommendation","labels":0}
-{"text":"kung fu panda three","scenario":"recommendation","labels":2}
-{"text":"any events happening nearby","scenario":"recommendation","labels":0}
-{"text":"tell me about some cool events going on here","scenario":"recommendation","labels":0}
-{"text":"list any interesting events i like in the next two days","scenario":"recommendation","labels":0}
-{"text":"what's the local taxi company around here","scenario":"recommendation","labels":1}
-{"text":"which book fair events are taking place next week in washington dc","scenario":"recommendation","labels":0}
-{"text":"let's see whats around","scenario":"recommendation","labels":1}
-{"text":"i would like to know the best rating pubs in the local area","scenario":"recommendation","labels":1}
-{"text":"what new movies are played in cinemas this week","scenario":"recommendation","labels":2}
-{"text":"i really want to go to keiv is there any good events there in april","scenario":"recommendation","labels":0}
-{"text":"do i need to undertake any particular activity during my stay at the yellowstone national park","scenario":"recommendation","labels":0}
-{"text":"are there any fun things to do in seattle this weekend","scenario":"recommendation","labels":0}
-{"text":"where is the event venue","scenario":"recommendation","labels":0}
-{"text":"what's on this weekend in my zipcode","scenario":"recommendation","labels":0}
-{"text":"name me some current events in the bay area","scenario":"recommendation","labels":0}
-{"text":"can you find a nice restaurant downtown","scenario":"recommendation","labels":1}
-{"text":"are there any events coming up","scenario":"recommendation","labels":0}
-{"text":"find a kid friendly event in me area for tonight","scenario":"recommendation","labels":0}
-{"text":"can you tell me list of events for this weekend in pondichery","scenario":"recommendation","labels":0}
-{"text":"art exhibitions in california","scenario":"recommendation","labels":0}
-{"text":"show me shops","scenario":"recommendation","labels":1}
-{"text":"which event is going on in me area","scenario":"recommendation","labels":0}
-{"text":"where i can find a bakery","scenario":"recommendation","labels":1}
-{"text":"give me the list of circus shows going on in the city right now","scenario":"recommendation","labels":0}
-{"text":"what is going on in la today","scenario":"recommendation","labels":0}
-{"text":"what is the best movie to watch with a glass of wine","scenario":"recommendation","labels":2}
-{"text":"what are the local concerts tonight","scenario":"recommendation","labels":0}
-{"text":"what movies are out this week","scenario":"recommendation","labels":2}
-{"text":"tell me what clothing stores are within five miles of me","scenario":"recommendation","labels":1}
-{"text":"where is the nearest bookstore","scenario":"recommendation","labels":1}
-{"text":"what is going on in milwaukee","scenario":"recommendation","labels":0}
-{"text":"what movies are playing nearby","scenario":"recommendation","labels":2}
-{"text":"what's around me","scenario":"recommendation","labels":1}
-{"text":"what is happening near me","scenario":"recommendation","labels":0}
-{"text":"i'm looking for reasonably priced tapas in miami beach","scenario":"recommendation","labels":1}
-{"text":"how much are tickets at wonder works","scenario":"recommendation","labels":0}
-{"text":"tell me where the local shopping district is","scenario":"recommendation","labels":1}
-{"text":"show me upcoming events in the quad cities","scenario":"recommendation","labels":0}
-{"text":"i need something fun to do this weekend nearby can you give me ideas","scenario":"recommendation","labels":0}
-{"text":"what sort of music events can I find going on around me","scenario":"recommendation","labels":0}
-{"text":"what pubs are close","scenario":"recommendation","labels":1}
-{"text":"what are good movies playing now","scenario":"recommendation","labels":2}
-{"text":"what events are happening near me","scenario":"recommendation","labels":0}
-{"text":"tell me movies playing in oceanside tonight","scenario":"recommendation","labels":2}
-{"text":"can you tell me about expensive sushi restaurants in west philadelphia","scenario":"recommendation","labels":1}
-{"text":"what's happening tonight in chicago","scenario":"recommendation","labels":0}
-{"text":"any farm markets around with local products","scenario":"recommendation","labels":1}
-{"text":"is there any event nearby i could attend","scenario":"recommendation","labels":0}
-{"text":"what film should i watch","scenario":"recommendation","labels":2}
-{"text":"tell me the movie with best imdb ratings going on in theatres near me","scenario":"recommendation","labels":2}
-{"text":"what's going on tonight in sacramento","scenario":"recommendation","labels":0}
-{"text":"find me a gas station close by","scenario":"recommendation","labels":1}
-{"text":"please let me know the dog shows events going on in my home town","scenario":"recommendation","labels":0}
-{"text":"show todays events in new york","scenario":"recommendation","labels":0}
-{"text":"what's the next event at the library","scenario":"recommendation","labels":0}
-{"text":"is there a canoe shop around here","scenario":"recommendation","labels":1}
-{"text":"are there any local events being put on tonight","scenario":"recommendation","labels":0}
-{"text":"two thousand and seventeen movies","scenario":"recommendation","labels":2}
-{"text":"what events are going on near me","scenario":"recommendation","labels":0}
-{"text":"what is happening in town tonight","scenario":"recommendation","labels":0}
-{"text":"near by grocery","scenario":"recommendation","labels":1}
-{"text":"hey olly tell me what shops i am near","scenario":"recommendation","labels":1}
-{"text":"what movie theatres are in stephenville","scenario":"recommendation","labels":2}
-{"text":"what's a movie in theaters that doesn't suck","scenario":"recommendation","labels":2}
-{"text":"are there any interesting event going on around my location","scenario":"recommendation","labels":0}
-{"text":"when does the closest bar close","scenario":"recommendation","labels":1}
-{"text":"what fun stuff can i do around here","scenario":"recommendation","labels":0}
-{"text":"tell me the local events","scenario":"recommendation","labels":0}
-{"text":"where is the best mechanic in eagle point","scenario":"recommendation","labels":1}
-{"text":"show todays events in ny","scenario":"recommendation","labels":0}
-{"text":"what's happening near me this week","scenario":"recommendation","labels":0}
-{"text":"whats going on in la","scenario":"recommendation","labels":0}
+{"sentence":"show me theatre where pirates of caribbean is playing","label":2,"idx":0}
+{"sentence":"show me concerts in sacramento","label":0,"idx":1}
+{"sentence":"what events are near me","label":0,"idx":2}
+{"sentence":"are there any special events in my town","label":0,"idx":3}
+{"sentence":"find gluten free bakery near me","label":1,"idx":4}
+{"sentence":"what are some highly rated restaurants in this area","label":1,"idx":5}
+{"sentence":"show me reviews of my nearest location food court","label":1,"idx":6}
+{"sentence":"where can i go shopping here","label":1,"idx":7}
+{"sentence":"local area events","label":0,"idx":8}
+{"sentence":"show shops around second street","label":1,"idx":9}
+{"sentence":"what is happening","label":0,"idx":10}
+{"sentence":"what is a good iranian film from two thousand and sixteen","label":2,"idx":11}
+{"sentence":"can you recommend some movies to watch in theater near me","label":2,"idx":12}
+{"sentence":"tell me about things to do in london","label":0,"idx":13}
+{"sentence":"what events are ongoing today in biloxi","label":0,"idx":14}
+{"sentence":"what should i do this weekend","label":0,"idx":15}
+{"sentence":"show me some vegan restaurants close by","label":1,"idx":16}
+{"sentence":"anything going on in los angeles","label":0,"idx":17}
+{"sentence":"tell me about the events near me","label":0,"idx":18}
+{"sentence":"what's happening around me","label":0,"idx":19}
+{"sentence":"tell me what shops are nearby","label":1,"idx":20}
+{"sentence":"suggest me a good restaurant","label":1,"idx":21}
+{"sentence":"what kind of shops are near my locality","label":1,"idx":22}
+{"sentence":"show me movie times","label":2,"idx":23}
+{"sentence":"when does olive garden close today","label":1,"idx":24}
+{"sentence":"what is the nearest mexican restaurant in cleveland","label":1,"idx":25}
+{"sentence":"find a grocery store in town that carries creamed pickled herring","label":1,"idx":26}
+{"sentence":"what's worth watching","label":2,"idx":27}
+{"sentence":"i would like to know the events happening around here","label":0,"idx":28}
+{"sentence":"is there anything to do tonight","label":0,"idx":29}
+{"sentence":"what is happening tomorrow","label":0,"idx":30}
+{"sentence":"is there a well rated pizza place between fourteenth and eighteenth streets","label":1,"idx":31}
+{"sentence":"current events","label":0,"idx":32}
+{"sentence":"what's happening at the library this month","label":0,"idx":33}
+{"sentence":"what movies are playing in columbia","label":2,"idx":34}
+{"sentence":"events in me area","label":0,"idx":35}
+{"sentence":"what movie can i watch tonight on the theater here in boston","label":0,"idx":36}
+{"sentence":"i wish to go for cheap shopping is there any dollars shop nearby","label":1,"idx":37}
+{"sentence":"what exhibits or shows are scheduled at the metropolitan theater","label":0,"idx":38}
+{"sentence":"What's close by for dinner","label":1,"idx":39}
+{"sentence":"what is happening in delhi today","label":0,"idx":40}
+{"sentence":"is swat a good movie","label":2,"idx":41}
+{"sentence":"what kinds of shops are here","label":1,"idx":42}
+{"sentence":"searching for recent happenings on the particular dates","label":0,"idx":43}
+{"sentence":"show current events around me","label":0,"idx":44}
+{"sentence":"where can i get a good burger within five miles","label":1,"idx":45}
+{"sentence":"what events are going on in new york city","label":0,"idx":46}
+{"sentence":"list of the nearby restaurant","label":1,"idx":47}
+{"sentence":"are there any good social events happening in my area","label":0,"idx":48}
+{"sentence":"make a reservation for two at olive garden","label":1,"idx":49}
+{"sentence":"fun stuff to do near me","label":0,"idx":50}
+{"sentence":"what do they have going on at young circle this week","label":0,"idx":51}
+{"sentence":"is there anything happening in town this weekend","label":0,"idx":52}
+{"sentence":"what movies are playing at carmike cinemas","label":2,"idx":53}
+{"sentence":"tell me where i can go shopping in this area","label":1,"idx":54}
+{"sentence":"what events are scheduled for this weekend in me area","label":0,"idx":55}
+{"sentence":"are there dog shows going on near new york city","label":0,"idx":56}
+{"sentence":"what restaurant is open after midnight","label":1,"idx":57}
+{"sentence":"is there anything special going on nearby","label":0,"idx":58}
+{"sentence":"show me best in class theatre","label":2,"idx":59}
+{"sentence":"recommend a movie for me","label":2,"idx":60}
+{"sentence":"suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like","label":2,"idx":61}
+{"sentence":"ocean eleven","label":2,"idx":62}
+{"sentence":"learning games","label":2,"idx":63}
+{"sentence":"where can i eat along route sixty six","label":1,"idx":64}
+{"sentence":"where a good restaurant","label":1,"idx":65}
+{"sentence":"recommend a movie playing in me area","label":2,"idx":66}
+{"sentence":"what stores have clearance","label":1,"idx":67}
+{"sentence":"training day","label":2,"idx":68}
+{"sentence":"where should i go for dinner in san francisco tonight","label":0,"idx":69}
+{"sentence":"what movies are being shown at the regal cinema","label":2,"idx":70}
+{"sentence":"what shops are around here","label":1,"idx":71}
+{"sentence":"show upcoming local events","label":0,"idx":72}
+{"sentence":"what new movies available today","label":2,"idx":73}
+{"sentence":"is there any carnival taking place in our area","label":0,"idx":74}
+{"sentence":"will the fast food shop at the corner open today","label":1,"idx":75}
+{"sentence":"is there any carnival in our place today","label":0,"idx":76}
+{"sentence":"do you have any suggestion action movies","label":2,"idx":77}
+{"sentence":"are there any fun events in la today","label":0,"idx":78}
+{"sentence":"what is going on in me area today","label":0,"idx":79}
+{"sentence":"recommend me a restaurant in west chester","label":1,"idx":80}
+{"sentence":"find a shop that sells beer","label":1,"idx":81}
+{"sentence":"which bar has the most affordable drinks near sixth street","label":1,"idx":82}
+{"sentence":"check for all the movie theater prices and availability for a newly released movie in my location","label":2,"idx":83}
+{"sentence":"when is the yearly cultural event coming up","label":0,"idx":84}
+{"sentence":"where can i shop as a local tourist","label":1,"idx":85}
+{"sentence":"what events near hear are happening this week","label":0,"idx":86}
+{"sentence":"is there a food festival in the area","label":0,"idx":87}
+{"sentence":"i need to know where to get chicken wings in benton ar","label":1,"idx":88}
+{"sentence":"where should i go this weekend","label":0,"idx":89}
+{"sentence":"i'm looking for a casual restaurant for a dinner date","label":1,"idx":90}
+{"sentence":"please show me a list of entertainment options in my area","label":0,"idx":91}
+{"sentence":"where are italian restaurants in me area","label":1,"idx":92}
+{"sentence":"what are the show times of logan","label":2,"idx":93}
+{"sentence":"find me a bar in cleveland open until two am","label":1,"idx":94}
+{"sentence":"find me a zoo or animal park in chicago that open this weekend","label":0,"idx":95}
+{"sentence":"tell me interesting events around","label":0,"idx":96}
+{"sentence":"what shops are near me","label":1,"idx":97}
+{"sentence":"find places to eat near my home","label":1,"idx":98}
+{"sentence":"tell me all the current events in my hometown","label":0,"idx":99}
+{"sentence":"is there any salon in babaji nagar","label":1,"idx":100}
+{"sentence":"where is the nearest walmart","label":1,"idx":101}
+{"sentence":"which is the best place to visit in this month","label":1,"idx":102}
+{"sentence":"find me the cheapest place to buy a new backpack","label":1,"idx":103}
+{"sentence":"list all the events being held in the vicinity","label":0,"idx":104}
+{"sentence":"what gun shows are in tulsa","label":0,"idx":105}
+{"sentence":"are there any good movies running in nearby theaters","label":2,"idx":106}
+{"sentence":"tell me my choices for a good steak restaurant near here","label":1,"idx":107}
+{"sentence":"where is the food festival tonight","label":0,"idx":108}
+{"sentence":"any good bike shops in oxford","label":1,"idx":109}
+{"sentence":"where can i get organic wheat","label":1,"idx":110}
+{"sentence":"search local events in zip code twelve thousand one hundred and twenty one","label":0,"idx":111}
+{"sentence":"searching for any special holidays for us country","label":0,"idx":112}
+{"sentence":"search for local shops","label":1,"idx":113}
+{"sentence":"list events nearby ny","label":0,"idx":114}
+{"sentence":"this weekend what events are going on in seattle","label":0,"idx":115}
+{"sentence":"is there anything happening on jazz scene around edinburgh","label":0,"idx":116}
+{"sentence":"show me all the events happening in milan","label":0,"idx":117}
+{"sentence":"what is tomorrows events","label":0,"idx":118}
+{"sentence":"what are some good restaurants near by","label":1,"idx":119}
+{"sentence":"find shoe shopping near my home","label":1,"idx":120}
+{"sentence":"List ongoing events near me","label":0,"idx":121}
+{"sentence":"today's local events","label":0,"idx":122}
+{"sentence":"what is open late in la","label":0,"idx":123}
+{"sentence":"please look up local restaurants that are open now","label":1,"idx":124}
+{"sentence":"recommend an event happening in my area","label":0,"idx":125}
+{"sentence":"can you tell me where to shop for clothes near my current location","label":1,"idx":126}
+{"sentence":"Show times for nearest theater","label":2,"idx":127}
+{"sentence":"movies with good rotten tomato ratings","label":2,"idx":128}
+{"sentence":"what movies is out there in the local cinema","label":2,"idx":129}
+{"sentence":"could you list out the information on book fairs in washington dc for next week","label":0,"idx":130}
+{"sentence":"where can i find nike shoes in cleveland","label":1,"idx":131}
+{"sentence":"what's happening around town","label":0,"idx":132}
+{"sentence":"where is a nearby park where i can go running","label":1,"idx":133}
+{"sentence":"where can i got to grab some drinks in west chester","label":1,"idx":134}
+{"sentence":"get local events","label":0,"idx":135}
+{"sentence":"what pubs are near the metro station","label":1,"idx":136}
+{"sentence":"ask a shopping malls in me area","label":1,"idx":137}
+{"sentence":"are there any events going on downtown tonight","label":0,"idx":138}
+{"sentence":"are there any events going on at the library this week","label":0,"idx":139}
+{"sentence":"both young drivers and provisional drivers crash more often than other drivers because they have not yet had the wide range of experiences they need to drive safely by themselves research has shown that driving experience is a major factor in reducing road crashes and that the safest time for young drivers is when they are driving under supervision while learning","label":0,"idx":140}
+{"sentence":"give me the name of all the shops in my area","label":1,"idx":141}
+{"sentence":"i'm looking for a bar do you know a good one","label":1,"idx":142}
+{"sentence":"find restaurants within one miles","label":1,"idx":143}
+{"sentence":"where is a good place to eat in seattle","label":1,"idx":144}
+{"sentence":"what should i do in san diego","label":0,"idx":145}
+{"sentence":"find me the oldest hotel in washington dc","label":1,"idx":146}
+{"sentence":"movie times tonight","label":2,"idx":147}
+{"sentence":"what movies are showing in cinema today","label":2,"idx":148}
+{"sentence":"what is happening at that event","label":0,"idx":149}
+{"sentence":"what movies are playing tonight","label":2,"idx":150}
+{"sentence":"where is the nearest olive garden","label":1,"idx":151}
+{"sentence":"do they have any events going on downtown this weekend","label":0,"idx":152}
+{"sentence":"what clothing shops are close to my current location","label":1,"idx":153}
+{"sentence":"what events are coming up","label":0,"idx":154}
+{"sentence":"please recommend a restaurant in seattle","label":1,"idx":155}
+{"sentence":"whats a good place to eat around midtown new york","label":1,"idx":156}
+{"sentence":"let me see cultural events for this weekend in palermo neighborhood","label":0,"idx":157}
+{"sentence":"where is a good place to eat cheap pakistani food","label":1,"idx":158}
+{"sentence":"what's going on","label":0,"idx":159}
+{"sentence":"are there any events happening this weekend","label":0,"idx":160}
+{"sentence":"can you tell me a good place to eat","label":1,"idx":161}
+{"sentence":"tell me chinese restaurants in the area","label":1,"idx":162}
+{"sentence":"it complements the information in drive safe a handbook for western australian road users by providing a practical guide to the driving skills experience good driving habits and attitudes that learner drivers need to develop","label":0,"idx":163}
+{"sentence":"which things should i do when i visit the yellowstone national park","label":0,"idx":164}
+{"sentence":"show me nearest theatre","label":2,"idx":165}
+{"sentence":"where is a good wine bar near me","label":1,"idx":166}
+{"sentence":"current local events","label":0,"idx":167}
+{"sentence":"help me locate a shop that sells clothes for classy ladies","label":1,"idx":168}
+{"sentence":"list local ongoing exhibitions","label":0,"idx":169}
+{"sentence":"what can i do in charlotte","label":0,"idx":170}
+{"sentence":"locate nearby dining places","label":1,"idx":171}
+{"sentence":"whats happening in ny","label":0,"idx":172}
+{"sentence":"give me all ice cream shops within two miles","label":1,"idx":173}
+{"sentence":"show me thai food near me","label":1,"idx":174}
+{"sentence":"please recommend which la lakers basketball game i should attend this month","label":0,"idx":175}
+{"sentence":"are there any events going on nearby","label":0,"idx":176}
+{"sentence":"what type of event","label":0,"idx":177}
+{"sentence":"what movie should i see","label":2,"idx":178}
+{"sentence":"where should i go for mexican food in me area","label":1,"idx":179}
+{"sentence":"events near me","label":0,"idx":180}
+{"sentence":"where can i get something to eat by the art museum","label":1,"idx":181}
+{"sentence":"where is the best pizza on sixth street","label":1,"idx":182}
+{"sentence":"what should i see this weekend","label":0,"idx":183}
+{"sentence":"what is the nearest vegan restaurant","label":1,"idx":184}
+{"sentence":"where is a walking trail near me","label":1,"idx":185}
+{"sentence":"is the farmers market open this weekend in iowa","label":0,"idx":186}
+{"sentence":"tickets","label":2,"idx":187}
+{"sentence":"any events this weekend in pondichery","label":0,"idx":188}
+{"sentence":"any local activities you can recommend in my area","label":0,"idx":189}
+{"sentence":"should i watch this movie","label":2,"idx":190}
+{"sentence":"what's going on around here this weekend","label":0,"idx":191}
+{"sentence":"near by super market","label":1,"idx":192}
+{"sentence":"are there any pharmacy store nearby","label":1,"idx":193}
+{"sentence":"what train companies are near me","label":1,"idx":194}
+{"sentence":"where is the nearest pub in the city","label":1,"idx":195}
+{"sentence":"events in the local area","label":0,"idx":196}
+{"sentence":"i want to take karate classes where are  local karate studios","label":1,"idx":197}
+{"sentence":"when is trolls playing","label":2,"idx":198}
+{"sentence":"please search for events near me","label":0,"idx":199}
+{"sentence":"cisco system","label":2,"idx":200}
+{"sentence":"are there any special events near me this weekend","label":0,"idx":201}
+{"sentence":"please search for events in my location","label":0,"idx":202}
+{"sentence":"tell me about the events going on around my location","label":0,"idx":203}
+{"sentence":"can you tell me about any local events coming up","label":0,"idx":204}
+{"sentence":"deadpool","label":2,"idx":205}
+{"sentence":"any activity in the area","label":0,"idx":206}
+{"sentence":"hit me up with some exciting events in the bay area","label":0,"idx":207}
+{"sentence":"what movies are playing right now","label":2,"idx":208}
+{"sentence":"Show latest events around new york","label":0,"idx":209}
+{"sentence":"what activities are taking place in my area","label":0,"idx":210}
+{"sentence":"what is the nearest theatre that plays the new vin diesel movie","label":2,"idx":211}
+{"sentence":"name stores within ten mile radius with music","label":1,"idx":212}
+{"sentence":"tell me any yard sales happening","label":0,"idx":213}
+{"sentence":"where is a petrol station in five mile radius","label":1,"idx":214}
+{"sentence":"latest movie releases","label":2,"idx":215}
+{"sentence":"which is the nearest restaurants available","label":1,"idx":216}
+{"sentence":"which shops can i find in milan","label":1,"idx":217}
+{"sentence":"ask a restaurant in me area","label":1,"idx":218}
+{"sentence":"is there anything happening nearby","label":0,"idx":219}
+{"sentence":"best restaurant in local area","label":1,"idx":220}
+{"sentence":"where is the closer starbucks","label":1,"idx":221}
+{"sentence":"is there a sports bar near kansas city plaza area","label":1,"idx":222}
+{"sentence":"what is happening locally this weekend","label":0,"idx":223}
+{"sentence":"this candidates guide to the practical driving assessment <unk> has been prepared to help learner drivers develop the skills necessary to pass a and become a safe driver","label":0,"idx":224}
+{"sentence":"what's the most popular curry place in town","label":1,"idx":225}
+{"sentence":"what restaurants are open near me","label":1,"idx":226}
+{"sentence":"what bars are around me","label":1,"idx":227}
+{"sentence":"wine shop","label":1,"idx":228}
+{"sentence":"is there any chinese places in benton ar","label":1,"idx":229}
+{"sentence":"what do they have going on for festivals downtown","label":0,"idx":230}
+{"sentence":"what can i do in berlin","label":0,"idx":231}
+{"sentence":"best shop in local area","label":1,"idx":232}
+{"sentence":"list all the shops that are located in milan","label":1,"idx":233}
+{"sentence":"best reviews restaurant in south sacramento","label":1,"idx":234}
+{"sentence":"what is this event is called which happening my area","label":0,"idx":235}
+{"sentence":"anything interesting going on in the bay area","label":0,"idx":236}
+{"sentence":"where's the closest zoo to where i'm at","label":1,"idx":237}
+{"sentence":"top ten movies","label":2,"idx":238}
+{"sentence":"logan","label":2,"idx":239}
+{"sentence":"where is the closest bar","label":1,"idx":240}
+{"sentence":"where do people shop for clothes here","label":1,"idx":241}
+{"sentence":"are there any concerts this week","label":0,"idx":242}
+{"sentence":"what is the event name going in me area","label":0,"idx":243}
+{"sentence":"whats going on in cincinnati","label":0,"idx":244}
+{"sentence":"security awareness","label":2,"idx":245}
+{"sentence":"any good drama released recently in the cinema","label":0,"idx":246}
+{"sentence":"i want to know the best super market in this local area","label":1,"idx":247}
+{"sentence":"what is happening around here","label":0,"idx":248}
+{"sentence":"what's happening here","label":0,"idx":249}
+{"sentence":"which teams are playing this weekend","label":0,"idx":250}
+{"sentence":"what is happening now","label":0,"idx":251}
+{"sentence":"what events are going in my town this week","label":0,"idx":252}
+{"sentence":"what shops are round here","label":1,"idx":253}
+{"sentence":"which pubs participate in the jazz festival","label":0,"idx":254}
+{"sentence":"where can i go shopping in this area","label":1,"idx":255}
+{"sentence":"can you tell me what movies are playing at the movies tonight","label":2,"idx":256}
+{"sentence":"where is mcdo","label":1,"idx":257}
+{"sentence":"what is going on around me","label":0,"idx":258}
+{"sentence":"please list the best clothing shops near me","label":1,"idx":259}
+{"sentence":"local market","label":0,"idx":260}
+{"sentence":"what are the local events","label":0,"idx":261}
+{"sentence":"whats a new sci fi movie","label":2,"idx":262}
+{"sentence":"are there any grocery stores nearby","label":1,"idx":263}
+{"sentence":"hockey","label":0,"idx":264}
+{"sentence":"kung fu panda three","label":2,"idx":265}
+{"sentence":"any events happening nearby","label":0,"idx":266}
+{"sentence":"tell me about some cool events going on here","label":0,"idx":267}
+{"sentence":"list any interesting events i like in the next two days","label":0,"idx":268}
+{"sentence":"what's the local taxi company around here","label":1,"idx":269}
+{"sentence":"which book fair events are taking place next week in washington dc","label":0,"idx":270}
+{"sentence":"let's see whats around","label":1,"idx":271}
+{"sentence":"i would like to know the best rating pubs in the local area","label":1,"idx":272}
+{"sentence":"what new movies are played in cinemas this week","label":2,"idx":273}
+{"sentence":"i really want to go to keiv is there any good events there in april","label":0,"idx":274}
+{"sentence":"do i need to undertake any particular activity during my stay at the yellowstone national park","label":0,"idx":275}
+{"sentence":"are there any fun things to do in seattle this weekend","label":0,"idx":276}
+{"sentence":"where is the event venue","label":0,"idx":277}
+{"sentence":"what's on this weekend in my zipcode","label":0,"idx":278}
+{"sentence":"name me some current events in the bay area","label":0,"idx":279}
+{"sentence":"can you find a nice restaurant downtown","label":1,"idx":280}
+{"sentence":"are there any events coming up","label":0,"idx":281}
+{"sentence":"find a kid friendly event in me area for tonight","label":0,"idx":282}
+{"sentence":"can you tell me list of events for this weekend in pondichery","label":0,"idx":283}
+{"sentence":"art exhibitions in california","label":0,"idx":284}
+{"sentence":"show me shops","label":1,"idx":285}
+{"sentence":"which event is going on in me area","label":0,"idx":286}
+{"sentence":"where i can find a bakery","label":1,"idx":287}
+{"sentence":"give me the list of circus shows going on in the city right now","label":0,"idx":288}
+{"sentence":"what is going on in la today","label":0,"idx":289}
+{"sentence":"what is the best movie to watch with a glass of wine","label":2,"idx":290}
+{"sentence":"what are the local concerts tonight","label":0,"idx":291}
+{"sentence":"what movies are out this week","label":2,"idx":292}
+{"sentence":"tell me what clothing stores are within five miles of me","label":1,"idx":293}
+{"sentence":"where is the nearest bookstore","label":1,"idx":294}
+{"sentence":"what is going on in milwaukee","label":0,"idx":295}
+{"sentence":"what movies are playing nearby","label":2,"idx":296}
+{"sentence":"what's around me","label":1,"idx":297}
+{"sentence":"what is happening near me","label":0,"idx":298}
+{"sentence":"i'm looking for reasonably priced tapas in miami beach","label":1,"idx":299}
+{"sentence":"how much are tickets at wonder works","label":0,"idx":300}
+{"sentence":"tell me where the local shopping district is","label":1,"idx":301}
+{"sentence":"show me upcoming events in the quad cities","label":0,"idx":302}
+{"sentence":"i need something fun to do this weekend nearby can you give me ideas","label":0,"idx":303}
+{"sentence":"what sort of music events can I find going on around me","label":0,"idx":304}
+{"sentence":"what pubs are close","label":1,"idx":305}
+{"sentence":"what are good movies playing now","label":2,"idx":306}
+{"sentence":"what events are happening near me","label":0,"idx":307}
+{"sentence":"tell me movies playing in oceanside tonight","label":2,"idx":308}
+{"sentence":"can you tell me about expensive sushi restaurants in west philadelphia","label":1,"idx":309}
+{"sentence":"what's happening tonight in chicago","label":0,"idx":310}
+{"sentence":"any farm markets around with local products","label":1,"idx":311}
+{"sentence":"is there any event nearby i could attend","label":0,"idx":312}
+{"sentence":"what film should i watch","label":2,"idx":313}
+{"sentence":"tell me the movie with best imdb ratings going on in theatres near me","label":2,"idx":314}
+{"sentence":"what's going on tonight in sacramento","label":0,"idx":315}
+{"sentence":"find me a gas station close by","label":1,"idx":316}
+{"sentence":"please let me know the dog shows events going on in my home town","label":0,"idx":317}
+{"sentence":"show todays events in new york","label":0,"idx":318}
+{"sentence":"what's the next event at the library","label":0,"idx":319}
+{"sentence":"is there a canoe shop around here","label":1,"idx":320}
+{"sentence":"are there any local events being put on tonight","label":0,"idx":321}
+{"sentence":"two thousand and seventeen movies","label":2,"idx":322}
+{"sentence":"what events are going on near me","label":0,"idx":323}
+{"sentence":"what is happening in town tonight","label":0,"idx":324}
+{"sentence":"near by grocery","label":1,"idx":325}
+{"sentence":"hey olly tell me what shops i am near","label":1,"idx":326}
+{"sentence":"what movie theatres are in stephenville","label":2,"idx":327}
+{"sentence":"what's a movie in theaters that doesn't suck","label":2,"idx":328}
+{"sentence":"are there any interesting event going on around my location","label":0,"idx":329}
+{"sentence":"when does the closest bar close","label":1,"idx":330}
+{"sentence":"what fun stuff can i do around here","label":0,"idx":331}
+{"sentence":"tell me the local events","label":0,"idx":332}
+{"sentence":"where is the best mechanic in eagle point","label":1,"idx":333}
+{"sentence":"show todays events in ny","label":0,"idx":334}
+{"sentence":"what's happening near me this week","label":0,"idx":335}
+{"sentence":"whats going on in la","label":0,"idx":336}

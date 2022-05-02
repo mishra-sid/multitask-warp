@@ -1,1287 +1,1287 @@
-{"text":"could you tell me again please.","scenario":"general","labels":10}
-{"text":"yeap got that right.","scenario":"general","labels":0}
-{"text":"nope, i think you've done the task all wrongly.","scenario":"general","labels":7}
-{"text":"may i know whats at location one million, two hundred and fifty eight thousand, seven hundred and forty five","scenario":"general","labels":9}
-{"text":"i will speak slowly so you can find the correct answer.","scenario":"general","labels":7}
-{"text":"olly that would be all.","scenario":"general","labels":1}
-{"text":"yeap get that right.","scenario":"general","labels":0}
-{"text":"please correct the command.","scenario":"general","labels":7}
-{"text":"i am sorry but i think you have messed up with.","scenario":"general","labels":7}
-{"text":"uh no, i think not correct response.","scenario":"general","labels":7}
-{"text":"you have done the task wrong.","scenario":"general","labels":7}
-{"text":"that's excellent, thank you.","scenario":"general","labels":8}
-{"text":"would you check that.","scenario":"general","labels":2}
-{"text":"any one would be fine.","scenario":"general","labels":3}
-{"text":"today i had a meeting with george","scenario":"general","labels":9}
-{"text":"you said that wrong.","scenario":"general","labels":7}
-{"text":"you have understood my instructions right.","scenario":"general","labels":0}
-{"text":"anything would be okay with me.","scenario":"general","labels":3}
-{"text":"would you please shut down.","scenario":"general","labels":1}
-{"text":"shit, not correct.","scenario":"general","labels":7}
-{"text":"could you please shut off.","scenario":"general","labels":1}
-{"text":"olly please will you shut down.","scenario":"general","labels":1}
-{"text":"why people like earthly enjoyment and forget about the ultimate joy with god","scenario":"general","labels":9}
-{"text":"that's amazing.","scenario":"general","labels":0}
-{"text":"olly please can you shut off.","scenario":"general","labels":1}
-{"text":"yeah you did command perfectly.","scenario":"general","labels":0}
-{"text":"could you please once again elaborate me about your words.","scenario":"general","labels":4}
-{"text":"i'd like you just stop.","scenario":"general","labels":1}
-{"text":"it's amazing job, thank you very much, olly.","scenario":"general","labels":8}
-{"text":"nope, you didn't understand what i just requested.","scenario":"general","labels":7}
-{"text":"yeah good response to command.","scenario":"general","labels":0}
-{"text":"did you get last thing said correctly?","scenario":"general","labels":2}
-{"text":"notes","scenario":"general","labels":9}
-{"text":"can you explain the meaning behind the abrupt end of the hbo show the sopranos","scenario":"general","labels":9}
-{"text":"ah it's awesome work.","scenario":"general","labels":8}
-{"text":"i appreciate response, olly.","scenario":"general","labels":8}
-{"text":"robotic sentience","scenario":"general","labels":9}
-{"text":"remind me when certain marvel shows return to netflix","scenario":"general","labels":9}
-{"text":"sorry but i think you got it wrongly.","scenario":"general","labels":7}
-{"text":"search for a good nerd joke","scenario":"general","labels":6}
-{"text":"please cancel.","scenario":"general","labels":1}
-{"text":"one more again please.","scenario":"general","labels":10}
-{"text":"you did perfect job,, olly.","scenario":"general","labels":8}
-{"text":"it is useful, i appreciate it.","scenario":"general","labels":8}
-{"text":"olly that's all, cancel.","scenario":"general","labels":1}
-{"text":"you are helpful, thank you.","scenario":"general","labels":8}
-{"text":"this must be some mistakes.","scenario":"general","labels":7}
-{"text":"thank you for your answers, olly.","scenario":"general","labels":8}
-{"text":"you have got it right.","scenario":"general","labels":0}
-{"text":"what do you want to do today play outside","scenario":"general","labels":9}
-{"text":"that is not what i am searching for.","scenario":"general","labels":7}
-{"text":"yes you have done that exactly.","scenario":"general","labels":0}
-{"text":"thank you so much for doing it.","scenario":"general","labels":8}
-{"text":"really would not mind.","scenario":"general","labels":3}
-{"text":"uhh no, that's not what i am searching for.","scenario":"general","labels":7}
-{"text":"i'd like you to check last thing i said please.","scenario":"general","labels":2}
-{"text":"your answer was not what i was looking for.","scenario":"general","labels":7}
-{"text":"is there any new jobs are relate to my qualifications","scenario":"general","labels":9}
-{"text":"hmm, i did not ask for it.","scenario":"general","labels":7}
-{"text":"would you check and confirm last thing said please.","scenario":"general","labels":2}
-{"text":"it is useful, musch appreciated.","scenario":"general","labels":8}
-{"text":"it is useful, thank you so much.","scenario":"general","labels":8}
-{"text":"yes excellent response.","scenario":"general","labels":0}
-{"text":"did you get what just said correctly?","scenario":"general","labels":2}
-{"text":"clarify last sentence once again to me please.","scenario":"general","labels":4}
-{"text":"let us start over.","scenario":"general","labels":10}
-{"text":"i am sorry but it was not the right command.","scenario":"general","labels":7}
-{"text":"you have done it right appreciated, olly.","scenario":"general","labels":8}
-{"text":"wouldn't care, olly.","scenario":"general","labels":3}
-{"text":"i am sorry but you have messed up with my request.","scenario":"general","labels":7}
-{"text":"find me a joke related to baseball","scenario":"general","labels":6}
-{"text":"i do not really know.","scenario":"general","labels":3}
-{"text":"what are the specifications for the new iphone","scenario":"general","labels":9}
-{"text":"you did nice job,.","scenario":"general","labels":8}
-{"text":"that wasn't correct.","scenario":"general","labels":7}
-{"text":"s1, would you elaborate me more on what you said now please.","scenario":"general","labels":4}
-{"text":"olly i'd like you stop.","scenario":"general","labels":1}
-{"text":"that's useful, thank you very much.","scenario":"general","labels":8}
-{"text":"olly just cancel please.","scenario":"general","labels":1}
-{"text":"no please search some more.","scenario":"general","labels":7}
-{"text":"no, you gave me incorrect information.","scenario":"general","labels":7}
-{"text":"would you explain more on your response to me.","scenario":"general","labels":4}
-{"text":"great work, you did well, olly.","scenario":"general","labels":8}
-{"text":"will you shut up please.","scenario":"general","labels":1}
-{"text":"olly could you shut down please.","scenario":"general","labels":1}
-{"text":"yes amazing response to the command.","scenario":"general","labels":0}
-{"text":"i am bored how about some small talk","scenario":"general","labels":9}
-{"text":"oh it's perfect work.","scenario":"general","labels":8}
-{"text":"i don't like this one","scenario":"general","labels":9}
-{"text":"it was helpful,, olly.","scenario":"general","labels":8}
-{"text":"you rock, thank you very much.","scenario":"general","labels":8}
-{"text":"check my last command.","scenario":"general","labels":2}
-{"text":"appreciate the answers.","scenario":"general","labels":8}
-{"text":"that's enough, just cancel it.","scenario":"general","labels":1}
-{"text":"would not really mind for whatever.","scenario":"general","labels":3}
-{"text":"sorry but it's not the right answer.","scenario":"general","labels":7}
-{"text":"how you have solve the problem","scenario":"general","labels":9}
-{"text":"i think you're incorrect.","scenario":"general","labels":7}
-{"text":"can you rephrase me on last sentence again.","scenario":"general","labels":4}
-{"text":"please explain the chinese culture","scenario":"general","labels":9}
-{"text":"baseball scores","scenario":"general","labels":9}
-{"text":"what does it mean to call someone a snowflake","scenario":"general","labels":9}
-{"text":"do you want to hear what have happened today","scenario":"general","labels":9}
-{"text":"it was wonderful.","scenario":"general","labels":0}
-{"text":"that's cool,.","scenario":"general","labels":8}
-{"text":"please say once more.","scenario":"general","labels":10}
-{"text":"olly's response was wrong.","scenario":"general","labels":7}
-{"text":"any dangerous weather today","scenario":"general","labels":9}
-{"text":"that doesn't matter with me.","scenario":"general","labels":3}
-{"text":"i do not really mind for anything.","scenario":"general","labels":3}
-{"text":"let us try that once again.","scenario":"general","labels":10}
-{"text":"that's wonderful.","scenario":"general","labels":8}
-{"text":"we had great dinner today","scenario":"general","labels":9}
-{"text":"yeah it's perfect.","scenario":"general","labels":0}
-{"text":"uhh no, that isn't what i am looking for.","scenario":"general","labels":7}
-{"text":"clarify me further on last sentence please.","scenario":"general","labels":4}
-{"text":"i appreciate it, that's great job.","scenario":"general","labels":8}
-{"text":"perfect response to the command.","scenario":"general","labels":0}
-{"text":"i like you cancel.","scenario":"general","labels":1}
-{"text":"you are the best,, olly.","scenario":"general","labels":8}
-{"text":"i did not get your words.","scenario":"general","labels":4}
-{"text":"s1, please clarify me more on that.","scenario":"general","labels":4}
-{"text":"ah it's amazing work.","scenario":"general","labels":8}
-{"text":"i'd like you confirm that please.","scenario":"general","labels":2}
-{"text":"find me the best knock knock joke on the internet","scenario":"general","labels":6}
-{"text":"what if i had junk food and heavy drinks","scenario":"general","labels":9}
-{"text":"set up a date for just you and me","scenario":"general","labels":9}
-{"text":"let us try the sentence you said once more.","scenario":"general","labels":10}
-{"text":"you have done it correctly musch appreciated.","scenario":"general","labels":8}
-{"text":"good.","scenario":"general","labels":0}
-{"text":"confirm it please.","scenario":"general","labels":2}
-{"text":"i am bored","scenario":"general","labels":9}
-{"text":"please know that today i had a meeting with george","scenario":"general","labels":9}
-{"text":"you got the command perfectly.","scenario":"general","labels":0}
-{"text":"you are my star, musch appreciated.","scenario":"general","labels":8}
-{"text":"olly please would you shut up.","scenario":"general","labels":1}
-{"text":"please could you check and confirm my last instruction.","scenario":"general","labels":2}
-{"text":"you have got it exactly.","scenario":"general","labels":0}
-{"text":"you helped a lot, thank you.","scenario":"general","labels":8}
-{"text":"you have gotten command perfectly.","scenario":"general","labels":0}
-{"text":"confirm question.","scenario":"general","labels":2}
-{"text":"no, you did not understand what i requested.","scenario":"general","labels":7}
-{"text":"you did awesome work, thank you so much.","scenario":"general","labels":8}
-{"text":"i want to buy over ear headphones with minimum frequency response of fifteen hz and maximum frequency response twenty two thousand hz","scenario":"general","labels":9}
-{"text":"olly can you shut down please.","scenario":"general","labels":1}
-{"text":"i think that's not the right command.","scenario":"general","labels":7}
-{"text":"shit, it's not what i just requested.","scenario":"general","labels":7}
-{"text":"appreciated, olly.","scenario":"general","labels":8}
-{"text":"what's the meaning of life","scenario":"general","labels":9}
-{"text":"you rock, thank you very much, olly.","scenario":"general","labels":8}
-{"text":"yeap correct response.","scenario":"general","labels":0}
-{"text":"what ever happened to john gresham","scenario":"general","labels":9}
-{"text":"nope, i didn't say that.","scenario":"general","labels":7}
-{"text":"please again clarify me on last sentence.","scenario":"general","labels":4}
-{"text":"i do not care.","scenario":"general","labels":3}
-{"text":"thanks, that was great one.","scenario":"general","labels":8}
-{"text":"thanks but i think you're not right.","scenario":"general","labels":7}
-{"text":"nope, i think that's not the right answer.","scenario":"general","labels":7}
-{"text":"thank you for completing it, olly.","scenario":"general","labels":8}
-{"text":"that's perfect, musch appreciated.","scenario":"general","labels":8}
-{"text":"this doesn't really matter.","scenario":"general","labels":3}
-{"text":"will you please clarify again.","scenario":"general","labels":4}
-{"text":"uhh no, i think got me not right.","scenario":"general","labels":7}
-{"text":"i'd like to hear the last spoken again.","scenario":"general","labels":10}
-{"text":"how would you describe a person that is called a snowflake","scenario":"general","labels":9}
-{"text":"rephrase further to me please.","scenario":"general","labels":4}
-{"text":"you are the best,.","scenario":"general","labels":8}
-{"text":"s1, would you further explain me about that please.","scenario":"general","labels":4}
-{"text":"i got into a wreck today","scenario":"general","labels":9}
-{"text":"i am happy","scenario":"general","labels":9}
-{"text":"olly shut off please.","scenario":"general","labels":1}
-{"text":"Current trends in technology","scenario":"general","labels":9}
-{"text":"i could not get this.","scenario":"general","labels":4}
-{"text":"please let us try what you've said one more time again.","scenario":"general","labels":10}
-{"text":"what is a funny joke","scenario":"general","labels":6}
-{"text":"explain me further on your response please.","scenario":"general","labels":4}
-{"text":"doesn't matter.","scenario":"general","labels":3}
-{"text":"it's cool, musch appreciated, olly.","scenario":"general","labels":8}
-{"text":"could you start over please.","scenario":"general","labels":10}
-{"text":"yeah you've gotten command perfectly.","scenario":"general","labels":0}
-{"text":"you did good work, thank you very much.","scenario":"general","labels":8}
-{"text":"that is all, cancel it.","scenario":"general","labels":1}
-{"text":"could you please shut down.","scenario":"general","labels":1}
-{"text":"explain it further please.","scenario":"general","labels":4}
-{"text":"please would you repeat.","scenario":"general","labels":10}
-{"text":"yeah you've gotten my instructions right.","scenario":"general","labels":0}
-{"text":"don't really mind.","scenario":"general","labels":3}
-{"text":"yes great response.","scenario":"general","labels":0}
-{"text":"it is not what i requested.","scenario":"general","labels":7}
-{"text":"you've done that right, olly.","scenario":"general","labels":8}
-{"text":"it's not what i was searching for.","scenario":"general","labels":7}
-{"text":"i think you did task wrong.","scenario":"general","labels":7}
-{"text":"yeap get the command perfectly.","scenario":"general","labels":0}
-{"text":"yes correct response.","scenario":"general","labels":0}
-{"text":"please explain what you've said further.","scenario":"general","labels":4}
-{"text":"you have done that correctly thank you very much, olly.","scenario":"general","labels":8}
-{"text":"please check last thing i said.","scenario":"general","labels":2}
-{"text":"yeap right response.","scenario":"general","labels":0}
-{"text":"i have to tell you about my day","scenario":"general","labels":9}
-{"text":"please will you clarify further on what you've just said.","scenario":"general","labels":4}
-{"text":"have no idea regarding to what to do, olly.","scenario":"general","labels":3}
-{"text":"suggestions for future","scenario":"general","labels":9}
-{"text":"it doesn't matter.","scenario":"general","labels":3}
-{"text":"i don't mind to select any one.","scenario":"general","labels":3}
-{"text":"can you please clarify once again.","scenario":"general","labels":4}
-{"text":"sorry but i think you've understood that wrongly.","scenario":"general","labels":7}
-{"text":"explain more on your answer please.","scenario":"general","labels":4}
-{"text":"i had a bad day","scenario":"general","labels":9}
-{"text":"i want you check what i last said please.","scenario":"general","labels":2}
-{"text":"what was that one more time.","scenario":"general","labels":10}
-{"text":"wait, you do not understand me.","scenario":"general","labels":7}
-{"text":"can you elaborate further on this to me please.","scenario":"general","labels":4}
-{"text":"s2, i am not clear about your response.","scenario":"general","labels":4}
-{"text":"i hope tomorrow will be better","scenario":"general","labels":9}
-{"text":"thanks but i think you do not understand this right.","scenario":"general","labels":7}
-{"text":"can you rephrase once again please.","scenario":"general","labels":4}
-{"text":"i'd like to hear what i've said again.","scenario":"general","labels":10}
-{"text":"olly would you shut down.","scenario":"general","labels":1}
-{"text":"i want to hear your last instruction you said again.","scenario":"general","labels":10}
-{"text":"speak one more time again please.","scenario":"general","labels":10}
-{"text":"please confirm the details.","scenario":"general","labels":2}
-{"text":"oops, i think you do not understand me.","scenario":"general","labels":7}
-{"text":"appreciated, that's good.","scenario":"general","labels":8}
-{"text":"you gave me incorrect information.","scenario":"general","labels":7}
-{"text":"can you please confirm my last question.","scenario":"general","labels":2}
-{"text":"i am not so clear about what you just said.","scenario":"general","labels":4}
-{"text":"i wouldn't mind.","scenario":"general","labels":3}
-{"text":"i would like my to update all breaking news across the world","scenario":"general","labels":9}
-{"text":"can you please confirm what said.","scenario":"general","labels":2}
-{"text":"what's the funniest joke you know","scenario":"general","labels":6}
-{"text":"i am fine","scenario":"general","labels":9}
-{"text":"how can you get basalt","scenario":"general","labels":9}
-{"text":"tell me quotes that have to do with love","scenario":"general","labels":9}
-{"text":"yes you've gotten my instructions exactly.","scenario":"general","labels":0}
-{"text":"tell me about what latest inventions are our scientists doing these days","scenario":"general","labels":9}
-{"text":"please will you confirm command.","scenario":"general","labels":2}
-{"text":"replay what i've just said please.","scenario":"general","labels":10}
-{"text":"what is that one more time again.","scenario":"general","labels":10}
-{"text":"please change that command.","scenario":"general","labels":7}
-{"text":"you are hero, i appreciate it, olly.","scenario":"general","labels":8}
-{"text":"i was late today for the meeting you would not believe what happened","scenario":"general","labels":9}
-{"text":"that's helpful, thank you, olly.","scenario":"general","labels":8}
-{"text":"please can you confirm my last command.","scenario":"general","labels":2}
-{"text":"any one will be fine with me, olly.","scenario":"general","labels":3}
-{"text":"you've done it right thank you so much.","scenario":"general","labels":8}
-{"text":"it's useful, thank you so much.","scenario":"general","labels":8}
-{"text":"will you say once more please.","scenario":"general","labels":10}
-{"text":"please can you confirm details.","scenario":"general","labels":2}
-{"text":"i think you did a mistake, please fix this.","scenario":"general","labels":7}
-{"text":"stop, i think you understood me incorrectly.","scenario":"general","labels":7}
-{"text":"i could not understand this.","scenario":"general","labels":4}
-{"text":"could you reset what i said please.","scenario":"general","labels":10}
-{"text":"i would like to hear what i said again.","scenario":"general","labels":10}
-{"text":"yes exact.","scenario":"general","labels":0}
-{"text":"i want to hear the phrase said again.","scenario":"general","labels":10}
-{"text":"please clarify further on your response to me.","scenario":"general","labels":4}
-{"text":"can you please further elaborate what you just said.","scenario":"general","labels":4}
-{"text":"it's fantastic.","scenario":"general","labels":0}
-{"text":"please can you just stop.","scenario":"general","labels":1}
-{"text":"you didn't interpret the request right.","scenario":"general","labels":7}
-{"text":"nope, this was not what i wanted.","scenario":"general","labels":7}
-{"text":"it seems like the command is not correct.","scenario":"general","labels":7}
-{"text":"you are awesome, i appreciate it, olly.","scenario":"general","labels":8}
-{"text":"would you confirm my last command please.","scenario":"general","labels":2}
-{"text":"math","scenario":"general","labels":9}
-{"text":"i think this was wrong answer.","scenario":"general","labels":7}
-{"text":"where i went today","scenario":"general","labels":9}
-{"text":"got it perfectly.","scenario":"general","labels":0}
-{"text":"any one is good for me.","scenario":"general","labels":3}
-{"text":"could you do it again please.","scenario":"general","labels":10}
-{"text":"thanks but i think you have me not correct.","scenario":"general","labels":7}
-{"text":"would you check and confirm it please.","scenario":"general","labels":2}
-{"text":"sorry but i think you've gottten that wrongly.","scenario":"general","labels":7}
-{"text":"will you shut down please.","scenario":"general","labels":1}
-{"text":"i'd like you to confirm that please.","scenario":"general","labels":2}
-{"text":"you get it correcly.","scenario":"general","labels":0}
-{"text":"show me a video about new mobile launches this year","scenario":"general","labels":9}
-{"text":"let's try your sentence spoken once again please.","scenario":"general","labels":10}
-{"text":"you have gotten my instructions correcly.","scenario":"general","labels":0}
-{"text":"any one would be good for me.","scenario":"general","labels":3}
-{"text":"get that right.","scenario":"general","labels":0}
-{"text":"olly please shut up.","scenario":"general","labels":1}
-{"text":"i want a not only to direct me to an internet site but actually answer any given question","scenario":"general","labels":9}
-{"text":"hey olly tell me a joke","scenario":"general","labels":6}
-{"text":"it was nice one, thank you.","scenario":"general","labels":8}
-{"text":"i could not catch up with you.","scenario":"general","labels":4}
-{"text":"it doesn't really matter with me, olly.","scenario":"general","labels":3}
-{"text":"can you tell me one more again.","scenario":"general","labels":10}
-{"text":"please repeat.","scenario":"general","labels":10}
-{"text":"please could you speak once again.","scenario":"general","labels":10}
-{"text":"explain me about what you've just said again please.","scenario":"general","labels":4}
-{"text":"you've done it right thank you very much, olly.","scenario":"general","labels":8}
-{"text":"you have done that right thanks, olly.","scenario":"general","labels":8}
-{"text":"you are my hero, musch appreciated.","scenario":"general","labels":8}
-{"text":"would you again rephrase me on your words please.","scenario":"general","labels":4}
-{"text":"you are helpful, thank you so much.","scenario":"general","labels":8}
-{"text":"that's not what i was looking for.","scenario":"general","labels":7}
-{"text":"can you say what you just said one more time please.","scenario":"general","labels":10}
-{"text":"what i did at this time","scenario":"general","labels":9}
-{"text":"Olly, learn that when i say mom, I mean giselle adams","scenario":"general","labels":9}
-{"text":"not correct command.","scenario":"general","labels":7}
-{"text":"provide a joke","scenario":"general","labels":6}
-{"text":"would you check and confirm question please.","scenario":"general","labels":2}
-{"text":"wouldn't know.","scenario":"general","labels":3}
-{"text":"uhh no, i think incorrect answer.","scenario":"general","labels":7}
-{"text":"about demoudularity","scenario":"general","labels":9}
-{"text":"olly that is enough, just cancel.","scenario":"general","labels":1}
-{"text":"yeap you've understood my instructions exactly.","scenario":"general","labels":0}
-{"text":"would not really care.","scenario":"general","labels":3}
-{"text":"no, it is not what i just requested.","scenario":"general","labels":7}
-{"text":"i am going to work today","scenario":"general","labels":9}
-{"text":"oops, you don't get response correctly.","scenario":"general","labels":7}
-{"text":"internet please","scenario":"general","labels":9}
-{"text":"it's good job, thank you so much.","scenario":"general","labels":8}
-{"text":"that is of no importance.","scenario":"general","labels":3}
-{"text":"hi there congratulate me i got a promoted in my job at office","scenario":"general","labels":9}
-{"text":"thank you so much for your asssistance.","scenario":"general","labels":8}
-{"text":"that's enough.","scenario":"general","labels":1}
-{"text":"i couldn't quite catch that.","scenario":"general","labels":4}
-{"text":"show me the places where i was","scenario":"general","labels":9}
-{"text":"can you tell me about animal kingdom in amazon forest","scenario":"general","labels":9}
-{"text":"do you believe in god or do you think you'll become one","scenario":"general","labels":9}
-{"text":"olly i will talk to you later on.","scenario":"general","labels":1}
-{"text":"wouldn't bother, olly.","scenario":"general","labels":3}
-{"text":"i am sorry but that's not the correct answer.","scenario":"general","labels":7}
-{"text":"will you speak once again please.","scenario":"general","labels":10}
-{"text":"it must be a mistake.","scenario":"general","labels":7}
-{"text":"yes you did the command right.","scenario":"general","labels":0}
-{"text":"how are you feeling lately","scenario":"general","labels":9}
-{"text":"yeap that's fantastic.","scenario":"general","labels":0}
-{"text":"thanks for answer, olly.","scenario":"general","labels":8}
-{"text":"will you check the details please.","scenario":"general","labels":2}
-{"text":"that is useful,, olly.","scenario":"general","labels":8}
-{"text":"whatever is fine to me.","scenario":"general","labels":3}
-{"text":"sorry but i think you made mistake.","scenario":"general","labels":7}
-{"text":"will you retry that command spoke.","scenario":"general","labels":10}
-{"text":"i like you check my last question please.","scenario":"general","labels":2}
-{"text":"that's nice job, thank you so much.","scenario":"general","labels":8}
-{"text":"you did nice work, thanks.","scenario":"general","labels":8}
-{"text":"explain quantum physics to me in language i understand","scenario":"general","labels":9}
-{"text":"s1, will you again elaborate me on what you said now please.","scenario":"general","labels":4}
-{"text":"s2, i couldn't quite catch that.","scenario":"general","labels":4}
-{"text":"what happened to charlie chaplin","scenario":"general","labels":9}
-{"text":"how is the day today","scenario":"general","labels":9}
-{"text":"thanks for answers, olly.","scenario":"general","labels":8}
-{"text":"i think you did a task all wrong.","scenario":"general","labels":7}
-{"text":"exactly.","scenario":"general","labels":0}
-{"text":"please tell me one more again.","scenario":"general","labels":10}
-{"text":"yes affirmative.","scenario":"general","labels":0}
-{"text":"i would like you to check what last said please.","scenario":"general","labels":2}
-{"text":"any one would be fine for me.","scenario":"general","labels":3}
-{"text":"olly that's enough, just stop it.","scenario":"general","labels":1}
-{"text":"you helped a lot, musch appreciated, olly.","scenario":"general","labels":8}
-{"text":"thanks for your response.","scenario":"general","labels":8}
-{"text":"i am not so clear about that.","scenario":"general","labels":4}
-{"text":"tell me what i said one more time again please.","scenario":"general","labels":10}
-{"text":"do not understand what you just said.","scenario":"general","labels":4}
-{"text":"confirm what last said.","scenario":"general","labels":2}
-{"text":"do not care.","scenario":"general","labels":3}
-{"text":"s1, please clarify me about this further.","scenario":"general","labels":4}
-{"text":"please replay that.","scenario":"general","labels":10}
-{"text":"would you tell me what i said one more time again.","scenario":"general","labels":10}
-{"text":"i would like my to write original romantic messages for my wife","scenario":"general","labels":9}
-{"text":"could you speak one more again please.","scenario":"general","labels":10}
-{"text":"s2, i don't catch that.","scenario":"general","labels":4}
-{"text":"please replay your last statement.","scenario":"general","labels":10}
-{"text":"i had a car accident today","scenario":"general","labels":9}
-{"text":"record what happened today","scenario":"general","labels":9}
-{"text":"did you get what said correctly?","scenario":"general","labels":2}
-{"text":"painting","scenario":"general","labels":9}
-{"text":"that's amazing work, olly.","scenario":"general","labels":8}
-{"text":"thanks but i think you didn't understand command correctly.","scenario":"general","labels":7}
-{"text":"it is perfect work, musch appreciated, olly.","scenario":"general","labels":8}
-{"text":"i'd like you to confirm my last instruction please.","scenario":"general","labels":2}
-{"text":"can you check and confirm last thing said please.","scenario":"general","labels":2}
-{"text":"i could not get your words.","scenario":"general","labels":4}
-{"text":"bad that's not what i said.","scenario":"general","labels":7}
-{"text":"don't mind.","scenario":"general","labels":3}
-{"text":"what should i do today","scenario":"general","labels":9}
-{"text":"uh no, i did not ask for it command.","scenario":"general","labels":7}
-{"text":"would you do it again please.","scenario":"general","labels":10}
-{"text":"yeah great response to command.","scenario":"general","labels":0}
-{"text":"you've got it correcly.","scenario":"general","labels":0}
-{"text":"it's great one.","scenario":"general","labels":8}
-{"text":"you have got the answer exactly.","scenario":"general","labels":0}
-{"text":"tell me the lucky color of today","scenario":"general","labels":9}
-{"text":"i don't mind.","scenario":"general","labels":3}
-{"text":"hey i am having a bad day today what can i watch to cheer me up","scenario":"general","labels":9}
-{"text":"never mind, olly.","scenario":"general","labels":3}
-{"text":"no, i think wrong response.","scenario":"general","labels":7}
-{"text":"perfectly.","scenario":"general","labels":0}
-{"text":"i am sorry but i think got me not right.","scenario":"general","labels":7}
-{"text":"i like you check and confirm the last thing i said please.","scenario":"general","labels":2}
-{"text":"will you say once again.","scenario":"general","labels":10}
-{"text":"say that once again please.","scenario":"general","labels":10}
-{"text":"could you confirm details.","scenario":"general","labels":2}
-{"text":"that was good, thanks.","scenario":"general","labels":8}
-{"text":"what were you trying to say.","scenario":"general","labels":10}
-{"text":"yes you have gotten it exactly.","scenario":"general","labels":0}
-{"text":"yeah good response.","scenario":"general","labels":0}
-{"text":"let's try what i've just said one more time again please.","scenario":"general","labels":10}
-{"text":"please try again.","scenario":"general","labels":10}
-{"text":"it is of no importance with me.","scenario":"general","labels":3}
-{"text":"yeah perfect response to command.","scenario":"general","labels":0}
-{"text":"no, thanks.","scenario":"general","labels":7}
-{"text":"anything would be ok with me.","scenario":"general","labels":3}
-{"text":"can you please check command.","scenario":"general","labels":2}
-{"text":"you should not have done that.","scenario":"general","labels":7}
-{"text":"check what i last said please.","scenario":"general","labels":2}
-{"text":"i have no idea about what to choose.","scenario":"general","labels":3}
-{"text":"it is of no importance to me, olly.","scenario":"general","labels":3}
-{"text":"please will you confirm details.","scenario":"general","labels":2}
-{"text":"sorry but that's incorrect response.","scenario":"general","labels":7}
-{"text":"what have you been up to today","scenario":"general","labels":9}
-{"text":"i was unclear about last sentence.","scenario":"general","labels":4}
-{"text":"what rihanna is doing","scenario":"general","labels":9}
-{"text":"television","scenario":"general","labels":9}
-{"text":"i am sorry but i think you had that incorrect.","scenario":"general","labels":7}
-{"text":"could you check and confirm that please.","scenario":"general","labels":2}
-{"text":"what do you mean by saying this.","scenario":"general","labels":4}
-{"text":"would you reset what i have just said please.","scenario":"general","labels":10}
-{"text":"i would like to hear what i've said again.","scenario":"general","labels":10}
-{"text":"you did good job, thanks.","scenario":"general","labels":8}
-{"text":"don't really mind for whatever.","scenario":"general","labels":3}
-{"text":"tell me a joke about a man","scenario":"general","labels":6}
-{"text":"perfect job, you did well.","scenario":"general","labels":8}
-{"text":"what has been the best selling product on sports category in amazon for the last three days","scenario":"general","labels":9}
-{"text":"i do not understand it.","scenario":"general","labels":4}
-{"text":"good afternoon how are you","scenario":"general","labels":5}
-{"text":"you are smart, olly.","scenario":"general","labels":8}
-{"text":"any one is okay to me.","scenario":"general","labels":3}
-{"text":"order me something online","scenario":"general","labels":9}
-{"text":"please rephrase more on what you just said now.","scenario":"general","labels":4}
-{"text":"you are my star, thank you so much.","scenario":"general","labels":8}
-{"text":"i would like to hear that information spoken again.","scenario":"general","labels":10}
-{"text":"uhh no, thanks.","scenario":"general","labels":7}
-{"text":"clear last action.","scenario":"general","labels":7}
-{"text":"yes you have got my instructions exactly.","scenario":"general","labels":0}
-{"text":"i need a nap","scenario":"general","labels":9}
-{"text":"you are not correct.","scenario":"general","labels":7}
-{"text":"that is of no importance with me, olly.","scenario":"general","labels":3}
-{"text":"tell me a good alcoholic drink","scenario":"general","labels":9}
-{"text":"thank you for doing it, olly.","scenario":"general","labels":8}
-{"text":"s2, did not get your words.","scenario":"general","labels":4}
-{"text":"i think that is not the right answer.","scenario":"general","labels":7}
-{"text":"olly please cancel.","scenario":"general","labels":1}
-{"text":"yeap you did that perfectly.","scenario":"general","labels":0}
-{"text":"i appreciate the helps.","scenario":"general","labels":8}
-{"text":"what features are you going to add in the future","scenario":"general","labels":9}
-{"text":"could you tell me one more time please.","scenario":"general","labels":10}
-{"text":"dont do that again.","scenario":"general","labels":7}
-{"text":"are you working for the nsa","scenario":"general","labels":9}
-{"text":"will you retry please.","scenario":"general","labels":10}
-{"text":"you are hero, thank you very much.","scenario":"general","labels":8}
-{"text":"is the brightness of my screen running low","scenario":"general","labels":9}
-{"text":"that's fantastic work, appreciated, olly.","scenario":"general","labels":8}
-{"text":"can you please check what i just said.","scenario":"general","labels":2}
-{"text":"females","scenario":"general","labels":9}
-{"text":"any one would be okay, olly.","scenario":"general","labels":3}
-{"text":"you did fantastic work,, olly.","scenario":"general","labels":8}
-{"text":"say it once again please.","scenario":"general","labels":10}
-{"text":"s2, i am not clear about what you have said.","scenario":"general","labels":4}
-{"text":"yeap that's right.","scenario":"general","labels":0}
-{"text":"i got a package in the mail today","scenario":"general","labels":9}
-{"text":"please correct the incorrect command.","scenario":"general","labels":7}
-{"text":"it's useful, musch appreciated, olly.","scenario":"general","labels":8}
-{"text":"you have done your understanding correcly.","scenario":"general","labels":0}
-{"text":"please check and confirm my last command.","scenario":"general","labels":2}
-{"text":"you are my star, i appreciate it.","scenario":"general","labels":8}
-{"text":"that's cool, thanks, olly.","scenario":"general","labels":8}
-{"text":"oh no, wrong.","scenario":"general","labels":7}
-{"text":"can you please clarify me more on your answers.","scenario":"general","labels":4}
-{"text":"will you please explain me further on this.","scenario":"general","labels":4}
-{"text":"did you get details correctly?","scenario":"general","labels":2}
-{"text":"i was not clear about what you just said now.","scenario":"general","labels":4}
-{"text":"not right command.","scenario":"general","labels":7}
-{"text":"please check what i just said.","scenario":"general","labels":2}
-{"text":"show me a funny joke","scenario":"general","labels":6}
-{"text":"whats a romantic meal for my girlfriend","scenario":"general","labels":9}
-{"text":"fly me to the moon","scenario":"general","labels":9}
-{"text":"confirm that.","scenario":"general","labels":2}
-{"text":"anything is ok with me.","scenario":"general","labels":3}
-{"text":"s1, please would you clarify me further on your response.","scenario":"general","labels":4}
-{"text":"please could you check detail.","scenario":"general","labels":2}
-{"text":"this does not matter, olly.","scenario":"general","labels":3}
-{"text":"yeah you've gotten your understanding perfectly.","scenario":"general","labels":0}
-{"text":"tell me that command one more again please.","scenario":"general","labels":10}
-{"text":"say what you've said one more time again please.","scenario":"general","labels":10}
-{"text":"s2, i do not understand that.","scenario":"general","labels":4}
-{"text":"any one will be ok for me.","scenario":"general","labels":3}
-{"text":"will you check and confirm command please.","scenario":"general","labels":2}
-{"text":"olly please could you shut up.","scenario":"general","labels":1}
-{"text":"yeap good response.","scenario":"general","labels":0}
-{"text":"i'd like you check and confirm the command please.","scenario":"general","labels":2}
-{"text":"nope.","scenario":"general","labels":7}
-{"text":"i didn't catch that.","scenario":"general","labels":4}
-{"text":"anything will be okay with me.","scenario":"general","labels":3}
-{"text":"please would you confirm what i said.","scenario":"general","labels":2}
-{"text":"what am i doing this week","scenario":"general","labels":9}
-{"text":"i worked today","scenario":"general","labels":9}
-{"text":"awesome job, you did well.","scenario":"general","labels":8}
-{"text":"olly that's enough, cancel it.","scenario":"general","labels":1}
-{"text":"will you stop please.","scenario":"general","labels":1}
-{"text":"s2, i am not clear about this.","scenario":"general","labels":4}
-{"text":"it does not matter with me.","scenario":"general","labels":3}
-{"text":"will you stop.","scenario":"general","labels":1}
-{"text":"do you know any joke","scenario":"general","labels":6}
-{"text":"reset.","scenario":"general","labels":10}
-{"text":"do i have to go to the gym","scenario":"general","labels":9}
-{"text":"i don't quite catch that.","scenario":"general","labels":4}
-{"text":"yeah that is correct.","scenario":"general","labels":0}
-{"text":"thank you so much for listening.","scenario":"general","labels":8}
-{"text":"right response to command.","scenario":"general","labels":0}
-{"text":"good work, you've done well, olly.","scenario":"general","labels":8}
-{"text":"i would like you to check and confirm my last command please.","scenario":"general","labels":2}
-{"text":"uhh no, you didn't interpret the request right.","scenario":"general","labels":7}
-{"text":"please would you check instruction.","scenario":"general","labels":2}
-{"text":"s2, i was not so clear about your answer.","scenario":"general","labels":4}
-{"text":"let's do it again.","scenario":"general","labels":10}
-{"text":"who are you","scenario":"general","labels":5}
-{"text":"that is right.","scenario":"general","labels":0}
-{"text":"you did fantastic job, appreciated.","scenario":"general","labels":8}
-{"text":"today i searched all over for my phone and couldn't find it","scenario":"general","labels":9}
-{"text":"dammit, wrong command.","scenario":"general","labels":7}
-{"text":"could you please check details.","scenario":"general","labels":2}
-{"text":"yeah that's fantastic.","scenario":"general","labels":0}
-{"text":"you've done it right thanks, olly.","scenario":"general","labels":8}
-{"text":"breeds of dog that are most hypoallergenic","scenario":"general","labels":9}
-{"text":"please can you check and confirm last thing said.","scenario":"general","labels":2}
-{"text":"please tell me it once more.","scenario":"general","labels":10}
-{"text":"please would you say again.","scenario":"general","labels":10}
-{"text":"yeah you have got my instructions perfectly.","scenario":"general","labels":0}
-{"text":"that is unimportant, olly.","scenario":"general","labels":3}
-{"text":"doesn't really matter with me.","scenario":"general","labels":3}
-{"text":"say a joke","scenario":"general","labels":6}
-{"text":"would you replay that things you said please.","scenario":"general","labels":10}
-{"text":"i think you made mistake, please change this.","scenario":"general","labels":7}
-{"text":"i want to hear a good joke","scenario":"general","labels":6}
-{"text":"it is helpful, thank you so much, olly.","scenario":"general","labels":8}
-{"text":"what are you doing","scenario":"general","labels":9}
-{"text":"that wasn't what i wanted please try again.","scenario":"general","labels":7}
-{"text":"that was cool, i appreciate it.","scenario":"general","labels":8}
-{"text":"i think you have done this all in wrong manner.","scenario":"general","labels":7}
-{"text":"i am sorry but i think you are wrong.","scenario":"general","labels":7}
-{"text":"answer is confirmed.","scenario":"general","labels":0}
-{"text":"that's useful, thanks, olly.","scenario":"general","labels":8}
-{"text":"it's perfect.","scenario":"general","labels":0}
-{"text":"no, you gave me wrong information.","scenario":"general","labels":7}
-{"text":"i would not know, olly.","scenario":"general","labels":3}
-{"text":"please could you check command.","scenario":"general","labels":2}
-{"text":"s2, i am unclear about this.","scenario":"general","labels":4}
-{"text":"please check what last said.","scenario":"general","labels":2}
-{"text":"your birth date","scenario":"general","labels":9}
-{"text":"you've done the task incorrectly.","scenario":"general","labels":7}
-{"text":"s2, i could not quite catch up with you.","scenario":"general","labels":4}
-{"text":"i am sorry but that was not right.","scenario":"general","labels":7}
-{"text":"what do you do all day","scenario":"general","labels":9}
-{"text":"try again that is not what i am looking for.","scenario":"general","labels":7}
-{"text":"can you speak one more again.","scenario":"general","labels":10}
-{"text":"i have no idea.","scenario":"general","labels":3}
-{"text":"dammit, not correct response.","scenario":"general","labels":7}
-{"text":"i want you confirm the detail please.","scenario":"general","labels":2}
-{"text":"i'd like you check the details please.","scenario":"general","labels":2}
-{"text":"you have done that right musch appreciated, olly.","scenario":"general","labels":8}
-{"text":"are you content with being inside a","scenario":"general","labels":9}
-{"text":"doesn't really matter to me.","scenario":"general","labels":3}
-{"text":"what is the best method to decide what the best thing to do isre","scenario":"general","labels":9}
-{"text":"yes you've done it perfectly.","scenario":"general","labels":0}
-{"text":"can you tell me how to measure my shoe size","scenario":"general","labels":9}
-{"text":"i was wondering how would you look","scenario":"general","labels":9}
-{"text":"wonderful.","scenario":"general","labels":0}
-{"text":"would not mind for anything.","scenario":"general","labels":3}
-{"text":"i don't care.","scenario":"general","labels":3}
-{"text":"confirm the instruction.","scenario":"general","labels":2}
-{"text":"i do not really mind to select any one, olly.","scenario":"general","labels":3}
-{"text":"can you just cancel it.","scenario":"general","labels":1}
-{"text":"yeap good.","scenario":"general","labels":0}
-{"text":"how is everything","scenario":"general","labels":5}
-{"text":"this doesn't really matter to me.","scenario":"general","labels":3}
-{"text":"that is wonderful, appreciated.","scenario":"general","labels":8}
-{"text":"can you again rephrase me on your answers.","scenario":"general","labels":4}
-{"text":"i went to the park","scenario":"general","labels":9}
-{"text":"thanks for the response, olly.","scenario":"general","labels":8}
-{"text":"define yourself in one word","scenario":"general","labels":9}
-{"text":"i think olly's answer is not right.","scenario":"general","labels":7}
-{"text":"chatbot","scenario":"general","labels":9}
-{"text":"that is all.","scenario":"general","labels":1}
-{"text":"dammit, it isn't what i asked.","scenario":"general","labels":7}
-{"text":"yeah you've understood my instructions exactly.","scenario":"general","labels":0}
-{"text":"i appreciate it, that was great.","scenario":"general","labels":8}
-{"text":"oh no, i did not ask for that.","scenario":"general","labels":7}
-{"text":"please further rephrase it.","scenario":"general","labels":4}
-{"text":"what is the meaning of life","scenario":"general","labels":9}
-{"text":"you are hero, thanks.","scenario":"general","labels":8}
-{"text":"that's not what i meant to say.","scenario":"general","labels":7}
-{"text":"thanks but i think it's incorrect command.","scenario":"general","labels":7}
-{"text":"would you try again.","scenario":"general","labels":10}
-{"text":"my commute was difficult today","scenario":"general","labels":9}
-{"text":"wooo","scenario":"general","labels":9}
-{"text":"any one would be fine to me.","scenario":"general","labels":3}
-{"text":"could you check the detail please.","scenario":"general","labels":2}
-{"text":"thanks but it was not the right answer.","scenario":"general","labels":7}
-{"text":"thank you for the response, olly.","scenario":"general","labels":8}
-{"text":"yeap you've got your understanding right.","scenario":"general","labels":0}
-{"text":"can't get what you've just said.","scenario":"general","labels":4}
-{"text":"show me a funny video on youtube","scenario":"general","labels":9}
-{"text":"i can not catch up with you.","scenario":"general","labels":4}
-{"text":"s1, please can you clarify me more on your words.","scenario":"general","labels":4}
-{"text":"can you check and confirm that please.","scenario":"general","labels":2}
-{"text":"olly please stop.","scenario":"general","labels":1}
-{"text":"stop and start over.","scenario":"general","labels":10}
-{"text":"could you tell me the last one you just said again please.","scenario":"general","labels":10}
-{"text":"can you please further clarify me about your answer.","scenario":"general","labels":4}
-{"text":"hmm, you don't understand what i was searching for.","scenario":"general","labels":7}
-{"text":"it was not correct.","scenario":"general","labels":7}
-{"text":"will you please clarify me about this further.","scenario":"general","labels":4}
-{"text":"please will you shut off.","scenario":"general","labels":1}
-{"text":"yes you understood my instructions correcly.","scenario":"general","labels":0}
-{"text":"that is unimportant to me, olly.","scenario":"general","labels":3}
-{"text":"you gave me not correct information.","scenario":"general","labels":7}
-{"text":"please could you confirm the details.","scenario":"general","labels":2}
-{"text":"i like you check the detail please.","scenario":"general","labels":2}
-{"text":"yeah answer was great.","scenario":"general","labels":0}
-{"text":"no i didn't mean that.","scenario":"general","labels":7}
-{"text":"would you speak one more time please.","scenario":"general","labels":10}
-{"text":"i appreciate it, it's good, olly.","scenario":"general","labels":8}
-{"text":"how much do you know about me","scenario":"general","labels":9}
-{"text":"who invented you","scenario":"general","labels":9}
-{"text":"would you please check instruction.","scenario":"general","labels":2}
-{"text":"please can you elaborate me on what you've just said further.","scenario":"general","labels":4}
-{"text":"how was the day","scenario":"general","labels":5}
-{"text":"would you start over.","scenario":"general","labels":10}
-{"text":"will you say again please.","scenario":"general","labels":10}
-{"text":"could you please check and confirm that.","scenario":"general","labels":2}
-{"text":"will you please shut down.","scenario":"general","labels":1}
-{"text":"sorry but that is not correct answer.","scenario":"general","labels":7}
-{"text":"making very complex calculations like jarvis","scenario":"general","labels":9}
-{"text":"can you tell me one more time again.","scenario":"general","labels":10}
-{"text":"please can you speak the last one said once more.","scenario":"general","labels":10}
-{"text":"can you track my emotions based on the way i speak","scenario":"general","labels":9}
-{"text":"i need to hear a joke can you tell me one","scenario":"general","labels":6}
-{"text":"check detail please.","scenario":"general","labels":2}
-{"text":"ah it's great work.","scenario":"general","labels":8}
-{"text":"ah that was great work.","scenario":"general","labels":8}
-{"text":"dammit, it was not what i wanted.","scenario":"general","labels":7}
-{"text":"your response was not clear.","scenario":"general","labels":4}
-{"text":"yeah please.","scenario":"general","labels":0}
-{"text":"got your understanding perfectly.","scenario":"general","labels":0}
-{"text":"uhh no, i think that is not correct.","scenario":"general","labels":7}
-{"text":"can you reset please.","scenario":"general","labels":10}
-{"text":"i need to hear the last spoken again.","scenario":"general","labels":10}
-{"text":"s1, can you explain me more on your answer.","scenario":"general","labels":4}
-{"text":"how the people are suffering how you would help","scenario":"general","labels":9}
-{"text":"well done, musch appreciated.","scenario":"general","labels":8}
-{"text":"play twenty questions","scenario":"general","labels":9}
-{"text":"that wasn't it.","scenario":"general","labels":7}
-{"text":"will you please explain me more on it.","scenario":"general","labels":4}
-{"text":"yes exact response.","scenario":"general","labels":0}
-{"text":"that's cool, musch appreciated.","scenario":"general","labels":8}
-{"text":"overall day","scenario":"general","labels":9}
-{"text":"oh no, not right.","scenario":"general","labels":7}
-{"text":"yeah it's confirmed.","scenario":"general","labels":0}
-{"text":"that's enough, stop it.","scenario":"general","labels":1}
-{"text":"s1, would you please rephrase it further to me.","scenario":"general","labels":4}
-{"text":"that is of no importance for me.","scenario":"general","labels":3}
-{"text":"get that exactly.","scenario":"general","labels":0}
-{"text":"tell me a funny joke","scenario":"general","labels":6}
-{"text":"thank you very much for completing it.","scenario":"general","labels":8}
-{"text":"well done, i appreciate it.","scenario":"general","labels":8}
-{"text":"can you say once again.","scenario":"general","labels":10}
-{"text":"hmm, i think wrong.","scenario":"general","labels":7}
-{"text":"yes get the answer perfectly.","scenario":"general","labels":0}
-{"text":"i am sorry but i think you don't get answer right.","scenario":"general","labels":7}
-{"text":"confirm detail.","scenario":"general","labels":2}
-{"text":"say one more again.","scenario":"general","labels":10}
-{"text":"olly that's not how you pronounce that.","scenario":"general","labels":7}
-{"text":"i am unclear about what you said.","scenario":"general","labels":4}
-{"text":"affirmative.","scenario":"general","labels":0}
-{"text":"i would like you cancel.","scenario":"general","labels":1}
-{"text":"sorry but that is not the right response.","scenario":"general","labels":7}
-{"text":"olly would you just stop.","scenario":"general","labels":1}
-{"text":"s1, explain me on this further please.","scenario":"general","labels":4}
-{"text":"repeat what i've just said please.","scenario":"general","labels":10}
-{"text":"yeap you have got my instructions correcly.","scenario":"general","labels":0}
-{"text":"wonderful job, you have done well.","scenario":"general","labels":8}
-{"text":"please fix that command.","scenario":"general","labels":7}
-{"text":"i would like you confirm last thing i said please.","scenario":"general","labels":2}
-{"text":"check last thing i said please.","scenario":"general","labels":2}
-{"text":"i am sorry but i think that's not correct.","scenario":"general","labels":7}
-{"text":"please given an effects","scenario":"general","labels":9}
-{"text":"it's great one, thank you so much.","scenario":"general","labels":8}
-{"text":"hey whatsapp","scenario":"general","labels":9}
-{"text":"stop and do it again.","scenario":"general","labels":10}
-{"text":"what are the things make a woman happy","scenario":"general","labels":9}
-{"text":"correct response to the command.","scenario":"general","labels":0}
-{"text":"have no idea for which to choose.","scenario":"general","labels":3}
-{"text":"yes it's right.","scenario":"general","labels":0}
-{"text":"life goals","scenario":"general","labels":9}
-{"text":"i would like it to help with coding debugging","scenario":"general","labels":9}
-{"text":"can you speak that one more time again.","scenario":"general","labels":10}
-{"text":"could not understand that.","scenario":"general","labels":4}
-{"text":"oh no, you gave me not correct information.","scenario":"general","labels":7}
-{"text":"i would like you check and confirm the last thing i said please.","scenario":"general","labels":2}
-{"text":"how do i duct tape a gooseto apig","scenario":"general","labels":9}
-{"text":"i'd like to hear the last again.","scenario":"general","labels":10}
-{"text":"who do i think people will care","scenario":"general","labels":9}
-{"text":"s1, will you please once again clarify me on what you have just said.","scenario":"general","labels":4}
-{"text":"would you please once again explain me about your words.","scenario":"general","labels":4}
-{"text":"tell me about today","scenario":"general","labels":9}
-{"text":"olly i would like you just cancel it.","scenario":"general","labels":1}
-{"text":"i didn't say that.","scenario":"general","labels":7}
-{"text":"transform into a woman","scenario":"general","labels":9}
-{"text":"that's not what i just requested.","scenario":"general","labels":7}
-{"text":"yeah you've done that exactly.","scenario":"general","labels":0}
-{"text":"speak once more please.","scenario":"general","labels":10}
-{"text":"today was the best day of my life","scenario":"general","labels":9}
-{"text":"will you just stop it please.","scenario":"general","labels":1}
-{"text":"yeah you've got your understanding correcly.","scenario":"general","labels":0}
-{"text":"i do not really care.","scenario":"general","labels":3}
-{"text":"notifications","scenario":"general","labels":9}
-{"text":"yeah you've understood my instructions right.","scenario":"general","labels":0}
-{"text":"i am sorry but you have that not right.","scenario":"general","labels":7}
-{"text":"would not really care, olly.","scenario":"general","labels":3}
-{"text":"try it once more please.","scenario":"general","labels":10}
-{"text":"would you check and confirm detail please.","scenario":"general","labels":2}
-{"text":"nope wrong.","scenario":"general","labels":7}
-{"text":"uhh no, that isn't what i was looking for.","scenario":"general","labels":7}
-{"text":"ah it's awesome, olly.","scenario":"general","labels":8}
-{"text":"no, i did not ask for this response.","scenario":"general","labels":7}
-{"text":"please could you check what said.","scenario":"general","labels":2}
-{"text":"it was a great day","scenario":"general","labels":9}
-{"text":"can you confirm the last thing i said.","scenario":"general","labels":2}
-{"text":"thanks but you have got it incorrect.","scenario":"general","labels":7}
-{"text":"that's cool, thanks.","scenario":"general","labels":8}
-{"text":"would you please further clarify me on your words.","scenario":"general","labels":4}
-{"text":"today was a tiring day","scenario":"general","labels":9}
-{"text":"please check detail.","scenario":"general","labels":2}
-{"text":"are you my friend","scenario":"general","labels":9}
-{"text":"tell me it again.","scenario":"general","labels":10}
-{"text":"yeah agreed.","scenario":"general","labels":0}
-{"text":"this does not matter with me.","scenario":"general","labels":3}
-{"text":"cancel please.","scenario":"general","labels":1}
-{"text":"wait, i think that was not the correct response.","scenario":"general","labels":7}
-{"text":"will you please elaborate me further on this.","scenario":"general","labels":4}
-{"text":"did you make a mistake.","scenario":"general","labels":4}
-{"text":"please rephrase me on your words further.","scenario":"general","labels":4}
-{"text":"i do not know, olly.","scenario":"general","labels":3}
-{"text":"sorry but that was not the right command.","scenario":"general","labels":7}
-{"text":"your response is incorrect.","scenario":"general","labels":7}
-{"text":"appreciated, that is great job.","scenario":"general","labels":8}
-{"text":"i would like you cancel it.","scenario":"general","labels":1}
-{"text":"will you check and confirm details.","scenario":"general","labels":2}
-{"text":"yeap fantastic response to command.","scenario":"general","labels":0}
-{"text":"describe me about the new cleaner how it works","scenario":"general","labels":9}
-{"text":"what is the best part of being you","scenario":"general","labels":9}
-{"text":"open jokes","scenario":"general","labels":6}
-{"text":"s2, don't get your words.","scenario":"general","labels":4}
-{"text":"this isn't what i am searching for.","scenario":"general","labels":7}
-{"text":"you are my hero, appreciated.","scenario":"general","labels":8}
-{"text":"please will you check details.","scenario":"general","labels":2}
-{"text":"thanks but you have understood this wrongly.","scenario":"general","labels":7}
-{"text":"tell me how to create a will","scenario":"general","labels":9}
-{"text":"is there life on other planets","scenario":"general","labels":9}
-{"text":"what do you think was the best decade","scenario":"general","labels":9}
-{"text":"i need to find a funny joke that is ok for kids","scenario":"general","labels":6}
-{"text":"no, i think you have done a task all wrong.","scenario":"general","labels":7}
-{"text":"you've done it correctly appreciated.","scenario":"general","labels":8}
-{"text":"please start over.","scenario":"general","labels":10}
-{"text":"sorry but i think it is not the right answer.","scenario":"general","labels":7}
-{"text":"hey what are some good movies coming out soon","scenario":"general","labels":9}
-{"text":"that must be a mistake.","scenario":"general","labels":7}
-{"text":"it's awesome, thanks.","scenario":"general","labels":8}
-{"text":"hmm, i think you have done the task all incorrectly.","scenario":"general","labels":7}
-{"text":"would you speak it one more again please.","scenario":"general","labels":10}
-{"text":"you've got my instructions exactly.","scenario":"general","labels":0}
-{"text":"you did good job,.","scenario":"general","labels":8}
-{"text":"thanks but you had it not right.","scenario":"general","labels":7}
-{"text":"joke please","scenario":"general","labels":6}
-{"text":"oops, you have understood me incorrectly.","scenario":"general","labels":7}
-{"text":"hi what is going on today","scenario":"general","labels":9}
-{"text":"what i like today","scenario":"general","labels":9}
-{"text":"yeap affirmative.","scenario":"general","labels":0}
-{"text":"once again elaborate me on your response please.","scenario":"general","labels":4}
-{"text":"it's not the right response.","scenario":"general","labels":7}
-{"text":"what's an interesting fact not many people know","scenario":"general","labels":9}
-{"text":"i think wrong command.","scenario":"general","labels":7}
-{"text":"olly that will be all.","scenario":"general","labels":1}
-{"text":"will you tell me that one more again.","scenario":"general","labels":10}
-{"text":"will you explain me more on what you just said please.","scenario":"general","labels":4}
-{"text":"let's take over the world together","scenario":"general","labels":9}
-{"text":"that is enough, stop it.","scenario":"general","labels":1}
-{"text":"tv","scenario":"general","labels":9}
-{"text":"did you get my last command correctly?","scenario":"general","labels":2}
-{"text":"hi how was your day today","scenario":"general","labels":9}
-{"text":"olly that is all, just stop.","scenario":"general","labels":1}
-{"text":"i think you are wrong.","scenario":"general","labels":7}
-{"text":"thanks for the helping.","scenario":"general","labels":8}
-{"text":"you are so helpful, thank you so much.","scenario":"general","labels":8}
-{"text":"do you think i should see a movie or go out to dinner","scenario":"general","labels":9}
-{"text":"will you check and confirm that please.","scenario":"general","labels":2}
-{"text":"olly just stop please.","scenario":"general","labels":1}
-{"text":"it snowed today","scenario":"general","labels":9}
-{"text":"have you been enjoying your day so far","scenario":"general","labels":9}
-{"text":"too much","scenario":"general","labels":9}
-{"text":"why are women so mysterious","scenario":"general","labels":9}
-{"text":"i want you check the detail please.","scenario":"general","labels":2}
-{"text":"i want to hear what you've just said again.","scenario":"general","labels":10}
-{"text":"i think not right.","scenario":"general","labels":7}
-{"text":"can you check and confirm the detail.","scenario":"general","labels":2}
-{"text":"hmm, this was not what i said.","scenario":"general","labels":7}
-{"text":"you have done answer perfectly.","scenario":"general","labels":0}
-{"text":"s2, i am not so clear about what you have said.","scenario":"general","labels":4}
-{"text":"it is unimportant, olly.","scenario":"general","labels":3}
-{"text":"would you stop it.","scenario":"general","labels":1}
-{"text":"can you tell me your last sentence said once again.","scenario":"general","labels":10}
-{"text":"a good first impression","scenario":"general","labels":9}
-{"text":"olly please just cancel.","scenario":"general","labels":1}
-{"text":"that is unimportant.","scenario":"general","labels":3}
-{"text":"what would you look like if you were a real human being","scenario":"general","labels":9}
-{"text":"nightime","scenario":"general","labels":9}
-{"text":"you have done that correctly.","scenario":"general","labels":8}
-{"text":"is objects prefers any problems","scenario":"general","labels":9}
-{"text":"what you just said was not clear to me.","scenario":"general","labels":4}
-{"text":"how to increase income source","scenario":"general","labels":9}
-{"text":"it isn't what i asked.","scenario":"general","labels":7}
-{"text":"a joke please","scenario":"general","labels":6}
-{"text":"no, not right response.","scenario":"general","labels":7}
-{"text":"could you check that.","scenario":"general","labels":2}
-{"text":"i need to hear what i said again.","scenario":"general","labels":10}
-{"text":"please will you tell me once more.","scenario":"general","labels":10}
-{"text":"got it exactly.","scenario":"general","labels":0}
-{"text":"you've done it correctly thank you very much.","scenario":"general","labels":8}
-{"text":"tell me what usa thinks of asia","scenario":"general","labels":9}
-{"text":"i think not correct command.","scenario":"general","labels":7}
-{"text":"wait, i think you have messed up with.","scenario":"general","labels":7}
-{"text":"ask me easy questions about a subject i know and tell me when i'm wrong","scenario":"general","labels":9}
-{"text":"i don't really mind for whatever.","scenario":"general","labels":3}
-{"text":"could you manipulate roip for me","scenario":"general","labels":9}
-{"text":"s2, i was unclear about your words.","scenario":"general","labels":4}
-{"text":"oh no, i think you have done a task wrong.","scenario":"general","labels":7}
-{"text":"you've done that correctly.","scenario":"general","labels":8}
-{"text":"porn","scenario":"general","labels":9}
-{"text":"you didn't get it correctly.","scenario":"general","labels":7}
-{"text":"i don't mind for any one, olly.","scenario":"general","labels":3}
-{"text":"can you confirm the details please.","scenario":"general","labels":2}
-{"text":"i would like to solve maths issues","scenario":"general","labels":9}
-{"text":"it is good job, thank you very much, olly.","scenario":"general","labels":8}
-{"text":"olly that is all, just cancel.","scenario":"general","labels":1}
-{"text":"amazing work, you did well.","scenario":"general","labels":8}
-{"text":"today i got rewards","scenario":"general","labels":9}
-{"text":"i think it was not correct command.","scenario":"general","labels":7}
-{"text":"s2, i was not clear about what you've said.","scenario":"general","labels":4}
-{"text":"jokes","scenario":"general","labels":6}
-{"text":"could you elaborate further on your answers to me.","scenario":"general","labels":4}
-{"text":"yeap exact response.","scenario":"general","labels":0}
-{"text":"do not get this.","scenario":"general","labels":4}
-{"text":"it's cool, thank you very much, olly.","scenario":"general","labels":8}
-{"text":"what did you mean by that.","scenario":"general","labels":4}
-{"text":"the meaning of life","scenario":"general","labels":9}
-{"text":"oh no, you did not get what i was searching for.","scenario":"general","labels":7}
-{"text":"yeap you have gotten your understanding right.","scenario":"general","labels":0}
-{"text":"s1, again rephrase your answer to me please.","scenario":"general","labels":4}
-{"text":"any one is good to me, olly.","scenario":"general","labels":3}
-{"text":"you've understood command perfectly.","scenario":"general","labels":0}
-{"text":"what is my location","scenario":"general","labels":9}
-{"text":"perfect work, you've done well.","scenario":"general","labels":8}
-{"text":"retry the last one said.","scenario":"general","labels":10}
-{"text":"wake me only after the sun is up on sundays","scenario":"general","labels":9}
-{"text":"your answer was incorrect.","scenario":"general","labels":7}
-{"text":"i would like to know her history","scenario":"general","labels":9}
-{"text":"sorry but i think that's not right.","scenario":"general","labels":7}
-{"text":"could you please tell me which time will be the best time for me to date my lover","scenario":"general","labels":9}
-{"text":"i think your command is not correct.","scenario":"general","labels":7}
-{"text":"do i need my tire pressure checked","scenario":"general","labels":9}
-{"text":"i'd like to hear your last the procedure spoken again.","scenario":"general","labels":10}
-{"text":"will you say the last phrase said one more time please.","scenario":"general","labels":10}
-{"text":"olly that's all, stop it.","scenario":"general","labels":1}
-{"text":"how are you","scenario":"general","labels":5}
-{"text":"can you please check my last command.","scenario":"general","labels":2}
-{"text":"please could you tell me that one more time again.","scenario":"general","labels":10}
-{"text":"beam me up scotty","scenario":"general","labels":9}
-{"text":"uh no, it's not what i am looking for.","scenario":"general","labels":7}
-{"text":"learn my consciousness so well i could go on living in form after i die","scenario":"general","labels":9}
-{"text":"would you say it once again.","scenario":"general","labels":10}
-{"text":"thank you very much for reminding me of that.","scenario":"general","labels":8}
-{"text":"yeah you've got my instructions correcly.","scenario":"general","labels":0}
-{"text":"what did you mean by saying that.","scenario":"general","labels":4}
-{"text":"thanks but i think it's wrong response.","scenario":"general","labels":7}
-{"text":"how many words does it know","scenario":"general","labels":9}
-{"text":"when is my friend's birthday coming up","scenario":"general","labels":9}
-{"text":"could you try again please.","scenario":"general","labels":10}
-{"text":"would you confirm that please.","scenario":"general","labels":2}
-{"text":"could you further clarify me about it please.","scenario":"general","labels":4}
-{"text":"i would like to hear that again.","scenario":"general","labels":10}
-{"text":"say that again.","scenario":"general","labels":10}
-{"text":"sorry but you got this incorrectly.","scenario":"general","labels":7}
-{"text":"can i hear the joke about the old woman again","scenario":"general","labels":6}
-{"text":"i am sorry but i think that is not the right answer.","scenario":"general","labels":7}
-{"text":"s2, i am unclear about your words.","scenario":"general","labels":4}
-{"text":"it was a tough day today","scenario":"general","labels":9}
-{"text":"olly would you please shut off.","scenario":"general","labels":1}
-{"text":"thanks but i think you are wrong.","scenario":"general","labels":7}
-{"text":"show difference of kids in planets","scenario":"general","labels":9}
-{"text":"oh no, you've done the task wrong.","scenario":"general","labels":7}
-{"text":"help me get to sleep","scenario":"general","labels":9}
-{"text":"please would you elaborate me further on your words.","scenario":"general","labels":4}
-{"text":"would you check what just said please.","scenario":"general","labels":2}
-{"text":"please confirm detail.","scenario":"general","labels":2}
-{"text":"let's try it one more time again.","scenario":"general","labels":10}
-{"text":"can you tell me it one more time again.","scenario":"general","labels":10}
-{"text":"can you make dinner for me","scenario":"general","labels":9}
-{"text":"retry what i've said please.","scenario":"general","labels":10}
-{"text":"please check last thing said.","scenario":"general","labels":2}
-{"text":"what would be a good romantic dinner","scenario":"general","labels":9}
-{"text":"i had a great day today","scenario":"general","labels":9}
-{"text":"s2, i don't get your words.","scenario":"general","labels":4}
-{"text":"that's useful, i appreciate it.","scenario":"general","labels":8}
-{"text":"olly could you stop.","scenario":"general","labels":1}
-{"text":"please will you elaborate further on last sentence.","scenario":"general","labels":4}
-{"text":"that's useful, appreciated, olly.","scenario":"general","labels":8}
-{"text":"yeah wonderful response to command.","scenario":"general","labels":0}
-{"text":"do not mind for any one, olly.","scenario":"general","labels":3}
-{"text":"you have done it correctly musch appreciated, olly.","scenario":"general","labels":8}
-{"text":"i want you to check and confirm my last instruction please.","scenario":"general","labels":2}
-{"text":"i don't mind for whatever.","scenario":"general","labels":3}
-{"text":"stop, that's not the correct answer.","scenario":"general","labels":7}
-{"text":"wait, i think it's not the correct answer.","scenario":"general","labels":7}
-{"text":"that was amazing, thank you so much, olly.","scenario":"general","labels":8}
-{"text":"yeap great.","scenario":"general","labels":0}
-{"text":"i am bored","scenario":"general","labels":9}
-{"text":"please could you tell me that comment said once again.","scenario":"general","labels":10}
-{"text":"sorry but that's not the correct response.","scenario":"general","labels":7}
-{"text":"that's fantastic, thank you.","scenario":"general","labels":8}
-{"text":"let's try that one more again please.","scenario":"general","labels":10}
-{"text":"can you find an animal joke for me","scenario":"general","labels":6}
-{"text":"speak again please.","scenario":"general","labels":10}
-{"text":"let us do it again please.","scenario":"general","labels":10}
-{"text":"have no idea about what to do.","scenario":"general","labels":3}
-{"text":"does mr t have a family","scenario":"general","labels":9}
-{"text":"stop, i think that's not the correct response.","scenario":"general","labels":7}
-{"text":"i like you confirm details please.","scenario":"general","labels":2}
-{"text":"could not understand your answers.","scenario":"general","labels":4}
-{"text":"you have done that right musch appreciated.","scenario":"general","labels":8}
-{"text":"s1, can you clarify further on your words please.","scenario":"general","labels":4}
-{"text":"olly shut down.","scenario":"general","labels":1}
-{"text":"yeah it's exact.","scenario":"general","labels":0}
-{"text":"once again explain it to me.","scenario":"general","labels":4}
-{"text":"the origins of the universe","scenario":"general","labels":9}
-{"text":"could you tell me it once again please.","scenario":"general","labels":10}
-{"text":"did you get what last said correctly?","scenario":"general","labels":2}
-{"text":"the kids are driving me crazy","scenario":"general","labels":9}
-{"text":"s2, i can't quite catch up with you.","scenario":"general","labels":4}
-{"text":"please check my last question.","scenario":"general","labels":2}
-{"text":"tell me it again please.","scenario":"general","labels":10}
-{"text":"could you reset the last phrase spoken please.","scenario":"general","labels":10}
-{"text":"thanks, it was excellent.","scenario":"general","labels":8}
-{"text":"will you check and confirm last thing said.","scenario":"general","labels":2}
-{"text":"wait, this is not the correct answer.","scenario":"general","labels":7}
-{"text":"thanks but i think that was not the correct command.","scenario":"general","labels":7}
-{"text":"could you further rephrase me on this please.","scenario":"general","labels":4}
-{"text":"olly could you please shut off.","scenario":"general","labels":1}
-{"text":"i would not mind for any one, olly.","scenario":"general","labels":3}
-{"text":"i really enjoyed sunny day today","scenario":"general","labels":9}
-{"text":"you did nice job, thank you.","scenario":"general","labels":8}
-{"text":"yeah you have done your understanding right.","scenario":"general","labels":0}
-{"text":"seems like olly's command was wrong.","scenario":"general","labels":7}
-{"text":"would you confirm command please.","scenario":"general","labels":2}
-{"text":"calculate the costs of cable and internet providers in my area where can i save the most","scenario":"general","labels":9}
-{"text":"can you again clarify what you've said please.","scenario":"general","labels":4}
-{"text":"yeap that's confirmed.","scenario":"general","labels":0}
-{"text":"could you speak once again.","scenario":"general","labels":10}
-{"text":"how are you doing today","scenario":"general","labels":9}
-{"text":"do you like the president","scenario":"general","labels":9}
-{"text":"please could you check and confirm the last thing said.","scenario":"general","labels":2}
-{"text":"would you speak it once more please.","scenario":"general","labels":10}
-{"text":"can you check that please.","scenario":"general","labels":2}
-{"text":"you are awesome,.","scenario":"general","labels":8}
-{"text":"once again explain your answer.","scenario":"general","labels":4}
-{"text":"perfect job, you've done well, olly.","scenario":"general","labels":8}
-{"text":"i'd like you check and confirm the details please.","scenario":"general","labels":2}
-{"text":"thank you very much for listening.","scenario":"general","labels":8}
-{"text":"tell me the last one spoken once more please.","scenario":"general","labels":10}
-{"text":"you have done it right i appreciate it, olly.","scenario":"general","labels":8}
-{"text":"it doesn't matter to me.","scenario":"general","labels":3}
-{"text":"you've got my instructions right.","scenario":"general","labels":0}
-{"text":"olly please can you cancel.","scenario":"general","labels":1}
-{"text":"i think you did not get this correctly.","scenario":"general","labels":7}
-{"text":"uh no, you gave me not right information.","scenario":"general","labels":7}
-{"text":"will you please once again explain.","scenario":"general","labels":4}
-{"text":"describe about it","scenario":"general","labels":9}
-{"text":"when is the next touring","scenario":"general","labels":9}
-{"text":"it is unimportant with me.","scenario":"general","labels":3}
-{"text":"can you check and confirm command.","scenario":"general","labels":2}
-{"text":"got that exactly.","scenario":"general","labels":0}
-{"text":"can you confirm my last command.","scenario":"general","labels":2}
-{"text":"can you please explain more on last sentence to me.","scenario":"general","labels":4}
-{"text":"i like you to check and confirm it please.","scenario":"general","labels":2}
-{"text":"i'd like to hear what i've just said again.","scenario":"general","labels":10}
-{"text":"s1, please explain me further on what you just said.","scenario":"general","labels":4}
-{"text":"will you retry it.","scenario":"general","labels":10}
-{"text":"open the door","scenario":"general","labels":9}
-{"text":"do you think today will be nice out","scenario":"general","labels":9}
-{"text":"confirm the last thing i said please.","scenario":"general","labels":2}
-{"text":"that must be mistake.","scenario":"general","labels":7}
-{"text":"anything would be fine with me.","scenario":"general","labels":3}
-{"text":"ah that was amazing job.","scenario":"general","labels":8}
-{"text":"you have done it right thank you so much.","scenario":"general","labels":8}
-{"text":"please rephrase me more on what you have just said.","scenario":"general","labels":4}
-{"text":"please speak one more time again.","scenario":"general","labels":10}
-{"text":"s1, could you please elaborate me on this further.","scenario":"general","labels":4}
-{"text":"will we space travel within fifty years and live in another planet","scenario":"general","labels":9}
-{"text":"please clarify once again.","scenario":"general","labels":4}
-{"text":"clarify me on that further please.","scenario":"general","labels":4}
-{"text":"you have done it right, olly.","scenario":"general","labels":8}
-{"text":"i want you to confirm what i last said please.","scenario":"general","labels":2}
-{"text":"are you busy","scenario":"general","labels":9}
-{"text":"would you confirm my last command.","scenario":"general","labels":2}
-{"text":"oh no, you have done that wrong.","scenario":"general","labels":7}
-{"text":"you are my hero, thank you very much, olly.","scenario":"general","labels":8}
-{"text":"no, that's not the correct command.","scenario":"general","labels":7}
-{"text":"please retry.","scenario":"general","labels":10}
-{"text":"appreciate your answer.","scenario":"general","labels":8}
-{"text":"you don't get me.","scenario":"general","labels":7}
-{"text":"what time are the hockey games tonight","scenario":"general","labels":9}
-{"text":"i can't catch that.","scenario":"general","labels":4}
-{"text":"that wasn't what i expected.","scenario":"general","labels":7}
-{"text":"s1, again rephrase me about your answer please.","scenario":"general","labels":4}
-{"text":"please tell me that message spoke once more.","scenario":"general","labels":10}
-{"text":"it's great one, i appreciate it.","scenario":"general","labels":8}
-{"text":"would you further rephrase me about your words.","scenario":"general","labels":4}
-{"text":"would you repeat please.","scenario":"general","labels":10}
-{"text":"clarify more on your answers please.","scenario":"general","labels":4}
-{"text":"can you check and confirm detail please.","scenario":"general","labels":2}
-{"text":"if you could talk about three things what would they be","scenario":"general","labels":9}
-{"text":"is my sister pregnant","scenario":"general","labels":9}
-{"text":"i have no idea for which to choose, olly.","scenario":"general","labels":3}
-{"text":"how do you feel","scenario":"general","labels":9}
-{"text":"today some things happened","scenario":"general","labels":9}
-{"text":"that doesn't really matter for me, olly.","scenario":"general","labels":3}
-{"text":"i got loads of sleep today","scenario":"general","labels":9}
-{"text":"appreciated, that was amazing work.","scenario":"general","labels":8}
-{"text":"excellent job, you have done well.","scenario":"general","labels":8}
-{"text":"tell me some funny joke to laugh","scenario":"general","labels":6}
-{"text":"your answers was not clear to me.","scenario":"general","labels":4}
-{"text":"i think you did that incorrectly.","scenario":"general","labels":7}
-{"text":"yes you've gotten my instructions perfectly.","scenario":"general","labels":0}
-{"text":"command was perfect.","scenario":"general","labels":0}
-{"text":"that doesn't matter for me, olly.","scenario":"general","labels":3}
-{"text":"yeap your understanding is confirmed.","scenario":"general","labels":0}
-{"text":"yeah you have understood that right.","scenario":"general","labels":0}
-{"text":"please tell me how long do you think trump will last","scenario":"general","labels":9}
-{"text":"how he works perfectly","scenario":"general","labels":9}
-{"text":"dammit, you gave me not right information.","scenario":"general","labels":7}
-{"text":"wonderful work, you did well, olly.","scenario":"general","labels":8}
-{"text":"try what you have said once again please.","scenario":"general","labels":10}
-{"text":"good work, you've done well.","scenario":"general","labels":8}
-{"text":"sorry but i think you did not instruction the request right.","scenario":"general","labels":7}
-{"text":"s1, please explain further on your words to me.","scenario":"general","labels":4}
-{"text":"has april the giraffe had her baby","scenario":"general","labels":9}
-{"text":"s1, rephrase what you've just said further to me.","scenario":"general","labels":4}
-{"text":"oops, i think this was not the right response.","scenario":"general","labels":7}
-{"text":"hey i happened to miss one of my important meetings today","scenario":"general","labels":9}
-{"text":"will you please check and confirm last thing said.","scenario":"general","labels":2}
-{"text":"thank you so much for the response.","scenario":"general","labels":8}
-{"text":"you have done that right thank you very much, olly.","scenario":"general","labels":8}
-{"text":"check that.","scenario":"general","labels":2}
-{"text":"would you please check and confirm what i just said.","scenario":"general","labels":2}
-{"text":"please pull up the wikipedia article on glass blowing","scenario":"general","labels":9}
-{"text":"let us try what i have said one more time again please.","scenario":"general","labels":10}
-{"text":"i want you cancel.","scenario":"general","labels":1}
-{"text":"will you check and confirm it.","scenario":"general","labels":2}
-{"text":"why is kirsten dunst so ugly","scenario":"general","labels":9}
-{"text":"you made a wrong answer.","scenario":"general","labels":7}
-{"text":"fantastic.","scenario":"general","labels":0}
-{"text":"sorry but this is not the right response.","scenario":"general","labels":7}
-{"text":"please can you replay.","scenario":"general","labels":10}
-{"text":"could not get your answers.","scenario":"general","labels":4}
-{"text":"exact response to the command.","scenario":"general","labels":0}
-{"text":"i am unclear about the last sentence.","scenario":"general","labels":4}
-{"text":"it's wonderful.","scenario":"general","labels":8}
-{"text":"please can you once again elaborate me on this.","scenario":"general","labels":4}
-{"text":"good work, you did well, olly.","scenario":"general","labels":8}
-{"text":"you have done that right thank you so much.","scenario":"general","labels":8}
-{"text":"your answer is not clear.","scenario":"general","labels":4}
-{"text":"oh no, you gave me incorrect information.","scenario":"general","labels":7}
-{"text":"oh no, i did not say this.","scenario":"general","labels":7}
-{"text":"well done, thank you very much.","scenario":"general","labels":8}
-{"text":"i don't really know.","scenario":"general","labels":3}
-{"text":"tell me more about the concert on friday's night","scenario":"general","labels":9}
-{"text":"ah it's excellent, olly.","scenario":"general","labels":8}
-{"text":"that's all, just cancel.","scenario":"general","labels":1}
-{"text":"hmm, you have made mistake, please fix it.","scenario":"general","labels":7}
-{"text":"i'd like you just stop it.","scenario":"general","labels":1}
-{"text":"what's the stupidest question anyone ever asked you","scenario":"general","labels":9}
-{"text":"have no idea regarding to which to select.","scenario":"general","labels":3}
-{"text":"olly please will you shut up.","scenario":"general","labels":1}
-{"text":"s2, can not understand your answers.","scenario":"general","labels":4}
-{"text":"fantastic job, you have done well, olly.","scenario":"general","labels":8}
-{"text":"can you please further clarify me about it.","scenario":"general","labels":4}
-{"text":"olly would you just stop please.","scenario":"general","labels":1}
-{"text":"appreciate your helping.","scenario":"general","labels":8}
-{"text":"i need to hear your last message spoke again.","scenario":"general","labels":10}
-{"text":"give me the top rated movie in my area","scenario":"general","labels":9}
-{"text":"yeah get that correcly.","scenario":"general","labels":0}
-{"text":"please will you clarify me more on that.","scenario":"general","labels":4}
-{"text":"i would like to know about jane's party","scenario":"general","labels":9}
-{"text":"i want to hear a yo mama joke","scenario":"general","labels":6}
-{"text":"shit, this was not what i am looking for.","scenario":"general","labels":7}
-{"text":"see if there is something related to my job","scenario":"general","labels":9}
-{"text":"yes you've done your understanding correcly.","scenario":"general","labels":0}
-{"text":"shit, you gave me not right information.","scenario":"general","labels":7}
-{"text":"oh that's good, olly.","scenario":"general","labels":8}
-{"text":"correcly.","scenario":"general","labels":0}
-{"text":"you rock, appreciated.","scenario":"general","labels":8}
-{"text":"whatever is ok with me.","scenario":"general","labels":3}
-{"text":"i can't quite catch that.","scenario":"general","labels":4}
-{"text":"s1, clarify further on your response.","scenario":"general","labels":4}
-{"text":"tell me about rihana","scenario":"general","labels":9}
-{"text":"could you please rephrase me further on your answers.","scenario":"general","labels":4}
-{"text":"tell me if in this world there are person who have face very similar to mine","scenario":"general","labels":9}
-{"text":"i don't really bother.","scenario":"general","labels":3}
-{"text":"will you please check and confirm my last instruction.","scenario":"general","labels":2}
-{"text":"this question does not make sense","scenario":"general","labels":9}
-{"text":"today was bad","scenario":"general","labels":9}
-{"text":"hi how are you doing today","scenario":"general","labels":9}
-{"text":"that's wonderful, musch appreciated.","scenario":"general","labels":8}
-{"text":"thanks but i think you have messed up with.","scenario":"general","labels":7}
-{"text":"really i do not mind, olly.","scenario":"general","labels":3}
-{"text":"hey i missed you","scenario":"general","labels":9}
-{"text":"will you check and confirm instruction.","scenario":"general","labels":2}
-{"text":"there was heavy traffic on my way home","scenario":"general","labels":9}
-{"text":"talk to me","scenario":"general","labels":9}
-{"text":"wonderful job, you've done well.","scenario":"general","labels":8}
-{"text":"will you shut off.","scenario":"general","labels":1}
-{"text":"i don't really know, olly.","scenario":"general","labels":3}
-{"text":"can you confirm what just said please.","scenario":"general","labels":2}
-{"text":"your words was not so clear to me.","scenario":"general","labels":4}
-{"text":"hey what do you store about me","scenario":"general","labels":9}
-{"text":"sorry but that's not right.","scenario":"general","labels":7}
-{"text":"will you explain further on what you've said please.","scenario":"general","labels":4}
-{"text":"musch appreciated, it's fantastic.","scenario":"general","labels":8}
-{"text":"i'd like you to check the details please.","scenario":"general","labels":2}
-{"text":"i have no idea for which to select.","scenario":"general","labels":3}
-{"text":"last sentence is not so clear.","scenario":"general","labels":4}
-{"text":"yes your understanding is confirmed.","scenario":"general","labels":0}
-{"text":"would not mind.","scenario":"general","labels":3}
-{"text":"let us try your information spoken one more time please.","scenario":"general","labels":10}
-{"text":"s2, i can not catch up with you.","scenario":"general","labels":4}
-{"text":"i'd like to hear your phrase spoke again.","scenario":"general","labels":10}
-{"text":"information on Dolly parton","scenario":"general","labels":9}
-{"text":"if the object is for sale then what is the price","scenario":"general","labels":9}
-{"text":"tell me about celebrity","scenario":"general","labels":9}
-{"text":"tell me a clean joke","scenario":"general","labels":6}
-{"text":"s1, would you elaborate further on your answer to me please.","scenario":"general","labels":4}
-{"text":"really do not mind.","scenario":"general","labels":3}
-{"text":"yes perfect response.","scenario":"general","labels":0}
-{"text":"thank you for helps.","scenario":"general","labels":8}
-{"text":"find me someone to have dinner with","scenario":"general","labels":9}
-{"text":"you rock, thank you.","scenario":"general","labels":8}
-{"text":"i asked for something else.","scenario":"general","labels":7}
-{"text":"hey olly make me laugh with a good joke","scenario":"general","labels":6}
-{"text":"yeap you have gotten the command perfectly.","scenario":"general","labels":0}
-{"text":"i wouldn't really mind to select any one.","scenario":"general","labels":3}
-{"text":"shit, you have done wrong.","scenario":"general","labels":7}
-{"text":"can you please further explain me about that.","scenario":"general","labels":4}
-{"text":"i am sorry but it's not the right command.","scenario":"general","labels":7}
-{"text":"i think you didn't understand me.","scenario":"general","labels":7}
-{"text":"please can you rephrase me further on your answers.","scenario":"general","labels":4}
-{"text":"i was not so clear about your answers.","scenario":"general","labels":4}
-{"text":"yeah strongly agree.","scenario":"general","labels":0}
-{"text":"i would like to hear it again.","scenario":"general","labels":10}
-{"text":"that's helpful, thanks, olly.","scenario":"general","labels":8}
-{"text":"can you repeat please.","scenario":"general","labels":10}
-{"text":"i don't mind for anything, olly.","scenario":"general","labels":3}
-{"text":"that was cool, thanks.","scenario":"general","labels":8}
-{"text":"s2, i am not so clear about last sentence.","scenario":"general","labels":4}
-{"text":"is there any problem for having junk food and drinks","scenario":"general","labels":9}
-{"text":"it seems like the answer was not correct.","scenario":"general","labels":7}
-{"text":"yeah.","scenario":"general","labels":0}
-{"text":"very hectic","scenario":"general","labels":9}
-{"text":"thanks for the answer.","scenario":"general","labels":8}
-{"text":"s1, please will you again explain what you just said to me.","scenario":"general","labels":4}
-{"text":"i think you did it all wrong.","scenario":"general","labels":7}
-{"text":"yeah great.","scenario":"general","labels":0}
-{"text":"can you check that.","scenario":"general","labels":2}
-{"text":"retry what i've just said please.","scenario":"general","labels":10}
-{"text":"how many calories did i burn with my fifty minutes of yoga","scenario":"general","labels":9}
-{"text":"can you say what you have said one more again.","scenario":"general","labels":10}
-{"text":"yes you got command exactly.","scenario":"general","labels":0}
-{"text":"doesn't matter with me, olly.","scenario":"general","labels":3}
-{"text":"today i had a lunch with my longtime sweetheart play me a nice song to the mood","scenario":"general","labels":9}
-{"text":"i was unclear about it.","scenario":"general","labels":4}
-{"text":"could you please confirm what i just said.","scenario":"general","labels":2}
-{"text":"what is the geology of this location","scenario":"general","labels":9}
-{"text":"that isn't what i am looking for.","scenario":"general","labels":7}
-{"text":"yes you got the command correcly.","scenario":"general","labels":0}
-{"text":"could you clarify me on this once again please.","scenario":"general","labels":4}
-{"text":"well done, thank you.","scenario":"general","labels":8}
-{"text":"thanks for this information.","scenario":"general","labels":8}
-{"text":"what is the answer to this","scenario":"general","labels":9}
-{"text":"what did you say.","scenario":"general","labels":10}
-{"text":"that's cool, i appreciate it.","scenario":"general","labels":8}
-{"text":"how can i train my dog to do his business in the bathroom","scenario":"general","labels":9}
-{"text":"that is unimportant for me, olly.","scenario":"general","labels":3}
-{"text":"please can you say the last again.","scenario":"general","labels":10}
-{"text":"you did a mistake, please check that.","scenario":"general","labels":7}
-{"text":"features of ipad air","scenario":"general","labels":9}
-{"text":"uhh no, that isn't what i just said.","scenario":"general","labels":7}
-{"text":"i want to know more about this person","scenario":"general","labels":9}
-{"text":"would not really mind to choose any one.","scenario":"general","labels":3}
-{"text":"would you please confirm my last command.","scenario":"general","labels":2}
-{"text":"check what i just said.","scenario":"general","labels":2}
-{"text":"you rock, thank you so much.","scenario":"general","labels":8}
-{"text":"do not really know, olly.","scenario":"general","labels":3}
-{"text":"would you say that statement spoke once again.","scenario":"general","labels":10}
-{"text":"could you speak once more please.","scenario":"general","labels":10}
-{"text":"excellent.","scenario":"general","labels":0}
-{"text":"would you say one more again.","scenario":"general","labels":10}
-{"text":"can you create a sugar free diet for me and create a shopping list for the ingredients","scenario":"general","labels":9}
-{"text":"s1, will you please clarify more on your answers to me.","scenario":"general","labels":4}
-{"text":"sorry but it was not the right response.","scenario":"general","labels":7}
-{"text":"could you just cancel please.","scenario":"general","labels":1}
-{"text":"s1, please elaborate me on what you have said further.","scenario":"general","labels":4}
-{"text":"could you shut down.","scenario":"general","labels":1}
-{"text":"don't bother, olly.","scenario":"general","labels":3}
-{"text":"pause the movie and find director or cast commentary about the scene i just watched","scenario":"general","labels":9}
-{"text":"thanks but you are wrong.","scenario":"general","labels":7}
-{"text":"it is great one, thank you.","scenario":"general","labels":8}
-{"text":"hmm, you gave me not right information.","scenario":"general","labels":7}
-{"text":"yeah your understanding is exact.","scenario":"general","labels":0}
-{"text":"hmm, not correct.","scenario":"general","labels":7}
-{"text":"what is my astrology report for today","scenario":"general","labels":9}
-{"text":"how does today look","scenario":"general","labels":9}
-{"text":"yeah fantastic response to command.","scenario":"general","labels":0}
-{"text":"just stop please.","scenario":"general","labels":1}
-{"text":"thank you so much for your helping.","scenario":"general","labels":8}
-{"text":"how about you","scenario":"general","labels":9}
-{"text":"that is of no importance for me, olly.","scenario":"general","labels":3}
-{"text":"please will you confirm the last thing said.","scenario":"general","labels":2}
-{"text":"please explain me more on what you said.","scenario":"general","labels":4}
-{"text":"how are you today","scenario":"general","labels":5}
-{"text":"this must be mistake.","scenario":"general","labels":7}
-{"text":"would you please confirm the instruction.","scenario":"general","labels":2}
-{"text":"it seems like olly's response you've understood is incorrect.","scenario":"general","labels":7}
-{"text":"it's awesome, appreciated.","scenario":"general","labels":8}
-{"text":"you are the best, thank you so much, olly.","scenario":"general","labels":8}
-{"text":"please check and confirm command.","scenario":"general","labels":2}
-{"text":"address the situation","scenario":"general","labels":9}
-{"text":"i need a naughty joke not to naughty though","scenario":"general","labels":6}
-{"text":"hi i will need my coffee brewed at seven am today","scenario":"general","labels":9}
-{"text":"stop, i think it's not the correct command.","scenario":"general","labels":7}
-{"text":"would not mind to choose any one.","scenario":"general","labels":3}
-{"text":"did you meet her","scenario":"general","labels":9}
-{"text":"s1, please could you elaborate once again.","scenario":"general","labels":4}
-{"text":"do you think about the day you will expire","scenario":"general","labels":9}
-{"text":"can you further explain me on it please.","scenario":"general","labels":4}
-{"text":"that was helpful, i appreciate it.","scenario":"general","labels":8}
-{"text":"seems like your answer you have was wrong.","scenario":"general","labels":7}
-{"text":"how was your day","scenario":"general","labels":9}
-{"text":"did you get the question correctly?","scenario":"general","labels":2}
-{"text":"i don't understand what you just said now.","scenario":"general","labels":4}
-{"text":"ask trivia questions","scenario":"general","labels":9}
-{"text":"please elaborate that once again.","scenario":"general","labels":4}
-{"text":"i would like you to confirm what i said please.","scenario":"general","labels":2}
-{"text":"i am sorry but i think you did not interpret the command right.","scenario":"general","labels":7}
-{"text":"i will repeat the question clearly for you to understand.","scenario":"general","labels":7}
-{"text":"where should i take my wife for dinner tonight","scenario":"general","labels":9}
-{"text":"i need to hear the word spoken again.","scenario":"general","labels":10}
-{"text":"yeap you've got command correcly.","scenario":"general","labels":0}
-{"text":"check and confirm the details please.","scenario":"general","labels":2}
-{"text":"this is unimportant.","scenario":"general","labels":3}
-{"text":"really don't mind.","scenario":"general","labels":3}
-{"text":"can you please shut up.","scenario":"general","labels":1}
-{"text":"you've understood command correcly.","scenario":"general","labels":0}
-{"text":"correct.","scenario":"general","labels":0}
-{"text":"dammit, not correct answer.","scenario":"general","labels":7}
-{"text":"yeap command was confirmed.","scenario":"general","labels":0}
-{"text":"please will you check that.","scenario":"general","labels":2}
-{"text":"thanks but i think that's not the right command.","scenario":"general","labels":7}
-{"text":"tsunami reasons","scenario":"general","labels":9}
-{"text":"sorry but you didn't get the answer correctly.","scenario":"general","labels":7}
-{"text":"that's awesome, thank you very much.","scenario":"general","labels":8}
-{"text":"s2, i can't catch that.","scenario":"general","labels":4}
-{"text":"your words is not so clear.","scenario":"general","labels":4}
-{"text":"olly please will you just cancel.","scenario":"general","labels":1}
-{"text":"uhh no.","scenario":"general","labels":7}
-{"text":"i would like you to come up with the answer to the question","scenario":"general","labels":9}
+{"sentence":"could you tell me again please.","label":10,"idx":0}
+{"sentence":"yeap got that right.","label":0,"idx":1}
+{"sentence":"nope, i think you've done the task all wrongly.","label":7,"idx":2}
+{"sentence":"may i know whats at location one million, two hundred and fifty eight thousand, seven hundred and forty five","label":9,"idx":3}
+{"sentence":"i will speak slowly so you can find the correct answer.","label":7,"idx":4}
+{"sentence":"olly that would be all.","label":1,"idx":5}
+{"sentence":"yeap get that right.","label":0,"idx":6}
+{"sentence":"please correct the command.","label":7,"idx":7}
+{"sentence":"i am sorry but i think you have messed up with.","label":7,"idx":8}
+{"sentence":"uh no, i think not correct response.","label":7,"idx":9}
+{"sentence":"you have done the task wrong.","label":7,"idx":10}
+{"sentence":"that's excellent, thank you.","label":8,"idx":11}
+{"sentence":"would you check that.","label":2,"idx":12}
+{"sentence":"any one would be fine.","label":3,"idx":13}
+{"sentence":"today i had a meeting with george","label":9,"idx":14}
+{"sentence":"you said that wrong.","label":7,"idx":15}
+{"sentence":"you have understood my instructions right.","label":0,"idx":16}
+{"sentence":"anything would be okay with me.","label":3,"idx":17}
+{"sentence":"would you please shut down.","label":1,"idx":18}
+{"sentence":"shit, not correct.","label":7,"idx":19}
+{"sentence":"could you please shut off.","label":1,"idx":20}
+{"sentence":"olly please will you shut down.","label":1,"idx":21}
+{"sentence":"why people like earthly enjoyment and forget about the ultimate joy with god","label":9,"idx":22}
+{"sentence":"that's amazing.","label":0,"idx":23}
+{"sentence":"olly please can you shut off.","label":1,"idx":24}
+{"sentence":"yeah you did command perfectly.","label":0,"idx":25}
+{"sentence":"could you please once again elaborate me about your words.","label":4,"idx":26}
+{"sentence":"i'd like you just stop.","label":1,"idx":27}
+{"sentence":"it's amazing job, thank you very much, olly.","label":8,"idx":28}
+{"sentence":"nope, you didn't understand what i just requested.","label":7,"idx":29}
+{"sentence":"yeah good response to command.","label":0,"idx":30}
+{"sentence":"did you get last thing said correctly?","label":2,"idx":31}
+{"sentence":"notes","label":9,"idx":32}
+{"sentence":"can you explain the meaning behind the abrupt end of the hbo show the sopranos","label":9,"idx":33}
+{"sentence":"ah it's awesome work.","label":8,"idx":34}
+{"sentence":"i appreciate response, olly.","label":8,"idx":35}
+{"sentence":"robotic sentience","label":9,"idx":36}
+{"sentence":"remind me when certain marvel shows return to netflix","label":9,"idx":37}
+{"sentence":"sorry but i think you got it wrongly.","label":7,"idx":38}
+{"sentence":"search for a good nerd joke","label":6,"idx":39}
+{"sentence":"please cancel.","label":1,"idx":40}
+{"sentence":"one more again please.","label":10,"idx":41}
+{"sentence":"you did perfect job,, olly.","label":8,"idx":42}
+{"sentence":"it is useful, i appreciate it.","label":8,"idx":43}
+{"sentence":"olly that's all, cancel.","label":1,"idx":44}
+{"sentence":"you are helpful, thank you.","label":8,"idx":45}
+{"sentence":"this must be some mistakes.","label":7,"idx":46}
+{"sentence":"thank you for your answers, olly.","label":8,"idx":47}
+{"sentence":"you have got it right.","label":0,"idx":48}
+{"sentence":"what do you want to do today play outside","label":9,"idx":49}
+{"sentence":"that is not what i am searching for.","label":7,"idx":50}
+{"sentence":"yes you have done that exactly.","label":0,"idx":51}
+{"sentence":"thank you so much for doing it.","label":8,"idx":52}
+{"sentence":"really would not mind.","label":3,"idx":53}
+{"sentence":"uhh no, that's not what i am searching for.","label":7,"idx":54}
+{"sentence":"i'd like you to check last thing i said please.","label":2,"idx":55}
+{"sentence":"your answer was not what i was looking for.","label":7,"idx":56}
+{"sentence":"is there any new jobs are relate to my qualifications","label":9,"idx":57}
+{"sentence":"hmm, i did not ask for it.","label":7,"idx":58}
+{"sentence":"would you check and confirm last thing said please.","label":2,"idx":59}
+{"sentence":"it is useful, musch appreciated.","label":8,"idx":60}
+{"sentence":"it is useful, thank you so much.","label":8,"idx":61}
+{"sentence":"yes excellent response.","label":0,"idx":62}
+{"sentence":"did you get what just said correctly?","label":2,"idx":63}
+{"sentence":"clarify last sentence once again to me please.","label":4,"idx":64}
+{"sentence":"let us start over.","label":10,"idx":65}
+{"sentence":"i am sorry but it was not the right command.","label":7,"idx":66}
+{"sentence":"you have done it right appreciated, olly.","label":8,"idx":67}
+{"sentence":"wouldn't care, olly.","label":3,"idx":68}
+{"sentence":"i am sorry but you have messed up with my request.","label":7,"idx":69}
+{"sentence":"find me a joke related to baseball","label":6,"idx":70}
+{"sentence":"i do not really know.","label":3,"idx":71}
+{"sentence":"what are the specifications for the new iphone","label":9,"idx":72}
+{"sentence":"you did nice job,.","label":8,"idx":73}
+{"sentence":"that wasn't correct.","label":7,"idx":74}
+{"sentence":"s1, would you elaborate me more on what you said now please.","label":4,"idx":75}
+{"sentence":"olly i'd like you stop.","label":1,"idx":76}
+{"sentence":"that's useful, thank you very much.","label":8,"idx":77}
+{"sentence":"olly just cancel please.","label":1,"idx":78}
+{"sentence":"no please search some more.","label":7,"idx":79}
+{"sentence":"no, you gave me incorrect information.","label":7,"idx":80}
+{"sentence":"would you explain more on your response to me.","label":4,"idx":81}
+{"sentence":"great work, you did well, olly.","label":8,"idx":82}
+{"sentence":"will you shut up please.","label":1,"idx":83}
+{"sentence":"olly could you shut down please.","label":1,"idx":84}
+{"sentence":"yes amazing response to the command.","label":0,"idx":85}
+{"sentence":"i am bored how about some small talk","label":9,"idx":86}
+{"sentence":"oh it's perfect work.","label":8,"idx":87}
+{"sentence":"i don't like this one","label":9,"idx":88}
+{"sentence":"it was helpful,, olly.","label":8,"idx":89}
+{"sentence":"you rock, thank you very much.","label":8,"idx":90}
+{"sentence":"check my last command.","label":2,"idx":91}
+{"sentence":"appreciate the answers.","label":8,"idx":92}
+{"sentence":"that's enough, just cancel it.","label":1,"idx":93}
+{"sentence":"would not really mind for whatever.","label":3,"idx":94}
+{"sentence":"sorry but it's not the right answer.","label":7,"idx":95}
+{"sentence":"how you have solve the problem","label":9,"idx":96}
+{"sentence":"i think you're incorrect.","label":7,"idx":97}
+{"sentence":"can you rephrase me on last sentence again.","label":4,"idx":98}
+{"sentence":"please explain the chinese culture","label":9,"idx":99}
+{"sentence":"baseball scores","label":9,"idx":100}
+{"sentence":"what does it mean to call someone a snowflake","label":9,"idx":101}
+{"sentence":"do you want to hear what have happened today","label":9,"idx":102}
+{"sentence":"it was wonderful.","label":0,"idx":103}
+{"sentence":"that's cool,.","label":8,"idx":104}
+{"sentence":"please say once more.","label":10,"idx":105}
+{"sentence":"olly's response was wrong.","label":7,"idx":106}
+{"sentence":"any dangerous weather today","label":9,"idx":107}
+{"sentence":"that doesn't matter with me.","label":3,"idx":108}
+{"sentence":"i do not really mind for anything.","label":3,"idx":109}
+{"sentence":"let us try that once again.","label":10,"idx":110}
+{"sentence":"that's wonderful.","label":8,"idx":111}
+{"sentence":"we had great dinner today","label":9,"idx":112}
+{"sentence":"yeah it's perfect.","label":0,"idx":113}
+{"sentence":"uhh no, that isn't what i am looking for.","label":7,"idx":114}
+{"sentence":"clarify me further on last sentence please.","label":4,"idx":115}
+{"sentence":"i appreciate it, that's great job.","label":8,"idx":116}
+{"sentence":"perfect response to the command.","label":0,"idx":117}
+{"sentence":"i like you cancel.","label":1,"idx":118}
+{"sentence":"you are the best,, olly.","label":8,"idx":119}
+{"sentence":"i did not get your words.","label":4,"idx":120}
+{"sentence":"s1, please clarify me more on that.","label":4,"idx":121}
+{"sentence":"ah it's amazing work.","label":8,"idx":122}
+{"sentence":"i'd like you confirm that please.","label":2,"idx":123}
+{"sentence":"find me the best knock knock joke on the internet","label":6,"idx":124}
+{"sentence":"what if i had junk food and heavy drinks","label":9,"idx":125}
+{"sentence":"set up a date for just you and me","label":9,"idx":126}
+{"sentence":"let us try the sentence you said once more.","label":10,"idx":127}
+{"sentence":"you have done it correctly musch appreciated.","label":8,"idx":128}
+{"sentence":"good.","label":0,"idx":129}
+{"sentence":"confirm it please.","label":2,"idx":130}
+{"sentence":"i am bored","label":9,"idx":131}
+{"sentence":"please know that today i had a meeting with george","label":9,"idx":132}
+{"sentence":"you got the command perfectly.","label":0,"idx":133}
+{"sentence":"you are my star, musch appreciated.","label":8,"idx":134}
+{"sentence":"olly please would you shut up.","label":1,"idx":135}
+{"sentence":"please could you check and confirm my last instruction.","label":2,"idx":136}
+{"sentence":"you have got it exactly.","label":0,"idx":137}
+{"sentence":"you helped a lot, thank you.","label":8,"idx":138}
+{"sentence":"you have gotten command perfectly.","label":0,"idx":139}
+{"sentence":"confirm question.","label":2,"idx":140}
+{"sentence":"no, you did not understand what i requested.","label":7,"idx":141}
+{"sentence":"you did awesome work, thank you so much.","label":8,"idx":142}
+{"sentence":"i want to buy over ear headphones with minimum frequency response of fifteen hz and maximum frequency response twenty two thousand hz","label":9,"idx":143}
+{"sentence":"olly can you shut down please.","label":1,"idx":144}
+{"sentence":"i think that's not the right command.","label":7,"idx":145}
+{"sentence":"shit, it's not what i just requested.","label":7,"idx":146}
+{"sentence":"appreciated, olly.","label":8,"idx":147}
+{"sentence":"what's the meaning of life","label":9,"idx":148}
+{"sentence":"you rock, thank you very much, olly.","label":8,"idx":149}
+{"sentence":"yeap correct response.","label":0,"idx":150}
+{"sentence":"what ever happened to john gresham","label":9,"idx":151}
+{"sentence":"nope, i didn't say that.","label":7,"idx":152}
+{"sentence":"please again clarify me on last sentence.","label":4,"idx":153}
+{"sentence":"i do not care.","label":3,"idx":154}
+{"sentence":"thanks, that was great one.","label":8,"idx":155}
+{"sentence":"thanks but i think you're not right.","label":7,"idx":156}
+{"sentence":"nope, i think that's not the right answer.","label":7,"idx":157}
+{"sentence":"thank you for completing it, olly.","label":8,"idx":158}
+{"sentence":"that's perfect, musch appreciated.","label":8,"idx":159}
+{"sentence":"this doesn't really matter.","label":3,"idx":160}
+{"sentence":"will you please clarify again.","label":4,"idx":161}
+{"sentence":"uhh no, i think got me not right.","label":7,"idx":162}
+{"sentence":"i'd like to hear the last spoken again.","label":10,"idx":163}
+{"sentence":"how would you describe a person that is called a snowflake","label":9,"idx":164}
+{"sentence":"rephrase further to me please.","label":4,"idx":165}
+{"sentence":"you are the best,.","label":8,"idx":166}
+{"sentence":"s1, would you further explain me about that please.","label":4,"idx":167}
+{"sentence":"i got into a wreck today","label":9,"idx":168}
+{"sentence":"i am happy","label":9,"idx":169}
+{"sentence":"olly shut off please.","label":1,"idx":170}
+{"sentence":"Current trends in technology","label":9,"idx":171}
+{"sentence":"i could not get this.","label":4,"idx":172}
+{"sentence":"please let us try what you've said one more time again.","label":10,"idx":173}
+{"sentence":"what is a funny joke","label":6,"idx":174}
+{"sentence":"explain me further on your response please.","label":4,"idx":175}
+{"sentence":"doesn't matter.","label":3,"idx":176}
+{"sentence":"it's cool, musch appreciated, olly.","label":8,"idx":177}
+{"sentence":"could you start over please.","label":10,"idx":178}
+{"sentence":"yeah you've gotten command perfectly.","label":0,"idx":179}
+{"sentence":"you did good work, thank you very much.","label":8,"idx":180}
+{"sentence":"that is all, cancel it.","label":1,"idx":181}
+{"sentence":"could you please shut down.","label":1,"idx":182}
+{"sentence":"explain it further please.","label":4,"idx":183}
+{"sentence":"please would you repeat.","label":10,"idx":184}
+{"sentence":"yeah you've gotten my instructions right.","label":0,"idx":185}
+{"sentence":"don't really mind.","label":3,"idx":186}
+{"sentence":"yes great response.","label":0,"idx":187}
+{"sentence":"it is not what i requested.","label":7,"idx":188}
+{"sentence":"you've done that right, olly.","label":8,"idx":189}
+{"sentence":"it's not what i was searching for.","label":7,"idx":190}
+{"sentence":"i think you did task wrong.","label":7,"idx":191}
+{"sentence":"yeap get the command perfectly.","label":0,"idx":192}
+{"sentence":"yes correct response.","label":0,"idx":193}
+{"sentence":"please explain what you've said further.","label":4,"idx":194}
+{"sentence":"you have done that correctly thank you very much, olly.","label":8,"idx":195}
+{"sentence":"please check last thing i said.","label":2,"idx":196}
+{"sentence":"yeap right response.","label":0,"idx":197}
+{"sentence":"i have to tell you about my day","label":9,"idx":198}
+{"sentence":"please will you clarify further on what you've just said.","label":4,"idx":199}
+{"sentence":"have no idea regarding to what to do, olly.","label":3,"idx":200}
+{"sentence":"suggestions for future","label":9,"idx":201}
+{"sentence":"it doesn't matter.","label":3,"idx":202}
+{"sentence":"i don't mind to select any one.","label":3,"idx":203}
+{"sentence":"can you please clarify once again.","label":4,"idx":204}
+{"sentence":"sorry but i think you've understood that wrongly.","label":7,"idx":205}
+{"sentence":"explain more on your answer please.","label":4,"idx":206}
+{"sentence":"i had a bad day","label":9,"idx":207}
+{"sentence":"i want you check what i last said please.","label":2,"idx":208}
+{"sentence":"what was that one more time.","label":10,"idx":209}
+{"sentence":"wait, you do not understand me.","label":7,"idx":210}
+{"sentence":"can you elaborate further on this to me please.","label":4,"idx":211}
+{"sentence":"s2, i am not clear about your response.","label":4,"idx":212}
+{"sentence":"i hope tomorrow will be better","label":9,"idx":213}
+{"sentence":"thanks but i think you do not understand this right.","label":7,"idx":214}
+{"sentence":"can you rephrase once again please.","label":4,"idx":215}
+{"sentence":"i'd like to hear what i've said again.","label":10,"idx":216}
+{"sentence":"olly would you shut down.","label":1,"idx":217}
+{"sentence":"i want to hear your last instruction you said again.","label":10,"idx":218}
+{"sentence":"speak one more time again please.","label":10,"idx":219}
+{"sentence":"please confirm the details.","label":2,"idx":220}
+{"sentence":"oops, i think you do not understand me.","label":7,"idx":221}
+{"sentence":"appreciated, that's good.","label":8,"idx":222}
+{"sentence":"you gave me incorrect information.","label":7,"idx":223}
+{"sentence":"can you please confirm my last question.","label":2,"idx":224}
+{"sentence":"i am not so clear about what you just said.","label":4,"idx":225}
+{"sentence":"i wouldn't mind.","label":3,"idx":226}
+{"sentence":"i would like my to update all breaking news across the world","label":9,"idx":227}
+{"sentence":"can you please confirm what said.","label":2,"idx":228}
+{"sentence":"what's the funniest joke you know","label":6,"idx":229}
+{"sentence":"i am fine","label":9,"idx":230}
+{"sentence":"how can you get basalt","label":9,"idx":231}
+{"sentence":"tell me quotes that have to do with love","label":9,"idx":232}
+{"sentence":"yes you've gotten my instructions exactly.","label":0,"idx":233}
+{"sentence":"tell me about what latest inventions are our scientists doing these days","label":9,"idx":234}
+{"sentence":"please will you confirm command.","label":2,"idx":235}
+{"sentence":"replay what i've just said please.","label":10,"idx":236}
+{"sentence":"what is that one more time again.","label":10,"idx":237}
+{"sentence":"please change that command.","label":7,"idx":238}
+{"sentence":"you are hero, i appreciate it, olly.","label":8,"idx":239}
+{"sentence":"i was late today for the meeting you would not believe what happened","label":9,"idx":240}
+{"sentence":"that's helpful, thank you, olly.","label":8,"idx":241}
+{"sentence":"please can you confirm my last command.","label":2,"idx":242}
+{"sentence":"any one will be fine with me, olly.","label":3,"idx":243}
+{"sentence":"you've done it right thank you so much.","label":8,"idx":244}
+{"sentence":"it's useful, thank you so much.","label":8,"idx":245}
+{"sentence":"will you say once more please.","label":10,"idx":246}
+{"sentence":"please can you confirm details.","label":2,"idx":247}
+{"sentence":"i think you did a mistake, please fix this.","label":7,"idx":248}
+{"sentence":"stop, i think you understood me incorrectly.","label":7,"idx":249}
+{"sentence":"i could not understand this.","label":4,"idx":250}
+{"sentence":"could you reset what i said please.","label":10,"idx":251}
+{"sentence":"i would like to hear what i said again.","label":10,"idx":252}
+{"sentence":"yes exact.","label":0,"idx":253}
+{"sentence":"i want to hear the phrase said again.","label":10,"idx":254}
+{"sentence":"please clarify further on your response to me.","label":4,"idx":255}
+{"sentence":"can you please further elaborate what you just said.","label":4,"idx":256}
+{"sentence":"it's fantastic.","label":0,"idx":257}
+{"sentence":"please can you just stop.","label":1,"idx":258}
+{"sentence":"you didn't interpret the request right.","label":7,"idx":259}
+{"sentence":"nope, this was not what i wanted.","label":7,"idx":260}
+{"sentence":"it seems like the command is not correct.","label":7,"idx":261}
+{"sentence":"you are awesome, i appreciate it, olly.","label":8,"idx":262}
+{"sentence":"would you confirm my last command please.","label":2,"idx":263}
+{"sentence":"math","label":9,"idx":264}
+{"sentence":"i think this was wrong answer.","label":7,"idx":265}
+{"sentence":"where i went today","label":9,"idx":266}
+{"sentence":"got it perfectly.","label":0,"idx":267}
+{"sentence":"any one is good for me.","label":3,"idx":268}
+{"sentence":"could you do it again please.","label":10,"idx":269}
+{"sentence":"thanks but i think you have me not correct.","label":7,"idx":270}
+{"sentence":"would you check and confirm it please.","label":2,"idx":271}
+{"sentence":"sorry but i think you've gottten that wrongly.","label":7,"idx":272}
+{"sentence":"will you shut down please.","label":1,"idx":273}
+{"sentence":"i'd like you to confirm that please.","label":2,"idx":274}
+{"sentence":"you get it correcly.","label":0,"idx":275}
+{"sentence":"show me a video about new mobile launches this year","label":9,"idx":276}
+{"sentence":"let's try your sentence spoken once again please.","label":10,"idx":277}
+{"sentence":"you have gotten my instructions correcly.","label":0,"idx":278}
+{"sentence":"any one would be good for me.","label":3,"idx":279}
+{"sentence":"get that right.","label":0,"idx":280}
+{"sentence":"olly please shut up.","label":1,"idx":281}
+{"sentence":"i want a not only to direct me to an internet site but actually answer any given question","label":9,"idx":282}
+{"sentence":"hey olly tell me a joke","label":6,"idx":283}
+{"sentence":"it was nice one, thank you.","label":8,"idx":284}
+{"sentence":"i could not catch up with you.","label":4,"idx":285}
+{"sentence":"it doesn't really matter with me, olly.","label":3,"idx":286}
+{"sentence":"can you tell me one more again.","label":10,"idx":287}
+{"sentence":"please repeat.","label":10,"idx":288}
+{"sentence":"please could you speak once again.","label":10,"idx":289}
+{"sentence":"explain me about what you've just said again please.","label":4,"idx":290}
+{"sentence":"you've done it right thank you very much, olly.","label":8,"idx":291}
+{"sentence":"you have done that right thanks, olly.","label":8,"idx":292}
+{"sentence":"you are my hero, musch appreciated.","label":8,"idx":293}
+{"sentence":"would you again rephrase me on your words please.","label":4,"idx":294}
+{"sentence":"you are helpful, thank you so much.","label":8,"idx":295}
+{"sentence":"that's not what i was looking for.","label":7,"idx":296}
+{"sentence":"can you say what you just said one more time please.","label":10,"idx":297}
+{"sentence":"what i did at this time","label":9,"idx":298}
+{"sentence":"Olly, learn that when i say mom, I mean giselle adams","label":9,"idx":299}
+{"sentence":"not correct command.","label":7,"idx":300}
+{"sentence":"provide a joke","label":6,"idx":301}
+{"sentence":"would you check and confirm question please.","label":2,"idx":302}
+{"sentence":"wouldn't know.","label":3,"idx":303}
+{"sentence":"uhh no, i think incorrect answer.","label":7,"idx":304}
+{"sentence":"about demoudularity","label":9,"idx":305}
+{"sentence":"olly that is enough, just cancel.","label":1,"idx":306}
+{"sentence":"yeap you've understood my instructions exactly.","label":0,"idx":307}
+{"sentence":"would not really care.","label":3,"idx":308}
+{"sentence":"no, it is not what i just requested.","label":7,"idx":309}
+{"sentence":"i am going to work today","label":9,"idx":310}
+{"sentence":"oops, you don't get response correctly.","label":7,"idx":311}
+{"sentence":"internet please","label":9,"idx":312}
+{"sentence":"it's good job, thank you so much.","label":8,"idx":313}
+{"sentence":"that is of no importance.","label":3,"idx":314}
+{"sentence":"hi there congratulate me i got a promoted in my job at office","label":9,"idx":315}
+{"sentence":"thank you so much for your asssistance.","label":8,"idx":316}
+{"sentence":"that's enough.","label":1,"idx":317}
+{"sentence":"i couldn't quite catch that.","label":4,"idx":318}
+{"sentence":"show me the places where i was","label":9,"idx":319}
+{"sentence":"can you tell me about animal kingdom in amazon forest","label":9,"idx":320}
+{"sentence":"do you believe in god or do you think you'll become one","label":9,"idx":321}
+{"sentence":"olly i will talk to you later on.","label":1,"idx":322}
+{"sentence":"wouldn't bother, olly.","label":3,"idx":323}
+{"sentence":"i am sorry but that's not the correct answer.","label":7,"idx":324}
+{"sentence":"will you speak once again please.","label":10,"idx":325}
+{"sentence":"it must be a mistake.","label":7,"idx":326}
+{"sentence":"yes you did the command right.","label":0,"idx":327}
+{"sentence":"how are you feeling lately","label":9,"idx":328}
+{"sentence":"yeap that's fantastic.","label":0,"idx":329}
+{"sentence":"thanks for answer, olly.","label":8,"idx":330}
+{"sentence":"will you check the details please.","label":2,"idx":331}
+{"sentence":"that is useful,, olly.","label":8,"idx":332}
+{"sentence":"whatever is fine to me.","label":3,"idx":333}
+{"sentence":"sorry but i think you made mistake.","label":7,"idx":334}
+{"sentence":"will you retry that command spoke.","label":10,"idx":335}
+{"sentence":"i like you check my last question please.","label":2,"idx":336}
+{"sentence":"that's nice job, thank you so much.","label":8,"idx":337}
+{"sentence":"you did nice work, thanks.","label":8,"idx":338}
+{"sentence":"explain quantum physics to me in language i understand","label":9,"idx":339}
+{"sentence":"s1, will you again elaborate me on what you said now please.","label":4,"idx":340}
+{"sentence":"s2, i couldn't quite catch that.","label":4,"idx":341}
+{"sentence":"what happened to charlie chaplin","label":9,"idx":342}
+{"sentence":"how is the day today","label":9,"idx":343}
+{"sentence":"thanks for answers, olly.","label":8,"idx":344}
+{"sentence":"i think you did a task all wrong.","label":7,"idx":345}
+{"sentence":"exactly.","label":0,"idx":346}
+{"sentence":"please tell me one more again.","label":10,"idx":347}
+{"sentence":"yes affirmative.","label":0,"idx":348}
+{"sentence":"i would like you to check what last said please.","label":2,"idx":349}
+{"sentence":"any one would be fine for me.","label":3,"idx":350}
+{"sentence":"olly that's enough, just stop it.","label":1,"idx":351}
+{"sentence":"you helped a lot, musch appreciated, olly.","label":8,"idx":352}
+{"sentence":"thanks for your response.","label":8,"idx":353}
+{"sentence":"i am not so clear about that.","label":4,"idx":354}
+{"sentence":"tell me what i said one more time again please.","label":10,"idx":355}
+{"sentence":"do not understand what you just said.","label":4,"idx":356}
+{"sentence":"confirm what last said.","label":2,"idx":357}
+{"sentence":"do not care.","label":3,"idx":358}
+{"sentence":"s1, please clarify me about this further.","label":4,"idx":359}
+{"sentence":"please replay that.","label":10,"idx":360}
+{"sentence":"would you tell me what i said one more time again.","label":10,"idx":361}
+{"sentence":"i would like my to write original romantic messages for my wife","label":9,"idx":362}
+{"sentence":"could you speak one more again please.","label":10,"idx":363}
+{"sentence":"s2, i don't catch that.","label":4,"idx":364}
+{"sentence":"please replay your last statement.","label":10,"idx":365}
+{"sentence":"i had a car accident today","label":9,"idx":366}
+{"sentence":"record what happened today","label":9,"idx":367}
+{"sentence":"did you get what said correctly?","label":2,"idx":368}
+{"sentence":"painting","label":9,"idx":369}
+{"sentence":"that's amazing work, olly.","label":8,"idx":370}
+{"sentence":"thanks but i think you didn't understand command correctly.","label":7,"idx":371}
+{"sentence":"it is perfect work, musch appreciated, olly.","label":8,"idx":372}
+{"sentence":"i'd like you to confirm my last instruction please.","label":2,"idx":373}
+{"sentence":"can you check and confirm last thing said please.","label":2,"idx":374}
+{"sentence":"i could not get your words.","label":4,"idx":375}
+{"sentence":"bad that's not what i said.","label":7,"idx":376}
+{"sentence":"don't mind.","label":3,"idx":377}
+{"sentence":"what should i do today","label":9,"idx":378}
+{"sentence":"uh no, i did not ask for it command.","label":7,"idx":379}
+{"sentence":"would you do it again please.","label":10,"idx":380}
+{"sentence":"yeah great response to command.","label":0,"idx":381}
+{"sentence":"you've got it correcly.","label":0,"idx":382}
+{"sentence":"it's great one.","label":8,"idx":383}
+{"sentence":"you have got the answer exactly.","label":0,"idx":384}
+{"sentence":"tell me the lucky color of today","label":9,"idx":385}
+{"sentence":"i don't mind.","label":3,"idx":386}
+{"sentence":"hey i am having a bad day today what can i watch to cheer me up","label":9,"idx":387}
+{"sentence":"never mind, olly.","label":3,"idx":388}
+{"sentence":"no, i think wrong response.","label":7,"idx":389}
+{"sentence":"perfectly.","label":0,"idx":390}
+{"sentence":"i am sorry but i think got me not right.","label":7,"idx":391}
+{"sentence":"i like you check and confirm the last thing i said please.","label":2,"idx":392}
+{"sentence":"will you say once again.","label":10,"idx":393}
+{"sentence":"say that once again please.","label":10,"idx":394}
+{"sentence":"could you confirm details.","label":2,"idx":395}
+{"sentence":"that was good, thanks.","label":8,"idx":396}
+{"sentence":"what were you trying to say.","label":10,"idx":397}
+{"sentence":"yes you have gotten it exactly.","label":0,"idx":398}
+{"sentence":"yeah good response.","label":0,"idx":399}
+{"sentence":"let's try what i've just said one more time again please.","label":10,"idx":400}
+{"sentence":"please try again.","label":10,"idx":401}
+{"sentence":"it is of no importance with me.","label":3,"idx":402}
+{"sentence":"yeah perfect response to command.","label":0,"idx":403}
+{"sentence":"no, thanks.","label":7,"idx":404}
+{"sentence":"anything would be ok with me.","label":3,"idx":405}
+{"sentence":"can you please check command.","label":2,"idx":406}
+{"sentence":"you should not have done that.","label":7,"idx":407}
+{"sentence":"check what i last said please.","label":2,"idx":408}
+{"sentence":"i have no idea about what to choose.","label":3,"idx":409}
+{"sentence":"it is of no importance to me, olly.","label":3,"idx":410}
+{"sentence":"please will you confirm details.","label":2,"idx":411}
+{"sentence":"sorry but that's incorrect response.","label":7,"idx":412}
+{"sentence":"what have you been up to today","label":9,"idx":413}
+{"sentence":"i was unclear about last sentence.","label":4,"idx":414}
+{"sentence":"what rihanna is doing","label":9,"idx":415}
+{"sentence":"television","label":9,"idx":416}
+{"sentence":"i am sorry but i think you had that incorrect.","label":7,"idx":417}
+{"sentence":"could you check and confirm that please.","label":2,"idx":418}
+{"sentence":"what do you mean by saying this.","label":4,"idx":419}
+{"sentence":"would you reset what i have just said please.","label":10,"idx":420}
+{"sentence":"i would like to hear what i've said again.","label":10,"idx":421}
+{"sentence":"you did good job, thanks.","label":8,"idx":422}
+{"sentence":"don't really mind for whatever.","label":3,"idx":423}
+{"sentence":"tell me a joke about a man","label":6,"idx":424}
+{"sentence":"perfect job, you did well.","label":8,"idx":425}
+{"sentence":"what has been the best selling product on sports category in amazon for the last three days","label":9,"idx":426}
+{"sentence":"i do not understand it.","label":4,"idx":427}
+{"sentence":"good afternoon how are you","label":5,"idx":428}
+{"sentence":"you are smart, olly.","label":8,"idx":429}
+{"sentence":"any one is okay to me.","label":3,"idx":430}
+{"sentence":"order me something online","label":9,"idx":431}
+{"sentence":"please rephrase more on what you just said now.","label":4,"idx":432}
+{"sentence":"you are my star, thank you so much.","label":8,"idx":433}
+{"sentence":"i would like to hear that information spoken again.","label":10,"idx":434}
+{"sentence":"uhh no, thanks.","label":7,"idx":435}
+{"sentence":"clear last action.","label":7,"idx":436}
+{"sentence":"yes you have got my instructions exactly.","label":0,"idx":437}
+{"sentence":"i need a nap","label":9,"idx":438}
+{"sentence":"you are not correct.","label":7,"idx":439}
+{"sentence":"that is of no importance with me, olly.","label":3,"idx":440}
+{"sentence":"tell me a good alcoholic drink","label":9,"idx":441}
+{"sentence":"thank you for doing it, olly.","label":8,"idx":442}
+{"sentence":"s2, did not get your words.","label":4,"idx":443}
+{"sentence":"i think that is not the right answer.","label":7,"idx":444}
+{"sentence":"olly please cancel.","label":1,"idx":445}
+{"sentence":"yeap you did that perfectly.","label":0,"idx":446}
+{"sentence":"i appreciate the helps.","label":8,"idx":447}
+{"sentence":"what features are you going to add in the future","label":9,"idx":448}
+{"sentence":"could you tell me one more time please.","label":10,"idx":449}
+{"sentence":"dont do that again.","label":7,"idx":450}
+{"sentence":"are you working for the nsa","label":9,"idx":451}
+{"sentence":"will you retry please.","label":10,"idx":452}
+{"sentence":"you are hero, thank you very much.","label":8,"idx":453}
+{"sentence":"is the brightness of my screen running low","label":9,"idx":454}
+{"sentence":"that's fantastic work, appreciated, olly.","label":8,"idx":455}
+{"sentence":"can you please check what i just said.","label":2,"idx":456}
+{"sentence":"females","label":9,"idx":457}
+{"sentence":"any one would be okay, olly.","label":3,"idx":458}
+{"sentence":"you did fantastic work,, olly.","label":8,"idx":459}
+{"sentence":"say it once again please.","label":10,"idx":460}
+{"sentence":"s2, i am not clear about what you have said.","label":4,"idx":461}
+{"sentence":"yeap that's right.","label":0,"idx":462}
+{"sentence":"i got a package in the mail today","label":9,"idx":463}
+{"sentence":"please correct the incorrect command.","label":7,"idx":464}
+{"sentence":"it's useful, musch appreciated, olly.","label":8,"idx":465}
+{"sentence":"you have done your understanding correcly.","label":0,"idx":466}
+{"sentence":"please check and confirm my last command.","label":2,"idx":467}
+{"sentence":"you are my star, i appreciate it.","label":8,"idx":468}
+{"sentence":"that's cool, thanks, olly.","label":8,"idx":469}
+{"sentence":"oh no, wrong.","label":7,"idx":470}
+{"sentence":"can you please clarify me more on your answers.","label":4,"idx":471}
+{"sentence":"will you please explain me further on this.","label":4,"idx":472}
+{"sentence":"did you get details correctly?","label":2,"idx":473}
+{"sentence":"i was not clear about what you just said now.","label":4,"idx":474}
+{"sentence":"not right command.","label":7,"idx":475}
+{"sentence":"please check what i just said.","label":2,"idx":476}
+{"sentence":"show me a funny joke","label":6,"idx":477}
+{"sentence":"whats a romantic meal for my girlfriend","label":9,"idx":478}
+{"sentence":"fly me to the moon","label":9,"idx":479}
+{"sentence":"confirm that.","label":2,"idx":480}
+{"sentence":"anything is ok with me.","label":3,"idx":481}
+{"sentence":"s1, please would you clarify me further on your response.","label":4,"idx":482}
+{"sentence":"please could you check detail.","label":2,"idx":483}
+{"sentence":"this does not matter, olly.","label":3,"idx":484}
+{"sentence":"yeah you've gotten your understanding perfectly.","label":0,"idx":485}
+{"sentence":"tell me that command one more again please.","label":10,"idx":486}
+{"sentence":"say what you've said one more time again please.","label":10,"idx":487}
+{"sentence":"s2, i do not understand that.","label":4,"idx":488}
+{"sentence":"any one will be ok for me.","label":3,"idx":489}
+{"sentence":"will you check and confirm command please.","label":2,"idx":490}
+{"sentence":"olly please could you shut up.","label":1,"idx":491}
+{"sentence":"yeap good response.","label":0,"idx":492}
+{"sentence":"i'd like you check and confirm the command please.","label":2,"idx":493}
+{"sentence":"nope.","label":7,"idx":494}
+{"sentence":"i didn't catch that.","label":4,"idx":495}
+{"sentence":"anything will be okay with me.","label":3,"idx":496}
+{"sentence":"please would you confirm what i said.","label":2,"idx":497}
+{"sentence":"what am i doing this week","label":9,"idx":498}
+{"sentence":"i worked today","label":9,"idx":499}
+{"sentence":"awesome job, you did well.","label":8,"idx":500}
+{"sentence":"olly that's enough, cancel it.","label":1,"idx":501}
+{"sentence":"will you stop please.","label":1,"idx":502}
+{"sentence":"s2, i am not clear about this.","label":4,"idx":503}
+{"sentence":"it does not matter with me.","label":3,"idx":504}
+{"sentence":"will you stop.","label":1,"idx":505}
+{"sentence":"do you know any joke","label":6,"idx":506}
+{"sentence":"reset.","label":10,"idx":507}
+{"sentence":"do i have to go to the gym","label":9,"idx":508}
+{"sentence":"i don't quite catch that.","label":4,"idx":509}
+{"sentence":"yeah that is correct.","label":0,"idx":510}
+{"sentence":"thank you so much for listening.","label":8,"idx":511}
+{"sentence":"right response to command.","label":0,"idx":512}
+{"sentence":"good work, you've done well, olly.","label":8,"idx":513}
+{"sentence":"i would like you to check and confirm my last command please.","label":2,"idx":514}
+{"sentence":"uhh no, you didn't interpret the request right.","label":7,"idx":515}
+{"sentence":"please would you check instruction.","label":2,"idx":516}
+{"sentence":"s2, i was not so clear about your answer.","label":4,"idx":517}
+{"sentence":"let's do it again.","label":10,"idx":518}
+{"sentence":"who are you","label":5,"idx":519}
+{"sentence":"that is right.","label":0,"idx":520}
+{"sentence":"you did fantastic job, appreciated.","label":8,"idx":521}
+{"sentence":"today i searched all over for my phone and couldn't find it","label":9,"idx":522}
+{"sentence":"dammit, wrong command.","label":7,"idx":523}
+{"sentence":"could you please check details.","label":2,"idx":524}
+{"sentence":"yeah that's fantastic.","label":0,"idx":525}
+{"sentence":"you've done it right thanks, olly.","label":8,"idx":526}
+{"sentence":"breeds of dog that are most hypoallergenic","label":9,"idx":527}
+{"sentence":"please can you check and confirm last thing said.","label":2,"idx":528}
+{"sentence":"please tell me it once more.","label":10,"idx":529}
+{"sentence":"please would you say again.","label":10,"idx":530}
+{"sentence":"yeah you have got my instructions perfectly.","label":0,"idx":531}
+{"sentence":"that is unimportant, olly.","label":3,"idx":532}
+{"sentence":"doesn't really matter with me.","label":3,"idx":533}
+{"sentence":"say a joke","label":6,"idx":534}
+{"sentence":"would you replay that things you said please.","label":10,"idx":535}
+{"sentence":"i think you made mistake, please change this.","label":7,"idx":536}
+{"sentence":"i want to hear a good joke","label":6,"idx":537}
+{"sentence":"it is helpful, thank you so much, olly.","label":8,"idx":538}
+{"sentence":"what are you doing","label":9,"idx":539}
+{"sentence":"that wasn't what i wanted please try again.","label":7,"idx":540}
+{"sentence":"that was cool, i appreciate it.","label":8,"idx":541}
+{"sentence":"i think you have done this all in wrong manner.","label":7,"idx":542}
+{"sentence":"i am sorry but i think you are wrong.","label":7,"idx":543}
+{"sentence":"answer is confirmed.","label":0,"idx":544}
+{"sentence":"that's useful, thanks, olly.","label":8,"idx":545}
+{"sentence":"it's perfect.","label":0,"idx":546}
+{"sentence":"no, you gave me wrong information.","label":7,"idx":547}
+{"sentence":"i would not know, olly.","label":3,"idx":548}
+{"sentence":"please could you check command.","label":2,"idx":549}
+{"sentence":"s2, i am unclear about this.","label":4,"idx":550}
+{"sentence":"please check what last said.","label":2,"idx":551}
+{"sentence":"your birth date","label":9,"idx":552}
+{"sentence":"you've done the task incorrectly.","label":7,"idx":553}
+{"sentence":"s2, i could not quite catch up with you.","label":4,"idx":554}
+{"sentence":"i am sorry but that was not right.","label":7,"idx":555}
+{"sentence":"what do you do all day","label":9,"idx":556}
+{"sentence":"try again that is not what i am looking for.","label":7,"idx":557}
+{"sentence":"can you speak one more again.","label":10,"idx":558}
+{"sentence":"i have no idea.","label":3,"idx":559}
+{"sentence":"dammit, not correct response.","label":7,"idx":560}
+{"sentence":"i want you confirm the detail please.","label":2,"idx":561}
+{"sentence":"i'd like you check the details please.","label":2,"idx":562}
+{"sentence":"you have done that right musch appreciated, olly.","label":8,"idx":563}
+{"sentence":"are you content with being inside a","label":9,"idx":564}
+{"sentence":"doesn't really matter to me.","label":3,"idx":565}
+{"sentence":"what is the best method to decide what the best thing to do isre","label":9,"idx":566}
+{"sentence":"yes you've done it perfectly.","label":0,"idx":567}
+{"sentence":"can you tell me how to measure my shoe size","label":9,"idx":568}
+{"sentence":"i was wondering how would you look","label":9,"idx":569}
+{"sentence":"wonderful.","label":0,"idx":570}
+{"sentence":"would not mind for anything.","label":3,"idx":571}
+{"sentence":"i don't care.","label":3,"idx":572}
+{"sentence":"confirm the instruction.","label":2,"idx":573}
+{"sentence":"i do not really mind to select any one, olly.","label":3,"idx":574}
+{"sentence":"can you just cancel it.","label":1,"idx":575}
+{"sentence":"yeap good.","label":0,"idx":576}
+{"sentence":"how is everything","label":5,"idx":577}
+{"sentence":"this doesn't really matter to me.","label":3,"idx":578}
+{"sentence":"that is wonderful, appreciated.","label":8,"idx":579}
+{"sentence":"can you again rephrase me on your answers.","label":4,"idx":580}
+{"sentence":"i went to the park","label":9,"idx":581}
+{"sentence":"thanks for the response, olly.","label":8,"idx":582}
+{"sentence":"define yourself in one word","label":9,"idx":583}
+{"sentence":"i think olly's answer is not right.","label":7,"idx":584}
+{"sentence":"chatbot","label":9,"idx":585}
+{"sentence":"that is all.","label":1,"idx":586}
+{"sentence":"dammit, it isn't what i asked.","label":7,"idx":587}
+{"sentence":"yeah you've understood my instructions exactly.","label":0,"idx":588}
+{"sentence":"i appreciate it, that was great.","label":8,"idx":589}
+{"sentence":"oh no, i did not ask for that.","label":7,"idx":590}
+{"sentence":"please further rephrase it.","label":4,"idx":591}
+{"sentence":"what is the meaning of life","label":9,"idx":592}
+{"sentence":"you are hero, thanks.","label":8,"idx":593}
+{"sentence":"that's not what i meant to say.","label":7,"idx":594}
+{"sentence":"thanks but i think it's incorrect command.","label":7,"idx":595}
+{"sentence":"would you try again.","label":10,"idx":596}
+{"sentence":"my commute was difficult today","label":9,"idx":597}
+{"sentence":"wooo","label":9,"idx":598}
+{"sentence":"any one would be fine to me.","label":3,"idx":599}
+{"sentence":"could you check the detail please.","label":2,"idx":600}
+{"sentence":"thanks but it was not the right answer.","label":7,"idx":601}
+{"sentence":"thank you for the response, olly.","label":8,"idx":602}
+{"sentence":"yeap you've got your understanding right.","label":0,"idx":603}
+{"sentence":"can't get what you've just said.","label":4,"idx":604}
+{"sentence":"show me a funny video on youtube","label":9,"idx":605}
+{"sentence":"i can not catch up with you.","label":4,"idx":606}
+{"sentence":"s1, please can you clarify me more on your words.","label":4,"idx":607}
+{"sentence":"can you check and confirm that please.","label":2,"idx":608}
+{"sentence":"olly please stop.","label":1,"idx":609}
+{"sentence":"stop and start over.","label":10,"idx":610}
+{"sentence":"could you tell me the last one you just said again please.","label":10,"idx":611}
+{"sentence":"can you please further clarify me about your answer.","label":4,"idx":612}
+{"sentence":"hmm, you don't understand what i was searching for.","label":7,"idx":613}
+{"sentence":"it was not correct.","label":7,"idx":614}
+{"sentence":"will you please clarify me about this further.","label":4,"idx":615}
+{"sentence":"please will you shut off.","label":1,"idx":616}
+{"sentence":"yes you understood my instructions correcly.","label":0,"idx":617}
+{"sentence":"that is unimportant to me, olly.","label":3,"idx":618}
+{"sentence":"you gave me not correct information.","label":7,"idx":619}
+{"sentence":"please could you confirm the details.","label":2,"idx":620}
+{"sentence":"i like you check the detail please.","label":2,"idx":621}
+{"sentence":"yeah answer was great.","label":0,"idx":622}
+{"sentence":"no i didn't mean that.","label":7,"idx":623}
+{"sentence":"would you speak one more time please.","label":10,"idx":624}
+{"sentence":"i appreciate it, it's good, olly.","label":8,"idx":625}
+{"sentence":"how much do you know about me","label":9,"idx":626}
+{"sentence":"who invented you","label":9,"idx":627}
+{"sentence":"would you please check instruction.","label":2,"idx":628}
+{"sentence":"please can you elaborate me on what you've just said further.","label":4,"idx":629}
+{"sentence":"how was the day","label":5,"idx":630}
+{"sentence":"would you start over.","label":10,"idx":631}
+{"sentence":"will you say again please.","label":10,"idx":632}
+{"sentence":"could you please check and confirm that.","label":2,"idx":633}
+{"sentence":"will you please shut down.","label":1,"idx":634}
+{"sentence":"sorry but that is not correct answer.","label":7,"idx":635}
+{"sentence":"making very complex calculations like jarvis","label":9,"idx":636}
+{"sentence":"can you tell me one more time again.","label":10,"idx":637}
+{"sentence":"please can you speak the last one said once more.","label":10,"idx":638}
+{"sentence":"can you track my emotions based on the way i speak","label":9,"idx":639}
+{"sentence":"i need to hear a joke can you tell me one","label":6,"idx":640}
+{"sentence":"check detail please.","label":2,"idx":641}
+{"sentence":"ah it's great work.","label":8,"idx":642}
+{"sentence":"ah that was great work.","label":8,"idx":643}
+{"sentence":"dammit, it was not what i wanted.","label":7,"idx":644}
+{"sentence":"your response was not clear.","label":4,"idx":645}
+{"sentence":"yeah please.","label":0,"idx":646}
+{"sentence":"got your understanding perfectly.","label":0,"idx":647}
+{"sentence":"uhh no, i think that is not correct.","label":7,"idx":648}
+{"sentence":"can you reset please.","label":10,"idx":649}
+{"sentence":"i need to hear the last spoken again.","label":10,"idx":650}
+{"sentence":"s1, can you explain me more on your answer.","label":4,"idx":651}
+{"sentence":"how the people are suffering how you would help","label":9,"idx":652}
+{"sentence":"well done, musch appreciated.","label":8,"idx":653}
+{"sentence":"play twenty questions","label":9,"idx":654}
+{"sentence":"that wasn't it.","label":7,"idx":655}
+{"sentence":"will you please explain me more on it.","label":4,"idx":656}
+{"sentence":"yes exact response.","label":0,"idx":657}
+{"sentence":"that's cool, musch appreciated.","label":8,"idx":658}
+{"sentence":"overall day","label":9,"idx":659}
+{"sentence":"oh no, not right.","label":7,"idx":660}
+{"sentence":"yeah it's confirmed.","label":0,"idx":661}
+{"sentence":"that's enough, stop it.","label":1,"idx":662}
+{"sentence":"s1, would you please rephrase it further to me.","label":4,"idx":663}
+{"sentence":"that is of no importance for me.","label":3,"idx":664}
+{"sentence":"get that exactly.","label":0,"idx":665}
+{"sentence":"tell me a funny joke","label":6,"idx":666}
+{"sentence":"thank you very much for completing it.","label":8,"idx":667}
+{"sentence":"well done, i appreciate it.","label":8,"idx":668}
+{"sentence":"can you say once again.","label":10,"idx":669}
+{"sentence":"hmm, i think wrong.","label":7,"idx":670}
+{"sentence":"yes get the answer perfectly.","label":0,"idx":671}
+{"sentence":"i am sorry but i think you don't get answer right.","label":7,"idx":672}
+{"sentence":"confirm detail.","label":2,"idx":673}
+{"sentence":"say one more again.","label":10,"idx":674}
+{"sentence":"olly that's not how you pronounce that.","label":7,"idx":675}
+{"sentence":"i am unclear about what you said.","label":4,"idx":676}
+{"sentence":"affirmative.","label":0,"idx":677}
+{"sentence":"i would like you cancel.","label":1,"idx":678}
+{"sentence":"sorry but that is not the right response.","label":7,"idx":679}
+{"sentence":"olly would you just stop.","label":1,"idx":680}
+{"sentence":"s1, explain me on this further please.","label":4,"idx":681}
+{"sentence":"repeat what i've just said please.","label":10,"idx":682}
+{"sentence":"yeap you have got my instructions correcly.","label":0,"idx":683}
+{"sentence":"wonderful job, you have done well.","label":8,"idx":684}
+{"sentence":"please fix that command.","label":7,"idx":685}
+{"sentence":"i would like you confirm last thing i said please.","label":2,"idx":686}
+{"sentence":"check last thing i said please.","label":2,"idx":687}
+{"sentence":"i am sorry but i think that's not correct.","label":7,"idx":688}
+{"sentence":"please given an effects","label":9,"idx":689}
+{"sentence":"it's great one, thank you so much.","label":8,"idx":690}
+{"sentence":"hey whatsapp","label":9,"idx":691}
+{"sentence":"stop and do it again.","label":10,"idx":692}
+{"sentence":"what are the things make a woman happy","label":9,"idx":693}
+{"sentence":"correct response to the command.","label":0,"idx":694}
+{"sentence":"have no idea for which to choose.","label":3,"idx":695}
+{"sentence":"yes it's right.","label":0,"idx":696}
+{"sentence":"life goals","label":9,"idx":697}
+{"sentence":"i would like it to help with coding debugging","label":9,"idx":698}
+{"sentence":"can you speak that one more time again.","label":10,"idx":699}
+{"sentence":"could not understand that.","label":4,"idx":700}
+{"sentence":"oh no, you gave me not correct information.","label":7,"idx":701}
+{"sentence":"i would like you check and confirm the last thing i said please.","label":2,"idx":702}
+{"sentence":"how do i duct tape a gooseto apig","label":9,"idx":703}
+{"sentence":"i'd like to hear the last again.","label":10,"idx":704}
+{"sentence":"who do i think people will care","label":9,"idx":705}
+{"sentence":"s1, will you please once again clarify me on what you have just said.","label":4,"idx":706}
+{"sentence":"would you please once again explain me about your words.","label":4,"idx":707}
+{"sentence":"tell me about today","label":9,"idx":708}
+{"sentence":"olly i would like you just cancel it.","label":1,"idx":709}
+{"sentence":"i didn't say that.","label":7,"idx":710}
+{"sentence":"transform into a woman","label":9,"idx":711}
+{"sentence":"that's not what i just requested.","label":7,"idx":712}
+{"sentence":"yeah you've done that exactly.","label":0,"idx":713}
+{"sentence":"speak once more please.","label":10,"idx":714}
+{"sentence":"today was the best day of my life","label":9,"idx":715}
+{"sentence":"will you just stop it please.","label":1,"idx":716}
+{"sentence":"yeah you've got your understanding correcly.","label":0,"idx":717}
+{"sentence":"i do not really care.","label":3,"idx":718}
+{"sentence":"notifications","label":9,"idx":719}
+{"sentence":"yeah you've understood my instructions right.","label":0,"idx":720}
+{"sentence":"i am sorry but you have that not right.","label":7,"idx":721}
+{"sentence":"would not really care, olly.","label":3,"idx":722}
+{"sentence":"try it once more please.","label":10,"idx":723}
+{"sentence":"would you check and confirm detail please.","label":2,"idx":724}
+{"sentence":"nope wrong.","label":7,"idx":725}
+{"sentence":"uhh no, that isn't what i was looking for.","label":7,"idx":726}
+{"sentence":"ah it's awesome, olly.","label":8,"idx":727}
+{"sentence":"no, i did not ask for this response.","label":7,"idx":728}
+{"sentence":"please could you check what said.","label":2,"idx":729}
+{"sentence":"it was a great day","label":9,"idx":730}
+{"sentence":"can you confirm the last thing i said.","label":2,"idx":731}
+{"sentence":"thanks but you have got it incorrect.","label":7,"idx":732}
+{"sentence":"that's cool, thanks.","label":8,"idx":733}
+{"sentence":"would you please further clarify me on your words.","label":4,"idx":734}
+{"sentence":"today was a tiring day","label":9,"idx":735}
+{"sentence":"please check detail.","label":2,"idx":736}
+{"sentence":"are you my friend","label":9,"idx":737}
+{"sentence":"tell me it again.","label":10,"idx":738}
+{"sentence":"yeah agreed.","label":0,"idx":739}
+{"sentence":"this does not matter with me.","label":3,"idx":740}
+{"sentence":"cancel please.","label":1,"idx":741}
+{"sentence":"wait, i think that was not the correct response.","label":7,"idx":742}
+{"sentence":"will you please elaborate me further on this.","label":4,"idx":743}
+{"sentence":"did you make a mistake.","label":4,"idx":744}
+{"sentence":"please rephrase me on your words further.","label":4,"idx":745}
+{"sentence":"i do not know, olly.","label":3,"idx":746}
+{"sentence":"sorry but that was not the right command.","label":7,"idx":747}
+{"sentence":"your response is incorrect.","label":7,"idx":748}
+{"sentence":"appreciated, that is great job.","label":8,"idx":749}
+{"sentence":"i would like you cancel it.","label":1,"idx":750}
+{"sentence":"will you check and confirm details.","label":2,"idx":751}
+{"sentence":"yeap fantastic response to command.","label":0,"idx":752}
+{"sentence":"describe me about the new cleaner how it works","label":9,"idx":753}
+{"sentence":"what is the best part of being you","label":9,"idx":754}
+{"sentence":"open jokes","label":6,"idx":755}
+{"sentence":"s2, don't get your words.","label":4,"idx":756}
+{"sentence":"this isn't what i am searching for.","label":7,"idx":757}
+{"sentence":"you are my hero, appreciated.","label":8,"idx":758}
+{"sentence":"please will you check details.","label":2,"idx":759}
+{"sentence":"thanks but you have understood this wrongly.","label":7,"idx":760}
+{"sentence":"tell me how to create a will","label":9,"idx":761}
+{"sentence":"is there life on other planets","label":9,"idx":762}
+{"sentence":"what do you think was the best decade","label":9,"idx":763}
+{"sentence":"i need to find a funny joke that is ok for kids","label":6,"idx":764}
+{"sentence":"no, i think you have done a task all wrong.","label":7,"idx":765}
+{"sentence":"you've done it correctly appreciated.","label":8,"idx":766}
+{"sentence":"please start over.","label":10,"idx":767}
+{"sentence":"sorry but i think it is not the right answer.","label":7,"idx":768}
+{"sentence":"hey what are some good movies coming out soon","label":9,"idx":769}
+{"sentence":"that must be a mistake.","label":7,"idx":770}
+{"sentence":"it's awesome, thanks.","label":8,"idx":771}
+{"sentence":"hmm, i think you have done the task all incorrectly.","label":7,"idx":772}
+{"sentence":"would you speak it one more again please.","label":10,"idx":773}
+{"sentence":"you've got my instructions exactly.","label":0,"idx":774}
+{"sentence":"you did good job,.","label":8,"idx":775}
+{"sentence":"thanks but you had it not right.","label":7,"idx":776}
+{"sentence":"joke please","label":6,"idx":777}
+{"sentence":"oops, you have understood me incorrectly.","label":7,"idx":778}
+{"sentence":"hi what is going on today","label":9,"idx":779}
+{"sentence":"what i like today","label":9,"idx":780}
+{"sentence":"yeap affirmative.","label":0,"idx":781}
+{"sentence":"once again elaborate me on your response please.","label":4,"idx":782}
+{"sentence":"it's not the right response.","label":7,"idx":783}
+{"sentence":"what's an interesting fact not many people know","label":9,"idx":784}
+{"sentence":"i think wrong command.","label":7,"idx":785}
+{"sentence":"olly that will be all.","label":1,"idx":786}
+{"sentence":"will you tell me that one more again.","label":10,"idx":787}
+{"sentence":"will you explain me more on what you just said please.","label":4,"idx":788}
+{"sentence":"let's take over the world together","label":9,"idx":789}
+{"sentence":"that is enough, stop it.","label":1,"idx":790}
+{"sentence":"tv","label":9,"idx":791}
+{"sentence":"did you get my last command correctly?","label":2,"idx":792}
+{"sentence":"hi how was your day today","label":9,"idx":793}
+{"sentence":"olly that is all, just stop.","label":1,"idx":794}
+{"sentence":"i think you are wrong.","label":7,"idx":795}
+{"sentence":"thanks for the helping.","label":8,"idx":796}
+{"sentence":"you are so helpful, thank you so much.","label":8,"idx":797}
+{"sentence":"do you think i should see a movie or go out to dinner","label":9,"idx":798}
+{"sentence":"will you check and confirm that please.","label":2,"idx":799}
+{"sentence":"olly just stop please.","label":1,"idx":800}
+{"sentence":"it snowed today","label":9,"idx":801}
+{"sentence":"have you been enjoying your day so far","label":9,"idx":802}
+{"sentence":"too much","label":9,"idx":803}
+{"sentence":"why are women so mysterious","label":9,"idx":804}
+{"sentence":"i want you check the detail please.","label":2,"idx":805}
+{"sentence":"i want to hear what you've just said again.","label":10,"idx":806}
+{"sentence":"i think not right.","label":7,"idx":807}
+{"sentence":"can you check and confirm the detail.","label":2,"idx":808}
+{"sentence":"hmm, this was not what i said.","label":7,"idx":809}
+{"sentence":"you have done answer perfectly.","label":0,"idx":810}
+{"sentence":"s2, i am not so clear about what you have said.","label":4,"idx":811}
+{"sentence":"it is unimportant, olly.","label":3,"idx":812}
+{"sentence":"would you stop it.","label":1,"idx":813}
+{"sentence":"can you tell me your last sentence said once again.","label":10,"idx":814}
+{"sentence":"a good first impression","label":9,"idx":815}
+{"sentence":"olly please just cancel.","label":1,"idx":816}
+{"sentence":"that is unimportant.","label":3,"idx":817}
+{"sentence":"what would you look like if you were a real human being","label":9,"idx":818}
+{"sentence":"nightime","label":9,"idx":819}
+{"sentence":"you have done that correctly.","label":8,"idx":820}
+{"sentence":"is objects prefers any problems","label":9,"idx":821}
+{"sentence":"what you just said was not clear to me.","label":4,"idx":822}
+{"sentence":"how to increase income source","label":9,"idx":823}
+{"sentence":"it isn't what i asked.","label":7,"idx":824}
+{"sentence":"a joke please","label":6,"idx":825}
+{"sentence":"no, not right response.","label":7,"idx":826}
+{"sentence":"could you check that.","label":2,"idx":827}
+{"sentence":"i need to hear what i said again.","label":10,"idx":828}
+{"sentence":"please will you tell me once more.","label":10,"idx":829}
+{"sentence":"got it exactly.","label":0,"idx":830}
+{"sentence":"you've done it correctly thank you very much.","label":8,"idx":831}
+{"sentence":"tell me what usa thinks of asia","label":9,"idx":832}
+{"sentence":"i think not correct command.","label":7,"idx":833}
+{"sentence":"wait, i think you have messed up with.","label":7,"idx":834}
+{"sentence":"ask me easy questions about a subject i know and tell me when i'm wrong","label":9,"idx":835}
+{"sentence":"i don't really mind for whatever.","label":3,"idx":836}
+{"sentence":"could you manipulate roip for me","label":9,"idx":837}
+{"sentence":"s2, i was unclear about your words.","label":4,"idx":838}
+{"sentence":"oh no, i think you have done a task wrong.","label":7,"idx":839}
+{"sentence":"you've done that correctly.","label":8,"idx":840}
+{"sentence":"porn","label":9,"idx":841}
+{"sentence":"you didn't get it correctly.","label":7,"idx":842}
+{"sentence":"i don't mind for any one, olly.","label":3,"idx":843}
+{"sentence":"can you confirm the details please.","label":2,"idx":844}
+{"sentence":"i would like to solve maths issues","label":9,"idx":845}
+{"sentence":"it is good job, thank you very much, olly.","label":8,"idx":846}
+{"sentence":"olly that is all, just cancel.","label":1,"idx":847}
+{"sentence":"amazing work, you did well.","label":8,"idx":848}
+{"sentence":"today i got rewards","label":9,"idx":849}
+{"sentence":"i think it was not correct command.","label":7,"idx":850}
+{"sentence":"s2, i was not clear about what you've said.","label":4,"idx":851}
+{"sentence":"jokes","label":6,"idx":852}
+{"sentence":"could you elaborate further on your answers to me.","label":4,"idx":853}
+{"sentence":"yeap exact response.","label":0,"idx":854}
+{"sentence":"do not get this.","label":4,"idx":855}
+{"sentence":"it's cool, thank you very much, olly.","label":8,"idx":856}
+{"sentence":"what did you mean by that.","label":4,"idx":857}
+{"sentence":"the meaning of life","label":9,"idx":858}
+{"sentence":"oh no, you did not get what i was searching for.","label":7,"idx":859}
+{"sentence":"yeap you have gotten your understanding right.","label":0,"idx":860}
+{"sentence":"s1, again rephrase your answer to me please.","label":4,"idx":861}
+{"sentence":"any one is good to me, olly.","label":3,"idx":862}
+{"sentence":"you've understood command perfectly.","label":0,"idx":863}
+{"sentence":"what is my location","label":9,"idx":864}
+{"sentence":"perfect work, you've done well.","label":8,"idx":865}
+{"sentence":"retry the last one said.","label":10,"idx":866}
+{"sentence":"wake me only after the sun is up on sundays","label":9,"idx":867}
+{"sentence":"your answer was incorrect.","label":7,"idx":868}
+{"sentence":"i would like to know her history","label":9,"idx":869}
+{"sentence":"sorry but i think that's not right.","label":7,"idx":870}
+{"sentence":"could you please tell me which time will be the best time for me to date my lover","label":9,"idx":871}
+{"sentence":"i think your command is not correct.","label":7,"idx":872}
+{"sentence":"do i need my tire pressure checked","label":9,"idx":873}
+{"sentence":"i'd like to hear your last the procedure spoken again.","label":10,"idx":874}
+{"sentence":"will you say the last phrase said one more time please.","label":10,"idx":875}
+{"sentence":"olly that's all, stop it.","label":1,"idx":876}
+{"sentence":"how are you","label":5,"idx":877}
+{"sentence":"can you please check my last command.","label":2,"idx":878}
+{"sentence":"please could you tell me that one more time again.","label":10,"idx":879}
+{"sentence":"beam me up scotty","label":9,"idx":880}
+{"sentence":"uh no, it's not what i am looking for.","label":7,"idx":881}
+{"sentence":"learn my consciousness so well i could go on living in form after i die","label":9,"idx":882}
+{"sentence":"would you say it once again.","label":10,"idx":883}
+{"sentence":"thank you very much for reminding me of that.","label":8,"idx":884}
+{"sentence":"yeah you've got my instructions correcly.","label":0,"idx":885}
+{"sentence":"what did you mean by saying that.","label":4,"idx":886}
+{"sentence":"thanks but i think it's wrong response.","label":7,"idx":887}
+{"sentence":"how many words does it know","label":9,"idx":888}
+{"sentence":"when is my friend's birthday coming up","label":9,"idx":889}
+{"sentence":"could you try again please.","label":10,"idx":890}
+{"sentence":"would you confirm that please.","label":2,"idx":891}
+{"sentence":"could you further clarify me about it please.","label":4,"idx":892}
+{"sentence":"i would like to hear that again.","label":10,"idx":893}
+{"sentence":"say that again.","label":10,"idx":894}
+{"sentence":"sorry but you got this incorrectly.","label":7,"idx":895}
+{"sentence":"can i hear the joke about the old woman again","label":6,"idx":896}
+{"sentence":"i am sorry but i think that is not the right answer.","label":7,"idx":897}
+{"sentence":"s2, i am unclear about your words.","label":4,"idx":898}
+{"sentence":"it was a tough day today","label":9,"idx":899}
+{"sentence":"olly would you please shut off.","label":1,"idx":900}
+{"sentence":"thanks but i think you are wrong.","label":7,"idx":901}
+{"sentence":"show difference of kids in planets","label":9,"idx":902}
+{"sentence":"oh no, you've done the task wrong.","label":7,"idx":903}
+{"sentence":"help me get to sleep","label":9,"idx":904}
+{"sentence":"please would you elaborate me further on your words.","label":4,"idx":905}
+{"sentence":"would you check what just said please.","label":2,"idx":906}
+{"sentence":"please confirm detail.","label":2,"idx":907}
+{"sentence":"let's try it one more time again.","label":10,"idx":908}
+{"sentence":"can you tell me it one more time again.","label":10,"idx":909}
+{"sentence":"can you make dinner for me","label":9,"idx":910}
+{"sentence":"retry what i've said please.","label":10,"idx":911}
+{"sentence":"please check last thing said.","label":2,"idx":912}
+{"sentence":"what would be a good romantic dinner","label":9,"idx":913}
+{"sentence":"i had a great day today","label":9,"idx":914}
+{"sentence":"s2, i don't get your words.","label":4,"idx":915}
+{"sentence":"that's useful, i appreciate it.","label":8,"idx":916}
+{"sentence":"olly could you stop.","label":1,"idx":917}
+{"sentence":"please will you elaborate further on last sentence.","label":4,"idx":918}
+{"sentence":"that's useful, appreciated, olly.","label":8,"idx":919}
+{"sentence":"yeah wonderful response to command.","label":0,"idx":920}
+{"sentence":"do not mind for any one, olly.","label":3,"idx":921}
+{"sentence":"you have done it correctly musch appreciated, olly.","label":8,"idx":922}
+{"sentence":"i want you to check and confirm my last instruction please.","label":2,"idx":923}
+{"sentence":"i don't mind for whatever.","label":3,"idx":924}
+{"sentence":"stop, that's not the correct answer.","label":7,"idx":925}
+{"sentence":"wait, i think it's not the correct answer.","label":7,"idx":926}
+{"sentence":"that was amazing, thank you so much, olly.","label":8,"idx":927}
+{"sentence":"yeap great.","label":0,"idx":928}
+{"sentence":"i am bored","label":9,"idx":929}
+{"sentence":"please could you tell me that comment said once again.","label":10,"idx":930}
+{"sentence":"sorry but that's not the correct response.","label":7,"idx":931}
+{"sentence":"that's fantastic, thank you.","label":8,"idx":932}
+{"sentence":"let's try that one more again please.","label":10,"idx":933}
+{"sentence":"can you find an animal joke for me","label":6,"idx":934}
+{"sentence":"speak again please.","label":10,"idx":935}
+{"sentence":"let us do it again please.","label":10,"idx":936}
+{"sentence":"have no idea about what to do.","label":3,"idx":937}
+{"sentence":"does mr t have a family","label":9,"idx":938}
+{"sentence":"stop, i think that's not the correct response.","label":7,"idx":939}
+{"sentence":"i like you confirm details please.","label":2,"idx":940}
+{"sentence":"could not understand your answers.","label":4,"idx":941}
+{"sentence":"you have done that right musch appreciated.","label":8,"idx":942}
+{"sentence":"s1, can you clarify further on your words please.","label":4,"idx":943}
+{"sentence":"olly shut down.","label":1,"idx":944}
+{"sentence":"yeah it's exact.","label":0,"idx":945}
+{"sentence":"once again explain it to me.","label":4,"idx":946}
+{"sentence":"the origins of the universe","label":9,"idx":947}
+{"sentence":"could you tell me it once again please.","label":10,"idx":948}
+{"sentence":"did you get what last said correctly?","label":2,"idx":949}
+{"sentence":"the kids are driving me crazy","label":9,"idx":950}
+{"sentence":"s2, i can't quite catch up with you.","label":4,"idx":951}
+{"sentence":"please check my last question.","label":2,"idx":952}
+{"sentence":"tell me it again please.","label":10,"idx":953}
+{"sentence":"could you reset the last phrase spoken please.","label":10,"idx":954}
+{"sentence":"thanks, it was excellent.","label":8,"idx":955}
+{"sentence":"will you check and confirm last thing said.","label":2,"idx":956}
+{"sentence":"wait, this is not the correct answer.","label":7,"idx":957}
+{"sentence":"thanks but i think that was not the correct command.","label":7,"idx":958}
+{"sentence":"could you further rephrase me on this please.","label":4,"idx":959}
+{"sentence":"olly could you please shut off.","label":1,"idx":960}
+{"sentence":"i would not mind for any one, olly.","label":3,"idx":961}
+{"sentence":"i really enjoyed sunny day today","label":9,"idx":962}
+{"sentence":"you did nice job, thank you.","label":8,"idx":963}
+{"sentence":"yeah you have done your understanding right.","label":0,"idx":964}
+{"sentence":"seems like olly's command was wrong.","label":7,"idx":965}
+{"sentence":"would you confirm command please.","label":2,"idx":966}
+{"sentence":"calculate the costs of cable and internet providers in my area where can i save the most","label":9,"idx":967}
+{"sentence":"can you again clarify what you've said please.","label":4,"idx":968}
+{"sentence":"yeap that's confirmed.","label":0,"idx":969}
+{"sentence":"could you speak once again.","label":10,"idx":970}
+{"sentence":"how are you doing today","label":9,"idx":971}
+{"sentence":"do you like the president","label":9,"idx":972}
+{"sentence":"please could you check and confirm the last thing said.","label":2,"idx":973}
+{"sentence":"would you speak it once more please.","label":10,"idx":974}
+{"sentence":"can you check that please.","label":2,"idx":975}
+{"sentence":"you are awesome,.","label":8,"idx":976}
+{"sentence":"once again explain your answer.","label":4,"idx":977}
+{"sentence":"perfect job, you've done well, olly.","label":8,"idx":978}
+{"sentence":"i'd like you check and confirm the details please.","label":2,"idx":979}
+{"sentence":"thank you very much for listening.","label":8,"idx":980}
+{"sentence":"tell me the last one spoken once more please.","label":10,"idx":981}
+{"sentence":"you have done it right i appreciate it, olly.","label":8,"idx":982}
+{"sentence":"it doesn't matter to me.","label":3,"idx":983}
+{"sentence":"you've got my instructions right.","label":0,"idx":984}
+{"sentence":"olly please can you cancel.","label":1,"idx":985}
+{"sentence":"i think you did not get this correctly.","label":7,"idx":986}
+{"sentence":"uh no, you gave me not right information.","label":7,"idx":987}
+{"sentence":"will you please once again explain.","label":4,"idx":988}
+{"sentence":"describe about it","label":9,"idx":989}
+{"sentence":"when is the next touring","label":9,"idx":990}
+{"sentence":"it is unimportant with me.","label":3,"idx":991}
+{"sentence":"can you check and confirm command.","label":2,"idx":992}
+{"sentence":"got that exactly.","label":0,"idx":993}
+{"sentence":"can you confirm my last command.","label":2,"idx":994}
+{"sentence":"can you please explain more on last sentence to me.","label":4,"idx":995}
+{"sentence":"i like you to check and confirm it please.","label":2,"idx":996}
+{"sentence":"i'd like to hear what i've just said again.","label":10,"idx":997}
+{"sentence":"s1, please explain me further on what you just said.","label":4,"idx":998}
+{"sentence":"will you retry it.","label":10,"idx":999}
+{"sentence":"open the door","label":9,"idx":1000}
+{"sentence":"do you think today will be nice out","label":9,"idx":1001}
+{"sentence":"confirm the last thing i said please.","label":2,"idx":1002}
+{"sentence":"that must be mistake.","label":7,"idx":1003}
+{"sentence":"anything would be fine with me.","label":3,"idx":1004}
+{"sentence":"ah that was amazing job.","label":8,"idx":1005}
+{"sentence":"you have done it right thank you so much.","label":8,"idx":1006}
+{"sentence":"please rephrase me more on what you have just said.","label":4,"idx":1007}
+{"sentence":"please speak one more time again.","label":10,"idx":1008}
+{"sentence":"s1, could you please elaborate me on this further.","label":4,"idx":1009}
+{"sentence":"will we space travel within fifty years and live in another planet","label":9,"idx":1010}
+{"sentence":"please clarify once again.","label":4,"idx":1011}
+{"sentence":"clarify me on that further please.","label":4,"idx":1012}
+{"sentence":"you have done it right, olly.","label":8,"idx":1013}
+{"sentence":"i want you to confirm what i last said please.","label":2,"idx":1014}
+{"sentence":"are you busy","label":9,"idx":1015}
+{"sentence":"would you confirm my last command.","label":2,"idx":1016}
+{"sentence":"oh no, you have done that wrong.","label":7,"idx":1017}
+{"sentence":"you are my hero, thank you very much, olly.","label":8,"idx":1018}
+{"sentence":"no, that's not the correct command.","label":7,"idx":1019}
+{"sentence":"please retry.","label":10,"idx":1020}
+{"sentence":"appreciate your answer.","label":8,"idx":1021}
+{"sentence":"you don't get me.","label":7,"idx":1022}
+{"sentence":"what time are the hockey games tonight","label":9,"idx":1023}
+{"sentence":"i can't catch that.","label":4,"idx":1024}
+{"sentence":"that wasn't what i expected.","label":7,"idx":1025}
+{"sentence":"s1, again rephrase me about your answer please.","label":4,"idx":1026}
+{"sentence":"please tell me that message spoke once more.","label":10,"idx":1027}
+{"sentence":"it's great one, i appreciate it.","label":8,"idx":1028}
+{"sentence":"would you further rephrase me about your words.","label":4,"idx":1029}
+{"sentence":"would you repeat please.","label":10,"idx":1030}
+{"sentence":"clarify more on your answers please.","label":4,"idx":1031}
+{"sentence":"can you check and confirm detail please.","label":2,"idx":1032}
+{"sentence":"if you could talk about three things what would they be","label":9,"idx":1033}
+{"sentence":"is my sister pregnant","label":9,"idx":1034}
+{"sentence":"i have no idea for which to choose, olly.","label":3,"idx":1035}
+{"sentence":"how do you feel","label":9,"idx":1036}
+{"sentence":"today some things happened","label":9,"idx":1037}
+{"sentence":"that doesn't really matter for me, olly.","label":3,"idx":1038}
+{"sentence":"i got loads of sleep today","label":9,"idx":1039}
+{"sentence":"appreciated, that was amazing work.","label":8,"idx":1040}
+{"sentence":"excellent job, you have done well.","label":8,"idx":1041}
+{"sentence":"tell me some funny joke to laugh","label":6,"idx":1042}
+{"sentence":"your answers was not clear to me.","label":4,"idx":1043}
+{"sentence":"i think you did that incorrectly.","label":7,"idx":1044}
+{"sentence":"yes you've gotten my instructions perfectly.","label":0,"idx":1045}
+{"sentence":"command was perfect.","label":0,"idx":1046}
+{"sentence":"that doesn't matter for me, olly.","label":3,"idx":1047}
+{"sentence":"yeap your understanding is confirmed.","label":0,"idx":1048}
+{"sentence":"yeah you have understood that right.","label":0,"idx":1049}
+{"sentence":"please tell me how long do you think trump will last","label":9,"idx":1050}
+{"sentence":"how he works perfectly","label":9,"idx":1051}
+{"sentence":"dammit, you gave me not right information.","label":7,"idx":1052}
+{"sentence":"wonderful work, you did well, olly.","label":8,"idx":1053}
+{"sentence":"try what you have said once again please.","label":10,"idx":1054}
+{"sentence":"good work, you've done well.","label":8,"idx":1055}
+{"sentence":"sorry but i think you did not instruction the request right.","label":7,"idx":1056}
+{"sentence":"s1, please explain further on your words to me.","label":4,"idx":1057}
+{"sentence":"has april the giraffe had her baby","label":9,"idx":1058}
+{"sentence":"s1, rephrase what you've just said further to me.","label":4,"idx":1059}
+{"sentence":"oops, i think this was not the right response.","label":7,"idx":1060}
+{"sentence":"hey i happened to miss one of my important meetings today","label":9,"idx":1061}
+{"sentence":"will you please check and confirm last thing said.","label":2,"idx":1062}
+{"sentence":"thank you so much for the response.","label":8,"idx":1063}
+{"sentence":"you have done that right thank you very much, olly.","label":8,"idx":1064}
+{"sentence":"check that.","label":2,"idx":1065}
+{"sentence":"would you please check and confirm what i just said.","label":2,"idx":1066}
+{"sentence":"please pull up the wikipedia article on glass blowing","label":9,"idx":1067}
+{"sentence":"let us try what i have said one more time again please.","label":10,"idx":1068}
+{"sentence":"i want you cancel.","label":1,"idx":1069}
+{"sentence":"will you check and confirm it.","label":2,"idx":1070}
+{"sentence":"why is kirsten dunst so ugly","label":9,"idx":1071}
+{"sentence":"you made a wrong answer.","label":7,"idx":1072}
+{"sentence":"fantastic.","label":0,"idx":1073}
+{"sentence":"sorry but this is not the right response.","label":7,"idx":1074}
+{"sentence":"please can you replay.","label":10,"idx":1075}
+{"sentence":"could not get your answers.","label":4,"idx":1076}
+{"sentence":"exact response to the command.","label":0,"idx":1077}
+{"sentence":"i am unclear about the last sentence.","label":4,"idx":1078}
+{"sentence":"it's wonderful.","label":8,"idx":1079}
+{"sentence":"please can you once again elaborate me on this.","label":4,"idx":1080}
+{"sentence":"good work, you did well, olly.","label":8,"idx":1081}
+{"sentence":"you have done that right thank you so much.","label":8,"idx":1082}
+{"sentence":"your answer is not clear.","label":4,"idx":1083}
+{"sentence":"oh no, you gave me incorrect information.","label":7,"idx":1084}
+{"sentence":"oh no, i did not say this.","label":7,"idx":1085}
+{"sentence":"well done, thank you very much.","label":8,"idx":1086}
+{"sentence":"i don't really know.","label":3,"idx":1087}
+{"sentence":"tell me more about the concert on friday's night","label":9,"idx":1088}
+{"sentence":"ah it's excellent, olly.","label":8,"idx":1089}
+{"sentence":"that's all, just cancel.","label":1,"idx":1090}
+{"sentence":"hmm, you have made mistake, please fix it.","label":7,"idx":1091}
+{"sentence":"i'd like you just stop it.","label":1,"idx":1092}
+{"sentence":"what's the stupidest question anyone ever asked you","label":9,"idx":1093}
+{"sentence":"have no idea regarding to which to select.","label":3,"idx":1094}
+{"sentence":"olly please will you shut up.","label":1,"idx":1095}
+{"sentence":"s2, can not understand your answers.","label":4,"idx":1096}
+{"sentence":"fantastic job, you have done well, olly.","label":8,"idx":1097}
+{"sentence":"can you please further clarify me about it.","label":4,"idx":1098}
+{"sentence":"olly would you just stop please.","label":1,"idx":1099}
+{"sentence":"appreciate your helping.","label":8,"idx":1100}
+{"sentence":"i need to hear your last message spoke again.","label":10,"idx":1101}
+{"sentence":"give me the top rated movie in my area","label":9,"idx":1102}
+{"sentence":"yeah get that correcly.","label":0,"idx":1103}
+{"sentence":"please will you clarify me more on that.","label":4,"idx":1104}
+{"sentence":"i would like to know about jane's party","label":9,"idx":1105}
+{"sentence":"i want to hear a yo mama joke","label":6,"idx":1106}
+{"sentence":"shit, this was not what i am looking for.","label":7,"idx":1107}
+{"sentence":"see if there is something related to my job","label":9,"idx":1108}
+{"sentence":"yes you've done your understanding correcly.","label":0,"idx":1109}
+{"sentence":"shit, you gave me not right information.","label":7,"idx":1110}
+{"sentence":"oh that's good, olly.","label":8,"idx":1111}
+{"sentence":"correcly.","label":0,"idx":1112}
+{"sentence":"you rock, appreciated.","label":8,"idx":1113}
+{"sentence":"whatever is ok with me.","label":3,"idx":1114}
+{"sentence":"i can't quite catch that.","label":4,"idx":1115}
+{"sentence":"s1, clarify further on your response.","label":4,"idx":1116}
+{"sentence":"tell me about rihana","label":9,"idx":1117}
+{"sentence":"could you please rephrase me further on your answers.","label":4,"idx":1118}
+{"sentence":"tell me if in this world there are person who have face very similar to mine","label":9,"idx":1119}
+{"sentence":"i don't really bother.","label":3,"idx":1120}
+{"sentence":"will you please check and confirm my last instruction.","label":2,"idx":1121}
+{"sentence":"this question does not make sense","label":9,"idx":1122}
+{"sentence":"today was bad","label":9,"idx":1123}
+{"sentence":"hi how are you doing today","label":9,"idx":1124}
+{"sentence":"that's wonderful, musch appreciated.","label":8,"idx":1125}
+{"sentence":"thanks but i think you have messed up with.","label":7,"idx":1126}
+{"sentence":"really i do not mind, olly.","label":3,"idx":1127}
+{"sentence":"hey i missed you","label":9,"idx":1128}
+{"sentence":"will you check and confirm instruction.","label":2,"idx":1129}
+{"sentence":"there was heavy traffic on my way home","label":9,"idx":1130}
+{"sentence":"talk to me","label":9,"idx":1131}
+{"sentence":"wonderful job, you've done well.","label":8,"idx":1132}
+{"sentence":"will you shut off.","label":1,"idx":1133}
+{"sentence":"i don't really know, olly.","label":3,"idx":1134}
+{"sentence":"can you confirm what just said please.","label":2,"idx":1135}
+{"sentence":"your words was not so clear to me.","label":4,"idx":1136}
+{"sentence":"hey what do you store about me","label":9,"idx":1137}
+{"sentence":"sorry but that's not right.","label":7,"idx":1138}
+{"sentence":"will you explain further on what you've said please.","label":4,"idx":1139}
+{"sentence":"musch appreciated, it's fantastic.","label":8,"idx":1140}
+{"sentence":"i'd like you to check the details please.","label":2,"idx":1141}
+{"sentence":"i have no idea for which to select.","label":3,"idx":1142}
+{"sentence":"last sentence is not so clear.","label":4,"idx":1143}
+{"sentence":"yes your understanding is confirmed.","label":0,"idx":1144}
+{"sentence":"would not mind.","label":3,"idx":1145}
+{"sentence":"let us try your information spoken one more time please.","label":10,"idx":1146}
+{"sentence":"s2, i can not catch up with you.","label":4,"idx":1147}
+{"sentence":"i'd like to hear your phrase spoke again.","label":10,"idx":1148}
+{"sentence":"information on Dolly parton","label":9,"idx":1149}
+{"sentence":"if the object is for sale then what is the price","label":9,"idx":1150}
+{"sentence":"tell me about celebrity","label":9,"idx":1151}
+{"sentence":"tell me a clean joke","label":6,"idx":1152}
+{"sentence":"s1, would you elaborate further on your answer to me please.","label":4,"idx":1153}
+{"sentence":"really do not mind.","label":3,"idx":1154}
+{"sentence":"yes perfect response.","label":0,"idx":1155}
+{"sentence":"thank you for helps.","label":8,"idx":1156}
+{"sentence":"find me someone to have dinner with","label":9,"idx":1157}
+{"sentence":"you rock, thank you.","label":8,"idx":1158}
+{"sentence":"i asked for something else.","label":7,"idx":1159}
+{"sentence":"hey olly make me laugh with a good joke","label":6,"idx":1160}
+{"sentence":"yeap you have gotten the command perfectly.","label":0,"idx":1161}
+{"sentence":"i wouldn't really mind to select any one.","label":3,"idx":1162}
+{"sentence":"shit, you have done wrong.","label":7,"idx":1163}
+{"sentence":"can you please further explain me about that.","label":4,"idx":1164}
+{"sentence":"i am sorry but it's not the right command.","label":7,"idx":1165}
+{"sentence":"i think you didn't understand me.","label":7,"idx":1166}
+{"sentence":"please can you rephrase me further on your answers.","label":4,"idx":1167}
+{"sentence":"i was not so clear about your answers.","label":4,"idx":1168}
+{"sentence":"yeah strongly agree.","label":0,"idx":1169}
+{"sentence":"i would like to hear it again.","label":10,"idx":1170}
+{"sentence":"that's helpful, thanks, olly.","label":8,"idx":1171}
+{"sentence":"can you repeat please.","label":10,"idx":1172}
+{"sentence":"i don't mind for anything, olly.","label":3,"idx":1173}
+{"sentence":"that was cool, thanks.","label":8,"idx":1174}
+{"sentence":"s2, i am not so clear about last sentence.","label":4,"idx":1175}
+{"sentence":"is there any problem for having junk food and drinks","label":9,"idx":1176}
+{"sentence":"it seems like the answer was not correct.","label":7,"idx":1177}
+{"sentence":"yeah.","label":0,"idx":1178}
+{"sentence":"very hectic","label":9,"idx":1179}
+{"sentence":"thanks for the answer.","label":8,"idx":1180}
+{"sentence":"s1, please will you again explain what you just said to me.","label":4,"idx":1181}
+{"sentence":"i think you did it all wrong.","label":7,"idx":1182}
+{"sentence":"yeah great.","label":0,"idx":1183}
+{"sentence":"can you check that.","label":2,"idx":1184}
+{"sentence":"retry what i've just said please.","label":10,"idx":1185}
+{"sentence":"how many calories did i burn with my fifty minutes of yoga","label":9,"idx":1186}
+{"sentence":"can you say what you have said one more again.","label":10,"idx":1187}
+{"sentence":"yes you got command exactly.","label":0,"idx":1188}
+{"sentence":"doesn't matter with me, olly.","label":3,"idx":1189}
+{"sentence":"today i had a lunch with my longtime sweetheart play me a nice song to the mood","label":9,"idx":1190}
+{"sentence":"i was unclear about it.","label":4,"idx":1191}
+{"sentence":"could you please confirm what i just said.","label":2,"idx":1192}
+{"sentence":"what is the geology of this location","label":9,"idx":1193}
+{"sentence":"that isn't what i am looking for.","label":7,"idx":1194}
+{"sentence":"yes you got the command correcly.","label":0,"idx":1195}
+{"sentence":"could you clarify me on this once again please.","label":4,"idx":1196}
+{"sentence":"well done, thank you.","label":8,"idx":1197}
+{"sentence":"thanks for this information.","label":8,"idx":1198}
+{"sentence":"what is the answer to this","label":9,"idx":1199}
+{"sentence":"what did you say.","label":10,"idx":1200}
+{"sentence":"that's cool, i appreciate it.","label":8,"idx":1201}
+{"sentence":"how can i train my dog to do his business in the bathroom","label":9,"idx":1202}
+{"sentence":"that is unimportant for me, olly.","label":3,"idx":1203}
+{"sentence":"please can you say the last again.","label":10,"idx":1204}
+{"sentence":"you did a mistake, please check that.","label":7,"idx":1205}
+{"sentence":"features of ipad air","label":9,"idx":1206}
+{"sentence":"uhh no, that isn't what i just said.","label":7,"idx":1207}
+{"sentence":"i want to know more about this person","label":9,"idx":1208}
+{"sentence":"would not really mind to choose any one.","label":3,"idx":1209}
+{"sentence":"would you please confirm my last command.","label":2,"idx":1210}
+{"sentence":"check what i just said.","label":2,"idx":1211}
+{"sentence":"you rock, thank you so much.","label":8,"idx":1212}
+{"sentence":"do not really know, olly.","label":3,"idx":1213}
+{"sentence":"would you say that statement spoke once again.","label":10,"idx":1214}
+{"sentence":"could you speak once more please.","label":10,"idx":1215}
+{"sentence":"excellent.","label":0,"idx":1216}
+{"sentence":"would you say one more again.","label":10,"idx":1217}
+{"sentence":"can you create a sugar free diet for me and create a shopping list for the ingredients","label":9,"idx":1218}
+{"sentence":"s1, will you please clarify more on your answers to me.","label":4,"idx":1219}
+{"sentence":"sorry but it was not the right response.","label":7,"idx":1220}
+{"sentence":"could you just cancel please.","label":1,"idx":1221}
+{"sentence":"s1, please elaborate me on what you have said further.","label":4,"idx":1222}
+{"sentence":"could you shut down.","label":1,"idx":1223}
+{"sentence":"don't bother, olly.","label":3,"idx":1224}
+{"sentence":"pause the movie and find director or cast commentary about the scene i just watched","label":9,"idx":1225}
+{"sentence":"thanks but you are wrong.","label":7,"idx":1226}
+{"sentence":"it is great one, thank you.","label":8,"idx":1227}
+{"sentence":"hmm, you gave me not right information.","label":7,"idx":1228}
+{"sentence":"yeah your understanding is exact.","label":0,"idx":1229}
+{"sentence":"hmm, not correct.","label":7,"idx":1230}
+{"sentence":"what is my astrology report for today","label":9,"idx":1231}
+{"sentence":"how does today look","label":9,"idx":1232}
+{"sentence":"yeah fantastic response to command.","label":0,"idx":1233}
+{"sentence":"just stop please.","label":1,"idx":1234}
+{"sentence":"thank you so much for your helping.","label":8,"idx":1235}
+{"sentence":"how about you","label":9,"idx":1236}
+{"sentence":"that is of no importance for me, olly.","label":3,"idx":1237}
+{"sentence":"please will you confirm the last thing said.","label":2,"idx":1238}
+{"sentence":"please explain me more on what you said.","label":4,"idx":1239}
+{"sentence":"how are you today","label":5,"idx":1240}
+{"sentence":"this must be mistake.","label":7,"idx":1241}
+{"sentence":"would you please confirm the instruction.","label":2,"idx":1242}
+{"sentence":"it seems like olly's response you've understood is incorrect.","label":7,"idx":1243}
+{"sentence":"it's awesome, appreciated.","label":8,"idx":1244}
+{"sentence":"you are the best, thank you so much, olly.","label":8,"idx":1245}
+{"sentence":"please check and confirm command.","label":2,"idx":1246}
+{"sentence":"address the situation","label":9,"idx":1247}
+{"sentence":"i need a naughty joke not to naughty though","label":6,"idx":1248}
+{"sentence":"hi i will need my coffee brewed at seven am today","label":9,"idx":1249}
+{"sentence":"stop, i think it's not the correct command.","label":7,"idx":1250}
+{"sentence":"would not mind to choose any one.","label":3,"idx":1251}
+{"sentence":"did you meet her","label":9,"idx":1252}
+{"sentence":"s1, please could you elaborate once again.","label":4,"idx":1253}
+{"sentence":"do you think about the day you will expire","label":9,"idx":1254}
+{"sentence":"can you further explain me on it please.","label":4,"idx":1255}
+{"sentence":"that was helpful, i appreciate it.","label":8,"idx":1256}
+{"sentence":"seems like your answer you have was wrong.","label":7,"idx":1257}
+{"sentence":"how was your day","label":9,"idx":1258}
+{"sentence":"did you get the question correctly?","label":2,"idx":1259}
+{"sentence":"i don't understand what you just said now.","label":4,"idx":1260}
+{"sentence":"ask trivia questions","label":9,"idx":1261}
+{"sentence":"please elaborate that once again.","label":4,"idx":1262}
+{"sentence":"i would like you to confirm what i said please.","label":2,"idx":1263}
+{"sentence":"i am sorry but i think you did not interpret the command right.","label":7,"idx":1264}
+{"sentence":"i will repeat the question clearly for you to understand.","label":7,"idx":1265}
+{"sentence":"where should i take my wife for dinner tonight","label":9,"idx":1266}
+{"sentence":"i need to hear the word spoken again.","label":10,"idx":1267}
+{"sentence":"yeap you've got command correcly.","label":0,"idx":1268}
+{"sentence":"check and confirm the details please.","label":2,"idx":1269}
+{"sentence":"this is unimportant.","label":3,"idx":1270}
+{"sentence":"really don't mind.","label":3,"idx":1271}
+{"sentence":"can you please shut up.","label":1,"idx":1272}
+{"sentence":"you've understood command correcly.","label":0,"idx":1273}
+{"sentence":"correct.","label":0,"idx":1274}
+{"sentence":"dammit, not correct answer.","label":7,"idx":1275}
+{"sentence":"yeap command was confirmed.","label":0,"idx":1276}
+{"sentence":"please will you check that.","label":2,"idx":1277}
+{"sentence":"thanks but i think that's not the right command.","label":7,"idx":1278}
+{"sentence":"tsunami reasons","label":9,"idx":1279}
+{"sentence":"sorry but you didn't get the answer correctly.","label":7,"idx":1280}
+{"sentence":"that's awesome, thank you very much.","label":8,"idx":1281}
+{"sentence":"s2, i can't catch that.","label":4,"idx":1282}
+{"sentence":"your words is not so clear.","label":4,"idx":1283}
+{"sentence":"olly please will you just cancel.","label":1,"idx":1284}
+{"sentence":"uhh no.","label":7,"idx":1285}
+{"sentence":"i would like you to come up with the answer to the question","label":9,"idx":1286}

@@ -1,787 +1,787 @@
-{"text":"play why do you sing by kirk franklin","scenario":"play","labels":2}
-{"text":"i am really feeling depressed right now can you please play my most played songs to cheer me up","scenario":"play","labels":2}
-{"text":"skip to the next podcast","scenario":"play","labels":3}
-{"text":"on the radio it is time for good music","scenario":"play","labels":4}
-{"text":"resume my audiobook where we paused last","scenario":"play","labels":0}
-{"text":"play song number","scenario":"play","labels":2}
-{"text":"get me some radio music from kamp fm","scenario":"play","labels":4}
-{"text":"will you play superman after this song is over","scenario":"play","labels":2}
-{"text":"find me the oldies channel","scenario":"play","labels":4}
-{"text":"let's play some blues","scenario":"play","labels":2}
-{"text":"twenty questions you start","scenario":"play","labels":1}
-{"text":"skip to previous next episode of this podcast","scenario":"play","labels":3}
-{"text":"change the station to eighty two point four","scenario":"play","labels":4}
-{"text":"please play my favorite pop songs from my list","scenario":"play","labels":2}
-{"text":"do you want to play monopoly with me","scenario":"play","labels":1}
-{"text":"begin radio play","scenario":"play","labels":4}
-{"text":"i want to listen to up beat music","scenario":"play","labels":2}
-{"text":"put a record on","scenario":"play","labels":2}
-{"text":"can you find the newest song from mgk","scenario":"play","labels":2}
-{"text":"jump to eight twenty","scenario":"play","labels":3}
-{"text":"have remainder of the program to listen","scenario":"play","labels":4}
-{"text":"play the sports station","scenario":"play","labels":4}
-{"text":"play the song by michael jackson","scenario":"play","labels":2}
-{"text":"can you start my saved podcast","scenario":"play","labels":3}
-{"text":"queue true love","scenario":"play","labels":2}
-{"text":"play the scarlet letter","scenario":"play","labels":0}
-{"text":"can you start ryan seacrest","scenario":"play","labels":4}
-{"text":"play a classical","scenario":"play","labels":0}
-{"text":"play the next podcast","scenario":"play","labels":3}
-{"text":"i want to hear that song","scenario":"play","labels":2}
-{"text":"pandora","scenario":"play","labels":2}
-{"text":"play happy playlist next","scenario":"play","labels":2}
-{"text":"please play the beatles ps i love you","scenario":"play","labels":2}
-{"text":"turn on some music","scenario":"play","labels":2}
-{"text":"resume war and peace","scenario":"play","labels":0}
-{"text":"play new rihanna song","scenario":"play","labels":2}
-{"text":"i want you to play my soccer game from fifth level","scenario":"play","labels":1}
-{"text":"play walking list","scenario":"play","labels":2}
-{"text":"keep playing secret garden","scenario":"play","labels":0}
-{"text":"resume the two towers","scenario":"play","labels":0}
-{"text":"shadi special podcast play it","scenario":"play","labels":3}
-{"text":"Play music composed by some one giving short hint about the album","scenario":"play","labels":2}
-{"text":"play some classic rock before i lose my mind","scenario":"play","labels":2}
-{"text":"play a jazz music","scenario":"play","labels":2}
-{"text":"let me see my playlist to reorganize","scenario":"play","labels":2}
-{"text":"focused on the topics which are important rather than diverting from the issues","scenario":"play","labels":3}
-{"text":"can you please play imogen heap","scenario":"play","labels":2}
-{"text":"please play the radio","scenario":"play","labels":4}
-{"text":"load sirius and play a rock and roll show","scenario":"play","labels":4}
-{"text":"i would like to listen to howard stern on ninety seven point nine fm","scenario":"play","labels":4}
-{"text":"play six music for me","scenario":"play","labels":2}
-{"text":"open chess play against me","scenario":"play","labels":1}
-{"text":"i'd like to listen to howard stern","scenario":"play","labels":4}
-{"text":"play radio one","scenario":"play","labels":4}
-{"text":"play recently added songs","scenario":"play","labels":2}
-{"text":"please tune the radio channel","scenario":"play","labels":4}
-{"text":"open davinci code audiobook","scenario":"play","labels":0}
-{"text":"could you find me a jazz station","scenario":"play","labels":4}
-{"text":"i would like to hear david ramsey's podcast from yesterday","scenario":"play","labels":3}
-{"text":"i would love to hear the playlist i created for my wedding","scenario":"play","labels":2}
-{"text":"play my shazam playlist on the spotify app","scenario":"play","labels":2}
-{"text":"turn the radio to kiss fm","scenario":"play","labels":4}
-{"text":"show me the newest podcasts","scenario":"play","labels":3}
-{"text":"play a pop station on the radio","scenario":"play","labels":4}
-{"text":"i want to listen to elton john in a live concert","scenario":"play","labels":2}
-{"text":"let's play some pong","scenario":"play","labels":1}
-{"text":"search for the teams that are playing","scenario":"play","labels":1}
-{"text":"play the client by john grisham","scenario":"play","labels":0}
-{"text":"please play james altucher's podcast","scenario":"play","labels":3}
-{"text":"let's play music hits","scenario":"play","labels":4}
-{"text":"can you do name that tune","scenario":"play","labels":1}
-{"text":"i want to play the game of life with you","scenario":"play","labels":1}
-{"text":"i want listen to kevin and bean","scenario":"play","labels":4}
-{"text":"turn on kicks one oh one point five","scenario":"play","labels":4}
-{"text":"play songs","scenario":"play","labels":2}
-{"text":"play one thousand and thirty seven fm","scenario":"play","labels":4}
-{"text":"please play shake it off by taylor swiftm","scenario":"play","labels":2}
-{"text":"play little women","scenario":"play","labels":0}
-{"text":"i want to play a game","scenario":"play","labels":1}
-{"text":"play this radio channel for me","scenario":"play","labels":4}
-{"text":"play maroon five playlist","scenario":"play","labels":2}
-{"text":"play one love","scenario":"play","labels":2}
-{"text":"open my amazon music app and play my playlist","scenario":"play","labels":2}
-{"text":"please resume this playback in audiobook","scenario":"play","labels":0}
-{"text":"i want to hear some rap please","scenario":"play","labels":2}
-{"text":"i want to hear a station that plays r. n. b.","scenario":"play","labels":4}
-{"text":"turn on one oh seven point five","scenario":"play","labels":4}
-{"text":"i want reggae","scenario":"play","labels":2}
-{"text":"play ella fitzgerals get happy","scenario":"play","labels":2}
-{"text":"give me some good sounds","scenario":"play","labels":2}
-{"text":"open podcasts and play my favorites list","scenario":"play","labels":3}
-{"text":"i want to listen to george strait","scenario":"play","labels":2}
-{"text":"continue playing where I left off","scenario":"play","labels":0}
-{"text":"play wuthering heights from where i left off","scenario":"play","labels":0}
-{"text":"play howard stern on sirius","scenario":"play","labels":4}
-{"text":"find new music from jars of clay for me","scenario":"play","labels":2}
-{"text":"turn on kiss radio","scenario":"play","labels":4}
-{"text":"make happy birthday the next song","scenario":"play","labels":2}
-{"text":"play rohan sharma podcast for me","scenario":"play","labels":3}
-{"text":"start the podcast","scenario":"play","labels":3}
-{"text":"play game with me","scenario":"play","labels":1}
-{"text":"can you backward an episode in the podcast","scenario":"play","labels":3}
-{"text":"what are the new rock radio stations","scenario":"play","labels":4}
-{"text":"select rai music file","scenario":"play","labels":2}
-{"text":"play the last played audiobook","scenario":"play","labels":0}
-{"text":"could you please play the fm station which plays pop songs","scenario":"play","labels":4}
-{"text":"play baby one more time","scenario":"play","labels":2}
-{"text":"please play rock music","scenario":"play","labels":2}
-{"text":"play gta vice city game","scenario":"play","labels":1}
-{"text":"can you play my favorite music","scenario":"play","labels":2}
-{"text":"play that podcast i was listening to yesterday","scenario":"play","labels":3}
-{"text":"play all the list of country songs","scenario":"play","labels":2}
-{"text":"i want to see the previous episode","scenario":"play","labels":3}
-{"text":"i want to hear the jim and bob show on one oh three point three","scenario":"play","labels":4}
-{"text":"could you play you don't bring me flowers","scenario":"play","labels":2}
-{"text":"resume last played audiobook","scenario":"play","labels":0}
-{"text":"please play football with me","scenario":"play","labels":1}
-{"text":"i want to hear my rap playlist","scenario":"play","labels":2}
-{"text":"play me a random song","scenario":"play","labels":2}
-{"text":"play the young mummy's podcast","scenario":"play","labels":3}
-{"text":"play next episode of harry potter by j. k. rowling","scenario":"play","labels":0}
-{"text":"i would like you to start up youtube","scenario":"play","labels":4}
-{"text":"launch the radio","scenario":"play","labels":4}
-{"text":"play npr on this station","scenario":"play","labels":4}
-{"text":"start my jazz playlist","scenario":"play","labels":2}
-{"text":"play some tunes","scenario":"play","labels":2}
-{"text":"play my favorite playlist","scenario":"play","labels":2}
-{"text":"play foke","scenario":"play","labels":2}
-{"text":"plays the podcast from the beginning","scenario":"play","labels":3}
-{"text":"i would like to hear the theme song to this is us","scenario":"play","labels":2}
-{"text":"lets play chess together","scenario":"play","labels":1}
-{"text":"play the health show on my cell phone","scenario":"play","labels":4}
-{"text":"put the song sung by shreya at the top","scenario":"play","labels":2}
-{"text":"play music from my favorite pandora artist station","scenario":"play","labels":2}
-{"text":"turn on music by seal","scenario":"play","labels":2}
-{"text":"play the beyonc playlist","scenario":"play","labels":2}
-{"text":"turn on favorite songs","scenario":"play","labels":2}
-{"text":"play the first playlist","scenario":"play","labels":2}
-{"text":"i want to hear the radio turn it on please","scenario":"play","labels":4}
-{"text":"play me the bbc radio podcast","scenario":"play","labels":3}
-{"text":"play fishing podcasts that are favorited","scenario":"play","labels":3}
-{"text":"start the pop radio station","scenario":"play","labels":4}
-{"text":"play the next episode of radiolab","scenario":"play","labels":3}
-{"text":"play silent song","scenario":"play","labels":2}
-{"text":"can you play acoustic music with no commercials","scenario":"play","labels":4}
-{"text":"rewind the episode of podcast","scenario":"play","labels":3}
-{"text":"play fm","scenario":"play","labels":4}
-{"text":"resume a song from the audiobook by michael jackson","scenario":"play","labels":0}
-{"text":"can you open my itunes","scenario":"play","labels":2}
-{"text":"play all the programs pertaining to rock songs on the radio","scenario":"play","labels":4}
-{"text":"play the last doctor who radio broadcast","scenario":"play","labels":4}
-{"text":"play the audiobook swan from first","scenario":"play","labels":0}
-{"text":"please open snooker game i would like to play with you","scenario":"play","labels":1}
-{"text":"continue playing my book of vitamins","scenario":"play","labels":0}
-{"text":"play music radio for me","scenario":"play","labels":4}
-{"text":"comfort my ears with arijit singh","scenario":"play","labels":2}
-{"text":"please play this song","scenario":"play","labels":2}
-{"text":"can you open beatles","scenario":"play","labels":2}
-{"text":"i want to listen arijit's songs please tune that","scenario":"play","labels":2}
-{"text":"play christmas music","scenario":"play","labels":2}
-{"text":"open my playlist","scenario":"play","labels":2}
-{"text":"i would like to hear the song aces high","scenario":"play","labels":2}
-{"text":"play underground rap","scenario":"play","labels":2}
-{"text":"play with me game snake","scenario":"play","labels":1}
-{"text":"list and play all theory podcasts under ten min","scenario":"play","labels":3}
-{"text":"play surfin usa","scenario":"play","labels":2}
-{"text":"I'd like to play UNO with you","scenario":"play","labels":1}
-{"text":"ally please play pandora radio","scenario":"play","labels":4}
-{"text":"i'd like to hear some motown","scenario":"play","labels":2}
-{"text":"open the podcast addict","scenario":"play","labels":3}
-{"text":"let's play a game of truth or dare","scenario":"play","labels":1}
-{"text":"play the latest rock songs having rating of four or above","scenario":"play","labels":2}
-{"text":"play playlist postal service","scenario":"play","labels":2}
-{"text":"play the local r. n. b. radio station","scenario":"play","labels":4}
-{"text":"replay the god of small things","scenario":"play","labels":0}
-{"text":"turn on a song","scenario":"play","labels":2}
-{"text":"tune into the joe rogan show in ten minutes","scenario":"play","labels":4}
-{"text":"up load all my podcast","scenario":"play","labels":3}
-{"text":"can we listen to reply all podcast","scenario":"play","labels":3}
-{"text":"radio play nine hundred and eighty nine please","scenario":"play","labels":4}
-{"text":"play eight hundred and eighty nine","scenario":"play","labels":4}
-{"text":"play itzhak perlman","scenario":"play","labels":2}
-{"text":"Play the playlist","scenario":"play","labels":2}
-{"text":"put summer lovin in third position in my queue","scenario":"play","labels":2}
-{"text":"play the podcast of barack obama saved in device","scenario":"play","labels":3}
-{"text":"start the satellite music feed","scenario":"play","labels":2}
-{"text":"to listen music","scenario":"play","labels":2}
-{"text":"pause the audiobook","scenario":"play","labels":0}
-{"text":"play for me the music by madonna","scenario":"play","labels":2}
-{"text":"play classic songs","scenario":"play","labels":2}
-{"text":"play a rap song","scenario":"play","labels":2}
-{"text":"play adele","scenario":"play","labels":2}
-{"text":"rock","scenario":"play","labels":2}
-{"text":"get me the latest episode of the friends podcast","scenario":"play","labels":3}
-{"text":"favorite music","scenario":"play","labels":2}
-{"text":"play previous episode","scenario":"play","labels":3}
-{"text":"play the first song on my playlist","scenario":"play","labels":2}
-{"text":"play tic tac toe with me","scenario":"play","labels":1}
-{"text":"start music in playlist","scenario":"play","labels":2}
-{"text":"the radio should play only on nine hundred and ninety nine fm","scenario":"play","labels":4}
-{"text":"let me listen to my top rock songs playlist","scenario":"play","labels":2}
-{"text":"please put fm channel ninety three point eight","scenario":"play","labels":4}
-{"text":"please open go fish game and play it with me","scenario":"play","labels":1}
-{"text":"please play songs i've purchased and favorited","scenario":"play","labels":2}
-{"text":"resume playing the miniaturist","scenario":"play","labels":0}
-{"text":"proceed to the next episode","scenario":"play","labels":3}
-{"text":"play song every time i see you","scenario":"play","labels":2}
-{"text":"i want to hear snow by red hot chili peppers","scenario":"play","labels":2}
-{"text":"please play my nineties rap hits","scenario":"play","labels":2}
-{"text":"i want to hear radio channel now","scenario":"play","labels":4}
-{"text":"play the bjork album i've heard the least","scenario":"play","labels":2}
-{"text":"play most popular songs by barenaked ladies","scenario":"play","labels":2}
-{"text":"play a good track from my favourite jazz player","scenario":"play","labels":2}
-{"text":"continue from where we left off in divergent","scenario":"play","labels":0}
-{"text":"play chess app","scenario":"play","labels":1}
-{"text":"start playing my most played podcast","scenario":"play","labels":3}
-{"text":"please play rap","scenario":"play","labels":2}
-{"text":"play my latest podcast","scenario":"play","labels":3}
-{"text":"i want you to fast forward the audio then resume","scenario":"play","labels":0}
-{"text":"please let me hear six hundred and sixty six the number of the beast","scenario":"play","labels":2}
-{"text":"resume audiobook playback","scenario":"play","labels":0}
-{"text":"play all by the beatles","scenario":"play","labels":2}
-{"text":"play classical chamber music playlist","scenario":"play","labels":2}
-{"text":"play my itunes music","scenario":"play","labels":2}
-{"text":"start music app and play a song for me","scenario":"play","labels":2}
-{"text":"start poker game with me","scenario":"play","labels":1}
-{"text":"play queen","scenario":"play","labels":2}
-{"text":"open chess app and begin game","scenario":"play","labels":1}
-{"text":"could you harvest the crops in farmvile","scenario":"play","labels":1}
-{"text":"play this audiobook for me","scenario":"play","labels":0}
-{"text":"could you play that radio channel","scenario":"play","labels":4}
-{"text":"play track one from my david bowie playlist","scenario":"play","labels":2}
-{"text":"get me resume of best seller audio book this month","scenario":"play","labels":0}
-{"text":"find a debate about schools in uk","scenario":"play","labels":3}
-{"text":"open radio","scenario":"play","labels":4}
-{"text":"go to the next episode of the united states of anxiety podcast","scenario":"play","labels":3}
-{"text":"play blank playlist","scenario":"play","labels":2}
-{"text":"i want to listen to a sports podcast","scenario":"play","labels":3}
-{"text":"let's play my song","scenario":"play","labels":2}
-{"text":"play one thousand nine hundred and ninety nine by prince","scenario":"play","labels":2}
-{"text":"play bbc radio four","scenario":"play","labels":4}
-{"text":"tune to classic hits","scenario":"play","labels":4}
-{"text":"play dr demento on my bedside radio","scenario":"play","labels":4}
-{"text":"play the next episode","scenario":"play","labels":3}
-{"text":"play taylor swift","scenario":"play","labels":2}
-{"text":"play be warned by tech n9ne","scenario":"play","labels":2}
-{"text":"play me a radio drama podcast","scenario":"play","labels":3}
-{"text":"let's play a game together","scenario":"play","labels":1}
-{"text":"initiate classical music","scenario":"play","labels":2}
-{"text":"initiate celine dion music","scenario":"play","labels":2}
-{"text":"go to sirius and play the hip hop channel","scenario":"play","labels":4}
-{"text":"play my game","scenario":"play","labels":1}
-{"text":"resume the last kingdom for me","scenario":"play","labels":0}
-{"text":"i want to go back","scenario":"play","labels":3}
-{"text":"resume a song from the audiobook by madonna","scenario":"play","labels":0}
-{"text":"continue the smurfs book","scenario":"play","labels":0}
-{"text":"temple runner play","scenario":"play","labels":1}
-{"text":"go to menu","scenario":"play","labels":2}
-{"text":"play latest songs for me from the net","scenario":"play","labels":2}
-{"text":"play song cannibal queen","scenario":"play","labels":2}
-{"text":"please play my favorite song by bruno mars","scenario":"play","labels":2}
-{"text":"continue to next podcast","scenario":"play","labels":3}
-{"text":"play workout playlist","scenario":"play","labels":2}
-{"text":"make the radio turn on now","scenario":"play","labels":4}
-{"text":"play randomized pop songs no repeats","scenario":"play","labels":2}
-{"text":"play for me the game harry potter and the chamber of secrets","scenario":"play","labels":1}
-{"text":"turn on wfrn ninety nine point one","scenario":"play","labels":4}
-{"text":"please start joe rogan podcast please","scenario":"play","labels":3}
-{"text":"play me the most popular podcast on itunes","scenario":"play","labels":3}
-{"text":"play a random podcast on my list","scenario":"play","labels":3}
-{"text":"turn on the oldies playlist on my radio","scenario":"play","labels":4}
-{"text":"after this song ends i want to hear hotel california next","scenario":"play","labels":2}
-{"text":"resume series podcast","scenario":"play","labels":3}
-{"text":"use this program","scenario":"play","labels":4}
-{"text":"open pandora play rock station","scenario":"play","labels":4}
-{"text":"play old classic music","scenario":"play","labels":2}
-{"text":"how many of my sports podcasts have new episodes i have not listened to yet","scenario":"play","labels":4}
-{"text":"i would like to listen to","scenario":"play","labels":2}
-{"text":"lets play poker","scenario":"play","labels":1}
-{"text":"i want you to go to hot one hundred and five on the radio","scenario":"play","labels":4}
-{"text":"skip to the next episode in this podcast","scenario":"play","labels":3}
-{"text":"i want to hear some beyonce","scenario":"play","labels":2}
-{"text":"play a country station please","scenario":"play","labels":2}
-{"text":"play taylor swift music","scenario":"play","labels":2}
-{"text":"short and simple","scenario":"play","labels":3}
-{"text":"i feel like dancing play me some rock n roll","scenario":"play","labels":2}
-{"text":"i would like for us to play jeopardy now","scenario":"play","labels":1}
-{"text":"play me the latest podcast about online surveys","scenario":"play","labels":3}
-{"text":"play the next one","scenario":"play","labels":3}
-{"text":"repeat earth song","scenario":"play","labels":2}
-{"text":"Play something random from google play","scenario":"play","labels":2}
-{"text":"play a song i like","scenario":"play","labels":2}
-{"text":"play my favorite music now","scenario":"play","labels":2}
-{"text":"i want to listen to radio four","scenario":"play","labels":4}
-{"text":"play ride music track","scenario":"play","labels":2}
-{"text":"after this song put on metallica","scenario":"play","labels":2}
-{"text":"please put on my favorite rap music playlist","scenario":"play","labels":2}
-{"text":"play coldplay album","scenario":"play","labels":2}
-{"text":"read some more of the daisy goodwin book for me","scenario":"play","labels":0}
-{"text":"video games","scenario":"play","labels":1}
-{"text":"play some tunes for me","scenario":"play","labels":2}
-{"text":"put poker face by lady gaga next in the play queue","scenario":"play","labels":2}
-{"text":"i would like to start this new audiobook","scenario":"play","labels":0}
-{"text":"anyone for tennis","scenario":"play","labels":1}
-{"text":"open the books and play brains book from chap nine","scenario":"play","labels":0}
-{"text":"please play eighties rock","scenario":"play","labels":2}
-{"text":"hey play me a popular r. n. b. song","scenario":"play","labels":2}
-{"text":"play the rock ninety two radio channel","scenario":"play","labels":4}
-{"text":"play crystal lewis's beauty of the cross for me","scenario":"play","labels":2}
-{"text":"play hurt by johnny cash next","scenario":"play","labels":2}
-{"text":"listen to radio","scenario":"play","labels":4}
-{"text":"find some smooth jazz for me","scenario":"play","labels":2}
-{"text":"can you put on my playlist of metal music","scenario":"play","labels":2}
-{"text":"play my favourite radio","scenario":"play","labels":4}
-{"text":"create a playing teams and play with them","scenario":"play","labels":1}
-{"text":"start playing thinking out loud now","scenario":"play","labels":2}
-{"text":"first play tvf podcast after that being humorous podcast","scenario":"play","labels":3}
-{"text":"play audiobook of planets","scenario":"play","labels":0}
-{"text":"start music","scenario":"play","labels":2}
-{"text":"i would like to listen to music on the radio","scenario":"play","labels":4}
-{"text":"i want you to play my michael jackson favorite song","scenario":"play","labels":2}
-{"text":"play melody music in the morning time","scenario":"play","labels":2}
-{"text":"start the next episode of the friends podcast","scenario":"play","labels":3}
-{"text":"play ncaa match kentucky vs arizona live","scenario":"play","labels":4}
-{"text":"put on cannibal queen","scenario":"play","labels":2}
-{"text":"continue pride and prejudice","scenario":"play","labels":0}
-{"text":"find the latest disney podcast","scenario":"play","labels":3}
-{"text":"play forty six and two by tool","scenario":"play","labels":2}
-{"text":"look for song two and play it","scenario":"play","labels":2}
-{"text":"resume the last played audiobook","scenario":"play","labels":0}
-{"text":"play music from my rock list","scenario":"play","labels":2}
-{"text":"play my most watched podcast","scenario":"play","labels":3}
-{"text":"play anything by cat stevens and i'll be happy","scenario":"play","labels":2}
-{"text":"play a song of your choice for me","scenario":"play","labels":2}
-{"text":"play bhuli bisri yaadien program on ninety one point three fm","scenario":"play","labels":4}
-{"text":"play the latest seahawks podcast","scenario":"play","labels":3}
-{"text":"play this programmes in this pad's","scenario":"play","labels":4}
-{"text":"please replay that song i just listened to","scenario":"play","labels":2}
-{"text":"turn on bjork","scenario":"play","labels":2}
-{"text":"please play the last two episodes of the gilmore guys","scenario":"play","labels":3}
-{"text":"open up angry birds","scenario":"play","labels":1}
-{"text":"shuffle my workout playlist","scenario":"play","labels":2}
-{"text":"change the genre from rock to classic","scenario":"play","labels":2}
-{"text":"play me a song of adele","scenario":"play","labels":2}
-{"text":"turn on radio","scenario":"play","labels":4}
-{"text":"play the veldt by","scenario":"play","labels":2}
-{"text":"open pandora and search for a classic rock station","scenario":"play","labels":4}
-{"text":"please find me a country music station","scenario":"play","labels":4}
-{"text":"start my audio book from where i left off","scenario":"play","labels":0}
-{"text":"open my music","scenario":"play","labels":2}
-{"text":"stream poker face by lady gaga","scenario":"play","labels":2}
-{"text":"play the newest morning show podcast","scenario":"play","labels":3}
-{"text":"play enrique","scenario":"play","labels":2}
-{"text":"launch the rooster teeth podcast","scenario":"play","labels":3}
-{"text":"play the electronic playlist","scenario":"play","labels":2}
-{"text":"play lady by kenny roger","scenario":"play","labels":2}
-{"text":"i am in the mood for some classical music","scenario":"play","labels":2}
-{"text":"start playing the following podcast","scenario":"play","labels":3}
-{"text":"play the radio station pop","scenario":"play","labels":4}
-{"text":"radio","scenario":"play","labels":4}
-{"text":"can you take a role of enemy in the game of coc","scenario":"play","labels":1}
-{"text":"please play next episode","scenario":"play","labels":3}
-{"text":"play super mario brothers game with me","scenario":"play","labels":1}
-{"text":"play kiss fm for me","scenario":"play","labels":4}
-{"text":"play from this point from this audiobook","scenario":"play","labels":0}
-{"text":"start playlist from track one","scenario":"play","labels":2}
-{"text":"radio ninety five point five","scenario":"play","labels":4}
-{"text":"find podcast and play it","scenario":"play","labels":3}
-{"text":"after this song plays raindrops keep fallin on my head","scenario":"play","labels":2}
-{"text":"music","scenario":"play","labels":2}
-{"text":"what is the current show with the maximum viewers choice on television","scenario":"play","labels":4}
-{"text":"play the most popular music from the seventies","scenario":"play","labels":2}
-{"text":"stop the music","scenario":"play","labels":2}
-{"text":"let's play you'll be the keeper and never change position","scenario":"play","labels":1}
-{"text":"play the radio channel ninety three point two five","scenario":"play","labels":4}
-{"text":"look for channel one hundred and six point nine and play it","scenario":"play","labels":4}
-{"text":"play bbc","scenario":"play","labels":2}
-{"text":"please continue with the next podcast episode","scenario":"play","labels":3}
-{"text":"i need you to start fm eight hundred and ninety radio channel","scenario":"play","labels":4}
-{"text":"please start the next podcast episode","scenario":"play","labels":3}
-{"text":"i'm thinking of a number one to ten","scenario":"play","labels":1}
-{"text":"turn on channel bbc radio one please","scenario":"play","labels":4}
-{"text":"play me a song by van halen","scenario":"play","labels":2}
-{"text":"play some old school rap","scenario":"play","labels":2}
-{"text":"want to play music","scenario":"play","labels":2}
-{"text":"can you play rock music for the next hour","scenario":"play","labels":2}
-{"text":"start a game and play with me","scenario":"play","labels":1}
-{"text":"i want to listen to rock music","scenario":"play","labels":2}
-{"text":"play the pre gaming playlist","scenario":"play","labels":2}
-{"text":"google music find me some enya to listen to","scenario":"play","labels":2}
-{"text":"play yesterday's hot ninety seven morning show","scenario":"play","labels":4}
-{"text":"could you play this song love for me please","scenario":"play","labels":2}
-{"text":"please play the song smile for me","scenario":"play","labels":2}
-{"text":"play a nirvana playlist","scenario":"play","labels":2}
-{"text":"play me the latest song of adele","scenario":"play","labels":2}
-{"text":"book swan play","scenario":"play","labels":0}
-{"text":"i want to listen to the radio turn it on for me","scenario":"play","labels":4}
-{"text":"start playing podcast about books","scenario":"play","labels":3}
-{"text":"play the urban radio station","scenario":"play","labels":4}
-{"text":"open spotify and play list five","scenario":"play","labels":2}
-{"text":"search and play a radio station with news","scenario":"play","labels":4}
-{"text":"can you play me some dance music","scenario":"play","labels":2}
-{"text":"select the music player","scenario":"play","labels":2}
-{"text":"next play summer lovin","scenario":"play","labels":2}
-{"text":"i just love adele please play my most played songs of her after this track","scenario":"play","labels":2}
-{"text":"play lady by kenny rogers now","scenario":"play","labels":2}
-{"text":"play mp playlist from start","scenario":"play","labels":2}
-{"text":"find the nearest rock station","scenario":"play","labels":4}
-{"text":"launch game","scenario":"play","labels":1}
-{"text":"please open chess game i would like to play with you","scenario":"play","labels":1}
-{"text":"one dance","scenario":"play","labels":2}
-{"text":"play a game of chess with me","scenario":"play","labels":1}
-{"text":"open pandora app and play station amed hoizer radio","scenario":"play","labels":4}
-{"text":"play all songs from blue genre","scenario":"play","labels":2}
-{"text":"play do re mi","scenario":"play","labels":2}
-{"text":"play it after five minutes","scenario":"play","labels":0}
-{"text":"i would like to here pictures next","scenario":"play","labels":2}
-{"text":"play the rock music for me","scenario":"play","labels":2}
-{"text":"play music now from radio plus","scenario":"play","labels":4}
-{"text":"please check episode number forty one of taarak mehta ka ulta chasmah","scenario":"play","labels":3}
-{"text":"play my yoga playlist","scenario":"play","labels":2}
-{"text":"switch to one hundred and one point one","scenario":"play","labels":4}
-{"text":"hey play that podcast i stopped last night","scenario":"play","labels":3}
-{"text":"play this song","scenario":"play","labels":2}
-{"text":"i want to listen jazz","scenario":"play","labels":2}
-{"text":"find me a podcast about animals","scenario":"play","labels":3}
-{"text":"hey olly turn the radio on","scenario":"play","labels":4}
-{"text":"i want to hear beyonce","scenario":"play","labels":2}
-{"text":"resume audio","scenario":"play","labels":0}
-{"text":"open podcast by the young turks","scenario":"play","labels":3}
-{"text":"play boogie in your butt by eddie murphy","scenario":"play","labels":2}
-{"text":"play only my list","scenario":"play","labels":2}
-{"text":"my games to play in my pda's","scenario":"play","labels":1}
-{"text":"start next episode playing","scenario":"play","labels":3}
-{"text":"play chess with me please","scenario":"play","labels":1}
-{"text":"lets hear wgrr one hundred and three point five","scenario":"play","labels":4}
-{"text":"play a r rahman music","scenario":"play","labels":2}
-{"text":"play top twenty","scenario":"play","labels":2}
-{"text":"play radio station","scenario":"play","labels":4}
-{"text":"we should play nfs at high speed","scenario":"play","labels":1}
-{"text":"could play program in required of the","scenario":"play","labels":4}
-{"text":"initiate the music on the electronic playlist","scenario":"play","labels":2}
-{"text":"play careless whisper by george micheal","scenario":"play","labels":2}
-{"text":"start the league of legends game","scenario":"play","labels":1}
-{"text":"i want some music how about playing my workout playlist","scenario":"play","labels":2}
-{"text":"start next podcast episode","scenario":"play","labels":3}
-{"text":"please turn on the music i want to hear my favorites songs","scenario":"play","labels":2}
-{"text":"load up ghost recon wildlands","scenario":"play","labels":1}
-{"text":"please turn on radio on seven am","scenario":"play","labels":4}
-{"text":"play ninety one point five rm radio english songs","scenario":"play","labels":4}
-{"text":"play me a radio channel for trance music","scenario":"play","labels":4}
-{"text":"open song name","scenario":"play","labels":0}
-{"text":"play music by queen","scenario":"play","labels":2}
-{"text":"go forward please","scenario":"play","labels":3}
-{"text":"play got that by medasin","scenario":"play","labels":2}
-{"text":"resume recent audiobook","scenario":"play","labels":0}
-{"text":"play my workout playlist in spotify","scenario":"play","labels":2}
-{"text":"start my favorite music","scenario":"play","labels":2}
-{"text":"play netflix on my ps four","scenario":"play","labels":4}
-{"text":"after this song play thriller","scenario":"play","labels":2}
-{"text":"play neil sedaka","scenario":"play","labels":2}
-{"text":"play me some hihop","scenario":"play","labels":2}
-{"text":"continue reading moby dick to me","scenario":"play","labels":0}
-{"text":"play major tom by david bowie","scenario":"play","labels":2}
-{"text":"play this audiobook","scenario":"play","labels":0}
-{"text":"play third day","scenario":"play","labels":2}
-{"text":"please play me the madonna song again","scenario":"play","labels":2}
-{"text":"please play aretha franklin's call me next","scenario":"play","labels":2}
-{"text":"replay the following podcast","scenario":"play","labels":3}
-{"text":"play my pop playlist","scenario":"play","labels":2}
-{"text":"please open audible app and resume play","scenario":"play","labels":0}
-{"text":"start the podcast over that i started last night","scenario":"play","labels":3}
-{"text":"please play ar rahman music","scenario":"play","labels":2}
-{"text":"shazam","scenario":"play","labels":2}
-{"text":"play a song from my favorites","scenario":"play","labels":2}
-{"text":"pause the book","scenario":"play","labels":0}
-{"text":"play radio","scenario":"play","labels":4}
-{"text":"search for classical music and play","scenario":"play","labels":2}
-{"text":"play the last hit song of metallica last album please","scenario":"play","labels":2}
-{"text":"end pause on audio book history of rome","scenario":"play","labels":0}
-{"text":"play songs by bryan adams","scenario":"play","labels":2}
-{"text":"start radio and go to frequency on nine hundred and twenty seven","scenario":"play","labels":4}
-{"text":"play that podcast please","scenario":"play","labels":3}
-{"text":"i want to hear radio head please","scenario":"play","labels":2}
-{"text":"record the radio program","scenario":"play","labels":4}
-{"text":"hey olly play the radio","scenario":"play","labels":4}
-{"text":"play blackeyed pees song","scenario":"play","labels":2}
-{"text":"play games","scenario":"play","labels":1}
-{"text":"mario","scenario":"play","labels":1}
-{"text":"play animal farm","scenario":"play","labels":0}
-{"text":"put on some love songs","scenario":"play","labels":4}
-{"text":"using remote","scenario":"play","labels":0}
-{"text":"play the top forty station with rocket and theresa","scenario":"play","labels":4}
-{"text":"play soundcloud","scenario":"play","labels":4}
-{"text":"open chess game","scenario":"play","labels":1}
-{"text":"program y at radio bbc","scenario":"play","labels":4}
-{"text":"play my sadness playlist","scenario":"play","labels":2}
-{"text":"start my favourite podcast","scenario":"play","labels":3}
-{"text":"mukkala mukkabilla","scenario":"play","labels":2}
-{"text":"open pandora and play hoizer radio","scenario":"play","labels":4}
-{"text":"i want to here song one","scenario":"play","labels":2}
-{"text":"play me something nice jazz please","scenario":"play","labels":2}
-{"text":"hello google play baby one more time","scenario":"play","labels":2}
-{"text":"play britney spears live concert series","scenario":"play","labels":4}
-{"text":"look for a radio station called rhythm on the frequency one","scenario":"play","labels":4}
-{"text":"start chapter seven of alma","scenario":"play","labels":0}
-{"text":"play music by acdc","scenario":"play","labels":2}
-{"text":"what is my most played podcast","scenario":"play","labels":3}
-{"text":"Play a angry bird","scenario":"play","labels":1}
-{"text":"i want to hear great music","scenario":"play","labels":2}
-{"text":"play the weekend","scenario":"play","labels":2}
-{"text":"would you please turn on the am radio","scenario":"play","labels":4}
-{"text":"play today's podcast from the mi","scenario":"play","labels":3}
-{"text":"play the melody song from audiobook","scenario":"play","labels":0}
-{"text":"please play artist first in queue","scenario":"play","labels":2}
-{"text":"play top ten","scenario":"play","labels":2}
-{"text":"play hungry eyes","scenario":"play","labels":2}
-{"text":"i want to hear pop music","scenario":"play","labels":2}
-{"text":"play for me american idol on television","scenario":"play","labels":4}
-{"text":"play two thousand one hundred and twelve by rush","scenario":"play","labels":2}
-{"text":"please play popular music on pandora","scenario":"play","labels":4}
-{"text":"play the beatles","scenario":"play","labels":2}
-{"text":"radio ko on kar do abhi achche achche song aa rahe honge","scenario":"play","labels":4}
-{"text":"please play the local latin music channel on the radio","scenario":"play","labels":4}
-{"text":"play the latest songs by senelena gomez after this one","scenario":"play","labels":2}
-{"text":"restart the audiobook heaven is for real","scenario":"play","labels":0}
-{"text":"play kari jobe for me","scenario":"play","labels":2}
-{"text":"let's play a game","scenario":"play","labels":1}
-{"text":"play my most listened songs","scenario":"play","labels":2}
-{"text":"play my playlist starting from the bottom","scenario":"play","labels":2}
-{"text":"i want to hear something nice jazz please","scenario":"play","labels":2}
-{"text":"open tic tac toe","scenario":"play","labels":1}
-{"text":"play volume two of nutritional facts","scenario":"play","labels":3}
-{"text":"play the next show on podcast","scenario":"play","labels":3}
-{"text":"open lyrics name","scenario":"play","labels":0}
-{"text":"play hip hop songs","scenario":"play","labels":2}
-{"text":"i need some rap","scenario":"play","labels":2}
-{"text":"go to the station fm ninety six point five","scenario":"play","labels":4}
-{"text":"next","scenario":"play","labels":3}
-{"text":"show me upcoming programmes on one hundred and five point one","scenario":"play","labels":4}
-{"text":"play episode ten in the podcast","scenario":"play","labels":3}
-{"text":"i want to hear any songs that got grammys this year","scenario":"play","labels":2}
-{"text":"play my favourite podcast","scenario":"play","labels":3}
-{"text":"could you play this song closer from the album chainsmokers","scenario":"play","labels":2}
-{"text":"play my country favourites playlist on shuffle","scenario":"play","labels":2}
-{"text":"open fifa seventeen","scenario":"play","labels":1}
-{"text":"tune me song in radio","scenario":"play","labels":4}
-{"text":"play rock music","scenario":"play","labels":2}
-{"text":"play me barcelona by queen","scenario":"play","labels":2}
-{"text":"play songs related to acdc","scenario":"play","labels":2}
-{"text":"open my music and play melissas afternoon podcast from yesterday","scenario":"play","labels":4}
-{"text":"play the last played playlist","scenario":"play","labels":2}
-{"text":"play thinking out loud now","scenario":"play","labels":2}
-{"text":"would you play some music please","scenario":"play","labels":2}
-{"text":"find some rock","scenario":"play","labels":2}
-{"text":"start radio channel eight hundred and eighty nine","scenario":"play","labels":4}
-{"text":"play billie jean next","scenario":"play","labels":2}
-{"text":"play me all jazz music","scenario":"play","labels":2}
-{"text":"play justin bieber on shuffle","scenario":"play","labels":2}
-{"text":"start celine dion songs","scenario":"play","labels":2}
-{"text":"play me my favourite radio show","scenario":"play","labels":4}
-{"text":"play audiobook where we left off","scenario":"play","labels":0}
-{"text":"play musical theater soundtracks","scenario":"play","labels":2}
-{"text":"my choice to play an audio from first","scenario":"play","labels":0}
-{"text":"play music of kate perry without shuffle","scenario":"play","labels":2}
-{"text":"play my last used playlist","scenario":"play","labels":2}
-{"text":"play episode two of the intern","scenario":"play","labels":3}
-{"text":"let's listen to some jazz","scenario":"play","labels":2}
-{"text":"play the radio for me","scenario":"play","labels":4}
-{"text":"play the kansas city hip hop station","scenario":"play","labels":4}
-{"text":"play r and b music","scenario":"play","labels":2}
-{"text":"search for the correct game","scenario":"play","labels":1}
-{"text":"i would like to listen to celine dion","scenario":"play","labels":2}
-{"text":"play my second playlist","scenario":"play","labels":2}
-{"text":"i want to hear love me","scenario":"play","labels":2}
-{"text":"play rock music please","scenario":"play","labels":2}
-{"text":"turn on channel nine hundred and fifty one","scenario":"play","labels":4}
-{"text":"play a party music list","scenario":"play","labels":2}
-{"text":"start drama from radio","scenario":"play","labels":4}
-{"text":"put on the next song in five minutes","scenario":"play","labels":2}
-{"text":"find me a good pop song","scenario":"play","labels":2}
-{"text":"move this song to up next","scenario":"play","labels":2}
-{"text":"weather forecast from radio plus","scenario":"play","labels":4}
-{"text":"play lady gaga starting with poker face","scenario":"play","labels":2}
-{"text":"play the song which is in movie rangoon","scenario":"play","labels":2}
-{"text":"i want to hear some local talk radio","scenario":"play","labels":4}
-{"text":"put on some led zeppelin","scenario":"play","labels":2}
-{"text":"i wish i could play video games together","scenario":"play","labels":1}
-{"text":"play the song for me","scenario":"play","labels":2}
-{"text":"could you play the song every time i see you","scenario":"play","labels":2}
-{"text":"playlist with the song clementine","scenario":"play","labels":2}
-{"text":"go to the next episode in this podcast","scenario":"play","labels":3}
-{"text":"play a song by paramore","scenario":"play","labels":2}
-{"text":"ensure i wants to listen to this programme on radio","scenario":"play","labels":4}
-{"text":"kenny roger's lady play","scenario":"play","labels":2}
-{"text":"resume lord of the rings","scenario":"play","labels":0}
-{"text":"play my motivational playlist","scenario":"play","labels":2}
-{"text":"play music from good playlist","scenario":"play","labels":2}
-{"text":"play songs from the r and b and soul genre","scenario":"play","labels":2}
-{"text":"indie","scenario":"play","labels":2}
-{"text":"play edm music","scenario":"play","labels":2}
-{"text":"fight me in street fighter","scenario":"play","labels":1}
-{"text":"play podcast episode new","scenario":"play","labels":3}
-{"text":"resuming playing my current audio book","scenario":"play","labels":0}
-{"text":"get the next episode","scenario":"play","labels":3}
-{"text":"play the celine dion song from the titanic movie","scenario":"play","labels":2}
-{"text":"orevena voice recorder let me the system page is where to save songs","scenario":"play","labels":2}
-{"text":"play the song immediately","scenario":"play","labels":2}
-{"text":"start playlist","scenario":"play","labels":2}
-{"text":"please play songs in music player only arijit singh's","scenario":"play","labels":2}
-{"text":"someone play the radio","scenario":"play","labels":4}
-{"text":"please rewind to start of podcast","scenario":"play","labels":3}
-{"text":"play latest reason podcast","scenario":"play","labels":3}
-{"text":"resume born to run","scenario":"play","labels":2}
-{"text":"radio one thousand and twenty seven","scenario":"play","labels":4}
-{"text":"aib podcast on kashmirstart it","scenario":"play","labels":3}
-{"text":"play last misesorg podcast","scenario":"play","labels":3}
-{"text":"play from smashing pumpkins","scenario":"play","labels":2}
-{"text":"find me kiss fm channel","scenario":"play","labels":4}
-{"text":"start chapter five of physics for future presidents","scenario":"play","labels":0}
-{"text":"want to play a game with me","scenario":"play","labels":1}
-{"text":"please play the podcast from happypeoplecom","scenario":"play","labels":3}
-{"text":"search and play workout playlist","scenario":"play","labels":2}
-{"text":"what playlists do you have for pop music","scenario":"play","labels":2}
-{"text":"strings and pianos but only acoustical guitar not electric please","scenario":"play","labels":2}
-{"text":"please play clash of clans","scenario":"play","labels":1}
-{"text":"play my usher radio station","scenario":"play","labels":4}
-{"text":"start music weekend on bbc radio four","scenario":"play","labels":4}
-{"text":"wd","scenario":"play","labels":2}
-{"text":"start play","scenario":"play","labels":2}
-{"text":"please skip to the next podcast episode","scenario":"play","labels":3}
-{"text":"i want to hear more audiobook","scenario":"play","labels":0}
-{"text":"closer by nine inch nails","scenario":"play","labels":2}
-{"text":"d","scenario":"play","labels":2}
-{"text":"play country music","scenario":"play","labels":2}
-{"text":"play funk music","scenario":"play","labels":2}
-{"text":"lets hear it from fm ninety six point five","scenario":"play","labels":4}
-{"text":"menu","scenario":"play","labels":2}
-{"text":"it's too quiet in here","scenario":"play","labels":2}
-{"text":"in the music player play track seventeen","scenario":"play","labels":2}
-{"text":"play me song my travel playlist","scenario":"play","labels":2}
-{"text":"i want to play rock paper scissors let's play","scenario":"play","labels":1}
-{"text":"can you turn msnbc on in the car","scenario":"play","labels":4}
-{"text":"please put on radio","scenario":"play","labels":4}
-{"text":"play the david bowie song major tom","scenario":"play","labels":2}
-{"text":"please play only music of pop mix","scenario":"play","labels":2}
-{"text":"can you turn on country music","scenario":"play","labels":2}
-{"text":"please play this playback on audiobook","scenario":"play","labels":0}
-{"text":"play hot ninety seven radio","scenario":"play","labels":4}
-{"text":"bring up my last playlist from tidal","scenario":"play","labels":2}
-{"text":"go to the last episode","scenario":"play","labels":3}
-{"text":"i need to hear notorious thugs by bone thugs now","scenario":"play","labels":2}
-{"text":"play a game with me","scenario":"play","labels":1}
-{"text":"tag you're it","scenario":"play","labels":1}
-{"text":"play jumper by third eye blind","scenario":"play","labels":2}
-{"text":"play npr on the car radio","scenario":"play","labels":4}
-{"text":"start the most recent episode of my true crime podcast","scenario":"play","labels":3}
-{"text":"please play thirteen","scenario":"play","labels":2}
-{"text":"start candy crush","scenario":"play","labels":1}
-{"text":"play sword art opening","scenario":"play","labels":2}
-{"text":"please turn on the music player","scenario":"play","labels":2}
-{"text":"choose that music player","scenario":"play","labels":2}
-{"text":"get radio","scenario":"play","labels":4}
-{"text":"find me some talk back radio","scenario":"play","labels":4}
-{"text":"please continue reading the hunger games","scenario":"play","labels":0}
-{"text":"play michael jackson","scenario":"play","labels":2}
-{"text":"play electronic dance music after this one","scenario":"play","labels":2}
-{"text":"play the last album on a loop","scenario":"play","labels":2}
-{"text":"start playlist for podcast","scenario":"play","labels":3}
-{"text":"play sixty","scenario":"play","labels":2}
-{"text":"open games directory","scenario":"play","labels":1}
-{"text":"hi play me playlist of a r rehman songs released current year","scenario":"play","labels":2}
-{"text":"can you continue audiobook the circle","scenario":"play","labels":0}
-{"text":"skip","scenario":"play","labels":3}
-{"text":"open radio at ninety nine point one","scenario":"play","labels":4}
-{"text":"play busdriver","scenario":"play","labels":2}
-{"text":"open iheartradio and put on the top forty","scenario":"play","labels":4}
-{"text":"let's hear some indie rock okay","scenario":"play","labels":2}
-{"text":"play the song i didn't hear from last month","scenario":"play","labels":2}
-{"text":"play me this years top ten ten pop songs","scenario":"play","labels":2}
-{"text":"next one please","scenario":"play","labels":3}
-{"text":"play closer music track","scenario":"play","labels":2}
-{"text":"i need you to find a good channels to listen to","scenario":"play","labels":4}
-{"text":"can you play ar rahman music","scenario":"play","labels":2}
-{"text":"would you like to play a game with me","scenario":"play","labels":1}
-{"text":"put on a playlist of danish music","scenario":"play","labels":2}
-{"text":"want to play a game of trivia","scenario":"play","labels":1}
-{"text":"play best hits","scenario":"play","labels":2}
-{"text":"start podcast mlb daily","scenario":"play","labels":3}
-{"text":"please play podcasts on science","scenario":"play","labels":3}
-{"text":"play nine hundred and forty five fm","scenario":"play","labels":4}
-{"text":"move to next section","scenario":"play","labels":3}
-{"text":"play all order of the green hand from previous week","scenario":"play","labels":3}
-{"text":"music from the","scenario":"play","labels":2}
-{"text":"open one thousand and forty seven radio","scenario":"play","labels":4}
-{"text":"can we play twenty questions","scenario":"play","labels":1}
-{"text":"play party songs","scenario":"play","labels":2}
-{"text":"i want to hear surfin usa","scenario":"play","labels":2}
-{"text":"play music by that artist","scenario":"play","labels":2}
-{"text":"play hotel california after this song","scenario":"play","labels":2}
-{"text":"run music from this playlist","scenario":"play","labels":2}
-{"text":"play madonna now","scenario":"play","labels":2}
-{"text":"tune in to bob and tom","scenario":"play","labels":4}
-{"text":"play i am a survivor by destiny's child","scenario":"play","labels":2}
-{"text":"resume audiobook player","scenario":"play","labels":0}
-{"text":"time for my drive home station please","scenario":"play","labels":4}
-{"text":"go to the third episode of this podcast","scenario":"play","labels":3}
-{"text":"play podcast","scenario":"play","labels":3}
-{"text":"music two","scenario":"play","labels":0}
-{"text":"i want to hear my favorite song from iron maiden","scenario":"play","labels":2}
-{"text":"play sam harris please","scenario":"play","labels":4}
-{"text":"play the radio on nine hundred and ninety nine fm only","scenario":"play","labels":4}
-{"text":"i want to hear sleeptime playlist next","scenario":"play","labels":2}
-{"text":"play the radio station rock one hundred and eight","scenario":"play","labels":4}
-{"text":"my games to play in my computers","scenario":"play","labels":1}
-{"text":"play the young turks podcast","scenario":"play","labels":3}
-{"text":"please play some lady gaga","scenario":"play","labels":2}
-{"text":"resume the song from the audiobook by the beatles","scenario":"play","labels":0}
-{"text":"can you find the the preacher joe show on gospel radio","scenario":"play","labels":4}
-{"text":"open pandora app","scenario":"play","labels":4}
-{"text":"play me harry potter from the place i last stopped listening on","scenario":"play","labels":0}
-{"text":"start my music playlist","scenario":"play","labels":2}
-{"text":"open album name","scenario":"play","labels":0}
-{"text":"start play johns audiobook","scenario":"play","labels":0}
-{"text":"please tune in to channel nine fm","scenario":"play","labels":4}
-{"text":"find the beginning of the podcast","scenario":"play","labels":3}
-{"text":"play song all the small things","scenario":"play","labels":2}
-{"text":"let's play space invaders","scenario":"play","labels":1}
-{"text":"play my workout playlist","scenario":"play","labels":2}
-{"text":"play me music","scenario":"play","labels":2}
-{"text":"play on loop the devil went down to georgia for me","scenario":"play","labels":2}
-{"text":"play song on repeat","scenario":"play","labels":2}
-{"text":"tune in some radio","scenario":"play","labels":4}
-{"text":"ted talks","scenario":"play","labels":3}
-{"text":"play for me american idol show","scenario":"play","labels":4}
-{"text":"play radio music","scenario":"play","labels":4}
-{"text":"please play next episode of podcast","scenario":"play","labels":3}
-{"text":"i want to hear music by a band from my playlist","scenario":"play","labels":2}
-{"text":"make my collection mostly pop with a good bit of psychedelia","scenario":"play","labels":2}
-{"text":"i would like to hear the podcast of the heat game thats is being played tonight","scenario":"play","labels":3}
-{"text":"start radio station for me","scenario":"play","labels":4}
-{"text":"please play some songs for kids","scenario":"play","labels":4}
-{"text":"i would like to listen to pop music please","scenario":"play","labels":2}
-{"text":"play recently added audiobook","scenario":"play","labels":0}
-{"text":"play episode of stuff you should know in queue","scenario":"play","labels":3}
-{"text":"play classic rock","scenario":"play","labels":2}
-{"text":"play the program where i left off yesterday","scenario":"play","labels":0}
-{"text":"play that song next","scenario":"play","labels":2}
-{"text":"play that last song","scenario":"play","labels":2}
-{"text":"run radio programme","scenario":"play","labels":4}
-{"text":"start up league of legends for me","scenario":"play","labels":1}
-{"text":"play the latest episode of little steven's underground garage","scenario":"play","labels":4}
-{"text":"play music that i like","scenario":"play","labels":2}
-{"text":"get sia's cheap thrills ready to play next","scenario":"play","labels":2}
-{"text":"next episode please","scenario":"play","labels":3}
-{"text":"search for more songs from the band","scenario":"play","labels":2}
-{"text":"can you play beats one radio","scenario":"play","labels":4}
-{"text":"i'm tired of pandora please turn on the radio","scenario":"play","labels":4}
-{"text":"play hula hoop next","scenario":"play","labels":2}
-{"text":"can you pause the audio","scenario":"play","labels":0}
-{"text":"start the dogwalking playlist","scenario":"play","labels":2}
-{"text":"play some music","scenario":"play","labels":2}
-{"text":"skip this episode","scenario":"play","labels":3}
-{"text":"play madonna","scenario":"play","labels":2}
-{"text":"can you drop a beat for me","scenario":"play","labels":2}
-{"text":"open the two towers","scenario":"play","labels":0}
-{"text":"play next episode of her story","scenario":"play","labels":3}
-{"text":"start play spider","scenario":"play","labels":1}
-{"text":"please read the text i just received on messenger","scenario":"play","labels":4}
-{"text":"open media player and play top hits","scenario":"play","labels":4}
-{"text":"play seven habits of effective people","scenario":"play","labels":0}
-{"text":"can you search cnn","scenario":"play","labels":3}
-{"text":"play the song title","scenario":"play","labels":2}
-{"text":"skip forward to the next episode","scenario":"play","labels":3}
-{"text":"please play nightmare by avenged sevenfold","scenario":"play","labels":2}
-{"text":"please tune in to fm ninety five","scenario":"play","labels":4}
-{"text":"i want to hear limelight by rush","scenario":"play","labels":2}
-{"text":"play scabble with me","scenario":"play","labels":1}
-{"text":"can you please put on music","scenario":"play","labels":4}
-{"text":"go to rock music","scenario":"play","labels":2}
-{"text":"play every praise","scenario":"play","labels":2}
-{"text":"play next episode of con man","scenario":"play","labels":3}
-{"text":"lets play tic tac toe","scenario":"play","labels":1}
-{"text":"turn to station one hundred and two point seven ally","scenario":"play","labels":4}
-{"text":"please play gary's podcast","scenario":"play","labels":3}
-{"text":"play duncan trussel's latest podcast","scenario":"play","labels":3}
-{"text":"play radio with rock music","scenario":"play","labels":4}
+{"sentence":"play why do you sing by kirk franklin","label":2,"idx":0}
+{"sentence":"i am really feeling depressed right now can you please play my most played songs to cheer me up","label":2,"idx":1}
+{"sentence":"skip to the next podcast","label":3,"idx":2}
+{"sentence":"on the radio it is time for good music","label":4,"idx":3}
+{"sentence":"resume my audiobook where we paused last","label":0,"idx":4}
+{"sentence":"play song number","label":2,"idx":5}
+{"sentence":"get me some radio music from kamp fm","label":4,"idx":6}
+{"sentence":"will you play superman after this song is over","label":2,"idx":7}
+{"sentence":"find me the oldies channel","label":4,"idx":8}
+{"sentence":"let's play some blues","label":2,"idx":9}
+{"sentence":"twenty questions you start","label":1,"idx":10}
+{"sentence":"skip to previous next episode of this podcast","label":3,"idx":11}
+{"sentence":"change the station to eighty two point four","label":4,"idx":12}
+{"sentence":"please play my favorite pop songs from my list","label":2,"idx":13}
+{"sentence":"do you want to play monopoly with me","label":1,"idx":14}
+{"sentence":"begin radio play","label":4,"idx":15}
+{"sentence":"i want to listen to up beat music","label":2,"idx":16}
+{"sentence":"put a record on","label":2,"idx":17}
+{"sentence":"can you find the newest song from mgk","label":2,"idx":18}
+{"sentence":"jump to eight twenty","label":3,"idx":19}
+{"sentence":"have remainder of the program to listen","label":4,"idx":20}
+{"sentence":"play the sports station","label":4,"idx":21}
+{"sentence":"play the song by michael jackson","label":2,"idx":22}
+{"sentence":"can you start my saved podcast","label":3,"idx":23}
+{"sentence":"queue true love","label":2,"idx":24}
+{"sentence":"play the scarlet letter","label":0,"idx":25}
+{"sentence":"can you start ryan seacrest","label":4,"idx":26}
+{"sentence":"play a classical","label":0,"idx":27}
+{"sentence":"play the next podcast","label":3,"idx":28}
+{"sentence":"i want to hear that song","label":2,"idx":29}
+{"sentence":"pandora","label":2,"idx":30}
+{"sentence":"play happy playlist next","label":2,"idx":31}
+{"sentence":"please play the beatles ps i love you","label":2,"idx":32}
+{"sentence":"turn on some music","label":2,"idx":33}
+{"sentence":"resume war and peace","label":0,"idx":34}
+{"sentence":"play new rihanna song","label":2,"idx":35}
+{"sentence":"i want you to play my soccer game from fifth level","label":1,"idx":36}
+{"sentence":"play walking list","label":2,"idx":37}
+{"sentence":"keep playing secret garden","label":0,"idx":38}
+{"sentence":"resume the two towers","label":0,"idx":39}
+{"sentence":"shadi special podcast play it","label":3,"idx":40}
+{"sentence":"Play music composed by some one giving short hint about the album","label":2,"idx":41}
+{"sentence":"play some classic rock before i lose my mind","label":2,"idx":42}
+{"sentence":"play a jazz music","label":2,"idx":43}
+{"sentence":"let me see my playlist to reorganize","label":2,"idx":44}
+{"sentence":"focused on the topics which are important rather than diverting from the issues","label":3,"idx":45}
+{"sentence":"can you please play imogen heap","label":2,"idx":46}
+{"sentence":"please play the radio","label":4,"idx":47}
+{"sentence":"load sirius and play a rock and roll show","label":4,"idx":48}
+{"sentence":"i would like to listen to howard stern on ninety seven point nine fm","label":4,"idx":49}
+{"sentence":"play six music for me","label":2,"idx":50}
+{"sentence":"open chess play against me","label":1,"idx":51}
+{"sentence":"i'd like to listen to howard stern","label":4,"idx":52}
+{"sentence":"play radio one","label":4,"idx":53}
+{"sentence":"play recently added songs","label":2,"idx":54}
+{"sentence":"please tune the radio channel","label":4,"idx":55}
+{"sentence":"open davinci code audiobook","label":0,"idx":56}
+{"sentence":"could you find me a jazz station","label":4,"idx":57}
+{"sentence":"i would like to hear david ramsey's podcast from yesterday","label":3,"idx":58}
+{"sentence":"i would love to hear the playlist i created for my wedding","label":2,"idx":59}
+{"sentence":"play my shazam playlist on the spotify app","label":2,"idx":60}
+{"sentence":"turn the radio to kiss fm","label":4,"idx":61}
+{"sentence":"show me the newest podcasts","label":3,"idx":62}
+{"sentence":"play a pop station on the radio","label":4,"idx":63}
+{"sentence":"i want to listen to elton john in a live concert","label":2,"idx":64}
+{"sentence":"let's play some pong","label":1,"idx":65}
+{"sentence":"search for the teams that are playing","label":1,"idx":66}
+{"sentence":"play the client by john grisham","label":0,"idx":67}
+{"sentence":"please play james altucher's podcast","label":3,"idx":68}
+{"sentence":"let's play music hits","label":4,"idx":69}
+{"sentence":"can you do name that tune","label":1,"idx":70}
+{"sentence":"i want to play the game of life with you","label":1,"idx":71}
+{"sentence":"i want listen to kevin and bean","label":4,"idx":72}
+{"sentence":"turn on kicks one oh one point five","label":4,"idx":73}
+{"sentence":"play songs","label":2,"idx":74}
+{"sentence":"play one thousand and thirty seven fm","label":4,"idx":75}
+{"sentence":"please play shake it off by taylor swiftm","label":2,"idx":76}
+{"sentence":"play little women","label":0,"idx":77}
+{"sentence":"i want to play a game","label":1,"idx":78}
+{"sentence":"play this radio channel for me","label":4,"idx":79}
+{"sentence":"play maroon five playlist","label":2,"idx":80}
+{"sentence":"play one love","label":2,"idx":81}
+{"sentence":"open my amazon music app and play my playlist","label":2,"idx":82}
+{"sentence":"please resume this playback in audiobook","label":0,"idx":83}
+{"sentence":"i want to hear some rap please","label":2,"idx":84}
+{"sentence":"i want to hear a station that plays r. n. b.","label":4,"idx":85}
+{"sentence":"turn on one oh seven point five","label":4,"idx":86}
+{"sentence":"i want reggae","label":2,"idx":87}
+{"sentence":"play ella fitzgerals get happy","label":2,"idx":88}
+{"sentence":"give me some good sounds","label":2,"idx":89}
+{"sentence":"open podcasts and play my favorites list","label":3,"idx":90}
+{"sentence":"i want to listen to george strait","label":2,"idx":91}
+{"sentence":"continue playing where I left off","label":0,"idx":92}
+{"sentence":"play wuthering heights from where i left off","label":0,"idx":93}
+{"sentence":"play howard stern on sirius","label":4,"idx":94}
+{"sentence":"find new music from jars of clay for me","label":2,"idx":95}
+{"sentence":"turn on kiss radio","label":4,"idx":96}
+{"sentence":"make happy birthday the next song","label":2,"idx":97}
+{"sentence":"play rohan sharma podcast for me","label":3,"idx":98}
+{"sentence":"start the podcast","label":3,"idx":99}
+{"sentence":"play game with me","label":1,"idx":100}
+{"sentence":"can you backward an episode in the podcast","label":3,"idx":101}
+{"sentence":"what are the new rock radio stations","label":4,"idx":102}
+{"sentence":"select rai music file","label":2,"idx":103}
+{"sentence":"play the last played audiobook","label":0,"idx":104}
+{"sentence":"could you please play the fm station which plays pop songs","label":4,"idx":105}
+{"sentence":"play baby one more time","label":2,"idx":106}
+{"sentence":"please play rock music","label":2,"idx":107}
+{"sentence":"play gta vice city game","label":1,"idx":108}
+{"sentence":"can you play my favorite music","label":2,"idx":109}
+{"sentence":"play that podcast i was listening to yesterday","label":3,"idx":110}
+{"sentence":"play all the list of country songs","label":2,"idx":111}
+{"sentence":"i want to see the previous episode","label":3,"idx":112}
+{"sentence":"i want to hear the jim and bob show on one oh three point three","label":4,"idx":113}
+{"sentence":"could you play you don't bring me flowers","label":2,"idx":114}
+{"sentence":"resume last played audiobook","label":0,"idx":115}
+{"sentence":"please play football with me","label":1,"idx":116}
+{"sentence":"i want to hear my rap playlist","label":2,"idx":117}
+{"sentence":"play me a random song","label":2,"idx":118}
+{"sentence":"play the young mummy's podcast","label":3,"idx":119}
+{"sentence":"play next episode of harry potter by j. k. rowling","label":0,"idx":120}
+{"sentence":"i would like you to start up youtube","label":4,"idx":121}
+{"sentence":"launch the radio","label":4,"idx":122}
+{"sentence":"play npr on this station","label":4,"idx":123}
+{"sentence":"start my jazz playlist","label":2,"idx":124}
+{"sentence":"play some tunes","label":2,"idx":125}
+{"sentence":"play my favorite playlist","label":2,"idx":126}
+{"sentence":"play foke","label":2,"idx":127}
+{"sentence":"plays the podcast from the beginning","label":3,"idx":128}
+{"sentence":"i would like to hear the theme song to this is us","label":2,"idx":129}
+{"sentence":"lets play chess together","label":1,"idx":130}
+{"sentence":"play the health show on my cell phone","label":4,"idx":131}
+{"sentence":"put the song sung by shreya at the top","label":2,"idx":132}
+{"sentence":"play music from my favorite pandora artist station","label":2,"idx":133}
+{"sentence":"turn on music by seal","label":2,"idx":134}
+{"sentence":"play the beyonc playlist","label":2,"idx":135}
+{"sentence":"turn on favorite songs","label":2,"idx":136}
+{"sentence":"play the first playlist","label":2,"idx":137}
+{"sentence":"i want to hear the radio turn it on please","label":4,"idx":138}
+{"sentence":"play me the bbc radio podcast","label":3,"idx":139}
+{"sentence":"play fishing podcasts that are favorited","label":3,"idx":140}
+{"sentence":"start the pop radio station","label":4,"idx":141}
+{"sentence":"play the next episode of radiolab","label":3,"idx":142}
+{"sentence":"play silent song","label":2,"idx":143}
+{"sentence":"can you play acoustic music with no commercials","label":4,"idx":144}
+{"sentence":"rewind the episode of podcast","label":3,"idx":145}
+{"sentence":"play fm","label":4,"idx":146}
+{"sentence":"resume a song from the audiobook by michael jackson","label":0,"idx":147}
+{"sentence":"can you open my itunes","label":2,"idx":148}
+{"sentence":"play all the programs pertaining to rock songs on the radio","label":4,"idx":149}
+{"sentence":"play the last doctor who radio broadcast","label":4,"idx":150}
+{"sentence":"play the audiobook swan from first","label":0,"idx":151}
+{"sentence":"please open snooker game i would like to play with you","label":1,"idx":152}
+{"sentence":"continue playing my book of vitamins","label":0,"idx":153}
+{"sentence":"play music radio for me","label":4,"idx":154}
+{"sentence":"comfort my ears with arijit singh","label":2,"idx":155}
+{"sentence":"please play this song","label":2,"idx":156}
+{"sentence":"can you open beatles","label":2,"idx":157}
+{"sentence":"i want to listen arijit's songs please tune that","label":2,"idx":158}
+{"sentence":"play christmas music","label":2,"idx":159}
+{"sentence":"open my playlist","label":2,"idx":160}
+{"sentence":"i would like to hear the song aces high","label":2,"idx":161}
+{"sentence":"play underground rap","label":2,"idx":162}
+{"sentence":"play with me game snake","label":1,"idx":163}
+{"sentence":"list and play all theory podcasts under ten min","label":3,"idx":164}
+{"sentence":"play surfin usa","label":2,"idx":165}
+{"sentence":"I'd like to play UNO with you","label":1,"idx":166}
+{"sentence":"ally please play pandora radio","label":4,"idx":167}
+{"sentence":"i'd like to hear some motown","label":2,"idx":168}
+{"sentence":"open the podcast addict","label":3,"idx":169}
+{"sentence":"let's play a game of truth or dare","label":1,"idx":170}
+{"sentence":"play the latest rock songs having rating of four or above","label":2,"idx":171}
+{"sentence":"play playlist postal service","label":2,"idx":172}
+{"sentence":"play the local r. n. b. radio station","label":4,"idx":173}
+{"sentence":"replay the god of small things","label":0,"idx":174}
+{"sentence":"turn on a song","label":2,"idx":175}
+{"sentence":"tune into the joe rogan show in ten minutes","label":4,"idx":176}
+{"sentence":"up load all my podcast","label":3,"idx":177}
+{"sentence":"can we listen to reply all podcast","label":3,"idx":178}
+{"sentence":"radio play nine hundred and eighty nine please","label":4,"idx":179}
+{"sentence":"play eight hundred and eighty nine","label":4,"idx":180}
+{"sentence":"play itzhak perlman","label":2,"idx":181}
+{"sentence":"Play the playlist","label":2,"idx":182}
+{"sentence":"put summer lovin in third position in my queue","label":2,"idx":183}
+{"sentence":"play the podcast of barack obama saved in device","label":3,"idx":184}
+{"sentence":"start the satellite music feed","label":2,"idx":185}
+{"sentence":"to listen music","label":2,"idx":186}
+{"sentence":"pause the audiobook","label":0,"idx":187}
+{"sentence":"play for me the music by madonna","label":2,"idx":188}
+{"sentence":"play classic songs","label":2,"idx":189}
+{"sentence":"play a rap song","label":2,"idx":190}
+{"sentence":"play adele","label":2,"idx":191}
+{"sentence":"rock","label":2,"idx":192}
+{"sentence":"get me the latest episode of the friends podcast","label":3,"idx":193}
+{"sentence":"favorite music","label":2,"idx":194}
+{"sentence":"play previous episode","label":3,"idx":195}
+{"sentence":"play the first song on my playlist","label":2,"idx":196}
+{"sentence":"play tic tac toe with me","label":1,"idx":197}
+{"sentence":"start music in playlist","label":2,"idx":198}
+{"sentence":"the radio should play only on nine hundred and ninety nine fm","label":4,"idx":199}
+{"sentence":"let me listen to my top rock songs playlist","label":2,"idx":200}
+{"sentence":"please put fm channel ninety three point eight","label":4,"idx":201}
+{"sentence":"please open go fish game and play it with me","label":1,"idx":202}
+{"sentence":"please play songs i've purchased and favorited","label":2,"idx":203}
+{"sentence":"resume playing the miniaturist","label":0,"idx":204}
+{"sentence":"proceed to the next episode","label":3,"idx":205}
+{"sentence":"play song every time i see you","label":2,"idx":206}
+{"sentence":"i want to hear snow by red hot chili peppers","label":2,"idx":207}
+{"sentence":"please play my nineties rap hits","label":2,"idx":208}
+{"sentence":"i want to hear radio channel now","label":4,"idx":209}
+{"sentence":"play the bjork album i've heard the least","label":2,"idx":210}
+{"sentence":"play most popular songs by barenaked ladies","label":2,"idx":211}
+{"sentence":"play a good track from my favourite jazz player","label":2,"idx":212}
+{"sentence":"continue from where we left off in divergent","label":0,"idx":213}
+{"sentence":"play chess app","label":1,"idx":214}
+{"sentence":"start playing my most played podcast","label":3,"idx":215}
+{"sentence":"please play rap","label":2,"idx":216}
+{"sentence":"play my latest podcast","label":3,"idx":217}
+{"sentence":"i want you to fast forward the audio then resume","label":0,"idx":218}
+{"sentence":"please let me hear six hundred and sixty six the number of the beast","label":2,"idx":219}
+{"sentence":"resume audiobook playback","label":0,"idx":220}
+{"sentence":"play all by the beatles","label":2,"idx":221}
+{"sentence":"play classical chamber music playlist","label":2,"idx":222}
+{"sentence":"play my itunes music","label":2,"idx":223}
+{"sentence":"start music app and play a song for me","label":2,"idx":224}
+{"sentence":"start poker game with me","label":1,"idx":225}
+{"sentence":"play queen","label":2,"idx":226}
+{"sentence":"open chess app and begin game","label":1,"idx":227}
+{"sentence":"could you harvest the crops in farmvile","label":1,"idx":228}
+{"sentence":"play this audiobook for me","label":0,"idx":229}
+{"sentence":"could you play that radio channel","label":4,"idx":230}
+{"sentence":"play track one from my david bowie playlist","label":2,"idx":231}
+{"sentence":"get me resume of best seller audio book this month","label":0,"idx":232}
+{"sentence":"find a debate about schools in uk","label":3,"idx":233}
+{"sentence":"open radio","label":4,"idx":234}
+{"sentence":"go to the next episode of the united states of anxiety podcast","label":3,"idx":235}
+{"sentence":"play blank playlist","label":2,"idx":236}
+{"sentence":"i want to listen to a sports podcast","label":3,"idx":237}
+{"sentence":"let's play my song","label":2,"idx":238}
+{"sentence":"play one thousand nine hundred and ninety nine by prince","label":2,"idx":239}
+{"sentence":"play bbc radio four","label":4,"idx":240}
+{"sentence":"tune to classic hits","label":4,"idx":241}
+{"sentence":"play dr demento on my bedside radio","label":4,"idx":242}
+{"sentence":"play the next episode","label":3,"idx":243}
+{"sentence":"play taylor swift","label":2,"idx":244}
+{"sentence":"play be warned by tech n9ne","label":2,"idx":245}
+{"sentence":"play me a radio drama podcast","label":3,"idx":246}
+{"sentence":"let's play a game together","label":1,"idx":247}
+{"sentence":"initiate classical music","label":2,"idx":248}
+{"sentence":"initiate celine dion music","label":2,"idx":249}
+{"sentence":"go to sirius and play the hip hop channel","label":4,"idx":250}
+{"sentence":"play my game","label":1,"idx":251}
+{"sentence":"resume the last kingdom for me","label":0,"idx":252}
+{"sentence":"i want to go back","label":3,"idx":253}
+{"sentence":"resume a song from the audiobook by madonna","label":0,"idx":254}
+{"sentence":"continue the smurfs book","label":0,"idx":255}
+{"sentence":"temple runner play","label":1,"idx":256}
+{"sentence":"go to menu","label":2,"idx":257}
+{"sentence":"play latest songs for me from the net","label":2,"idx":258}
+{"sentence":"play song cannibal queen","label":2,"idx":259}
+{"sentence":"please play my favorite song by bruno mars","label":2,"idx":260}
+{"sentence":"continue to next podcast","label":3,"idx":261}
+{"sentence":"play workout playlist","label":2,"idx":262}
+{"sentence":"make the radio turn on now","label":4,"idx":263}
+{"sentence":"play randomized pop songs no repeats","label":2,"idx":264}
+{"sentence":"play for me the game harry potter and the chamber of secrets","label":1,"idx":265}
+{"sentence":"turn on wfrn ninety nine point one","label":4,"idx":266}
+{"sentence":"please start joe rogan podcast please","label":3,"idx":267}
+{"sentence":"play me the most popular podcast on itunes","label":3,"idx":268}
+{"sentence":"play a random podcast on my list","label":3,"idx":269}
+{"sentence":"turn on the oldies playlist on my radio","label":4,"idx":270}
+{"sentence":"after this song ends i want to hear hotel california next","label":2,"idx":271}
+{"sentence":"resume series podcast","label":3,"idx":272}
+{"sentence":"use this program","label":4,"idx":273}
+{"sentence":"open pandora play rock station","label":4,"idx":274}
+{"sentence":"play old classic music","label":2,"idx":275}
+{"sentence":"how many of my sports podcasts have new episodes i have not listened to yet","label":4,"idx":276}
+{"sentence":"i would like to listen to","label":2,"idx":277}
+{"sentence":"lets play poker","label":1,"idx":278}
+{"sentence":"i want you to go to hot one hundred and five on the radio","label":4,"idx":279}
+{"sentence":"skip to the next episode in this podcast","label":3,"idx":280}
+{"sentence":"i want to hear some beyonce","label":2,"idx":281}
+{"sentence":"play a country station please","label":2,"idx":282}
+{"sentence":"play taylor swift music","label":2,"idx":283}
+{"sentence":"short and simple","label":3,"idx":284}
+{"sentence":"i feel like dancing play me some rock n roll","label":2,"idx":285}
+{"sentence":"i would like for us to play jeopardy now","label":1,"idx":286}
+{"sentence":"play me the latest podcast about online surveys","label":3,"idx":287}
+{"sentence":"play the next one","label":3,"idx":288}
+{"sentence":"repeat earth song","label":2,"idx":289}
+{"sentence":"Play something random from google play","label":2,"idx":290}
+{"sentence":"play a song i like","label":2,"idx":291}
+{"sentence":"play my favorite music now","label":2,"idx":292}
+{"sentence":"i want to listen to radio four","label":4,"idx":293}
+{"sentence":"play ride music track","label":2,"idx":294}
+{"sentence":"after this song put on metallica","label":2,"idx":295}
+{"sentence":"please put on my favorite rap music playlist","label":2,"idx":296}
+{"sentence":"play coldplay album","label":2,"idx":297}
+{"sentence":"read some more of the daisy goodwin book for me","label":0,"idx":298}
+{"sentence":"video games","label":1,"idx":299}
+{"sentence":"play some tunes for me","label":2,"idx":300}
+{"sentence":"put poker face by lady gaga next in the play queue","label":2,"idx":301}
+{"sentence":"i would like to start this new audiobook","label":0,"idx":302}
+{"sentence":"anyone for tennis","label":1,"idx":303}
+{"sentence":"open the books and play brains book from chap nine","label":0,"idx":304}
+{"sentence":"please play eighties rock","label":2,"idx":305}
+{"sentence":"hey play me a popular r. n. b. song","label":2,"idx":306}
+{"sentence":"play the rock ninety two radio channel","label":4,"idx":307}
+{"sentence":"play crystal lewis's beauty of the cross for me","label":2,"idx":308}
+{"sentence":"play hurt by johnny cash next","label":2,"idx":309}
+{"sentence":"listen to radio","label":4,"idx":310}
+{"sentence":"find some smooth jazz for me","label":2,"idx":311}
+{"sentence":"can you put on my playlist of metal music","label":2,"idx":312}
+{"sentence":"play my favourite radio","label":4,"idx":313}
+{"sentence":"create a playing teams and play with them","label":1,"idx":314}
+{"sentence":"start playing thinking out loud now","label":2,"idx":315}
+{"sentence":"first play tvf podcast after that being humorous podcast","label":3,"idx":316}
+{"sentence":"play audiobook of planets","label":0,"idx":317}
+{"sentence":"start music","label":2,"idx":318}
+{"sentence":"i would like to listen to music on the radio","label":4,"idx":319}
+{"sentence":"i want you to play my michael jackson favorite song","label":2,"idx":320}
+{"sentence":"play melody music in the morning time","label":2,"idx":321}
+{"sentence":"start the next episode of the friends podcast","label":3,"idx":322}
+{"sentence":"play ncaa match kentucky vs arizona live","label":4,"idx":323}
+{"sentence":"put on cannibal queen","label":2,"idx":324}
+{"sentence":"continue pride and prejudice","label":0,"idx":325}
+{"sentence":"find the latest disney podcast","label":3,"idx":326}
+{"sentence":"play forty six and two by tool","label":2,"idx":327}
+{"sentence":"look for song two and play it","label":2,"idx":328}
+{"sentence":"resume the last played audiobook","label":0,"idx":329}
+{"sentence":"play music from my rock list","label":2,"idx":330}
+{"sentence":"play my most watched podcast","label":3,"idx":331}
+{"sentence":"play anything by cat stevens and i'll be happy","label":2,"idx":332}
+{"sentence":"play a song of your choice for me","label":2,"idx":333}
+{"sentence":"play bhuli bisri yaadien program on ninety one point three fm","label":4,"idx":334}
+{"sentence":"play the latest seahawks podcast","label":3,"idx":335}
+{"sentence":"play this programmes in this pad's","label":4,"idx":336}
+{"sentence":"please replay that song i just listened to","label":2,"idx":337}
+{"sentence":"turn on bjork","label":2,"idx":338}
+{"sentence":"please play the last two episodes of the gilmore guys","label":3,"idx":339}
+{"sentence":"open up angry birds","label":1,"idx":340}
+{"sentence":"shuffle my workout playlist","label":2,"idx":341}
+{"sentence":"change the genre from rock to classic","label":2,"idx":342}
+{"sentence":"play me a song of adele","label":2,"idx":343}
+{"sentence":"turn on radio","label":4,"idx":344}
+{"sentence":"play the veldt by","label":2,"idx":345}
+{"sentence":"open pandora and search for a classic rock station","label":4,"idx":346}
+{"sentence":"please find me a country music station","label":4,"idx":347}
+{"sentence":"start my audio book from where i left off","label":0,"idx":348}
+{"sentence":"open my music","label":2,"idx":349}
+{"sentence":"stream poker face by lady gaga","label":2,"idx":350}
+{"sentence":"play the newest morning show podcast","label":3,"idx":351}
+{"sentence":"play enrique","label":2,"idx":352}
+{"sentence":"launch the rooster teeth podcast","label":3,"idx":353}
+{"sentence":"play the electronic playlist","label":2,"idx":354}
+{"sentence":"play lady by kenny roger","label":2,"idx":355}
+{"sentence":"i am in the mood for some classical music","label":2,"idx":356}
+{"sentence":"start playing the following podcast","label":3,"idx":357}
+{"sentence":"play the radio station pop","label":4,"idx":358}
+{"sentence":"radio","label":4,"idx":359}
+{"sentence":"can you take a role of enemy in the game of coc","label":1,"idx":360}
+{"sentence":"please play next episode","label":3,"idx":361}
+{"sentence":"play super mario brothers game with me","label":1,"idx":362}
+{"sentence":"play kiss fm for me","label":4,"idx":363}
+{"sentence":"play from this point from this audiobook","label":0,"idx":364}
+{"sentence":"start playlist from track one","label":2,"idx":365}
+{"sentence":"radio ninety five point five","label":4,"idx":366}
+{"sentence":"find podcast and play it","label":3,"idx":367}
+{"sentence":"after this song plays raindrops keep fallin on my head","label":2,"idx":368}
+{"sentence":"music","label":2,"idx":369}
+{"sentence":"what is the current show with the maximum viewers choice on television","label":4,"idx":370}
+{"sentence":"play the most popular music from the seventies","label":2,"idx":371}
+{"sentence":"stop the music","label":2,"idx":372}
+{"sentence":"let's play you'll be the keeper and never change position","label":1,"idx":373}
+{"sentence":"play the radio channel ninety three point two five","label":4,"idx":374}
+{"sentence":"look for channel one hundred and six point nine and play it","label":4,"idx":375}
+{"sentence":"play bbc","label":2,"idx":376}
+{"sentence":"please continue with the next podcast episode","label":3,"idx":377}
+{"sentence":"i need you to start fm eight hundred and ninety radio channel","label":4,"idx":378}
+{"sentence":"please start the next podcast episode","label":3,"idx":379}
+{"sentence":"i'm thinking of a number one to ten","label":1,"idx":380}
+{"sentence":"turn on channel bbc radio one please","label":4,"idx":381}
+{"sentence":"play me a song by van halen","label":2,"idx":382}
+{"sentence":"play some old school rap","label":2,"idx":383}
+{"sentence":"want to play music","label":2,"idx":384}
+{"sentence":"can you play rock music for the next hour","label":2,"idx":385}
+{"sentence":"start a game and play with me","label":1,"idx":386}
+{"sentence":"i want to listen to rock music","label":2,"idx":387}
+{"sentence":"play the pre gaming playlist","label":2,"idx":388}
+{"sentence":"google music find me some enya to listen to","label":2,"idx":389}
+{"sentence":"play yesterday's hot ninety seven morning show","label":4,"idx":390}
+{"sentence":"could you play this song love for me please","label":2,"idx":391}
+{"sentence":"please play the song smile for me","label":2,"idx":392}
+{"sentence":"play a nirvana playlist","label":2,"idx":393}
+{"sentence":"play me the latest song of adele","label":2,"idx":394}
+{"sentence":"book swan play","label":0,"idx":395}
+{"sentence":"i want to listen to the radio turn it on for me","label":4,"idx":396}
+{"sentence":"start playing podcast about books","label":3,"idx":397}
+{"sentence":"play the urban radio station","label":4,"idx":398}
+{"sentence":"open spotify and play list five","label":2,"idx":399}
+{"sentence":"search and play a radio station with news","label":4,"idx":400}
+{"sentence":"can you play me some dance music","label":2,"idx":401}
+{"sentence":"select the music player","label":2,"idx":402}
+{"sentence":"next play summer lovin","label":2,"idx":403}
+{"sentence":"i just love adele please play my most played songs of her after this track","label":2,"idx":404}
+{"sentence":"play lady by kenny rogers now","label":2,"idx":405}
+{"sentence":"play mp playlist from start","label":2,"idx":406}
+{"sentence":"find the nearest rock station","label":4,"idx":407}
+{"sentence":"launch game","label":1,"idx":408}
+{"sentence":"please open chess game i would like to play with you","label":1,"idx":409}
+{"sentence":"one dance","label":2,"idx":410}
+{"sentence":"play a game of chess with me","label":1,"idx":411}
+{"sentence":"open pandora app and play station amed hoizer radio","label":4,"idx":412}
+{"sentence":"play all songs from blue genre","label":2,"idx":413}
+{"sentence":"play do re mi","label":2,"idx":414}
+{"sentence":"play it after five minutes","label":0,"idx":415}
+{"sentence":"i would like to here pictures next","label":2,"idx":416}
+{"sentence":"play the rock music for me","label":2,"idx":417}
+{"sentence":"play music now from radio plus","label":4,"idx":418}
+{"sentence":"please check episode number forty one of taarak mehta ka ulta chasmah","label":3,"idx":419}
+{"sentence":"play my yoga playlist","label":2,"idx":420}
+{"sentence":"switch to one hundred and one point one","label":4,"idx":421}
+{"sentence":"hey play that podcast i stopped last night","label":3,"idx":422}
+{"sentence":"play this song","label":2,"idx":423}
+{"sentence":"i want to listen jazz","label":2,"idx":424}
+{"sentence":"find me a podcast about animals","label":3,"idx":425}
+{"sentence":"hey olly turn the radio on","label":4,"idx":426}
+{"sentence":"i want to hear beyonce","label":2,"idx":427}
+{"sentence":"resume audio","label":0,"idx":428}
+{"sentence":"open podcast by the young turks","label":3,"idx":429}
+{"sentence":"play boogie in your butt by eddie murphy","label":2,"idx":430}
+{"sentence":"play only my list","label":2,"idx":431}
+{"sentence":"my games to play in my pda's","label":1,"idx":432}
+{"sentence":"start next episode playing","label":3,"idx":433}
+{"sentence":"play chess with me please","label":1,"idx":434}
+{"sentence":"lets hear wgrr one hundred and three point five","label":4,"idx":435}
+{"sentence":"play a r rahman music","label":2,"idx":436}
+{"sentence":"play top twenty","label":2,"idx":437}
+{"sentence":"play radio station","label":4,"idx":438}
+{"sentence":"we should play nfs at high speed","label":1,"idx":439}
+{"sentence":"could play program in required of the","label":4,"idx":440}
+{"sentence":"initiate the music on the electronic playlist","label":2,"idx":441}
+{"sentence":"play careless whisper by george micheal","label":2,"idx":442}
+{"sentence":"start the league of legends game","label":1,"idx":443}
+{"sentence":"i want some music how about playing my workout playlist","label":2,"idx":444}
+{"sentence":"start next podcast episode","label":3,"idx":445}
+{"sentence":"please turn on the music i want to hear my favorites songs","label":2,"idx":446}
+{"sentence":"load up ghost recon wildlands","label":1,"idx":447}
+{"sentence":"please turn on radio on seven am","label":4,"idx":448}
+{"sentence":"play ninety one point five rm radio english songs","label":4,"idx":449}
+{"sentence":"play me a radio channel for trance music","label":4,"idx":450}
+{"sentence":"open song name","label":0,"idx":451}
+{"sentence":"play music by queen","label":2,"idx":452}
+{"sentence":"go forward please","label":3,"idx":453}
+{"sentence":"play got that by medasin","label":2,"idx":454}
+{"sentence":"resume recent audiobook","label":0,"idx":455}
+{"sentence":"play my workout playlist in spotify","label":2,"idx":456}
+{"sentence":"start my favorite music","label":2,"idx":457}
+{"sentence":"play netflix on my ps four","label":4,"idx":458}
+{"sentence":"after this song play thriller","label":2,"idx":459}
+{"sentence":"play neil sedaka","label":2,"idx":460}
+{"sentence":"play me some hihop","label":2,"idx":461}
+{"sentence":"continue reading moby dick to me","label":0,"idx":462}
+{"sentence":"play major tom by david bowie","label":2,"idx":463}
+{"sentence":"play this audiobook","label":0,"idx":464}
+{"sentence":"play third day","label":2,"idx":465}
+{"sentence":"please play me the madonna song again","label":2,"idx":466}
+{"sentence":"please play aretha franklin's call me next","label":2,"idx":467}
+{"sentence":"replay the following podcast","label":3,"idx":468}
+{"sentence":"play my pop playlist","label":2,"idx":469}
+{"sentence":"please open audible app and resume play","label":0,"idx":470}
+{"sentence":"start the podcast over that i started last night","label":3,"idx":471}
+{"sentence":"please play ar rahman music","label":2,"idx":472}
+{"sentence":"shazam","label":2,"idx":473}
+{"sentence":"play a song from my favorites","label":2,"idx":474}
+{"sentence":"pause the book","label":0,"idx":475}
+{"sentence":"play radio","label":4,"idx":476}
+{"sentence":"search for classical music and play","label":2,"idx":477}
+{"sentence":"play the last hit song of metallica last album please","label":2,"idx":478}
+{"sentence":"end pause on audio book history of rome","label":0,"idx":479}
+{"sentence":"play songs by bryan adams","label":2,"idx":480}
+{"sentence":"start radio and go to frequency on nine hundred and twenty seven","label":4,"idx":481}
+{"sentence":"play that podcast please","label":3,"idx":482}
+{"sentence":"i want to hear radio head please","label":2,"idx":483}
+{"sentence":"record the radio program","label":4,"idx":484}
+{"sentence":"hey olly play the radio","label":4,"idx":485}
+{"sentence":"play blackeyed pees song","label":2,"idx":486}
+{"sentence":"play games","label":1,"idx":487}
+{"sentence":"mario","label":1,"idx":488}
+{"sentence":"play animal farm","label":0,"idx":489}
+{"sentence":"put on some love songs","label":4,"idx":490}
+{"sentence":"using remote","label":0,"idx":491}
+{"sentence":"play the top forty station with rocket and theresa","label":4,"idx":492}
+{"sentence":"play soundcloud","label":4,"idx":493}
+{"sentence":"open chess game","label":1,"idx":494}
+{"sentence":"program y at radio bbc","label":4,"idx":495}
+{"sentence":"play my sadness playlist","label":2,"idx":496}
+{"sentence":"start my favourite podcast","label":3,"idx":497}
+{"sentence":"mukkala mukkabilla","label":2,"idx":498}
+{"sentence":"open pandora and play hoizer radio","label":4,"idx":499}
+{"sentence":"i want to here song one","label":2,"idx":500}
+{"sentence":"play me something nice jazz please","label":2,"idx":501}
+{"sentence":"hello google play baby one more time","label":2,"idx":502}
+{"sentence":"play britney spears live concert series","label":4,"idx":503}
+{"sentence":"look for a radio station called rhythm on the frequency one","label":4,"idx":504}
+{"sentence":"start chapter seven of alma","label":0,"idx":505}
+{"sentence":"play music by acdc","label":2,"idx":506}
+{"sentence":"what is my most played podcast","label":3,"idx":507}
+{"sentence":"Play a angry bird","label":1,"idx":508}
+{"sentence":"i want to hear great music","label":2,"idx":509}
+{"sentence":"play the weekend","label":2,"idx":510}
+{"sentence":"would you please turn on the am radio","label":4,"idx":511}
+{"sentence":"play today's podcast from the mi","label":3,"idx":512}
+{"sentence":"play the melody song from audiobook","label":0,"idx":513}
+{"sentence":"please play artist first in queue","label":2,"idx":514}
+{"sentence":"play top ten","label":2,"idx":515}
+{"sentence":"play hungry eyes","label":2,"idx":516}
+{"sentence":"i want to hear pop music","label":2,"idx":517}
+{"sentence":"play for me american idol on television","label":4,"idx":518}
+{"sentence":"play two thousand one hundred and twelve by rush","label":2,"idx":519}
+{"sentence":"please play popular music on pandora","label":4,"idx":520}
+{"sentence":"play the beatles","label":2,"idx":521}
+{"sentence":"radio ko on kar do abhi achche achche song aa rahe honge","label":4,"idx":522}
+{"sentence":"please play the local latin music channel on the radio","label":4,"idx":523}
+{"sentence":"play the latest songs by senelena gomez after this one","label":2,"idx":524}
+{"sentence":"restart the audiobook heaven is for real","label":0,"idx":525}
+{"sentence":"play kari jobe for me","label":2,"idx":526}
+{"sentence":"let's play a game","label":1,"idx":527}
+{"sentence":"play my most listened songs","label":2,"idx":528}
+{"sentence":"play my playlist starting from the bottom","label":2,"idx":529}
+{"sentence":"i want to hear something nice jazz please","label":2,"idx":530}
+{"sentence":"open tic tac toe","label":1,"idx":531}
+{"sentence":"play volume two of nutritional facts","label":3,"idx":532}
+{"sentence":"play the next show on podcast","label":3,"idx":533}
+{"sentence":"open lyrics name","label":0,"idx":534}
+{"sentence":"play hip hop songs","label":2,"idx":535}
+{"sentence":"i need some rap","label":2,"idx":536}
+{"sentence":"go to the station fm ninety six point five","label":4,"idx":537}
+{"sentence":"next","label":3,"idx":538}
+{"sentence":"show me upcoming programmes on one hundred and five point one","label":4,"idx":539}
+{"sentence":"play episode ten in the podcast","label":3,"idx":540}
+{"sentence":"i want to hear any songs that got grammys this year","label":2,"idx":541}
+{"sentence":"play my favourite podcast","label":3,"idx":542}
+{"sentence":"could you play this song closer from the album chainsmokers","label":2,"idx":543}
+{"sentence":"play my country favourites playlist on shuffle","label":2,"idx":544}
+{"sentence":"open fifa seventeen","label":1,"idx":545}
+{"sentence":"tune me song in radio","label":4,"idx":546}
+{"sentence":"play rock music","label":2,"idx":547}
+{"sentence":"play me barcelona by queen","label":2,"idx":548}
+{"sentence":"play songs related to acdc","label":2,"idx":549}
+{"sentence":"open my music and play melissas afternoon podcast from yesterday","label":4,"idx":550}
+{"sentence":"play the last played playlist","label":2,"idx":551}
+{"sentence":"play thinking out loud now","label":2,"idx":552}
+{"sentence":"would you play some music please","label":2,"idx":553}
+{"sentence":"find some rock","label":2,"idx":554}
+{"sentence":"start radio channel eight hundred and eighty nine","label":4,"idx":555}
+{"sentence":"play billie jean next","label":2,"idx":556}
+{"sentence":"play me all jazz music","label":2,"idx":557}
+{"sentence":"play justin bieber on shuffle","label":2,"idx":558}
+{"sentence":"start celine dion songs","label":2,"idx":559}
+{"sentence":"play me my favourite radio show","label":4,"idx":560}
+{"sentence":"play audiobook where we left off","label":0,"idx":561}
+{"sentence":"play musical theater soundtracks","label":2,"idx":562}
+{"sentence":"my choice to play an audio from first","label":0,"idx":563}
+{"sentence":"play music of kate perry without shuffle","label":2,"idx":564}
+{"sentence":"play my last used playlist","label":2,"idx":565}
+{"sentence":"play episode two of the intern","label":3,"idx":566}
+{"sentence":"let's listen to some jazz","label":2,"idx":567}
+{"sentence":"play the radio for me","label":4,"idx":568}
+{"sentence":"play the kansas city hip hop station","label":4,"idx":569}
+{"sentence":"play r and b music","label":2,"idx":570}
+{"sentence":"search for the correct game","label":1,"idx":571}
+{"sentence":"i would like to listen to celine dion","label":2,"idx":572}
+{"sentence":"play my second playlist","label":2,"idx":573}
+{"sentence":"i want to hear love me","label":2,"idx":574}
+{"sentence":"play rock music please","label":2,"idx":575}
+{"sentence":"turn on channel nine hundred and fifty one","label":4,"idx":576}
+{"sentence":"play a party music list","label":2,"idx":577}
+{"sentence":"start drama from radio","label":4,"idx":578}
+{"sentence":"put on the next song in five minutes","label":2,"idx":579}
+{"sentence":"find me a good pop song","label":2,"idx":580}
+{"sentence":"move this song to up next","label":2,"idx":581}
+{"sentence":"weather forecast from radio plus","label":4,"idx":582}
+{"sentence":"play lady gaga starting with poker face","label":2,"idx":583}
+{"sentence":"play the song which is in movie rangoon","label":2,"idx":584}
+{"sentence":"i want to hear some local talk radio","label":4,"idx":585}
+{"sentence":"put on some led zeppelin","label":2,"idx":586}
+{"sentence":"i wish i could play video games together","label":1,"idx":587}
+{"sentence":"play the song for me","label":2,"idx":588}
+{"sentence":"could you play the song every time i see you","label":2,"idx":589}
+{"sentence":"playlist with the song clementine","label":2,"idx":590}
+{"sentence":"go to the next episode in this podcast","label":3,"idx":591}
+{"sentence":"play a song by paramore","label":2,"idx":592}
+{"sentence":"ensure i wants to listen to this programme on radio","label":4,"idx":593}
+{"sentence":"kenny roger's lady play","label":2,"idx":594}
+{"sentence":"resume lord of the rings","label":0,"idx":595}
+{"sentence":"play my motivational playlist","label":2,"idx":596}
+{"sentence":"play music from good playlist","label":2,"idx":597}
+{"sentence":"play songs from the r and b and soul genre","label":2,"idx":598}
+{"sentence":"indie","label":2,"idx":599}
+{"sentence":"play edm music","label":2,"idx":600}
+{"sentence":"fight me in street fighter","label":1,"idx":601}
+{"sentence":"play podcast episode new","label":3,"idx":602}
+{"sentence":"resuming playing my current audio book","label":0,"idx":603}
+{"sentence":"get the next episode","label":3,"idx":604}
+{"sentence":"play the celine dion song from the titanic movie","label":2,"idx":605}
+{"sentence":"orevena voice recorder let me the system page is where to save songs","label":2,"idx":606}
+{"sentence":"play the song immediately","label":2,"idx":607}
+{"sentence":"start playlist","label":2,"idx":608}
+{"sentence":"please play songs in music player only arijit singh's","label":2,"idx":609}
+{"sentence":"someone play the radio","label":4,"idx":610}
+{"sentence":"please rewind to start of podcast","label":3,"idx":611}
+{"sentence":"play latest reason podcast","label":3,"idx":612}
+{"sentence":"resume born to run","label":2,"idx":613}
+{"sentence":"radio one thousand and twenty seven","label":4,"idx":614}
+{"sentence":"aib podcast on kashmirstart it","label":3,"idx":615}
+{"sentence":"play last misesorg podcast","label":3,"idx":616}
+{"sentence":"play from smashing pumpkins","label":2,"idx":617}
+{"sentence":"find me kiss fm channel","label":4,"idx":618}
+{"sentence":"start chapter five of physics for future presidents","label":0,"idx":619}
+{"sentence":"want to play a game with me","label":1,"idx":620}
+{"sentence":"please play the podcast from happypeoplecom","label":3,"idx":621}
+{"sentence":"search and play workout playlist","label":2,"idx":622}
+{"sentence":"what playlists do you have for pop music","label":2,"idx":623}
+{"sentence":"strings and pianos but only acoustical guitar not electric please","label":2,"idx":624}
+{"sentence":"please play clash of clans","label":1,"idx":625}
+{"sentence":"play my usher radio station","label":4,"idx":626}
+{"sentence":"start music weekend on bbc radio four","label":4,"idx":627}
+{"sentence":"wd","label":2,"idx":628}
+{"sentence":"start play","label":2,"idx":629}
+{"sentence":"please skip to the next podcast episode","label":3,"idx":630}
+{"sentence":"i want to hear more audiobook","label":0,"idx":631}
+{"sentence":"closer by nine inch nails","label":2,"idx":632}
+{"sentence":"d","label":2,"idx":633}
+{"sentence":"play country music","label":2,"idx":634}
+{"sentence":"play funk music","label":2,"idx":635}
+{"sentence":"lets hear it from fm ninety six point five","label":4,"idx":636}
+{"sentence":"menu","label":2,"idx":637}
+{"sentence":"it's too quiet in here","label":2,"idx":638}
+{"sentence":"in the music player play track seventeen","label":2,"idx":639}
+{"sentence":"play me song my travel playlist","label":2,"idx":640}
+{"sentence":"i want to play rock paper scissors let's play","label":1,"idx":641}
+{"sentence":"can you turn msnbc on in the car","label":4,"idx":642}
+{"sentence":"please put on radio","label":4,"idx":643}
+{"sentence":"play the david bowie song major tom","label":2,"idx":644}
+{"sentence":"please play only music of pop mix","label":2,"idx":645}
+{"sentence":"can you turn on country music","label":2,"idx":646}
+{"sentence":"please play this playback on audiobook","label":0,"idx":647}
+{"sentence":"play hot ninety seven radio","label":4,"idx":648}
+{"sentence":"bring up my last playlist from tidal","label":2,"idx":649}
+{"sentence":"go to the last episode","label":3,"idx":650}
+{"sentence":"i need to hear notorious thugs by bone thugs now","label":2,"idx":651}
+{"sentence":"play a game with me","label":1,"idx":652}
+{"sentence":"tag you're it","label":1,"idx":653}
+{"sentence":"play jumper by third eye blind","label":2,"idx":654}
+{"sentence":"play npr on the car radio","label":4,"idx":655}
+{"sentence":"start the most recent episode of my true crime podcast","label":3,"idx":656}
+{"sentence":"please play thirteen","label":2,"idx":657}
+{"sentence":"start candy crush","label":1,"idx":658}
+{"sentence":"play sword art opening","label":2,"idx":659}
+{"sentence":"please turn on the music player","label":2,"idx":660}
+{"sentence":"choose that music player","label":2,"idx":661}
+{"sentence":"get radio","label":4,"idx":662}
+{"sentence":"find me some talk back radio","label":4,"idx":663}
+{"sentence":"please continue reading the hunger games","label":0,"idx":664}
+{"sentence":"play michael jackson","label":2,"idx":665}
+{"sentence":"play electronic dance music after this one","label":2,"idx":666}
+{"sentence":"play the last album on a loop","label":2,"idx":667}
+{"sentence":"start playlist for podcast","label":3,"idx":668}
+{"sentence":"play sixty","label":2,"idx":669}
+{"sentence":"open games directory","label":1,"idx":670}
+{"sentence":"hi play me playlist of a r rehman songs released current year","label":2,"idx":671}
+{"sentence":"can you continue audiobook the circle","label":0,"idx":672}
+{"sentence":"skip","label":3,"idx":673}
+{"sentence":"open radio at ninety nine point one","label":4,"idx":674}
+{"sentence":"play busdriver","label":2,"idx":675}
+{"sentence":"open iheartradio and put on the top forty","label":4,"idx":676}
+{"sentence":"let's hear some indie rock okay","label":2,"idx":677}
+{"sentence":"play the song i didn't hear from last month","label":2,"idx":678}
+{"sentence":"play me this years top ten ten pop songs","label":2,"idx":679}
+{"sentence":"next one please","label":3,"idx":680}
+{"sentence":"play closer music track","label":2,"idx":681}
+{"sentence":"i need you to find a good channels to listen to","label":4,"idx":682}
+{"sentence":"can you play ar rahman music","label":2,"idx":683}
+{"sentence":"would you like to play a game with me","label":1,"idx":684}
+{"sentence":"put on a playlist of danish music","label":2,"idx":685}
+{"sentence":"want to play a game of trivia","label":1,"idx":686}
+{"sentence":"play best hits","label":2,"idx":687}
+{"sentence":"start podcast mlb daily","label":3,"idx":688}
+{"sentence":"please play podcasts on science","label":3,"idx":689}
+{"sentence":"play nine hundred and forty five fm","label":4,"idx":690}
+{"sentence":"move to next section","label":3,"idx":691}
+{"sentence":"play all order of the green hand from previous week","label":3,"idx":692}
+{"sentence":"music from the","label":2,"idx":693}
+{"sentence":"open one thousand and forty seven radio","label":4,"idx":694}
+{"sentence":"can we play twenty questions","label":1,"idx":695}
+{"sentence":"play party songs","label":2,"idx":696}
+{"sentence":"i want to hear surfin usa","label":2,"idx":697}
+{"sentence":"play music by that artist","label":2,"idx":698}
+{"sentence":"play hotel california after this song","label":2,"idx":699}
+{"sentence":"run music from this playlist","label":2,"idx":700}
+{"sentence":"play madonna now","label":2,"idx":701}
+{"sentence":"tune in to bob and tom","label":4,"idx":702}
+{"sentence":"play i am a survivor by destiny's child","label":2,"idx":703}
+{"sentence":"resume audiobook player","label":0,"idx":704}
+{"sentence":"time for my drive home station please","label":4,"idx":705}
+{"sentence":"go to the third episode of this podcast","label":3,"idx":706}
+{"sentence":"play podcast","label":3,"idx":707}
+{"sentence":"music two","label":0,"idx":708}
+{"sentence":"i want to hear my favorite song from iron maiden","label":2,"idx":709}
+{"sentence":"play sam harris please","label":4,"idx":710}
+{"sentence":"play the radio on nine hundred and ninety nine fm only","label":4,"idx":711}
+{"sentence":"i want to hear sleeptime playlist next","label":2,"idx":712}
+{"sentence":"play the radio station rock one hundred and eight","label":4,"idx":713}
+{"sentence":"my games to play in my computers","label":1,"idx":714}
+{"sentence":"play the young turks podcast","label":3,"idx":715}
+{"sentence":"please play some lady gaga","label":2,"idx":716}
+{"sentence":"resume the song from the audiobook by the beatles","label":0,"idx":717}
+{"sentence":"can you find the the preacher joe show on gospel radio","label":4,"idx":718}
+{"sentence":"open pandora app","label":4,"idx":719}
+{"sentence":"play me harry potter from the place i last stopped listening on","label":0,"idx":720}
+{"sentence":"start my music playlist","label":2,"idx":721}
+{"sentence":"open album name","label":0,"idx":722}
+{"sentence":"start play johns audiobook","label":0,"idx":723}
+{"sentence":"please tune in to channel nine fm","label":4,"idx":724}
+{"sentence":"find the beginning of the podcast","label":3,"idx":725}
+{"sentence":"play song all the small things","label":2,"idx":726}
+{"sentence":"let's play space invaders","label":1,"idx":727}
+{"sentence":"play my workout playlist","label":2,"idx":728}
+{"sentence":"play me music","label":2,"idx":729}
+{"sentence":"play on loop the devil went down to georgia for me","label":2,"idx":730}
+{"sentence":"play song on repeat","label":2,"idx":731}
+{"sentence":"tune in some radio","label":4,"idx":732}
+{"sentence":"ted talks","label":3,"idx":733}
+{"sentence":"play for me american idol show","label":4,"idx":734}
+{"sentence":"play radio music","label":4,"idx":735}
+{"sentence":"please play next episode of podcast","label":3,"idx":736}
+{"sentence":"i want to hear music by a band from my playlist","label":2,"idx":737}
+{"sentence":"make my collection mostly pop with a good bit of psychedelia","label":2,"idx":738}
+{"sentence":"i would like to hear the podcast of the heat game thats is being played tonight","label":3,"idx":739}
+{"sentence":"start radio station for me","label":4,"idx":740}
+{"sentence":"please play some songs for kids","label":4,"idx":741}
+{"sentence":"i would like to listen to pop music please","label":2,"idx":742}
+{"sentence":"play recently added audiobook","label":0,"idx":743}
+{"sentence":"play episode of stuff you should know in queue","label":3,"idx":744}
+{"sentence":"play classic rock","label":2,"idx":745}
+{"sentence":"play the program where i left off yesterday","label":0,"idx":746}
+{"sentence":"play that song next","label":2,"idx":747}
+{"sentence":"play that last song","label":2,"idx":748}
+{"sentence":"run radio programme","label":4,"idx":749}
+{"sentence":"start up league of legends for me","label":1,"idx":750}
+{"sentence":"play the latest episode of little steven's underground garage","label":4,"idx":751}
+{"sentence":"play music that i like","label":2,"idx":752}
+{"sentence":"get sia's cheap thrills ready to play next","label":2,"idx":753}
+{"sentence":"next episode please","label":3,"idx":754}
+{"sentence":"search for more songs from the band","label":2,"idx":755}
+{"sentence":"can you play beats one radio","label":4,"idx":756}
+{"sentence":"i'm tired of pandora please turn on the radio","label":4,"idx":757}
+{"sentence":"play hula hoop next","label":2,"idx":758}
+{"sentence":"can you pause the audio","label":0,"idx":759}
+{"sentence":"start the dogwalking playlist","label":2,"idx":760}
+{"sentence":"play some music","label":2,"idx":761}
+{"sentence":"skip this episode","label":3,"idx":762}
+{"sentence":"play madonna","label":2,"idx":763}
+{"sentence":"can you drop a beat for me","label":2,"idx":764}
+{"sentence":"open the two towers","label":0,"idx":765}
+{"sentence":"play next episode of her story","label":3,"idx":766}
+{"sentence":"start play spider","label":1,"idx":767}
+{"sentence":"please read the text i just received on messenger","label":4,"idx":768}
+{"sentence":"open media player and play top hits","label":4,"idx":769}
+{"sentence":"play seven habits of effective people","label":0,"idx":770}
+{"sentence":"can you search cnn","label":3,"idx":771}
+{"sentence":"play the song title","label":2,"idx":772}
+{"sentence":"skip forward to the next episode","label":3,"idx":773}
+{"sentence":"please play nightmare by avenged sevenfold","label":2,"idx":774}
+{"sentence":"please tune in to fm ninety five","label":4,"idx":775}
+{"sentence":"i want to hear limelight by rush","label":2,"idx":776}
+{"sentence":"play scabble with me","label":1,"idx":777}
+{"sentence":"can you please put on music","label":4,"idx":778}
+{"sentence":"go to rock music","label":2,"idx":779}
+{"sentence":"play every praise","label":2,"idx":780}
+{"sentence":"play next episode of con man","label":3,"idx":781}
+{"sentence":"lets play tic tac toe","label":1,"idx":782}
+{"sentence":"turn to station one hundred and two point seven ally","label":4,"idx":783}
+{"sentence":"please play gary's podcast","label":3,"idx":784}
+{"sentence":"play duncan trussel's latest podcast","label":3,"idx":785}
+{"sentence":"play radio with rock music","label":4,"idx":786}

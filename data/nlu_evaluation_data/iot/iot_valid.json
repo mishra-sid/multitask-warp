@@ -1,281 +1,281 @@
-{"text":"could you please turn off the overhead light in the kitchen","scenario":"iot","labels":4}
-{"text":"decrease brightness","scenario":"iot","labels":3}
-{"text":"turn on the wemo","scenario":"iot","labels":8}
-{"text":"start the vacuum for me","scenario":"iot","labels":0}
-{"text":"get me a coffee","scenario":"iot","labels":1}
-{"text":"please turn off wemo socket","scenario":"iot","labels":7}
-{"text":"turn wemo plug socket off","scenario":"iot","labels":7}
-{"text":"during the daytime all lights has to be turned off","scenario":"iot","labels":4}
-{"text":"turn the lights off in the bedroom","scenario":"iot","labels":4}
-{"text":"brighten the lights in living room","scenario":"iot","labels":6}
-{"text":"turn off the lights in the living room please","scenario":"iot","labels":4}
-{"text":"your scenarios on your pc and transfer them back to the via the hot","scenario":"iot","labels":2}
-{"text":"turn off the lamps","scenario":"iot","labels":4}
-{"text":"brew my coffee","scenario":"iot","labels":1}
-{"text":"start making a coffee","scenario":"iot","labels":1}
-{"text":"make coffee for me","scenario":"iot","labels":1}
-{"text":"turn off this light","scenario":"iot","labels":4}
-{"text":"turn lights off in bedroom","scenario":"iot","labels":4}
-{"text":"get the roomba to clean the kitchen","scenario":"iot","labels":0}
-{"text":"brighten the lights a little bit","scenario":"iot","labels":6}
-{"text":"please run the vacuum cleaner","scenario":"iot","labels":0}
-{"text":"change light whenever i find myself in my house","scenario":"iot","labels":2}
-{"text":"can you make the room brighter","scenario":"iot","labels":6}
-{"text":"begin vacuum cleaning","scenario":"iot","labels":0}
-{"text":"turn my bedroom lights off","scenario":"iot","labels":4}
-{"text":"i would like coffee now","scenario":"iot","labels":1}
-{"text":"switch on all the lights","scenario":"iot","labels":5}
-{"text":"hoover the carpets around","scenario":"iot","labels":0}
-{"text":"i need the lights in here to be turned up to seven","scenario":"iot","labels":6}
-{"text":"turn on socket","scenario":"iot","labels":8}
-{"text":"lower the lights a little more","scenario":"iot","labels":3}
-{"text":"turn off the lights in my room","scenario":"iot","labels":4}
-{"text":"can you get me a cup of coffee please","scenario":"iot","labels":1}
-{"text":"do more light","scenario":"iot","labels":6}
-{"text":"can i please have a cafe americano","scenario":"iot","labels":1}
-{"text":"get the cleaning on","scenario":"iot","labels":0}
-{"text":"i need a cup of coffee","scenario":"iot","labels":1}
-{"text":"lower the lights in bedroom two","scenario":"iot","labels":3}
-{"text":"turn off smart plug socket","scenario":"iot","labels":7}
-{"text":"turn wemo on","scenario":"iot","labels":8}
-{"text":"make the bedroom lights light blue","scenario":"iot","labels":2}
-{"text":"reduce the lights","scenario":"iot","labels":3}
-{"text":"lower lights now","scenario":"iot","labels":3}
-{"text":"hi can you please turn lower the lights","scenario":"iot","labels":3}
-{"text":"turn off wemo socket","scenario":"iot","labels":7}
-{"text":"i would like a cup of coffee","scenario":"iot","labels":1}
-{"text":"change the lights to red","scenario":"iot","labels":2}
-{"text":"give me a new light color","scenario":"iot","labels":2}
-{"text":"it is too dark in here increase the brightness of the lights","scenario":"iot","labels":6}
-{"text":"hey turn off the light please","scenario":"iot","labels":4}
-{"text":"switch the lights to blue","scenario":"iot","labels":2}
-{"text":"change the light in the bathroom to yellow","scenario":"iot","labels":2}
-{"text":"turn off the light","scenario":"iot","labels":4}
-{"text":"shut the lights off in my bedroom please","scenario":"iot","labels":4}
-{"text":"power on wemo","scenario":"iot","labels":8}
-{"text":"i would like the like in the kitchen to be a different color","scenario":"iot","labels":2}
-{"text":"turn down the lights to medium","scenario":"iot","labels":4}
-{"text":"turn house lights off","scenario":"iot","labels":4}
-{"text":"switch all lights off except living area","scenario":"iot","labels":4}
-{"text":"i need some coffee please","scenario":"iot","labels":1}
-{"text":"shutoff light in the kitchen","scenario":"iot","labels":4}
-{"text":"change the lights to a different hue","scenario":"iot","labels":2}
-{"text":"please turn on my coffee pot","scenario":"iot","labels":1}
-{"text":"i dont need light","scenario":"iot","labels":4}
-{"text":"retrieve the light for me","scenario":"iot","labels":6}
-{"text":"change lights to pink","scenario":"iot","labels":2}
-{"text":"make a room darker","scenario":"iot","labels":3}
-{"text":"brighten the lights","scenario":"iot","labels":6}
-{"text":"make the lights blue please","scenario":"iot","labels":2}
-{"text":"initialize the robot vacuum","scenario":"iot","labels":0}
-{"text":"off the plug","scenario":"iot","labels":7}
-{"text":"turn off the fan in the master bedroom","scenario":"iot","labels":7}
-{"text":"make me a cappuccino","scenario":"iot","labels":1}
-{"text":"i need a drink","scenario":"iot","labels":1}
-{"text":"initiate to operate robot vacuum cleaner","scenario":"iot","labels":0}
-{"text":"start a vacuum cleaner","scenario":"iot","labels":0}
-{"text":"can you brighten the lights for me","scenario":"iot","labels":6}
-{"text":"lights dim","scenario":"iot","labels":3}
-{"text":"turn off my smart plug in thirty minutes","scenario":"iot","labels":7}
-{"text":"turn the lights off to my room","scenario":"iot","labels":4}
-{"text":"i would love the wemo socket to not be active right now","scenario":"iot","labels":7}
-{"text":"choose a brighter color for reading","scenario":"iot","labels":2}
-{"text":"turn on plug","scenario":"iot","labels":8}
-{"text":"turn the lights on full bright","scenario":"iot","labels":5}
-{"text":"i want some coffee now","scenario":"iot","labels":1}
-{"text":"please turn down the lights","scenario":"iot","labels":3}
-{"text":"more bright","scenario":"iot","labels":6}
-{"text":"turn off bedroom lights in ten seconds","scenario":"iot","labels":4}
-{"text":"turn the lights off in the living room","scenario":"iot","labels":4}
-{"text":"turn off the garage light","scenario":"iot","labels":4}
-{"text":"turn on the roomba","scenario":"iot","labels":0}
-{"text":"can you turn the lights up","scenario":"iot","labels":6}
-{"text":"please dim the lights in the bedroom","scenario":"iot","labels":3}
-{"text":"start vacuuming now please","scenario":"iot","labels":0}
-{"text":"initiate vacuum cleaner","scenario":"iot","labels":0}
-{"text":"brightness ninety percent","scenario":"iot","labels":2}
-{"text":"i would like the house lights to be pink","scenario":"iot","labels":2}
-{"text":"put out the lights","scenario":"iot","labels":4}
-{"text":"turn the lights off please","scenario":"iot","labels":4}
-{"text":"i'm going to sleep now","scenario":"iot","labels":4}
-{"text":"take it in hand","scenario":"iot","labels":0}
-{"text":"lower the overhead lights","scenario":"iot","labels":3}
-{"text":"start robot vacuum","scenario":"iot","labels":0}
-{"text":"make coffee at eight am","scenario":"iot","labels":1}
-{"text":"transition to another color for the lights","scenario":"iot","labels":2}
-{"text":"turn off bedroom fan","scenario":"iot","labels":7}
-{"text":"raise the brightness of the lights","scenario":"iot","labels":6}
-{"text":"by switch off","scenario":"iot","labels":4}
-{"text":"i want a coffee now","scenario":"iot","labels":1}
-{"text":"start my robot vacuum cleaner by ten to eleven am daily","scenario":"iot","labels":0}
-{"text":"brighten more light","scenario":"iot","labels":6}
-{"text":"please turn off all of the lights in the house","scenario":"iot","labels":4}
-{"text":"hey can you please make me a creamy coffee","scenario":"iot","labels":1}
-{"text":"turn the lights blue","scenario":"iot","labels":2}
-{"text":"make it dark in here","scenario":"iot","labels":4}
-{"text":"make it brighter in here please","scenario":"iot","labels":6}
-{"text":"can we please lower the lights","scenario":"iot","labels":3}
-{"text":"wemo plug socket turn on","scenario":"iot","labels":8}
-{"text":"cleaning is good dust is so bad do now your magic clean my carpet","scenario":"iot","labels":0}
-{"text":"dim lights","scenario":"iot","labels":3}
-{"text":"i'd like a cup of coffee please","scenario":"iot","labels":1}
-{"text":"on mobile charger plug","scenario":"iot","labels":8}
-{"text":"change the color of the lights to blue","scenario":"iot","labels":2}
-{"text":"order one coffee from nearest coffee shop","scenario":"iot","labels":1}
-{"text":"turn off the lights in the bathroom","scenario":"iot","labels":4}
-{"text":"i would like orange lights now","scenario":"iot","labels":2}
-{"text":"initiate cleaning process","scenario":"iot","labels":0}
-{"text":"turn the lights down","scenario":"iot","labels":3}
-{"text":"turn the smart plug on","scenario":"iot","labels":8}
-{"text":"modify the light colours of the house and make them dark instead","scenario":"iot","labels":2}
-{"text":"get the coffee started please","scenario":"iot","labels":1}
-{"text":"turn off smart socket","scenario":"iot","labels":7}
-{"text":"hoover the hallway","scenario":"iot","labels":0}
-{"text":"please turn on the smart socket","scenario":"iot","labels":8}
-{"text":"please turn on the lights","scenario":"iot","labels":5}
-{"text":"light up the lights in the kitchen","scenario":"iot","labels":5}
-{"text":"brighten the lights please","scenario":"iot","labels":6}
-{"text":"change the light colour to green","scenario":"iot","labels":2}
-{"text":"start the oven","scenario":"iot","labels":8}
-{"text":"lights down to seven","scenario":"iot","labels":3}
-{"text":"please change the house lights to blue","scenario":"iot","labels":2}
-{"text":"change lights from red to blue","scenario":"iot","labels":2}
-{"text":"lower the light level in my house","scenario":"iot","labels":3}
-{"text":"turn the bathroom lights off","scenario":"iot","labels":4}
-{"text":"can you make me coffee now","scenario":"iot","labels":1}
-{"text":"please set the lights off in the living room","scenario":"iot","labels":4}
-{"text":"activate coffee machine","scenario":"iot","labels":1}
-{"text":"turn the wemo off","scenario":"iot","labels":7}
-{"text":"change the media room lights from purple to green","scenario":"iot","labels":2}
-{"text":"activate the vacuum cleaner and use it","scenario":"iot","labels":0}
-{"text":"switch on the wemo plug","scenario":"iot","labels":8}
-{"text":"change the lights in the living room to green and red","scenario":"iot","labels":2}
-{"text":"increase the light in the room","scenario":"iot","labels":6}
-{"text":"i want blue lighting","scenario":"iot","labels":2}
-{"text":"its too bright in here","scenario":"iot","labels":3}
-{"text":"turn on the plug socket one","scenario":"iot","labels":8}
-{"text":"activate the wemo plug socket","scenario":"iot","labels":8}
-{"text":"system please dim lights to dull blue","scenario":"iot","labels":3}
-{"text":"change up the light colors at home","scenario":"iot","labels":6}
-{"text":"increase the intensity of the lighting in the room","scenario":"iot","labels":6}
-{"text":"color change of lights","scenario":"iot","labels":2}
-{"text":"no lights in the kitchen","scenario":"iot","labels":4}
-{"text":"make me some coffee","scenario":"iot","labels":1}
-{"text":"please mark the wemo socket to off","scenario":"iot","labels":7}
-{"text":"please turn down the lights to fifty percent in the den","scenario":"iot","labels":3}
-{"text":"hurriedly activates my robot vacuum cleaner","scenario":"iot","labels":0}
-{"text":"clap on","scenario":"iot","labels":5}
-{"text":"turn bedroom lights off","scenario":"iot","labels":4}
-{"text":"robot vacuum the living room now","scenario":"iot","labels":0}
-{"text":"turn living room lights red","scenario":"iot","labels":2}
-{"text":"time to sleep","scenario":"iot","labels":4}
-{"text":"could you turn off light","scenario":"iot","labels":4}
-{"text":"i want more light","scenario":"iot","labels":6}
-{"text":"turn up the lights in here please","scenario":"iot","labels":6}
-{"text":"lights out","scenario":"iot","labels":5}
-{"text":"shut off the lights in the kitchen","scenario":"iot","labels":4}
-{"text":"switch from blue to yellow lights","scenario":"iot","labels":2}
-{"text":"brew coffee at noon","scenario":"iot","labels":1}
-{"text":"blue lights please","scenario":"iot","labels":2}
-{"text":"make the smart socket turn off","scenario":"iot","labels":7}
-{"text":"display settings","scenario":"iot","labels":2}
-{"text":"turn the light off in the living room","scenario":"iot","labels":4}
-{"text":"show me the available colours of lights","scenario":"iot","labels":2}
-{"text":"let's have the lights blue","scenario":"iot","labels":2}
-{"text":"please get the coffee machine to make me some coffee","scenario":"iot","labels":1}
-{"text":"change the light color to black light","scenario":"iot","labels":2}
-{"text":"make the room light blue","scenario":"iot","labels":2}
-{"text":"company coming over turn on the vacuum cleaner right now","scenario":"iot","labels":0}
-{"text":"make the light more brighter","scenario":"iot","labels":6}
-{"text":"make the lights pink at the house","scenario":"iot","labels":2}
-{"text":"increase lights please","scenario":"iot","labels":6}
-{"text":"lights to fifty percent","scenario":"iot","labels":2}
-{"text":"can you begin the brew","scenario":"iot","labels":1}
-{"text":"check for the availability of shops nearby","scenario":"iot","labels":4}
-{"text":"my vacuum cleaner should start between ten to eleven am everyday","scenario":"iot","labels":0}
-{"text":"reduce the light power","scenario":"iot","labels":3}
-{"text":"change color of the light to red outside the house","scenario":"iot","labels":2}
-{"text":"i do not want to use the socket anymore","scenario":"iot","labels":7}
-{"text":"switch off light","scenario":"iot","labels":4}
-{"text":"start the coffee maker","scenario":"iot","labels":1}
-{"text":"turn on the rice cooker socket","scenario":"iot","labels":8}
-{"text":"romantic light setting please","scenario":"iot","labels":2}
-{"text":"i need some coffee made","scenario":"iot","labels":1}
-{"text":"please switch off on the wemo plug socket","scenario":"iot","labels":7}
-{"text":"please turn the lights up","scenario":"iot","labels":6}
-{"text":"assistant please turn the lights off","scenario":"iot","labels":4}
-{"text":"turn the lights brighter","scenario":"iot","labels":6}
-{"text":"lower the lights in the living room","scenario":"iot","labels":3}
-{"text":"please turn off kitchen light","scenario":"iot","labels":4}
-{"text":"turn on my son's room plug socket on off","scenario":"iot","labels":8}
-{"text":"i'd like some red lighting","scenario":"iot","labels":2}
-{"text":"can you make some coffee","scenario":"iot","labels":1}
-{"text":"brighten the lights in this room","scenario":"iot","labels":6}
-{"text":"activate the vacuum","scenario":"iot","labels":0}
-{"text":"change the color of my porch lights to green","scenario":"iot","labels":2}
-{"text":"brighten living room lights","scenario":"iot","labels":6}
-{"text":"bed room two switch off the lights","scenario":"iot","labels":4}
-{"text":"time mr coffee for six am","scenario":"iot","labels":1}
-{"text":"turn off the dining room","scenario":"iot","labels":4}
-{"text":"at one pm today start the robot vacuum cleaner","scenario":"iot","labels":0}
-{"text":"want to wake up can you order a cappochino","scenario":"iot","labels":1}
-{"text":"set the mood please","scenario":"iot","labels":2}
-{"text":"turn on the vacuum cleaner","scenario":"iot","labels":0}
-{"text":"switch the lights to off","scenario":"iot","labels":4}
-{"text":"start new smart socket","scenario":"iot","labels":8}
-{"text":"brew coffee","scenario":"iot","labels":1}
-{"text":"i'd like a coffee please","scenario":"iot","labels":1}
-{"text":"please make the smart socket turn off","scenario":"iot","labels":7}
-{"text":"please make coffee according to my earlier preference","scenario":"iot","labels":1}
-{"text":"please turn on all lights","scenario":"iot","labels":5}
-{"text":"make me a cup of coffee","scenario":"iot","labels":1}
-{"text":"turn on vacuum cleaner","scenario":"iot","labels":0}
-{"text":"dim all interior lights","scenario":"iot","labels":3}
-{"text":"brighten light","scenario":"iot","labels":6}
-{"text":"change light color to blue","scenario":"iot","labels":2}
-{"text":"spread some lights","scenario":"iot","labels":6}
-{"text":"i'd like you to shut off my smart plug socket now please","scenario":"iot","labels":7}
-{"text":"start the robot roomba","scenario":"iot","labels":0}
-{"text":"lower the intensity of light","scenario":"iot","labels":3}
-{"text":"it's dark in the living room","scenario":"iot","labels":5}
-{"text":"turn on the lights","scenario":"iot","labels":5}
-{"text":"greg wants black coffee can you make one","scenario":"iot","labels":1}
-{"text":"mute your android phone when you arrive at work","scenario":"iot","labels":7}
-{"text":"please turn off the lights in the bedroom","scenario":"iot","labels":4}
-{"text":"need a hot coffee","scenario":"iot","labels":1}
-{"text":"how do i set the timer on my coffee machine","scenario":"iot","labels":1}
-{"text":"disable wemo socket","scenario":"iot","labels":7}
-{"text":"turn on the robot vacuum cleaner","scenario":"iot","labels":0}
-{"text":"please turn off any lights that are still on","scenario":"iot","labels":4}
-{"text":"can you turn off the smart socket","scenario":"iot","labels":7}
-{"text":"robot do the whole house now","scenario":"iot","labels":0}
-{"text":"lights off in the guest room","scenario":"iot","labels":4}
-{"text":"turn off plug","scenario":"iot","labels":7}
-{"text":"please activate my coffee pot for me","scenario":"iot","labels":1}
-{"text":"change the lights to my favorite color","scenario":"iot","labels":2}
-{"text":"period the light should be in dim","scenario":"iot","labels":3}
-{"text":"switch off lights","scenario":"iot","labels":4}
-{"text":"turn on my robot vacuum cleaner now","scenario":"iot","labels":0}
-{"text":"please turn up the lights in this room","scenario":"iot","labels":6}
-{"text":"i want purple lights","scenario":"iot","labels":2}
-{"text":"turn off lights in bedroom","scenario":"iot","labels":4}
-{"text":"start cleaner","scenario":"iot","labels":0}
-{"text":"start vacuum bot","scenario":"iot","labels":0}
-{"text":"turn lights off in living room","scenario":"iot","labels":4}
-{"text":"i need coffee","scenario":"iot","labels":1}
-{"text":"turn cleaner robot on","scenario":"iot","labels":0}
-{"text":"change lights to blue","scenario":"iot","labels":2}
-{"text":"turn lights off","scenario":"iot","labels":4}
-{"text":"please turn down the lights in the house","scenario":"iot","labels":3}
-{"text":"turn on kitchen light","scenario":"iot","labels":8}
-{"text":"please start the coffee pot","scenario":"iot","labels":1}
-{"text":"how do i start the robot vacuum cleaner","scenario":"iot","labels":0}
-{"text":"can you turn off the lights","scenario":"iot","labels":4}
-{"text":"can you change the colour to red","scenario":"iot","labels":2}
-{"text":"can you raise the lights for me please","scenario":"iot","labels":6}
-{"text":"please activate my vacuum to clean the living room","scenario":"iot","labels":0}
-{"text":"dim the lights to level two","scenario":"iot","labels":3}
-{"text":"switch off bedroom light","scenario":"iot","labels":4}
-{"text":"make me a capuccino","scenario":"iot","labels":1}
-{"text":"replace the current light colours in the house with dark ones","scenario":"iot","labels":2}
-{"text":"i want the room to be less bright","scenario":"iot","labels":3}
+{"sentence":"could you please turn off the overhead light in the kitchen","label":4,"idx":0}
+{"sentence":"decrease brightness","label":3,"idx":1}
+{"sentence":"turn on the wemo","label":8,"idx":2}
+{"sentence":"start the vacuum for me","label":0,"idx":3}
+{"sentence":"get me a coffee","label":1,"idx":4}
+{"sentence":"please turn off wemo socket","label":7,"idx":5}
+{"sentence":"turn wemo plug socket off","label":7,"idx":6}
+{"sentence":"during the daytime all lights has to be turned off","label":4,"idx":7}
+{"sentence":"turn the lights off in the bedroom","label":4,"idx":8}
+{"sentence":"brighten the lights in living room","label":6,"idx":9}
+{"sentence":"turn off the lights in the living room please","label":4,"idx":10}
+{"sentence":"your scenarios on your pc and transfer them back to the via the hot","label":2,"idx":11}
+{"sentence":"turn off the lamps","label":4,"idx":12}
+{"sentence":"brew my coffee","label":1,"idx":13}
+{"sentence":"start making a coffee","label":1,"idx":14}
+{"sentence":"make coffee for me","label":1,"idx":15}
+{"sentence":"turn off this light","label":4,"idx":16}
+{"sentence":"turn lights off in bedroom","label":4,"idx":17}
+{"sentence":"get the roomba to clean the kitchen","label":0,"idx":18}
+{"sentence":"brighten the lights a little bit","label":6,"idx":19}
+{"sentence":"please run the vacuum cleaner","label":0,"idx":20}
+{"sentence":"change light whenever i find myself in my house","label":2,"idx":21}
+{"sentence":"can you make the room brighter","label":6,"idx":22}
+{"sentence":"begin vacuum cleaning","label":0,"idx":23}
+{"sentence":"turn my bedroom lights off","label":4,"idx":24}
+{"sentence":"i would like coffee now","label":1,"idx":25}
+{"sentence":"switch on all the lights","label":5,"idx":26}
+{"sentence":"hoover the carpets around","label":0,"idx":27}
+{"sentence":"i need the lights in here to be turned up to seven","label":6,"idx":28}
+{"sentence":"turn on socket","label":8,"idx":29}
+{"sentence":"lower the lights a little more","label":3,"idx":30}
+{"sentence":"turn off the lights in my room","label":4,"idx":31}
+{"sentence":"can you get me a cup of coffee please","label":1,"idx":32}
+{"sentence":"do more light","label":6,"idx":33}
+{"sentence":"can i please have a cafe americano","label":1,"idx":34}
+{"sentence":"get the cleaning on","label":0,"idx":35}
+{"sentence":"i need a cup of coffee","label":1,"idx":36}
+{"sentence":"lower the lights in bedroom two","label":3,"idx":37}
+{"sentence":"turn off smart plug socket","label":7,"idx":38}
+{"sentence":"turn wemo on","label":8,"idx":39}
+{"sentence":"make the bedroom lights light blue","label":2,"idx":40}
+{"sentence":"reduce the lights","label":3,"idx":41}
+{"sentence":"lower lights now","label":3,"idx":42}
+{"sentence":"hi can you please turn lower the lights","label":3,"idx":43}
+{"sentence":"turn off wemo socket","label":7,"idx":44}
+{"sentence":"i would like a cup of coffee","label":1,"idx":45}
+{"sentence":"change the lights to red","label":2,"idx":46}
+{"sentence":"give me a new light color","label":2,"idx":47}
+{"sentence":"it is too dark in here increase the brightness of the lights","label":6,"idx":48}
+{"sentence":"hey turn off the light please","label":4,"idx":49}
+{"sentence":"switch the lights to blue","label":2,"idx":50}
+{"sentence":"change the light in the bathroom to yellow","label":2,"idx":51}
+{"sentence":"turn off the light","label":4,"idx":52}
+{"sentence":"shut the lights off in my bedroom please","label":4,"idx":53}
+{"sentence":"power on wemo","label":8,"idx":54}
+{"sentence":"i would like the like in the kitchen to be a different color","label":2,"idx":55}
+{"sentence":"turn down the lights to medium","label":4,"idx":56}
+{"sentence":"turn house lights off","label":4,"idx":57}
+{"sentence":"switch all lights off except living area","label":4,"idx":58}
+{"sentence":"i need some coffee please","label":1,"idx":59}
+{"sentence":"shutoff light in the kitchen","label":4,"idx":60}
+{"sentence":"change the lights to a different hue","label":2,"idx":61}
+{"sentence":"please turn on my coffee pot","label":1,"idx":62}
+{"sentence":"i dont need light","label":4,"idx":63}
+{"sentence":"retrieve the light for me","label":6,"idx":64}
+{"sentence":"change lights to pink","label":2,"idx":65}
+{"sentence":"make a room darker","label":3,"idx":66}
+{"sentence":"brighten the lights","label":6,"idx":67}
+{"sentence":"make the lights blue please","label":2,"idx":68}
+{"sentence":"initialize the robot vacuum","label":0,"idx":69}
+{"sentence":"off the plug","label":7,"idx":70}
+{"sentence":"turn off the fan in the master bedroom","label":7,"idx":71}
+{"sentence":"make me a cappuccino","label":1,"idx":72}
+{"sentence":"i need a drink","label":1,"idx":73}
+{"sentence":"initiate to operate robot vacuum cleaner","label":0,"idx":74}
+{"sentence":"start a vacuum cleaner","label":0,"idx":75}
+{"sentence":"can you brighten the lights for me","label":6,"idx":76}
+{"sentence":"lights dim","label":3,"idx":77}
+{"sentence":"turn off my smart plug in thirty minutes","label":7,"idx":78}
+{"sentence":"turn the lights off to my room","label":4,"idx":79}
+{"sentence":"i would love the wemo socket to not be active right now","label":7,"idx":80}
+{"sentence":"choose a brighter color for reading","label":2,"idx":81}
+{"sentence":"turn on plug","label":8,"idx":82}
+{"sentence":"turn the lights on full bright","label":5,"idx":83}
+{"sentence":"i want some coffee now","label":1,"idx":84}
+{"sentence":"please turn down the lights","label":3,"idx":85}
+{"sentence":"more bright","label":6,"idx":86}
+{"sentence":"turn off bedroom lights in ten seconds","label":4,"idx":87}
+{"sentence":"turn the lights off in the living room","label":4,"idx":88}
+{"sentence":"turn off the garage light","label":4,"idx":89}
+{"sentence":"turn on the roomba","label":0,"idx":90}
+{"sentence":"can you turn the lights up","label":6,"idx":91}
+{"sentence":"please dim the lights in the bedroom","label":3,"idx":92}
+{"sentence":"start vacuuming now please","label":0,"idx":93}
+{"sentence":"initiate vacuum cleaner","label":0,"idx":94}
+{"sentence":"brightness ninety percent","label":2,"idx":95}
+{"sentence":"i would like the house lights to be pink","label":2,"idx":96}
+{"sentence":"put out the lights","label":4,"idx":97}
+{"sentence":"turn the lights off please","label":4,"idx":98}
+{"sentence":"i'm going to sleep now","label":4,"idx":99}
+{"sentence":"take it in hand","label":0,"idx":100}
+{"sentence":"lower the overhead lights","label":3,"idx":101}
+{"sentence":"start robot vacuum","label":0,"idx":102}
+{"sentence":"make coffee at eight am","label":1,"idx":103}
+{"sentence":"transition to another color for the lights","label":2,"idx":104}
+{"sentence":"turn off bedroom fan","label":7,"idx":105}
+{"sentence":"raise the brightness of the lights","label":6,"idx":106}
+{"sentence":"by switch off","label":4,"idx":107}
+{"sentence":"i want a coffee now","label":1,"idx":108}
+{"sentence":"start my robot vacuum cleaner by ten to eleven am daily","label":0,"idx":109}
+{"sentence":"brighten more light","label":6,"idx":110}
+{"sentence":"please turn off all of the lights in the house","label":4,"idx":111}
+{"sentence":"hey can you please make me a creamy coffee","label":1,"idx":112}
+{"sentence":"turn the lights blue","label":2,"idx":113}
+{"sentence":"make it dark in here","label":4,"idx":114}
+{"sentence":"make it brighter in here please","label":6,"idx":115}
+{"sentence":"can we please lower the lights","label":3,"idx":116}
+{"sentence":"wemo plug socket turn on","label":8,"idx":117}
+{"sentence":"cleaning is good dust is so bad do now your magic clean my carpet","label":0,"idx":118}
+{"sentence":"dim lights","label":3,"idx":119}
+{"sentence":"i'd like a cup of coffee please","label":1,"idx":120}
+{"sentence":"on mobile charger plug","label":8,"idx":121}
+{"sentence":"change the color of the lights to blue","label":2,"idx":122}
+{"sentence":"order one coffee from nearest coffee shop","label":1,"idx":123}
+{"sentence":"turn off the lights in the bathroom","label":4,"idx":124}
+{"sentence":"i would like orange lights now","label":2,"idx":125}
+{"sentence":"initiate cleaning process","label":0,"idx":126}
+{"sentence":"turn the lights down","label":3,"idx":127}
+{"sentence":"turn the smart plug on","label":8,"idx":128}
+{"sentence":"modify the light colours of the house and make them dark instead","label":2,"idx":129}
+{"sentence":"get the coffee started please","label":1,"idx":130}
+{"sentence":"turn off smart socket","label":7,"idx":131}
+{"sentence":"hoover the hallway","label":0,"idx":132}
+{"sentence":"please turn on the smart socket","label":8,"idx":133}
+{"sentence":"please turn on the lights","label":5,"idx":134}
+{"sentence":"light up the lights in the kitchen","label":5,"idx":135}
+{"sentence":"brighten the lights please","label":6,"idx":136}
+{"sentence":"change the light colour to green","label":2,"idx":137}
+{"sentence":"start the oven","label":8,"idx":138}
+{"sentence":"lights down to seven","label":3,"idx":139}
+{"sentence":"please change the house lights to blue","label":2,"idx":140}
+{"sentence":"change lights from red to blue","label":2,"idx":141}
+{"sentence":"lower the light level in my house","label":3,"idx":142}
+{"sentence":"turn the bathroom lights off","label":4,"idx":143}
+{"sentence":"can you make me coffee now","label":1,"idx":144}
+{"sentence":"please set the lights off in the living room","label":4,"idx":145}
+{"sentence":"activate coffee machine","label":1,"idx":146}
+{"sentence":"turn the wemo off","label":7,"idx":147}
+{"sentence":"change the media room lights from purple to green","label":2,"idx":148}
+{"sentence":"activate the vacuum cleaner and use it","label":0,"idx":149}
+{"sentence":"switch on the wemo plug","label":8,"idx":150}
+{"sentence":"change the lights in the living room to green and red","label":2,"idx":151}
+{"sentence":"increase the light in the room","label":6,"idx":152}
+{"sentence":"i want blue lighting","label":2,"idx":153}
+{"sentence":"its too bright in here","label":3,"idx":154}
+{"sentence":"turn on the plug socket one","label":8,"idx":155}
+{"sentence":"activate the wemo plug socket","label":8,"idx":156}
+{"sentence":"system please dim lights to dull blue","label":3,"idx":157}
+{"sentence":"change up the light colors at home","label":6,"idx":158}
+{"sentence":"increase the intensity of the lighting in the room","label":6,"idx":159}
+{"sentence":"color change of lights","label":2,"idx":160}
+{"sentence":"no lights in the kitchen","label":4,"idx":161}
+{"sentence":"make me some coffee","label":1,"idx":162}
+{"sentence":"please mark the wemo socket to off","label":7,"idx":163}
+{"sentence":"please turn down the lights to fifty percent in the den","label":3,"idx":164}
+{"sentence":"hurriedly activates my robot vacuum cleaner","label":0,"idx":165}
+{"sentence":"clap on","label":5,"idx":166}
+{"sentence":"turn bedroom lights off","label":4,"idx":167}
+{"sentence":"robot vacuum the living room now","label":0,"idx":168}
+{"sentence":"turn living room lights red","label":2,"idx":169}
+{"sentence":"time to sleep","label":4,"idx":170}
+{"sentence":"could you turn off light","label":4,"idx":171}
+{"sentence":"i want more light","label":6,"idx":172}
+{"sentence":"turn up the lights in here please","label":6,"idx":173}
+{"sentence":"lights out","label":5,"idx":174}
+{"sentence":"shut off the lights in the kitchen","label":4,"idx":175}
+{"sentence":"switch from blue to yellow lights","label":2,"idx":176}
+{"sentence":"brew coffee at noon","label":1,"idx":177}
+{"sentence":"blue lights please","label":2,"idx":178}
+{"sentence":"make the smart socket turn off","label":7,"idx":179}
+{"sentence":"display settings","label":2,"idx":180}
+{"sentence":"turn the light off in the living room","label":4,"idx":181}
+{"sentence":"show me the available colours of lights","label":2,"idx":182}
+{"sentence":"let's have the lights blue","label":2,"idx":183}
+{"sentence":"please get the coffee machine to make me some coffee","label":1,"idx":184}
+{"sentence":"change the light color to black light","label":2,"idx":185}
+{"sentence":"make the room light blue","label":2,"idx":186}
+{"sentence":"company coming over turn on the vacuum cleaner right now","label":0,"idx":187}
+{"sentence":"make the light more brighter","label":6,"idx":188}
+{"sentence":"make the lights pink at the house","label":2,"idx":189}
+{"sentence":"increase lights please","label":6,"idx":190}
+{"sentence":"lights to fifty percent","label":2,"idx":191}
+{"sentence":"can you begin the brew","label":1,"idx":192}
+{"sentence":"check for the availability of shops nearby","label":4,"idx":193}
+{"sentence":"my vacuum cleaner should start between ten to eleven am everyday","label":0,"idx":194}
+{"sentence":"reduce the light power","label":3,"idx":195}
+{"sentence":"change color of the light to red outside the house","label":2,"idx":196}
+{"sentence":"i do not want to use the socket anymore","label":7,"idx":197}
+{"sentence":"switch off light","label":4,"idx":198}
+{"sentence":"start the coffee maker","label":1,"idx":199}
+{"sentence":"turn on the rice cooker socket","label":8,"idx":200}
+{"sentence":"romantic light setting please","label":2,"idx":201}
+{"sentence":"i need some coffee made","label":1,"idx":202}
+{"sentence":"please switch off on the wemo plug socket","label":7,"idx":203}
+{"sentence":"please turn the lights up","label":6,"idx":204}
+{"sentence":"assistant please turn the lights off","label":4,"idx":205}
+{"sentence":"turn the lights brighter","label":6,"idx":206}
+{"sentence":"lower the lights in the living room","label":3,"idx":207}
+{"sentence":"please turn off kitchen light","label":4,"idx":208}
+{"sentence":"turn on my son's room plug socket on off","label":8,"idx":209}
+{"sentence":"i'd like some red lighting","label":2,"idx":210}
+{"sentence":"can you make some coffee","label":1,"idx":211}
+{"sentence":"brighten the lights in this room","label":6,"idx":212}
+{"sentence":"activate the vacuum","label":0,"idx":213}
+{"sentence":"change the color of my porch lights to green","label":2,"idx":214}
+{"sentence":"brighten living room lights","label":6,"idx":215}
+{"sentence":"bed room two switch off the lights","label":4,"idx":216}
+{"sentence":"time mr coffee for six am","label":1,"idx":217}
+{"sentence":"turn off the dining room","label":4,"idx":218}
+{"sentence":"at one pm today start the robot vacuum cleaner","label":0,"idx":219}
+{"sentence":"want to wake up can you order a cappochino","label":1,"idx":220}
+{"sentence":"set the mood please","label":2,"idx":221}
+{"sentence":"turn on the vacuum cleaner","label":0,"idx":222}
+{"sentence":"switch the lights to off","label":4,"idx":223}
+{"sentence":"start new smart socket","label":8,"idx":224}
+{"sentence":"brew coffee","label":1,"idx":225}
+{"sentence":"i'd like a coffee please","label":1,"idx":226}
+{"sentence":"please make the smart socket turn off","label":7,"idx":227}
+{"sentence":"please make coffee according to my earlier preference","label":1,"idx":228}
+{"sentence":"please turn on all lights","label":5,"idx":229}
+{"sentence":"make me a cup of coffee","label":1,"idx":230}
+{"sentence":"turn on vacuum cleaner","label":0,"idx":231}
+{"sentence":"dim all interior lights","label":3,"idx":232}
+{"sentence":"brighten light","label":6,"idx":233}
+{"sentence":"change light color to blue","label":2,"idx":234}
+{"sentence":"spread some lights","label":6,"idx":235}
+{"sentence":"i'd like you to shut off my smart plug socket now please","label":7,"idx":236}
+{"sentence":"start the robot roomba","label":0,"idx":237}
+{"sentence":"lower the intensity of light","label":3,"idx":238}
+{"sentence":"it's dark in the living room","label":5,"idx":239}
+{"sentence":"turn on the lights","label":5,"idx":240}
+{"sentence":"greg wants black coffee can you make one","label":1,"idx":241}
+{"sentence":"mute your android phone when you arrive at work","label":7,"idx":242}
+{"sentence":"please turn off the lights in the bedroom","label":4,"idx":243}
+{"sentence":"need a hot coffee","label":1,"idx":244}
+{"sentence":"how do i set the timer on my coffee machine","label":1,"idx":245}
+{"sentence":"disable wemo socket","label":7,"idx":246}
+{"sentence":"turn on the robot vacuum cleaner","label":0,"idx":247}
+{"sentence":"please turn off any lights that are still on","label":4,"idx":248}
+{"sentence":"can you turn off the smart socket","label":7,"idx":249}
+{"sentence":"robot do the whole house now","label":0,"idx":250}
+{"sentence":"lights off in the guest room","label":4,"idx":251}
+{"sentence":"turn off plug","label":7,"idx":252}
+{"sentence":"please activate my coffee pot for me","label":1,"idx":253}
+{"sentence":"change the lights to my favorite color","label":2,"idx":254}
+{"sentence":"period the light should be in dim","label":3,"idx":255}
+{"sentence":"switch off lights","label":4,"idx":256}
+{"sentence":"turn on my robot vacuum cleaner now","label":0,"idx":257}
+{"sentence":"please turn up the lights in this room","label":6,"idx":258}
+{"sentence":"i want purple lights","label":2,"idx":259}
+{"sentence":"turn off lights in bedroom","label":4,"idx":260}
+{"sentence":"start cleaner","label":0,"idx":261}
+{"sentence":"start vacuum bot","label":0,"idx":262}
+{"sentence":"turn lights off in living room","label":4,"idx":263}
+{"sentence":"i need coffee","label":1,"idx":264}
+{"sentence":"turn cleaner robot on","label":0,"idx":265}
+{"sentence":"change lights to blue","label":2,"idx":266}
+{"sentence":"turn lights off","label":4,"idx":267}
+{"sentence":"please turn down the lights in the house","label":3,"idx":268}
+{"sentence":"turn on kitchen light","label":8,"idx":269}
+{"sentence":"please start the coffee pot","label":1,"idx":270}
+{"sentence":"how do i start the robot vacuum cleaner","label":0,"idx":271}
+{"sentence":"can you turn off the lights","label":4,"idx":272}
+{"sentence":"can you change the colour to red","label":2,"idx":273}
+{"sentence":"can you raise the lights for me please","label":6,"idx":274}
+{"sentence":"please activate my vacuum to clean the living room","label":0,"idx":275}
+{"sentence":"dim the lights to level two","label":3,"idx":276}
+{"sentence":"switch off bedroom light","label":4,"idx":277}
+{"sentence":"make me a capuccino","label":1,"idx":278}
+{"sentence":"replace the current light colours in the house with dark ones","label":2,"idx":279}
+{"sentence":"i want the room to be less bright","label":3,"idx":280}

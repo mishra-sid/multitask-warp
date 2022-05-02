@@ -1,352 +1,352 @@
-{"text":"what is the month day and year","scenario":"datetime","labels":1}
-{"text":"what does the clock say","scenario":"datetime","labels":1}
-{"text":"what is the time in beijing","scenario":"datetime","labels":1}
-{"text":"convert one oh two from gtm four thirty to g. m. t. one thirty","scenario":"datetime","labels":0}
-{"text":"which day is march twenty","scenario":"datetime","labels":1}
-{"text":"whats the time","scenario":"datetime","labels":1}
-{"text":"what year is it","scenario":"datetime","labels":1}
-{"text":"can you tell me what the date is today","scenario":"datetime","labels":1}
-{"text":"may twenty two is my birthdate and i want to know the what day is twenty third may","scenario":"datetime","labels":1}
-{"text":"is it time in peru","scenario":"datetime","labels":1}
-{"text":"which day of week is the twenty fourth","scenario":"datetime","labels":1}
-{"text":"what day of the week does christmas fall on this year","scenario":"datetime","labels":1}
-{"text":"please let me know today's date","scenario":"datetime","labels":1}
-{"text":"is it noon in paris","scenario":"datetime","labels":1}
-{"text":"what time is it in the other time zones","scenario":"datetime","labels":1}
-{"text":"what is the nine am cst to est","scenario":"datetime","labels":0}
-{"text":"when is the third monday of this month","scenario":"datetime","labels":1}
-{"text":"it is nine here what time is it in california","scenario":"datetime","labels":0}
-{"text":"what's the time for neighboring city","scenario":"datetime","labels":1}
-{"text":"what time is it in london right now","scenario":"datetime","labels":1}
-{"text":"what would be the current time in ivory coast","scenario":"datetime","labels":1}
-{"text":"announce the current time","scenario":"datetime","labels":1}
-{"text":"what is the time in london now","scenario":"datetime","labels":1}
-{"text":"time in new york","scenario":"datetime","labels":1}
-{"text":"display date","scenario":"datetime","labels":1}
-{"text":"twenty second april day","scenario":"datetime","labels":1}
-{"text":"time left for ten am","scenario":"datetime","labels":1}
-{"text":"what is the time in london right now","scenario":"datetime","labels":1}
-{"text":"please let me know the current time at new delhi","scenario":"datetime","labels":1}
-{"text":"date in new york","scenario":"datetime","labels":1}
-{"text":"what is it today","scenario":"datetime","labels":1}
-{"text":"how many birthday's are on twenty third","scenario":"datetime","labels":1}
-{"text":"day on twenty second april","scenario":"datetime","labels":1}
-{"text":"what time is it in cleveland","scenario":"datetime","labels":1}
-{"text":"what the time difference from here to ottawa","scenario":"datetime","labels":0}
-{"text":"is the twenty third of april a saturday","scenario":"datetime","labels":1}
-{"text":"chicago time","scenario":"datetime","labels":1}
-{"text":"what is the time in perth","scenario":"datetime","labels":1}
-{"text":"what is the last day of the month","scenario":"datetime","labels":1}
-{"text":"current date","scenario":"datetime","labels":1}
-{"text":"show me the current time","scenario":"datetime","labels":1}
-{"text":"tell me the date","scenario":"datetime","labels":1}
-{"text":"would like to see the time zone","scenario":"datetime","labels":1}
-{"text":"convert g. m. t. to ist","scenario":"datetime","labels":0}
-{"text":"what time is it in new york","scenario":"datetime","labels":1}
-{"text":"hows the time in key largo","scenario":"datetime","labels":1}
-{"text":"which date is today","scenario":"datetime","labels":1}
-{"text":"what month is today","scenario":"datetime","labels":1}
-{"text":"date and time","scenario":"datetime","labels":1}
-{"text":"what time is it now in the eastern time zone","scenario":"datetime","labels":1}
-{"text":"does it fall a sunday on fifth december","scenario":"datetime","labels":1}
-{"text":"what time is it in tokyo japan","scenario":"datetime","labels":1}
-{"text":"now it's five thirty pm in india what about the time in ivory coast","scenario":"datetime","labels":0}
-{"text":"when is the next friday the thirteenth","scenario":"datetime","labels":1}
-{"text":"what is today's date","scenario":"datetime","labels":1}
-{"text":"what's today date","scenario":"datetime","labels":1}
-{"text":"one hundred thousand two hundred and seventeenth","scenario":"datetime","labels":1}
-{"text":"what time is it in sweden as we speak","scenario":"datetime","labels":1}
-{"text":"if it's eight pm on the east coast what time is it in sacramento california","scenario":"datetime","labels":0}
-{"text":"what's the time in tampa","scenario":"datetime","labels":1}
-{"text":"what is the current date in india","scenario":"datetime","labels":1}
-{"text":"what time is twelve pm eastern time in pacific time","scenario":"datetime","labels":0}
-{"text":"what is the date two saturdays from now","scenario":"datetime","labels":1}
-{"text":"what day is the fifteenth","scenario":"datetime","labels":1}
-{"text":"what day of the week is the twenty seventh","scenario":"datetime","labels":1}
-{"text":"eight am manila time is what in eastern time","scenario":"datetime","labels":0}
-{"text":"what day of the week is the twenty first of may","scenario":"datetime","labels":1}
-{"text":"can you tell me what time is it in new york","scenario":"datetime","labels":1}
-{"text":"what time is it in dubai","scenario":"datetime","labels":1}
-{"text":"Current time in cpt","scenario":"datetime","labels":1}
-{"text":"change this time to ist","scenario":"datetime","labels":0}
-{"text":"is today the fourth or the fifth","scenario":"datetime","labels":1}
-{"text":"let me know today's date in american format","scenario":"datetime","labels":1}
-{"text":"give me date","scenario":"datetime","labels":1}
-{"text":"what date is it today","scenario":"datetime","labels":1}
-{"text":"current time in","scenario":"datetime","labels":1}
-{"text":"please alert me to the time","scenario":"datetime","labels":1}
-{"text":"what time is it in austin","scenario":"datetime","labels":1}
-{"text":"Hey olly what time is it","scenario":"datetime","labels":1}
-{"text":"will you tell me what time it is in cloverdale indiana","scenario":"datetime","labels":1}
-{"text":"please show me today's date","scenario":"datetime","labels":1}
-{"text":"is twenty first of the week is saturday","scenario":"datetime","labels":1}
-{"text":"switch to eastern time zone","scenario":"datetime","labels":0}
-{"text":"how late am i","scenario":"datetime","labels":1}
-{"text":"what day of the week is the twenty third of this month","scenario":"datetime","labels":1}
-{"text":"what time is it in california","scenario":"datetime","labels":1}
-{"text":"give me the date of monday on third week of this month","scenario":"datetime","labels":1}
-{"text":"can i get the time","scenario":"datetime","labels":1}
-{"text":"what day of the month is fat Tuesday","scenario":"datetime","labels":1}
-{"text":"what time is it in dallas","scenario":"datetime","labels":1}
-{"text":"can you tell how many hours of difference are between boston and los angeles","scenario":"datetime","labels":0}
-{"text":"tell me what day of the week it is","scenario":"datetime","labels":1}
-{"text":"can you tell me the time","scenario":"datetime","labels":1}
-{"text":"convert eight thirty from gtm four to g. m. t. five thirty","scenario":"datetime","labels":0}
-{"text":"what time is it in beijing","scenario":"datetime","labels":1}
-{"text":"please check the time","scenario":"datetime","labels":1}
-{"text":"olly what time is it in san diego","scenario":"datetime","labels":1}
-{"text":"do you know what day it is","scenario":"datetime","labels":1}
-{"text":"hey what time is it in orlando florida","scenario":"datetime","labels":1}
-{"text":"the second of next mont lands on what day","scenario":"datetime","labels":1}
-{"text":"convert twenty one thirty from gtm four to g. m. t. four thirty","scenario":"datetime","labels":0}
-{"text":"what is the time in india right now","scenario":"datetime","labels":1}
-{"text":"what day is december thirteenth","scenario":"datetime","labels":1}
-{"text":"what day of the week does july fourth fall on this year","scenario":"datetime","labels":1}
-{"text":"convert time zone","scenario":"datetime","labels":0}
-{"text":"is april fifteenth on a weekend","scenario":"datetime","labels":1}
-{"text":"what day is halloween this year","scenario":"datetime","labels":1}
-{"text":"tell me the time in tokyo","scenario":"datetime","labels":1}
-{"text":"do you have the time","scenario":"datetime","labels":1}
-{"text":"what day of the month is next tuesday","scenario":"datetime","labels":1}
-{"text":"is the time currently correct for where i am located","scenario":"datetime","labels":1}
-{"text":"one hundred and fifty thousand two hundred and seventeenth","scenario":"datetime","labels":1}
-{"text":"please tell me what is the time in sanfranscio","scenario":"datetime","labels":1}
-{"text":"what is the time in ajmer","scenario":"datetime","labels":1}
-{"text":"if it's midnight in colorado what time is it in munich","scenario":"datetime","labels":0}
-{"text":"what time is it in singapore","scenario":"datetime","labels":1}
-{"text":"what day is the fifth","scenario":"datetime","labels":1}
-{"text":"what day of the week is the twenty sixth","scenario":"datetime","labels":1}
-{"text":"what time is it in chicago right now","scenario":"datetime","labels":1}
-{"text":"what time is it right now in new york","scenario":"datetime","labels":1}
-{"text":"what hour is it in new york now","scenario":"datetime","labels":1}
-{"text":"is the twenty third on the weekend","scenario":"datetime","labels":1}
-{"text":"what day of the week is valentines on","scenario":"datetime","labels":1}
-{"text":"what time and day is it today","scenario":"datetime","labels":1}
-{"text":"was christmas one thousand nine hundred and seventy two on a weekend","scenario":"datetime","labels":1}
-{"text":"what is the current date time group","scenario":"datetime","labels":1}
-{"text":"when does twenty fourth come in the next week","scenario":"datetime","labels":1}
-{"text":"tell me the time in moscow","scenario":"datetime","labels":1}
-{"text":"hey what's the current time in austin","scenario":"datetime","labels":1}
-{"text":"how many muhurtham in this month","scenario":"datetime","labels":1}
-{"text":"what is today's current date","scenario":"datetime","labels":1}
-{"text":"what is the time now","scenario":"datetime","labels":1}
-{"text":"what's the current time in orlando fl","scenario":"datetime","labels":1}
-{"text":"show time in china","scenario":"datetime","labels":1}
-{"text":"current time in ny","scenario":"datetime","labels":1}
-{"text":"can you tell me the current time","scenario":"datetime","labels":1}
-{"text":"report the time in miami","scenario":"datetime","labels":1}
-{"text":"today is what date","scenario":"datetime","labels":1}
-{"text":"tell me the date today","scenario":"datetime","labels":1}
-{"text":"what hour now","scenario":"datetime","labels":1}
-{"text":"what is the current time in new york","scenario":"datetime","labels":1}
-{"text":"march tenth lands on what day of the week","scenario":"datetime","labels":1}
-{"text":"todays a lovely day what the date","scenario":"datetime","labels":1}
-{"text":"give me the time in sydney australia","scenario":"datetime","labels":1}
-{"text":"what time is it in mountain time zone","scenario":"datetime","labels":1}
-{"text":"tell me current time at new york","scenario":"datetime","labels":1}
-{"text":"how many hours remaining for mid noon","scenario":"datetime","labels":1}
-{"text":"tell me the current time in central time","scenario":"datetime","labels":1}
-{"text":"what is the time now in san diego","scenario":"datetime","labels":1}
-{"text":"what is the current time right now","scenario":"datetime","labels":1}
-{"text":"i need the time of day","scenario":"datetime","labels":1}
-{"text":"what is the time difference between eastern time and pacific time","scenario":"datetime","labels":0}
-{"text":"what time is it in london","scenario":"datetime","labels":1}
-{"text":"could you please tell me what the current time is","scenario":"datetime","labels":1}
-{"text":"what day of the week does the twenty second fall on this month","scenario":"datetime","labels":1}
-{"text":"what time is it in toronto","scenario":"datetime","labels":1}
-{"text":"whats the time in chicago","scenario":"datetime","labels":1}
-{"text":"what is the time in zimbabwe right now","scenario":"datetime","labels":1}
-{"text":"tell me the time in london england","scenario":"datetime","labels":1}
-{"text":"is it five yet","scenario":"datetime","labels":1}
-{"text":"show me the time","scenario":"datetime","labels":1}
-{"text":"given it is four thirty five pm in london what time is it in melbourne","scenario":"datetime","labels":0}
-{"text":"current time in london","scenario":"datetime","labels":1}
-{"text":"what day today","scenario":"datetime","labels":1}
-{"text":"what time is it in moscow now","scenario":"datetime","labels":1}
-{"text":"what time is it in the central time zone","scenario":"datetime","labels":1}
-{"text":"what is the time in paris","scenario":"datetime","labels":1}
-{"text":"convert seven hundred and thirty from g. m. t. three hundred and thirty to g. m. t. plus four hundred","scenario":"datetime","labels":0}
-{"text":"what's the time in dubai","scenario":"datetime","labels":1}
-{"text":"how many minutes pass four pm","scenario":"datetime","labels":1}
-{"text":"today's date","scenario":"datetime","labels":1}
-{"text":"what day of the week is twenty first","scenario":"datetime","labels":1}
-{"text":"tell me what time it currently is","scenario":"datetime","labels":1}
-{"text":"is it second Saturday on twelfth","scenario":"datetime","labels":1}
-{"text":"whats the date","scenario":"datetime","labels":1}
-{"text":"what is the time difference between california and new york","scenario":"datetime","labels":0}
-{"text":"what is the current date today","scenario":"datetime","labels":1}
-{"text":"what day of the week is november fourteenth","scenario":"datetime","labels":1}
-{"text":"time please","scenario":"datetime","labels":1}
-{"text":"is it ten","scenario":"datetime","labels":1}
-{"text":"please give me the date today","scenario":"datetime","labels":1}
-{"text":"can you tell me the time in new york","scenario":"datetime","labels":1}
-{"text":"what is the date of next saturday","scenario":"datetime","labels":1}
-{"text":"convert one thousand and thirty from g. m. t. plus two hundred and thirty to g. m. t. zero hundred","scenario":"datetime","labels":0}
-{"text":"how much in the clock","scenario":"datetime","labels":1}
-{"text":"what time is it in mountain standard time","scenario":"datetime","labels":1}
-{"text":"whats the day today","scenario":"datetime","labels":1}
-{"text":"what time is it now in g. m. t.","scenario":"datetime","labels":1}
-{"text":"what is the time in the mountain time zone","scenario":"datetime","labels":1}
-{"text":"date","scenario":"datetime","labels":1}
-{"text":"time difference between uk and us","scenario":"datetime","labels":0}
-{"text":"is it twentieth march today","scenario":"datetime","labels":1}
-{"text":"show me the current date today","scenario":"datetime","labels":1}
-{"text":"current date time","scenario":"datetime","labels":1}
-{"text":"what time is it in this city","scenario":"datetime","labels":1}
-{"text":"what time does the match start","scenario":"datetime","labels":1}
-{"text":"can i know whats the time now","scenario":"datetime","labels":1}
-{"text":"which day is friday the thirteenth this year","scenario":"datetime","labels":1}
-{"text":"what time is it in dooa","scenario":"datetime","labels":1}
-{"text":"when is the next month that has thirty one days","scenario":"datetime","labels":1}
-{"text":"what is the time in chicago","scenario":"datetime","labels":1}
-{"text":"Current time in g. m. t.","scenario":"datetime","labels":1}
-{"text":"abhi kitna time ho raha hai","scenario":"datetime","labels":1}
-{"text":"what time can i call from pennsylvania and it will be business hours in australia","scenario":"datetime","labels":0}
-{"text":"tell me the current time in san paulo brazil","scenario":"datetime","labels":1}
-{"text":"what is the time in boston","scenario":"datetime","labels":1}
-{"text":"what day does april sixteenth fall on","scenario":"datetime","labels":1}
-{"text":"could you please tell me what time is in singapore","scenario":"datetime","labels":1}
-{"text":"what could be the time in india","scenario":"datetime","labels":1}
-{"text":"can you tell me the time at san francisco","scenario":"datetime","labels":1}
-{"text":"what's the date","scenario":"datetime","labels":1}
-{"text":"hey what time is it in dallas texas","scenario":"datetime","labels":1}
-{"text":"i want to know what time it is","scenario":"datetime","labels":1}
-{"text":"tell me the time","scenario":"datetime","labels":1}
-{"text":"what is today's day","scenario":"datetime","labels":1}
-{"text":"is the twenty second a tuesday","scenario":"datetime","labels":1}
-{"text":"what day is it on fifth december","scenario":"datetime","labels":1}
-{"text":"tell me which time is it in new york","scenario":"datetime","labels":1}
-{"text":"show me what time it is","scenario":"datetime","labels":1}
-{"text":"uae time","scenario":"datetime","labels":1}
-{"text":"say the time","scenario":"datetime","labels":1}
-{"text":"what time is it in a city","scenario":"datetime","labels":1}
-{"text":"what day is it today","scenario":"datetime","labels":1}
-{"text":"is today's date the ninth","scenario":"datetime","labels":1}
-{"text":"what time is it in chicago","scenario":"datetime","labels":1}
-{"text":"what's time","scenario":"datetime","labels":1}
-{"text":"todays date","scenario":"datetime","labels":1}
-{"text":"what day of the week was december four one thousand nine hundred and eighty two","scenario":"datetime","labels":1}
-{"text":"which time zone are we in please change to current","scenario":"datetime","labels":0}
-{"text":"eight am in manila is what in new york","scenario":"datetime","labels":0}
-{"text":"what is date today","scenario":"datetime","labels":1}
-{"text":"ten past seven","scenario":"datetime","labels":1}
-{"text":"time now in new york","scenario":"datetime","labels":1}
-{"text":"what is the current eastern time","scenario":"datetime","labels":1}
-{"text":"what's the current time in new york","scenario":"datetime","labels":1}
-{"text":"how many hours remaining to reach midnight in city","scenario":"datetime","labels":1}
-{"text":"how much later is new york than la","scenario":"datetime","labels":0}
-{"text":"what is the date of the last sunday in the month","scenario":"datetime","labels":1}
-{"text":"what's the date of the winter solstice two years from now","scenario":"datetime","labels":1}
-{"text":"what time is it in des moines","scenario":"datetime","labels":1}
-{"text":"what day of the week is thanksgiving","scenario":"datetime","labels":1}
-{"text":"the last friday of the month lands on what day","scenario":"datetime","labels":1}
-{"text":"what date is today","scenario":"datetime","labels":1}
-{"text":"what time is it in hong kong","scenario":"datetime","labels":1}
-{"text":"how many weeks are left for christmas","scenario":"datetime","labels":1}
-{"text":"what's the date is currently","scenario":"datetime","labels":1}
-{"text":"what is the current day month and year","scenario":"datetime","labels":1}
-{"text":"if i was in the eastern time zone what time would it be","scenario":"datetime","labels":0}
-{"text":"tell me a date","scenario":"datetime","labels":1}
-{"text":"what time in las vegas","scenario":"datetime","labels":1}
-{"text":"what is the time in the eastern time zone","scenario":"datetime","labels":1}
-{"text":"what day of the week is the twenty fifth","scenario":"datetime","labels":1}
-{"text":"it is seven am in pacific standard time","scenario":"datetime","labels":0}
-{"text":"can i get the current time","scenario":"datetime","labels":1}
-{"text":"convert usa time in to indian time","scenario":"datetime","labels":0}
-{"text":"what is today","scenario":"datetime","labels":1}
-{"text":"what is the time in china","scenario":"datetime","labels":1}
-{"text":"it's eight at night in france what time is it in new york","scenario":"datetime","labels":0}
-{"text":"is the time different in moscow","scenario":"datetime","labels":1}
-{"text":"what is the time in paris","scenario":"datetime","labels":1}
-{"text":"current time new york","scenario":"datetime","labels":1}
-{"text":"what day does my birthday fall on this year","scenario":"datetime","labels":1}
-{"text":"hey what's today's date","scenario":"datetime","labels":1}
-{"text":"what is the current mountain time","scenario":"datetime","labels":1}
-{"text":"when is the twenty second","scenario":"datetime","labels":1}
-{"text":"what day of the week is september twelve of this year","scenario":"datetime","labels":1}
-{"text":"which date is on next monday","scenario":"datetime","labels":1}
-{"text":"is it Monday today","scenario":"datetime","labels":1}
-{"text":"tell me the current time","scenario":"datetime","labels":1}
-{"text":"what's the time of day right now","scenario":"datetime","labels":1}
-{"text":"what day of the week is june twenty seventh on this year","scenario":"datetime","labels":1}
-{"text":"tell me today's date","scenario":"datetime","labels":1}
-{"text":"what time is it in another city","scenario":"datetime","labels":1}
-{"text":"what is the time central","scenario":"datetime","labels":1}
-{"text":"ten million, twenty two thousand and seventeen","scenario":"datetime","labels":1}
-{"text":"tell me the today's date","scenario":"datetime","labels":1}
-{"text":"is it the twenty ninth already","scenario":"datetime","labels":1}
-{"text":"what time zone is belarus in","scenario":"datetime","labels":1}
-{"text":"what is the time in las vegas","scenario":"datetime","labels":1}
-{"text":"how many days until march thirty","scenario":"datetime","labels":1}
-{"text":"what date is easter sunday this year","scenario":"datetime","labels":1}
-{"text":"is the eighteenth a monday or a sunday","scenario":"datetime","labels":1}
-{"text":"the twenty second is on what day of the week","scenario":"datetime","labels":1}
-{"text":"what time zone is arizona","scenario":"datetime","labels":1}
-{"text":"what is the current pacific time","scenario":"datetime","labels":1}
-{"text":"can you tell me the time it is","scenario":"datetime","labels":1}
-{"text":"what day does easter fall on","scenario":"datetime","labels":1}
-{"text":"be my clock","scenario":"datetime","labels":1}
-{"text":"five hundred","scenario":"datetime","labels":0}
-{"text":"what is the first friday of next month","scenario":"datetime","labels":1}
-{"text":"what time is it in central standard time","scenario":"datetime","labels":1}
-{"text":"time in chicago","scenario":"datetime","labels":1}
-{"text":"what day does easter fall on this year","scenario":"datetime","labels":1}
-{"text":"convert eastern time to western time","scenario":"datetime","labels":0}
-{"text":"time between us and canada","scenario":"datetime","labels":0}
-{"text":"what's the time now in new delhi","scenario":"datetime","labels":1}
-{"text":"how many hours difference is hong kong from new york city","scenario":"datetime","labels":0}
-{"text":"i need to know what is the date today","scenario":"datetime","labels":1}
-{"text":"what is ten am in eastern time","scenario":"datetime","labels":1}
-{"text":"what time is it in atlanta","scenario":"datetime","labels":1}
-{"text":"can you tell me current time","scenario":"datetime","labels":1}
-{"text":"can you tell me the current time in dallas texas","scenario":"datetime","labels":1}
-{"text":"what is the time difference between india and ivory coast","scenario":"datetime","labels":0}
-{"text":"what day is it","scenario":"datetime","labels":1}
-{"text":"what day is the twenty second of may","scenario":"datetime","labels":1}
-{"text":"what's the time now","scenario":"datetime","labels":1}
-{"text":"five million, twenty two thousand and seventeen","scenario":"datetime","labels":1}
-{"text":"show me boston's current time","scenario":"datetime","labels":1}
-{"text":"tell me the time in canberra","scenario":"datetime","labels":1}
-{"text":"how many hours distance is between my location and new york","scenario":"datetime","labels":0}
-{"text":"what time is it in switzerland","scenario":"datetime","labels":1}
-{"text":"how many seconds are left to complete this hour","scenario":"datetime","labels":1}
-{"text":"what is the current date","scenario":"datetime","labels":1}
-{"text":"please tell me the current date","scenario":"datetime","labels":1}
-{"text":"time zone between india and us","scenario":"datetime","labels":0}
-{"text":"what week of the year does the summer season start","scenario":"datetime","labels":1}
-{"text":"please change time zone to canada","scenario":"datetime","labels":0}
-{"text":"please give me today's date","scenario":"datetime","labels":1}
-{"text":"what time is it on the east coast of the united states","scenario":"datetime","labels":1}
-{"text":"please provide current time in india","scenario":"datetime","labels":1}
-{"text":"time wellington nz","scenario":"datetime","labels":1}
-{"text":"what is mondays actual date","scenario":"datetime","labels":1}
-{"text":"if it is noon in virginia what time is it in california","scenario":"datetime","labels":0}
-{"text":"give me the time in washington","scenario":"datetime","labels":1}
-{"text":"could you tell me what time it is","scenario":"datetime","labels":1}
-{"text":"on what date is easter this year","scenario":"datetime","labels":1}
-{"text":"show me the time in new york city","scenario":"datetime","labels":1}
-{"text":"what is the time difference between pacific and central","scenario":"datetime","labels":0}
-{"text":"what time is it in new york city","scenario":"datetime","labels":1}
-{"text":"what is the current time in california","scenario":"datetime","labels":1}
-{"text":"change the time zone from irish time zone to moscow time zone","scenario":"datetime","labels":0}
-{"text":"today is monday is it","scenario":"datetime","labels":1}
-{"text":"update to current time","scenario":"datetime","labels":1}
-{"text":"if it's ten pm in california what time is it in alabama","scenario":"datetime","labels":0}
-{"text":"what is current time","scenario":"datetime","labels":1}
-{"text":"what is the time in new york","scenario":"datetime","labels":1}
-{"text":"what is the time in la","scenario":"datetime","labels":1}
-{"text":"what is the time in the midwest right now","scenario":"datetime","labels":1}
-{"text":"please convert nine am cst to est time","scenario":"datetime","labels":0}
-{"text":"it is ten am in eastern standard time what time it is now it pacific standard time","scenario":"datetime","labels":0}
-{"text":"how many days are in february","scenario":"datetime","labels":1}
-{"text":"what's the time","scenario":"datetime","labels":1}
-{"text":"what is the date for next tuesday","scenario":"datetime","labels":1}
-{"text":"tell me what time it is right now","scenario":"datetime","labels":1}
-{"text":"what time is time","scenario":"datetime","labels":1}
-{"text":"what time is it right now","scenario":"datetime","labels":1}
-{"text":"it's eight fifty five here what time is it in england","scenario":"datetime","labels":0}
-{"text":"what is the date for the following monday","scenario":"datetime","labels":1}
-{"text":"what is my current time","scenario":"datetime","labels":1}
-{"text":"can you change my time zone to central","scenario":"datetime","labels":0}
-{"text":"give me the time","scenario":"datetime","labels":1}
-{"text":"what is the current time in chennai","scenario":"datetime","labels":1}
+{"sentence":"what is the month day and year","label":1,"idx":0}
+{"sentence":"what does the clock say","label":1,"idx":1}
+{"sentence":"what is the time in beijing","label":1,"idx":2}
+{"sentence":"convert one oh two from gtm four thirty to g. m. t. one thirty","label":0,"idx":3}
+{"sentence":"which day is march twenty","label":1,"idx":4}
+{"sentence":"whats the time","label":1,"idx":5}
+{"sentence":"what year is it","label":1,"idx":6}
+{"sentence":"can you tell me what the date is today","label":1,"idx":7}
+{"sentence":"may twenty two is my birthdate and i want to know the what day is twenty third may","label":1,"idx":8}
+{"sentence":"is it time in peru","label":1,"idx":9}
+{"sentence":"which day of week is the twenty fourth","label":1,"idx":10}
+{"sentence":"what day of the week does christmas fall on this year","label":1,"idx":11}
+{"sentence":"please let me know today's date","label":1,"idx":12}
+{"sentence":"is it noon in paris","label":1,"idx":13}
+{"sentence":"what time is it in the other time zones","label":1,"idx":14}
+{"sentence":"what is the nine am cst to est","label":0,"idx":15}
+{"sentence":"when is the third monday of this month","label":1,"idx":16}
+{"sentence":"it is nine here what time is it in california","label":0,"idx":17}
+{"sentence":"what's the time for neighboring city","label":1,"idx":18}
+{"sentence":"what time is it in london right now","label":1,"idx":19}
+{"sentence":"what would be the current time in ivory coast","label":1,"idx":20}
+{"sentence":"announce the current time","label":1,"idx":21}
+{"sentence":"what is the time in london now","label":1,"idx":22}
+{"sentence":"time in new york","label":1,"idx":23}
+{"sentence":"display date","label":1,"idx":24}
+{"sentence":"twenty second april day","label":1,"idx":25}
+{"sentence":"time left for ten am","label":1,"idx":26}
+{"sentence":"what is the time in london right now","label":1,"idx":27}
+{"sentence":"please let me know the current time at new delhi","label":1,"idx":28}
+{"sentence":"date in new york","label":1,"idx":29}
+{"sentence":"what is it today","label":1,"idx":30}
+{"sentence":"how many birthday's are on twenty third","label":1,"idx":31}
+{"sentence":"day on twenty second april","label":1,"idx":32}
+{"sentence":"what time is it in cleveland","label":1,"idx":33}
+{"sentence":"what the time difference from here to ottawa","label":0,"idx":34}
+{"sentence":"is the twenty third of april a saturday","label":1,"idx":35}
+{"sentence":"chicago time","label":1,"idx":36}
+{"sentence":"what is the time in perth","label":1,"idx":37}
+{"sentence":"what is the last day of the month","label":1,"idx":38}
+{"sentence":"current date","label":1,"idx":39}
+{"sentence":"show me the current time","label":1,"idx":40}
+{"sentence":"tell me the date","label":1,"idx":41}
+{"sentence":"would like to see the time zone","label":1,"idx":42}
+{"sentence":"convert g. m. t. to ist","label":0,"idx":43}
+{"sentence":"what time is it in new york","label":1,"idx":44}
+{"sentence":"hows the time in key largo","label":1,"idx":45}
+{"sentence":"which date is today","label":1,"idx":46}
+{"sentence":"what month is today","label":1,"idx":47}
+{"sentence":"date and time","label":1,"idx":48}
+{"sentence":"what time is it now in the eastern time zone","label":1,"idx":49}
+{"sentence":"does it fall a sunday on fifth december","label":1,"idx":50}
+{"sentence":"what time is it in tokyo japan","label":1,"idx":51}
+{"sentence":"now it's five thirty pm in india what about the time in ivory coast","label":0,"idx":52}
+{"sentence":"when is the next friday the thirteenth","label":1,"idx":53}
+{"sentence":"what is today's date","label":1,"idx":54}
+{"sentence":"what's today date","label":1,"idx":55}
+{"sentence":"one hundred thousand two hundred and seventeenth","label":1,"idx":56}
+{"sentence":"what time is it in sweden as we speak","label":1,"idx":57}
+{"sentence":"if it's eight pm on the east coast what time is it in sacramento california","label":0,"idx":58}
+{"sentence":"what's the time in tampa","label":1,"idx":59}
+{"sentence":"what is the current date in india","label":1,"idx":60}
+{"sentence":"what time is twelve pm eastern time in pacific time","label":0,"idx":61}
+{"sentence":"what is the date two saturdays from now","label":1,"idx":62}
+{"sentence":"what day is the fifteenth","label":1,"idx":63}
+{"sentence":"what day of the week is the twenty seventh","label":1,"idx":64}
+{"sentence":"eight am manila time is what in eastern time","label":0,"idx":65}
+{"sentence":"what day of the week is the twenty first of may","label":1,"idx":66}
+{"sentence":"can you tell me what time is it in new york","label":1,"idx":67}
+{"sentence":"what time is it in dubai","label":1,"idx":68}
+{"sentence":"Current time in cpt","label":1,"idx":69}
+{"sentence":"change this time to ist","label":0,"idx":70}
+{"sentence":"is today the fourth or the fifth","label":1,"idx":71}
+{"sentence":"let me know today's date in american format","label":1,"idx":72}
+{"sentence":"give me date","label":1,"idx":73}
+{"sentence":"what date is it today","label":1,"idx":74}
+{"sentence":"current time in","label":1,"idx":75}
+{"sentence":"please alert me to the time","label":1,"idx":76}
+{"sentence":"what time is it in austin","label":1,"idx":77}
+{"sentence":"Hey olly what time is it","label":1,"idx":78}
+{"sentence":"will you tell me what time it is in cloverdale indiana","label":1,"idx":79}
+{"sentence":"please show me today's date","label":1,"idx":80}
+{"sentence":"is twenty first of the week is saturday","label":1,"idx":81}
+{"sentence":"switch to eastern time zone","label":0,"idx":82}
+{"sentence":"how late am i","label":1,"idx":83}
+{"sentence":"what day of the week is the twenty third of this month","label":1,"idx":84}
+{"sentence":"what time is it in california","label":1,"idx":85}
+{"sentence":"give me the date of monday on third week of this month","label":1,"idx":86}
+{"sentence":"can i get the time","label":1,"idx":87}
+{"sentence":"what day of the month is fat Tuesday","label":1,"idx":88}
+{"sentence":"what time is it in dallas","label":1,"idx":89}
+{"sentence":"can you tell how many hours of difference are between boston and los angeles","label":0,"idx":90}
+{"sentence":"tell me what day of the week it is","label":1,"idx":91}
+{"sentence":"can you tell me the time","label":1,"idx":92}
+{"sentence":"convert eight thirty from gtm four to g. m. t. five thirty","label":0,"idx":93}
+{"sentence":"what time is it in beijing","label":1,"idx":94}
+{"sentence":"please check the time","label":1,"idx":95}
+{"sentence":"olly what time is it in san diego","label":1,"idx":96}
+{"sentence":"do you know what day it is","label":1,"idx":97}
+{"sentence":"hey what time is it in orlando florida","label":1,"idx":98}
+{"sentence":"the second of next mont lands on what day","label":1,"idx":99}
+{"sentence":"convert twenty one thirty from gtm four to g. m. t. four thirty","label":0,"idx":100}
+{"sentence":"what is the time in india right now","label":1,"idx":101}
+{"sentence":"what day is december thirteenth","label":1,"idx":102}
+{"sentence":"what day of the week does july fourth fall on this year","label":1,"idx":103}
+{"sentence":"convert time zone","label":0,"idx":104}
+{"sentence":"is april fifteenth on a weekend","label":1,"idx":105}
+{"sentence":"what day is halloween this year","label":1,"idx":106}
+{"sentence":"tell me the time in tokyo","label":1,"idx":107}
+{"sentence":"do you have the time","label":1,"idx":108}
+{"sentence":"what day of the month is next tuesday","label":1,"idx":109}
+{"sentence":"is the time currently correct for where i am located","label":1,"idx":110}
+{"sentence":"one hundred and fifty thousand two hundred and seventeenth","label":1,"idx":111}
+{"sentence":"please tell me what is the time in sanfranscio","label":1,"idx":112}
+{"sentence":"what is the time in ajmer","label":1,"idx":113}
+{"sentence":"if it's midnight in colorado what time is it in munich","label":0,"idx":114}
+{"sentence":"what time is it in singapore","label":1,"idx":115}
+{"sentence":"what day is the fifth","label":1,"idx":116}
+{"sentence":"what day of the week is the twenty sixth","label":1,"idx":117}
+{"sentence":"what time is it in chicago right now","label":1,"idx":118}
+{"sentence":"what time is it right now in new york","label":1,"idx":119}
+{"sentence":"what hour is it in new york now","label":1,"idx":120}
+{"sentence":"is the twenty third on the weekend","label":1,"idx":121}
+{"sentence":"what day of the week is valentines on","label":1,"idx":122}
+{"sentence":"what time and day is it today","label":1,"idx":123}
+{"sentence":"was christmas one thousand nine hundred and seventy two on a weekend","label":1,"idx":124}
+{"sentence":"what is the current date time group","label":1,"idx":125}
+{"sentence":"when does twenty fourth come in the next week","label":1,"idx":126}
+{"sentence":"tell me the time in moscow","label":1,"idx":127}
+{"sentence":"hey what's the current time in austin","label":1,"idx":128}
+{"sentence":"how many muhurtham in this month","label":1,"idx":129}
+{"sentence":"what is today's current date","label":1,"idx":130}
+{"sentence":"what is the time now","label":1,"idx":131}
+{"sentence":"what's the current time in orlando fl","label":1,"idx":132}
+{"sentence":"show time in china","label":1,"idx":133}
+{"sentence":"current time in ny","label":1,"idx":134}
+{"sentence":"can you tell me the current time","label":1,"idx":135}
+{"sentence":"report the time in miami","label":1,"idx":136}
+{"sentence":"today is what date","label":1,"idx":137}
+{"sentence":"tell me the date today","label":1,"idx":138}
+{"sentence":"what hour now","label":1,"idx":139}
+{"sentence":"what is the current time in new york","label":1,"idx":140}
+{"sentence":"march tenth lands on what day of the week","label":1,"idx":141}
+{"sentence":"todays a lovely day what the date","label":1,"idx":142}
+{"sentence":"give me the time in sydney australia","label":1,"idx":143}
+{"sentence":"what time is it in mountain time zone","label":1,"idx":144}
+{"sentence":"tell me current time at new york","label":1,"idx":145}
+{"sentence":"how many hours remaining for mid noon","label":1,"idx":146}
+{"sentence":"tell me the current time in central time","label":1,"idx":147}
+{"sentence":"what is the time now in san diego","label":1,"idx":148}
+{"sentence":"what is the current time right now","label":1,"idx":149}
+{"sentence":"i need the time of day","label":1,"idx":150}
+{"sentence":"what is the time difference between eastern time and pacific time","label":0,"idx":151}
+{"sentence":"what time is it in london","label":1,"idx":152}
+{"sentence":"could you please tell me what the current time is","label":1,"idx":153}
+{"sentence":"what day of the week does the twenty second fall on this month","label":1,"idx":154}
+{"sentence":"what time is it in toronto","label":1,"idx":155}
+{"sentence":"whats the time in chicago","label":1,"idx":156}
+{"sentence":"what is the time in zimbabwe right now","label":1,"idx":157}
+{"sentence":"tell me the time in london england","label":1,"idx":158}
+{"sentence":"is it five yet","label":1,"idx":159}
+{"sentence":"show me the time","label":1,"idx":160}
+{"sentence":"given it is four thirty five pm in london what time is it in melbourne","label":0,"idx":161}
+{"sentence":"current time in london","label":1,"idx":162}
+{"sentence":"what day today","label":1,"idx":163}
+{"sentence":"what time is it in moscow now","label":1,"idx":164}
+{"sentence":"what time is it in the central time zone","label":1,"idx":165}
+{"sentence":"what is the time in paris","label":1,"idx":166}
+{"sentence":"convert seven hundred and thirty from g. m. t. three hundred and thirty to g. m. t. plus four hundred","label":0,"idx":167}
+{"sentence":"what's the time in dubai","label":1,"idx":168}
+{"sentence":"how many minutes pass four pm","label":1,"idx":169}
+{"sentence":"today's date","label":1,"idx":170}
+{"sentence":"what day of the week is twenty first","label":1,"idx":171}
+{"sentence":"tell me what time it currently is","label":1,"idx":172}
+{"sentence":"is it second Saturday on twelfth","label":1,"idx":173}
+{"sentence":"whats the date","label":1,"idx":174}
+{"sentence":"what is the time difference between california and new york","label":0,"idx":175}
+{"sentence":"what is the current date today","label":1,"idx":176}
+{"sentence":"what day of the week is november fourteenth","label":1,"idx":177}
+{"sentence":"time please","label":1,"idx":178}
+{"sentence":"is it ten","label":1,"idx":179}
+{"sentence":"please give me the date today","label":1,"idx":180}
+{"sentence":"can you tell me the time in new york","label":1,"idx":181}
+{"sentence":"what is the date of next saturday","label":1,"idx":182}
+{"sentence":"convert one thousand and thirty from g. m. t. plus two hundred and thirty to g. m. t. zero hundred","label":0,"idx":183}
+{"sentence":"how much in the clock","label":1,"idx":184}
+{"sentence":"what time is it in mountain standard time","label":1,"idx":185}
+{"sentence":"whats the day today","label":1,"idx":186}
+{"sentence":"what time is it now in g. m. t.","label":1,"idx":187}
+{"sentence":"what is the time in the mountain time zone","label":1,"idx":188}
+{"sentence":"date","label":1,"idx":189}
+{"sentence":"time difference between uk and us","label":0,"idx":190}
+{"sentence":"is it twentieth march today","label":1,"idx":191}
+{"sentence":"show me the current date today","label":1,"idx":192}
+{"sentence":"current date time","label":1,"idx":193}
+{"sentence":"what time is it in this city","label":1,"idx":194}
+{"sentence":"what time does the match start","label":1,"idx":195}
+{"sentence":"can i know whats the time now","label":1,"idx":196}
+{"sentence":"which day is friday the thirteenth this year","label":1,"idx":197}
+{"sentence":"what time is it in dooa","label":1,"idx":198}
+{"sentence":"when is the next month that has thirty one days","label":1,"idx":199}
+{"sentence":"what is the time in chicago","label":1,"idx":200}
+{"sentence":"Current time in g. m. t.","label":1,"idx":201}
+{"sentence":"abhi kitna time ho raha hai","label":1,"idx":202}
+{"sentence":"what time can i call from pennsylvania and it will be business hours in australia","label":0,"idx":203}
+{"sentence":"tell me the current time in san paulo brazil","label":1,"idx":204}
+{"sentence":"what is the time in boston","label":1,"idx":205}
+{"sentence":"what day does april sixteenth fall on","label":1,"idx":206}
+{"sentence":"could you please tell me what time is in singapore","label":1,"idx":207}
+{"sentence":"what could be the time in india","label":1,"idx":208}
+{"sentence":"can you tell me the time at san francisco","label":1,"idx":209}
+{"sentence":"what's the date","label":1,"idx":210}
+{"sentence":"hey what time is it in dallas texas","label":1,"idx":211}
+{"sentence":"i want to know what time it is","label":1,"idx":212}
+{"sentence":"tell me the time","label":1,"idx":213}
+{"sentence":"what is today's day","label":1,"idx":214}
+{"sentence":"is the twenty second a tuesday","label":1,"idx":215}
+{"sentence":"what day is it on fifth december","label":1,"idx":216}
+{"sentence":"tell me which time is it in new york","label":1,"idx":217}
+{"sentence":"show me what time it is","label":1,"idx":218}
+{"sentence":"uae time","label":1,"idx":219}
+{"sentence":"say the time","label":1,"idx":220}
+{"sentence":"what time is it in a city","label":1,"idx":221}
+{"sentence":"what day is it today","label":1,"idx":222}
+{"sentence":"is today's date the ninth","label":1,"idx":223}
+{"sentence":"what time is it in chicago","label":1,"idx":224}
+{"sentence":"what's time","label":1,"idx":225}
+{"sentence":"todays date","label":1,"idx":226}
+{"sentence":"what day of the week was december four one thousand nine hundred and eighty two","label":1,"idx":227}
+{"sentence":"which time zone are we in please change to current","label":0,"idx":228}
+{"sentence":"eight am in manila is what in new york","label":0,"idx":229}
+{"sentence":"what is date today","label":1,"idx":230}
+{"sentence":"ten past seven","label":1,"idx":231}
+{"sentence":"time now in new york","label":1,"idx":232}
+{"sentence":"what is the current eastern time","label":1,"idx":233}
+{"sentence":"what's the current time in new york","label":1,"idx":234}
+{"sentence":"how many hours remaining to reach midnight in city","label":1,"idx":235}
+{"sentence":"how much later is new york than la","label":0,"idx":236}
+{"sentence":"what is the date of the last sunday in the month","label":1,"idx":237}
+{"sentence":"what's the date of the winter solstice two years from now","label":1,"idx":238}
+{"sentence":"what time is it in des moines","label":1,"idx":239}
+{"sentence":"what day of the week is thanksgiving","label":1,"idx":240}
+{"sentence":"the last friday of the month lands on what day","label":1,"idx":241}
+{"sentence":"what date is today","label":1,"idx":242}
+{"sentence":"what time is it in hong kong","label":1,"idx":243}
+{"sentence":"how many weeks are left for christmas","label":1,"idx":244}
+{"sentence":"what's the date is currently","label":1,"idx":245}
+{"sentence":"what is the current day month and year","label":1,"idx":246}
+{"sentence":"if i was in the eastern time zone what time would it be","label":0,"idx":247}
+{"sentence":"tell me a date","label":1,"idx":248}
+{"sentence":"what time in las vegas","label":1,"idx":249}
+{"sentence":"what is the time in the eastern time zone","label":1,"idx":250}
+{"sentence":"what day of the week is the twenty fifth","label":1,"idx":251}
+{"sentence":"it is seven am in pacific standard time","label":0,"idx":252}
+{"sentence":"can i get the current time","label":1,"idx":253}
+{"sentence":"convert usa time in to indian time","label":0,"idx":254}
+{"sentence":"what is today","label":1,"idx":255}
+{"sentence":"what is the time in china","label":1,"idx":256}
+{"sentence":"it's eight at night in france what time is it in new york","label":0,"idx":257}
+{"sentence":"is the time different in moscow","label":1,"idx":258}
+{"sentence":"what is the time in paris","label":1,"idx":259}
+{"sentence":"current time new york","label":1,"idx":260}
+{"sentence":"what day does my birthday fall on this year","label":1,"idx":261}
+{"sentence":"hey what's today's date","label":1,"idx":262}
+{"sentence":"what is the current mountain time","label":1,"idx":263}
+{"sentence":"when is the twenty second","label":1,"idx":264}
+{"sentence":"what day of the week is september twelve of this year","label":1,"idx":265}
+{"sentence":"which date is on next monday","label":1,"idx":266}
+{"sentence":"is it Monday today","label":1,"idx":267}
+{"sentence":"tell me the current time","label":1,"idx":268}
+{"sentence":"what's the time of day right now","label":1,"idx":269}
+{"sentence":"what day of the week is june twenty seventh on this year","label":1,"idx":270}
+{"sentence":"tell me today's date","label":1,"idx":271}
+{"sentence":"what time is it in another city","label":1,"idx":272}
+{"sentence":"what is the time central","label":1,"idx":273}
+{"sentence":"ten million, twenty two thousand and seventeen","label":1,"idx":274}
+{"sentence":"tell me the today's date","label":1,"idx":275}
+{"sentence":"is it the twenty ninth already","label":1,"idx":276}
+{"sentence":"what time zone is belarus in","label":1,"idx":277}
+{"sentence":"what is the time in las vegas","label":1,"idx":278}
+{"sentence":"how many days until march thirty","label":1,"idx":279}
+{"sentence":"what date is easter sunday this year","label":1,"idx":280}
+{"sentence":"is the eighteenth a monday or a sunday","label":1,"idx":281}
+{"sentence":"the twenty second is on what day of the week","label":1,"idx":282}
+{"sentence":"what time zone is arizona","label":1,"idx":283}
+{"sentence":"what is the current pacific time","label":1,"idx":284}
+{"sentence":"can you tell me the time it is","label":1,"idx":285}
+{"sentence":"what day does easter fall on","label":1,"idx":286}
+{"sentence":"be my clock","label":1,"idx":287}
+{"sentence":"five hundred","label":0,"idx":288}
+{"sentence":"what is the first friday of next month","label":1,"idx":289}
+{"sentence":"what time is it in central standard time","label":1,"idx":290}
+{"sentence":"time in chicago","label":1,"idx":291}
+{"sentence":"what day does easter fall on this year","label":1,"idx":292}
+{"sentence":"convert eastern time to western time","label":0,"idx":293}
+{"sentence":"time between us and canada","label":0,"idx":294}
+{"sentence":"what's the time now in new delhi","label":1,"idx":295}
+{"sentence":"how many hours difference is hong kong from new york city","label":0,"idx":296}
+{"sentence":"i need to know what is the date today","label":1,"idx":297}
+{"sentence":"what is ten am in eastern time","label":1,"idx":298}
+{"sentence":"what time is it in atlanta","label":1,"idx":299}
+{"sentence":"can you tell me current time","label":1,"idx":300}
+{"sentence":"can you tell me the current time in dallas texas","label":1,"idx":301}
+{"sentence":"what is the time difference between india and ivory coast","label":0,"idx":302}
+{"sentence":"what day is it","label":1,"idx":303}
+{"sentence":"what day is the twenty second of may","label":1,"idx":304}
+{"sentence":"what's the time now","label":1,"idx":305}
+{"sentence":"five million, twenty two thousand and seventeen","label":1,"idx":306}
+{"sentence":"show me boston's current time","label":1,"idx":307}
+{"sentence":"tell me the time in canberra","label":1,"idx":308}
+{"sentence":"how many hours distance is between my location and new york","label":0,"idx":309}
+{"sentence":"what time is it in switzerland","label":1,"idx":310}
+{"sentence":"how many seconds are left to complete this hour","label":1,"idx":311}
+{"sentence":"what is the current date","label":1,"idx":312}
+{"sentence":"please tell me the current date","label":1,"idx":313}
+{"sentence":"time zone between india and us","label":0,"idx":314}
+{"sentence":"what week of the year does the summer season start","label":1,"idx":315}
+{"sentence":"please change time zone to canada","label":0,"idx":316}
+{"sentence":"please give me today's date","label":1,"idx":317}
+{"sentence":"what time is it on the east coast of the united states","label":1,"idx":318}
+{"sentence":"please provide current time in india","label":1,"idx":319}
+{"sentence":"time wellington nz","label":1,"idx":320}
+{"sentence":"what is mondays actual date","label":1,"idx":321}
+{"sentence":"if it is noon in virginia what time is it in california","label":0,"idx":322}
+{"sentence":"give me the time in washington","label":1,"idx":323}
+{"sentence":"could you tell me what time it is","label":1,"idx":324}
+{"sentence":"on what date is easter this year","label":1,"idx":325}
+{"sentence":"show me the time in new york city","label":1,"idx":326}
+{"sentence":"what is the time difference between pacific and central","label":0,"idx":327}
+{"sentence":"what time is it in new york city","label":1,"idx":328}
+{"sentence":"what is the current time in california","label":1,"idx":329}
+{"sentence":"change the time zone from irish time zone to moscow time zone","label":0,"idx":330}
+{"sentence":"today is monday is it","label":1,"idx":331}
+{"sentence":"update to current time","label":1,"idx":332}
+{"sentence":"if it's ten pm in california what time is it in alabama","label":0,"idx":333}
+{"sentence":"what is current time","label":1,"idx":334}
+{"sentence":"what is the time in new york","label":1,"idx":335}
+{"sentence":"what is the time in la","label":1,"idx":336}
+{"sentence":"what is the time in the midwest right now","label":1,"idx":337}
+{"sentence":"please convert nine am cst to est time","label":0,"idx":338}
+{"sentence":"it is ten am in eastern standard time what time it is now it pacific standard time","label":0,"idx":339}
+{"sentence":"how many days are in february","label":1,"idx":340}
+{"sentence":"what's the time","label":1,"idx":341}
+{"sentence":"what is the date for next tuesday","label":1,"idx":342}
+{"sentence":"tell me what time it is right now","label":1,"idx":343}
+{"sentence":"what time is time","label":1,"idx":344}
+{"sentence":"what time is it right now","label":1,"idx":345}
+{"sentence":"it's eight fifty five here what time is it in england","label":0,"idx":346}
+{"sentence":"what is the date for the following monday","label":1,"idx":347}
+{"sentence":"what is my current time","label":1,"idx":348}
+{"sentence":"can you change my time zone to central","label":0,"idx":349}
+{"sentence":"give me the time","label":1,"idx":350}
+{"sentence":"what is the current time in chennai","label":1,"idx":351}

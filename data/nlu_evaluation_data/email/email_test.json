@@ -1,531 +1,531 @@
-{"text":"link john@gmail dot com to john in contacts","scenario":"email","labels":3}
-{"text":"how many unopened emails do i have right now","scenario":"email","labels":1}
-{"text":"read to me the email of john smith","scenario":"email","labels":1}
-{"text":"can you read my emails from rob","scenario":"email","labels":1}
-{"text":"please send an email to mom","scenario":"email","labels":3}
-{"text":"what's in my inbox since we last looked","scenario":"email","labels":1}
-{"text":"send this content via email","scenario":"email","labels":3}
-{"text":"answer the email","scenario":"email","labels":3}
-{"text":"report any new emails","scenario":"email","labels":1}
-{"text":"text an email to donna hey what are you doing today","scenario":"email","labels":3}
-{"text":"do i have any new emails from kellogg","scenario":"email","labels":1}
-{"text":"physical education drill marilyn","scenario":"email","labels":1}
-{"text":"search or any emails from work","scenario":"email","labels":1}
-{"text":"please send an email to sally regarding tomorrows meeting","scenario":"email","labels":3}
-{"text":"what is tom's phone number","scenario":"email","labels":2}
-{"text":"start email","scenario":"email","labels":3}
-{"text":"new email from brenda","scenario":"email","labels":1}
-{"text":"do i have emails","scenario":"email","labels":1}
-{"text":"open inbox to check unread mails","scenario":"email","labels":1}
-{"text":"i want to know if i have any emails with the subject line budget from eddie richards","scenario":"email","labels":1}
-{"text":"i'm back any new emails since i left","scenario":"email","labels":1}
-{"text":"check new emails from jim","scenario":"email","labels":1}
-{"text":"what is my most recent email","scenario":"email","labels":1}
-{"text":"send an email to alex and write thank you for your email regards andrew","scenario":"email","labels":3}
-{"text":"jane doe emails","scenario":"email","labels":1}
-{"text":"how many phone numbers do i have for brenden","scenario":"email","labels":2}
-{"text":"tell me who send the email about the boss yesterday","scenario":"email","labels":1}
-{"text":"email update","scenario":"email","labels":1}
-{"text":"check mail from jack","scenario":"email","labels":1}
-{"text":"send email to joseph@gmail dot com","scenario":"email","labels":3}
-{"text":"send an email to frank and ask them what the weather going to be like this week","scenario":"email","labels":3}
-{"text":"send an email to mom tell her i love you","scenario":"email","labels":3}
-{"text":"respond to my email from bob letting them know i'll see them tomorrow","scenario":"email","labels":3}
-{"text":"send mom an email to remind her to meet me for lunch today","scenario":"email","labels":3}
-{"text":"email jerry regarding the meeting","scenario":"email","labels":3}
-{"text":"locate information on john smith about his work location","scenario":"email","labels":2}
-{"text":"forward email address to my new email","scenario":"email","labels":3}
-{"text":"any mail marked as important","scenario":"email","labels":1}
-{"text":"please give me my emails","scenario":"email","labels":1}
-{"text":"how many contacts are there named john","scenario":"email","labels":2}
-{"text":"any emails","scenario":"email","labels":1}
-{"text":"did marckel replied to me on mail","scenario":"email","labels":1}
-{"text":"create an email to my brother asking him what time he will be over for dinner","scenario":"email","labels":3}
-{"text":"has cassie sent me any emails about tom","scenario":"email","labels":1}
-{"text":"what is the first five subjects in the email","scenario":"email","labels":1}
-{"text":"check email and what is the latest subject","scenario":"email","labels":1}
-{"text":"do i have any recent emails from my contact favorites","scenario":"email","labels":1}
-{"text":"what was the subject of my last email to tom","scenario":"email","labels":1}
-{"text":"please check all new email of rajesh singh","scenario":"email","labels":1}
-{"text":"please send an email to uncle john telling him that i will be there","scenario":"email","labels":3}
-{"text":"check for emails from my employer","scenario":"email","labels":1}
-{"text":"send an email to my wife about next week weather","scenario":"email","labels":3}
-{"text":"did i get any replies from jan","scenario":"email","labels":1}
-{"text":"send email to tim@hotmail dot com","scenario":"email","labels":3}
-{"text":"did i get an email about a job offer","scenario":"email","labels":1}
-{"text":"have you responded my phone calls","scenario":"email","labels":2}
-{"text":"reply email","scenario":"email","labels":3}
-{"text":"open all unread emails","scenario":"email","labels":1}
-{"text":"check mails","scenario":"email","labels":1}
-{"text":"please send an email to parisa","scenario":"email","labels":3}
-{"text":"send an email to scott asking what the weather will be like this week","scenario":"email","labels":3}
-{"text":"add work email address","scenario":"email","labels":0}
-{"text":"check email sent by contact","scenario":"email","labels":1}
-{"text":"please check all new email of amazon","scenario":"email","labels":1}
-{"text":"help me call james","scenario":"email","labels":2}
-{"text":"is there any new email","scenario":"email","labels":1}
-{"text":"hey please reply to last pawel's email","scenario":"email","labels":3}
-{"text":"find emails from bob about the bulldog","scenario":"email","labels":1}
-{"text":"check any mail from amazon","scenario":"email","labels":1}
-{"text":"send mail to someone","scenario":"email","labels":3}
-{"text":"tell me about mary s.","scenario":"email","labels":2}
-{"text":"add this person's email","scenario":"email","labels":0}
-{"text":"are there any new emails received after four o'clock today","scenario":"email","labels":1}
-{"text":"please check whether the email of jancy has come","scenario":"email","labels":1}
-{"text":"can you tell me the phone number of me","scenario":"email","labels":2}
-{"text":"what is this person's contact information","scenario":"email","labels":2}
-{"text":"hey ms the email address of john miller","scenario":"email","labels":2}
-{"text":"can you tell me if i've got any unread emails from today","scenario":"email","labels":1}
-{"text":"send an email to peter that where he is now and if he is at the market text him to bring some wine","scenario":"email","labels":3}
-{"text":"let me know when a new email arrives from rachel","scenario":"email","labels":1}
-{"text":"check any email if i got from rohan","scenario":"email","labels":1}
-{"text":"tell contact mobile number","scenario":"email","labels":2}
-{"text":"send help only to jane","scenario":"email","labels":3}
-{"text":"i need to add a new email to my contacts","scenario":"email","labels":3}
-{"text":"do i have any emails from katherine","scenario":"email","labels":1}
-{"text":"new email notifications","scenario":"email","labels":1}
-{"text":"reply to last received email","scenario":"email","labels":3}
-{"text":"did i get an email today","scenario":"email","labels":1}
-{"text":"email message to address","scenario":"email","labels":3}
-{"text":"has rodger sent me any emails","scenario":"email","labels":1}
-{"text":"did you receive this person email","scenario":"email","labels":1}
-{"text":"please send to new email address listed","scenario":"email","labels":3}
-{"text":"please check my emails for me","scenario":"email","labels":1}
-{"text":"start a new email to george brown","scenario":"email","labels":3}
-{"text":"are there any recent emails from rohit","scenario":"email","labels":1}
-{"text":"what is job title of jan medvesek","scenario":"email","labels":2}
-{"text":"could you please gather a list of local restaurants and email them to my husband","scenario":"email","labels":3}
-{"text":"check inbox","scenario":"email","labels":1}
-{"text":"send email to grandma subject saturday message we are dropping by on saturday see you then","scenario":"email","labels":3}
-{"text":"How to reach hallway","scenario":"email","labels":2}
-{"text":"tell me if i have any new messages in my inbox","scenario":"email","labels":1}
-{"text":"check emails from someone","scenario":"email","labels":1}
-{"text":"change contact","scenario":"email","labels":3}
-{"text":"how many work contacts are in my phone book","scenario":"email","labels":2}
-{"text":"send mom an email now","scenario":"email","labels":3}
-{"text":"send an email to fred from work he is in my contacts","scenario":"email","labels":3}
-{"text":"compose a new email to ray","scenario":"email","labels":3}
-{"text":"hey did i get any new emails","scenario":"email","labels":1}
-{"text":"send a happy birthday message to my aunt","scenario":"email","labels":3}
-{"text":"send an email to my boss","scenario":"email","labels":3}
-{"text":"show me the latest email of jack","scenario":"email","labels":1}
-{"text":"read me new emails","scenario":"email","labels":1}
-{"text":"if it is from a very familiar place mark it as important","scenario":"email","labels":1}
-{"text":"update my inbox please","scenario":"email","labels":1}
-{"text":"add rebecca green to my list of favorite contacts","scenario":"email","labels":2}
-{"text":"send email to new contact","scenario":"email","labels":3}
-{"text":"tell me the landline number","scenario":"email","labels":2}
-{"text":"has ben got in touch","scenario":"email","labels":1}
-{"text":"are there any new emails in outlook","scenario":"email","labels":1}
-{"text":"check someone's recent emails","scenario":"email","labels":1}
-{"text":"send an email to margaret","scenario":"email","labels":3}
-{"text":"check weather i got an email from rohit","scenario":"email","labels":1}
-{"text":"i want to send an email to ali ali that says sorry","scenario":"email","labels":3}
-{"text":"do i have any new emails from dan","scenario":"email","labels":1}
-{"text":"send reply","scenario":"email","labels":3}
-{"text":"send email to daughter","scenario":"email","labels":3}
-{"text":"please reply to my colleagues mail about his query","scenario":"email","labels":3}
-{"text":"any incoming emails in the last five minutes","scenario":"email","labels":1}
-{"text":"what new email says","scenario":"email","labels":1}
-{"text":"bring up my latest emails","scenario":"email","labels":1}
-{"text":"did i get new emails from sarah","scenario":"email","labels":1}
-{"text":"please check email from mom","scenario":"email","labels":1}
-{"text":"search for new email after five pm","scenario":"email","labels":1}
-{"text":"email chris add following content sorry I will be late today","scenario":"email","labels":3}
-{"text":"my mail","scenario":"email","labels":1}
-{"text":"find all the contacts named john","scenario":"email","labels":2}
-{"text":"do i have any more emails","scenario":"email","labels":1}
-{"text":"i need to edit marie jones email address to read","scenario":"email","labels":3}
-{"text":"select the contact","scenario":"email","labels":2}
-{"text":"could you get john's email address for me","scenario":"email","labels":2}
-{"text":"add dr rosenstock as an email contact","scenario":"email","labels":0}
-{"text":"have any emails arrived in the last fifteen minutes","scenario":"email","labels":1}
-{"text":"add email address iamironman@gmail dot com","scenario":"email","labels":0}
-{"text":"send email to joanne@aol dot com and add as new contact","scenario":"email","labels":3}
-{"text":"look for new emails","scenario":"email","labels":1}
-{"text":"will you help me write an email to chelsea","scenario":"email","labels":3}
-{"text":"send new email to joejoe@gmail dot com","scenario":"email","labels":3}
-{"text":"create new message to robert @ work what time you off from me send","scenario":"email","labels":3}
-{"text":"send an email to jeff at gmail dot com","scenario":"email","labels":3}
-{"text":"reply to dad write I will be late","scenario":"email","labels":3}
-{"text":"send an email to ms palmer ask her if dean turned in his last homework assignment","scenario":"email","labels":3}
-{"text":"open email to send to dad","scenario":"email","labels":3}
-{"text":"any junk mails","scenario":"email","labels":1}
-{"text":"send email to newmail@gmail dot com","scenario":"email","labels":3}
-{"text":"do i have any emails from jessica","scenario":"email","labels":1}
-{"text":"send email to my contact","scenario":"email","labels":3}
-{"text":"hi buddy send mail to my friend hellen regarding home builders are not accepted the offer","scenario":"email","labels":3}
-{"text":"send an email to mom asking for a weather update on the week to come","scenario":"email","labels":3}
-{"text":"what is joe joe's home address","scenario":"email","labels":2}
-{"text":"email work team this week's schedule","scenario":"email","labels":3}
-{"text":"you should reply to the mail","scenario":"email","labels":3}
-{"text":"have i gotten any new messages since yesterday","scenario":"email","labels":1}
-{"text":"do we have morgan's office's number","scenario":"email","labels":2}
-{"text":"email family","scenario":"email","labels":3}
-{"text":"compose email to my mom","scenario":"email","labels":3}
-{"text":"email donna plans for today","scenario":"email","labels":3}
-{"text":"do i have email from my friend rachel","scenario":"email","labels":1}
-{"text":"tell me the status of my inbox","scenario":"email","labels":1}
-{"text":"initiate polling for new email","scenario":"email","labels":1}
-{"text":"send a mail to mike tell him we will meet today seven pm for dinner at coffee house","scenario":"email","labels":3}
-{"text":"update me on my emails","scenario":"email","labels":1}
-{"text":"did joe leave any contact information in his email","scenario":"email","labels":1}
-{"text":"please send my family an email that says the following","scenario":"email","labels":3}
-{"text":"hey read any email to me","scenario":"email","labels":1}
-{"text":"reply to the mail with the following content hello you","scenario":"email","labels":3}
-{"text":"i have a new contact newmail@gmail dot com compose mail","scenario":"email","labels":3}
-{"text":"i'd like to email mary and ask if she wanted to meet up after work at tgi friday's","scenario":"email","labels":3}
-{"text":"email to matthew with content project finished send me invoice please","scenario":"email","labels":3}
-{"text":"pass the following using email to jake jake","scenario":"email","labels":3}
-{"text":"check my spam email for phishing","scenario":"email","labels":1}
-{"text":"what street does sarah live on check my phone book","scenario":"email","labels":2}
-{"text":"quick reply to jack so please send a mail","scenario":"email","labels":3}
-{"text":"edit contacts","scenario":"email","labels":0}
-{"text":"have i gotten an email from sean","scenario":"email","labels":1}
-{"text":"are there any new emails from robert jones","scenario":"email","labels":1}
-{"text":"check emails from gary for last hour","scenario":"email","labels":1}
-{"text":"please place my new email address to the contact","scenario":"email","labels":0}
-{"text":"status of my inbox","scenario":"email","labels":1}
-{"text":"please check for new emails","scenario":"email","labels":1}
-{"text":"mary's contact number","scenario":"email","labels":2}
-{"text":"send a reply to the last email","scenario":"email","labels":3}
-{"text":"did sara tried to call me","scenario":"email","labels":2}
-{"text":"give a last minute update on incoming emails please","scenario":"email","labels":1}
-{"text":"do i have new email from work since yesterday","scenario":"email","labels":1}
-{"text":"did i get any emails this week","scenario":"email","labels":1}
-{"text":"all new mail","scenario":"email","labels":1}
-{"text":"reply back to bob smith","scenario":"email","labels":3}
-{"text":"locate jen's most recent email so i can reply","scenario":"email","labels":3}
-{"text":"send the email to this new email address","scenario":"email","labels":3}
-{"text":"show me my contacts","scenario":"email","labels":2}
-{"text":"send reply to joe","scenario":"email","labels":3}
-{"text":"when did i get an email from john smith about car accident","scenario":"email","labels":1}
-{"text":"send an email to mom asking if she was able to order the book from amazon that i told her about","scenario":"email","labels":3}
-{"text":"beep when i get an email from john","scenario":"email","labels":1}
-{"text":"ems","scenario":"email","labels":1}
-{"text":"i want the email to be sent to my new email address abc@gmail dot com","scenario":"email","labels":3}
-{"text":"smsayyad1985@outlook dot com","scenario":"email","labels":3}
-{"text":"put a mail to sandy","scenario":"email","labels":3}
-{"text":"type an email for me please","scenario":"email","labels":3}
-{"text":"list phone and email id of robert","scenario":"email","labels":2}
-{"text":"what's my friend joe's phone number","scenario":"email","labels":2}
-{"text":"reply the email of charles with just thank you right now","scenario":"email","labels":3}
-{"text":"how can i contact this person","scenario":"email","labels":2}
-{"text":"i want to reply to this email","scenario":"email","labels":3}
-{"text":"send the email to john","scenario":"email","labels":3}
-{"text":"make a new contact with this email","scenario":"email","labels":0}
-{"text":"hey send email to john","scenario":"email","labels":3}
-{"text":"send email to robert","scenario":"email","labels":3}
-{"text":"reply to john's email today saying i will be late","scenario":"email","labels":3}
-{"text":"email grandma subject saturday message we are dropping by on saturday see you then","scenario":"email","labels":3}
-{"text":"i need to send an email to bob","scenario":"email","labels":3}
-{"text":"reply back to emily","scenario":"email","labels":3}
-{"text":"any new emails in my inbox","scenario":"email","labels":1}
-{"text":"check my inbox for new emails","scenario":"email","labels":1}
-{"text":"send email to bro and say hi come down for dinner tonight","scenario":"email","labels":3}
-{"text":"please check if there is a new email on the inbox","scenario":"email","labels":1}
-{"text":"reply to email from name","scenario":"email","labels":3}
-{"text":"let me know if there are any new emails from callum","scenario":"email","labels":1}
-{"text":"who's emailed me recently","scenario":"email","labels":1}
-{"text":"please add smurfette@gmail dot com to my email contacts","scenario":"email","labels":0}
-{"text":"what are my new emails","scenario":"email","labels":1}
-{"text":"how many new emails have i received today","scenario":"email","labels":1}
-{"text":"are there any new emails from name","scenario":"email","labels":1}
-{"text":"reply to this please","scenario":"email","labels":3}
-{"text":"please check for new unread emails from paul","scenario":"email","labels":1}
-{"text":"read all new emails please","scenario":"email","labels":1}
-{"text":"can you send an email to","scenario":"email","labels":3}
-{"text":"do i have any new emails from luke","scenario":"email","labels":1}
-{"text":"please open my contact list","scenario":"email","labels":2}
-{"text":"add this email to my contact list","scenario":"email","labels":0}
-{"text":"please send a mail to mr richard stating that i going to met him on first of february twenty seventeen at five pm at this office","scenario":"email","labels":3}
-{"text":"look up contacts","scenario":"email","labels":3}
-{"text":"i need this email sent now","scenario":"email","labels":3}
-{"text":"reply to anthony's email","scenario":"email","labels":3}
-{"text":"check if there are new emails","scenario":"email","labels":1}
-{"text":"please check and tell me contact details of mongomery llc company","scenario":"email","labels":2}
-{"text":"reply to my last email","scenario":"email","labels":3}
-{"text":"dial the number","scenario":"email","labels":2}
-{"text":"send an email to all my co workers","scenario":"email","labels":3}
-{"text":"what is the email sent by this contact read","scenario":"email","labels":1}
-{"text":"answer to pawel's email","scenario":"email","labels":3}
-{"text":"where does this friend live","scenario":"email","labels":2}
-{"text":"please send mom an email saying that i can make it next week","scenario":"email","labels":3}
-{"text":"please check email contain job listing","scenario":"email","labels":1}
-{"text":"reply to the email from john","scenario":"email","labels":3}
-{"text":"have i gotten any emails from mom lately","scenario":"email","labels":1}
-{"text":"do i have any new inbox message","scenario":"email","labels":1}
-{"text":"tell me about new emails","scenario":"email","labels":1}
-{"text":"i added a new email address for joe yesterday will you find it please","scenario":"email","labels":1}
-{"text":"can you tell me the contact information of jo","scenario":"email","labels":2}
-{"text":"please send the email to abc@gmail dot com instead of xyz@gmail dot com","scenario":"email","labels":3}
-{"text":"read the message again","scenario":"email","labels":1}
-{"text":"please find all emails from jane about our sunday church group","scenario":"email","labels":1}
-{"text":"reply email received","scenario":"email","labels":3}
-{"text":"have i got any new email from my company","scenario":"email","labels":1}
-{"text":"where does fred work","scenario":"email","labels":2}
-{"text":"have i received any emails from shaun","scenario":"email","labels":1}
-{"text":"what is john smith's number","scenario":"email","labels":2}
-{"text":"has any personal emails come in yet","scenario":"email","labels":1}
-{"text":"will you send the email to greg","scenario":"email","labels":3}
-{"text":"reply with thanks","scenario":"email","labels":3}
-{"text":"what mail do i have","scenario":"email","labels":1}
-{"text":"find all emails that contain the following subject","scenario":"email","labels":1}
-{"text":"do i have any new email from john","scenario":"email","labels":1}
-{"text":"call vikki","scenario":"email","labels":2}
-{"text":"who did i email last","scenario":"email","labels":1}
-{"text":"read email from julia","scenario":"email","labels":1}
-{"text":"send email to mom starting with the subject vacation","scenario":"email","labels":3}
-{"text":"hello you have a send an email to someone","scenario":"email","labels":3}
-{"text":"are there any recent emails from zita","scenario":"email","labels":1}
-{"text":"add this email address to my contacts and send an email to","scenario":"email","labels":0}
-{"text":"what is the home phone number of mark","scenario":"email","labels":2}
-{"text":"what information do we have on the data breach","scenario":"email","labels":1}
-{"text":"send an email to rae telling her my phone is back in service","scenario":"email","labels":3}
-{"text":"Has john sent me any new emails","scenario":"email","labels":1}
-{"text":"check new emails","scenario":"email","labels":1}
-{"text":"reply to erins email by saying i will be on time","scenario":"email","labels":3}
-{"text":"send an email to dad about the weather for the week","scenario":"email","labels":3}
-{"text":"add the new email to my contacts","scenario":"email","labels":0}
-{"text":"mail administrator","scenario":"email","labels":3}
-{"text":"send a replay email","scenario":"email","labels":3}
-{"text":"new email for contact","scenario":"email","labels":3}
-{"text":"send an email and save the contact information for samuelwaters@hotmail dot com","scenario":"email","labels":0}
-{"text":"open emails","scenario":"email","labels":1}
-{"text":"let me know if there are any new emails from ebay","scenario":"email","labels":1}
-{"text":"email john tomorrow","scenario":"email","labels":3}
-{"text":"give me charles telephone number","scenario":"email","labels":2}
-{"text":"update email","scenario":"email","labels":1}
-{"text":"let me know of any incoming emails for the last hour please","scenario":"email","labels":1}
-{"text":"can you please read the my mom sent this morning at ten am","scenario":"email","labels":1}
-{"text":"can you write an email to chelsea","scenario":"email","labels":3}
-{"text":"are there any new emails","scenario":"email","labels":1}
-{"text":"hi olly please send mail to mom i am coming home on this weekend","scenario":"email","labels":3}
-{"text":"add new contact and send email","scenario":"email","labels":3}
-{"text":"show all the received emails recently with timestamp","scenario":"email","labels":1}
-{"text":"what is jeff's number","scenario":"email","labels":2}
-{"text":"please check my inbox and tell me if there are any new arrivals","scenario":"email","labels":1}
-{"text":"when was the last call i received from jordan","scenario":"email","labels":2}
-{"text":"send an email to jake to tell him thank you","scenario":"email","labels":3}
-{"text":"i want to reply to allen","scenario":"email","labels":3}
-{"text":"please tell me how many emails i have","scenario":"email","labels":1}
-{"text":"email jennifer the new schedule of the meeting for tomorrow","scenario":"email","labels":3}
-{"text":"read me the last email from stefan and oil change","scenario":"email","labels":1}
-{"text":"please send a business email about the time of the meeting change to lauren","scenario":"email","labels":3}
-{"text":"do i have any emails in the last hour","scenario":"email","labels":1}
-{"text":"email to pawel regarding latest news","scenario":"email","labels":3}
-{"text":"reply email to charlotte","scenario":"email","labels":3}
-{"text":"did paul email me recently","scenario":"email","labels":1}
-{"text":"check mail with subject","scenario":"email","labels":1}
-{"text":"send email to yulia","scenario":"email","labels":3}
-{"text":"are there any emails from the school about my conference","scenario":"email","labels":1}
-{"text":"compile information on the data breach","scenario":"email","labels":1}
-{"text":"compose email for robert","scenario":"email","labels":3}
-{"text":"give me notifications when i get any news from the starbucks i applied to","scenario":"email","labels":1}
-{"text":"look up in contacts","scenario":"email","labels":2}
-{"text":"raju phone book","scenario":"email","labels":2}
-{"text":"respond to the mail of ash in morning","scenario":"email","labels":3}
-{"text":"please draft an email to shaun requesting sunday's off for the next schedule","scenario":"email","labels":3}
-{"text":"email george brown","scenario":"email","labels":3}
-{"text":"answer email from sally","scenario":"email","labels":3}
-{"text":"write and send email to friend cindy","scenario":"email","labels":3}
-{"text":"check my mail","scenario":"email","labels":1}
-{"text":"could you please send and email to my friend susie letting her know i won't be at church tomorrow","scenario":"email","labels":3}
-{"text":"please read new emails","scenario":"email","labels":1}
-{"text":"write email","scenario":"email","labels":3}
-{"text":"did sams email arrive","scenario":"email","labels":1}
-{"text":"is there is any new emails","scenario":"email","labels":1}
-{"text":"read my most recent emails","scenario":"email","labels":1}
-{"text":"write an email to luke asking how the weather will be this coming week","scenario":"email","labels":3}
-{"text":"read the contact number of alex from phone book","scenario":"email","labels":2}
-{"text":"reply to last email say sorry cannot make it","scenario":"email","labels":3}
-{"text":"is this my sisters cellphone number","scenario":"email","labels":2}
-{"text":"is this person sent any email","scenario":"email","labels":1}
-{"text":"check inbox for jack","scenario":"email","labels":1}
-{"text":"do i have any new emails in the last hour","scenario":"email","labels":1}
-{"text":"dictate new email","scenario":"email","labels":3}
-{"text":"open my inbox please","scenario":"email","labels":1}
-{"text":"check my mailbox and let me know if there is any mail post seven am today","scenario":"email","labels":1}
-{"text":"add a new email in my contacts from john","scenario":"email","labels":0}
-{"text":"what is the subject of the email that just arrived","scenario":"email","labels":1}
-{"text":"add erosser@hotmail dot com as a new contact for emily rosser","scenario":"email","labels":0}
-{"text":"start email to client","scenario":"email","labels":3}
-{"text":"are any of my new emails from amy","scenario":"email","labels":1}
-{"text":"send email to liz","scenario":"email","labels":3}
-{"text":"compose an email to bob","scenario":"email","labels":3}
-{"text":"find naty from my contacts and send her an email","scenario":"email","labels":3}
-{"text":"did dan send me any emails","scenario":"email","labels":1}
-{"text":"create new contact with email","scenario":"email","labels":0}
-{"text":"respond to my bosses email with the word that i will be in at four in the evening","scenario":"email","labels":3}
-{"text":"what was the name of my last email","scenario":"email","labels":1}
-{"text":"hey reply a mail which i received","scenario":"email","labels":3}
-{"text":"markpolomm@gmail dot com","scenario":"email","labels":3}
-{"text":"add this new email","scenario":"email","labels":0}
-{"text":"emails","scenario":"email","labels":1}
-{"text":"does sarah have a new email address listed","scenario":"email","labels":1}
-{"text":"send the email to jill that is saved in my drafts folder","scenario":"email","labels":3}
-{"text":"are there any new emails for me","scenario":"email","labels":1}
-{"text":"send mom an email about the upcoming weather for the week","scenario":"email","labels":3}
-{"text":"send an email to the newest address added to the address book","scenario":"email","labels":3}
-{"text":"reply to recent emails","scenario":"email","labels":3}
-{"text":"did i have any new email","scenario":"email","labels":1}
-{"text":"compose this email to this new email address","scenario":"email","labels":3}
-{"text":"any new emails from derek","scenario":"email","labels":1}
-{"text":"send email how are you dad to dad","scenario":"email","labels":3}
-{"text":"please let me know when delia replies to my email from this morning","scenario":"email","labels":1}
-{"text":"check recently sent emails from mom","scenario":"email","labels":1}
-{"text":"any new emails after five pm","scenario":"email","labels":1}
-{"text":"have i gotten any new emails from family","scenario":"email","labels":1}
-{"text":"create an email that needs to go out to my family","scenario":"email","labels":3}
-{"text":"did i receive any emails from tori","scenario":"email","labels":1}
-{"text":"compose an email to parisa","scenario":"email","labels":3}
-{"text":"what is the subject of the last email sent to me by q","scenario":"email","labels":1}
-{"text":"are my contacts mostly female or male","scenario":"email","labels":2}
-{"text":"shoot an email to chris about work tomorrow","scenario":"email","labels":3}
-{"text":"give me contact mail id","scenario":"email","labels":2}
-{"text":"to chris write following content sorry I will be late today","scenario":"email","labels":3}
-{"text":"what email notifications do i have","scenario":"email","labels":1}
-{"text":"send email to my wife","scenario":"email","labels":3}
-{"text":"send email to manoj vyas","scenario":"email","labels":3}
-{"text":"play back the last message","scenario":"email","labels":1}
-{"text":"please send dad an email asking about the weather in new jersey","scenario":"email","labels":3}
-{"text":"read my unread emails","scenario":"email","labels":1}
-{"text":"show all emails of contract","scenario":"email","labels":1}
-{"text":"send email to marissa","scenario":"email","labels":3}
-{"text":"answer email","scenario":"email","labels":3}
-{"text":"add dale@gmail dot com to my contacts","scenario":"email","labels":0}
-{"text":"save to contacts","scenario":"email","labels":0}
-{"text":"read email","scenario":"email","labels":1}
-{"text":"through outlook","scenario":"email","labels":3}
-{"text":"compose a mail for jack","scenario":"email","labels":3}
-{"text":"do i have any missed call from patrick","scenario":"email","labels":2}
-{"text":"open reply","scenario":"email","labels":3}
-{"text":"send email thank you very much to sarah as a reply","scenario":"email","labels":3}
-{"text":"please reply to this email","scenario":"email","labels":3}
-{"text":"give me recent emails","scenario":"email","labels":1}
-{"text":"reply to the email received from jennifer","scenario":"email","labels":3}
-{"text":"please check mails quickly","scenario":"email","labels":1}
-{"text":"through mail server","scenario":"email","labels":3}
-{"text":"add jpearsonjessica@gmail dot com to email contacts","scenario":"email","labels":0}
-{"text":"has john sent me a reply via email yet","scenario":"email","labels":1}
-{"text":"i want to send email to jack@gmail dot com","scenario":"email","labels":3}
-{"text":"send email to mom and tell her see her at disney world","scenario":"email","labels":3}
-{"text":"check my email for any new email from joe","scenario":"email","labels":1}
-{"text":"add email to contacts","scenario":"email","labels":0}
-{"text":"how do we organize against trump","scenario":"email","labels":1}
-{"text":"prepare to send an outgoing reply message","scenario":"email","labels":3}
-{"text":"send email to joe@aol dot com","scenario":"email","labels":3}
-{"text":"send an email to bob","scenario":"email","labels":3}
-{"text":"can you open the reply inbox","scenario":"email","labels":3}
-{"text":"run reply to latest email received","scenario":"email","labels":3}
-{"text":"what is mom's email address","scenario":"email","labels":2}
-{"text":"email mom and ask how the weather is there","scenario":"email","labels":3}
-{"text":"has david got back to me yet","scenario":"email","labels":1}
-{"text":"start a reply to marleen's most recent email","scenario":"email","labels":3}
-{"text":"forward the concert dates to jerry by email","scenario":"email","labels":3}
-{"text":"send email to family saying i love you all","scenario":"email","labels":3}
-{"text":"has mike sent me an email","scenario":"email","labels":1}
-{"text":"get me new email","scenario":"email","labels":1}
-{"text":"write an email for john@gmail dot com","scenario":"email","labels":3}
-{"text":"show me all the emails received recently","scenario":"email","labels":1}
-{"text":"did mom text me","scenario":"email","labels":2}
-{"text":"what emails did i get yesterday","scenario":"email","labels":1}
-{"text":"any email in the last hour","scenario":"email","labels":1}
-{"text":"what were the first number of email subjects i got today","scenario":"email","labels":1}
-{"text":"can you pull up jeff","scenario":"email","labels":2}
-{"text":"send email to daughter saying i love you","scenario":"email","labels":3}
-{"text":"have i received any emails since noon","scenario":"email","labels":1}
-{"text":"how many mails have i received today","scenario":"email","labels":1}
-{"text":"refresh my email","scenario":"email","labels":1}
-{"text":"please check my gmail for new mail","scenario":"email","labels":1}
-{"text":"is there a new email in the inbox from jay","scenario":"email","labels":1}
-{"text":"send an email to mom subject weather body what is the weather like there this week","scenario":"email","labels":3}
-{"text":"email my boss that i will be late today because of an emergency and apologize to him for missing the meeting","scenario":"email","labels":3}
-{"text":"did i receive a message from kevin","scenario":"email","labels":2}
-{"text":"could you send that email to chong","scenario":"email","labels":3}
-{"text":"send an email to a new address","scenario":"email","labels":3}
-{"text":"create email to john start body i am interested in seeing the car you have for sale can we schedule a time to meet send","scenario":"email","labels":3}
-{"text":"read me new messages from name","scenario":"email","labels":1}
-{"text":"open new emails","scenario":"email","labels":1}
-{"text":"reply to joes email","scenario":"email","labels":3}
-{"text":"have i received any emails in the past two hours","scenario":"email","labels":1}
-{"text":"search nandy containing payment","scenario":"email","labels":1}
-{"text":"write a reply to my mother's email","scenario":"email","labels":3}
-{"text":"show last mail from john","scenario":"email","labels":1}
-{"text":"create an email to mom and ask about this week's weather","scenario":"email","labels":3}
-{"text":"reply to my most recent email","scenario":"email","labels":3}
-{"text":"is there any email from emilia","scenario":"email","labels":1}
-{"text":"emails in the last hour","scenario":"email","labels":1}
-{"text":"do i have any new emails on my inbox","scenario":"email","labels":1}
-{"text":"add new email address","scenario":"email","labels":0}
-{"text":"are there any email updates","scenario":"email","labels":1}
-{"text":"check for me new emails received from peter","scenario":"email","labels":1}
-{"text":"go to contacts and add a new email to the list","scenario":"email","labels":3}
-{"text":"add apahelp@yahoo dot com in my contact list","scenario":"email","labels":0}
-{"text":"let me know if i have new emails","scenario":"email","labels":1}
-{"text":"send email to carl that i will be late for work tomorrow","scenario":"email","labels":3}
-{"text":"any mail from amazon today","scenario":"email","labels":1}
-{"text":"what are my new contact emails","scenario":"email","labels":1}
-{"text":"are there any new emails from today","scenario":"email","labels":1}
-{"text":"can you send an email to chelsea please","scenario":"email","labels":3}
-{"text":"i need you to add gary's email to my favorites","scenario":"email","labels":0}
-{"text":"tell me my latest email","scenario":"email","labels":1}
-{"text":"did i get an email from sarah","scenario":"email","labels":1}
-{"text":"please add to my contact lists and send them a reminder email","scenario":"email","labels":0}
-{"text":"report what is new in my email inbox please","scenario":"email","labels":1}
-{"text":"select information you want","scenario":"email","labels":2}
-{"text":"how do i dial sarah","scenario":"email","labels":2}
-{"text":"any important notifications","scenario":"email","labels":1}
-{"text":"apply search and check","scenario":"email","labels":2}
-{"text":"what's jesse's birthday","scenario":"email","labels":2}
-{"text":"check if any new emails came from anna","scenario":"email","labels":1}
-{"text":"delete this email","scenario":"email","labels":3}
-{"text":"show all emails sent to me from my boss","scenario":"email","labels":1}
-{"text":"check my email inboxes and tell me about new mails","scenario":"email","labels":1}
-{"text":"forward email","scenario":"email","labels":3}
-{"text":"alex has told me that he will send an email regarding the price of the machine please check if that has come","scenario":"email","labels":1}
-{"text":"what's john's home phone number","scenario":"email","labels":2}
-{"text":"can you send an email for me to a new email address","scenario":"email","labels":3}
-{"text":"what is frieda's home address","scenario":"email","labels":2}
-{"text":"reply mail","scenario":"email","labels":3}
-{"text":"check most current emails","scenario":"email","labels":1}
-{"text":"answer this mail","scenario":"email","labels":3}
-{"text":"take me to emails from my boss","scenario":"email","labels":1}
-{"text":"email karen about the budget meeting","scenario":"email","labels":3}
-{"text":"has jane doe emailed me","scenario":"email","labels":1}
-{"text":"contacts","scenario":"email","labels":2}
-{"text":"please tell me if july has sent me any emails","scenario":"email","labels":1}
-{"text":"display address of john","scenario":"email","labels":2}
-{"text":"just add a new email in my contacts from michael","scenario":"email","labels":0}
-{"text":"new address","scenario":"email","labels":3}
-{"text":"how do i contact charles","scenario":"email","labels":2}
-{"text":"get apahelp@yahoo dot com in my contacts","scenario":"email","labels":0}
-{"text":"or you can email to my sister and ask her how that weather is it in california","scenario":"email","labels":3}
-{"text":"send email to martha saying last evening was wild","scenario":"email","labels":3}
-{"text":"jay's phone number","scenario":"email","labels":2}
-{"text":"check my email please","scenario":"email","labels":1}
-{"text":"do i have email from my work","scenario":"email","labels":1}
-{"text":"see my inbox for mail i received from sarah","scenario":"email","labels":1}
-{"text":"look up for the residential address of my team leader","scenario":"email","labels":2}
-{"text":"email dad how is the weather this week","scenario":"email","labels":3}
-{"text":"start a new email to","scenario":"email","labels":3}
-{"text":"create new contact","scenario":"email","labels":0}
-{"text":"is bills house number in my contacts","scenario":"email","labels":2}
-{"text":"are there any emails i haven't read yet","scenario":"email","labels":1}
-{"text":"has john sent me an email","scenario":"email","labels":1}
-{"text":"where seth lives","scenario":"email","labels":2}
-{"text":"choose contact","scenario":"email","labels":2}
-{"text":"reply to the latest email","scenario":"email","labels":3}
-{"text":"the email of office staff must be checked","scenario":"email","labels":1}
-{"text":"check gmail","scenario":"email","labels":1}
-{"text":"please send a reminder email to peter and ask him how long he will be taking to prepare the presentation ppt","scenario":"email","labels":3}
-{"text":"find me all mails from magda with holidays word in the title","scenario":"email","labels":1}
-{"text":"check email for subject","scenario":"email","labels":1}
-{"text":"go to my gmail and click on compose when finished i will tell you what i want to write in the email","scenario":"email","labels":3}
-{"text":"send a text to alice","scenario":"email","labels":2}
-{"text":"where does joe joe live","scenario":"email","labels":2}
-{"text":"emails now","scenario":"email","labels":1}
-{"text":"could you please send an email to my husband","scenario":"email","labels":3}
-{"text":"send happy new year to john@gmail dot com","scenario":"email","labels":3}
-{"text":"pleas reply to the mail of allen","scenario":"email","labels":3}
-{"text":"can you please check my gmail for new messages","scenario":"email","labels":1}
+{"sentence":"link john@gmail dot com to john in contacts","label":3,"idx":0}
+{"sentence":"how many unopened emails do i have right now","label":1,"idx":1}
+{"sentence":"read to me the email of john smith","label":1,"idx":2}
+{"sentence":"can you read my emails from rob","label":1,"idx":3}
+{"sentence":"please send an email to mom","label":3,"idx":4}
+{"sentence":"what's in my inbox since we last looked","label":1,"idx":5}
+{"sentence":"send this content via email","label":3,"idx":6}
+{"sentence":"answer the email","label":3,"idx":7}
+{"sentence":"report any new emails","label":1,"idx":8}
+{"sentence":"text an email to donna hey what are you doing today","label":3,"idx":9}
+{"sentence":"do i have any new emails from kellogg","label":1,"idx":10}
+{"sentence":"physical education drill marilyn","label":1,"idx":11}
+{"sentence":"search or any emails from work","label":1,"idx":12}
+{"sentence":"please send an email to sally regarding tomorrows meeting","label":3,"idx":13}
+{"sentence":"what is tom's phone number","label":2,"idx":14}
+{"sentence":"start email","label":3,"idx":15}
+{"sentence":"new email from brenda","label":1,"idx":16}
+{"sentence":"do i have emails","label":1,"idx":17}
+{"sentence":"open inbox to check unread mails","label":1,"idx":18}
+{"sentence":"i want to know if i have any emails with the subject line budget from eddie richards","label":1,"idx":19}
+{"sentence":"i'm back any new emails since i left","label":1,"idx":20}
+{"sentence":"check new emails from jim","label":1,"idx":21}
+{"sentence":"what is my most recent email","label":1,"idx":22}
+{"sentence":"send an email to alex and write thank you for your email regards andrew","label":3,"idx":23}
+{"sentence":"jane doe emails","label":1,"idx":24}
+{"sentence":"how many phone numbers do i have for brenden","label":2,"idx":25}
+{"sentence":"tell me who send the email about the boss yesterday","label":1,"idx":26}
+{"sentence":"email update","label":1,"idx":27}
+{"sentence":"check mail from jack","label":1,"idx":28}
+{"sentence":"send email to joseph@gmail dot com","label":3,"idx":29}
+{"sentence":"send an email to frank and ask them what the weather going to be like this week","label":3,"idx":30}
+{"sentence":"send an email to mom tell her i love you","label":3,"idx":31}
+{"sentence":"respond to my email from bob letting them know i'll see them tomorrow","label":3,"idx":32}
+{"sentence":"send mom an email to remind her to meet me for lunch today","label":3,"idx":33}
+{"sentence":"email jerry regarding the meeting","label":3,"idx":34}
+{"sentence":"locate information on john smith about his work location","label":2,"idx":35}
+{"sentence":"forward email address to my new email","label":3,"idx":36}
+{"sentence":"any mail marked as important","label":1,"idx":37}
+{"sentence":"please give me my emails","label":1,"idx":38}
+{"sentence":"how many contacts are there named john","label":2,"idx":39}
+{"sentence":"any emails","label":1,"idx":40}
+{"sentence":"did marckel replied to me on mail","label":1,"idx":41}
+{"sentence":"create an email to my brother asking him what time he will be over for dinner","label":3,"idx":42}
+{"sentence":"has cassie sent me any emails about tom","label":1,"idx":43}
+{"sentence":"what is the first five subjects in the email","label":1,"idx":44}
+{"sentence":"check email and what is the latest subject","label":1,"idx":45}
+{"sentence":"do i have any recent emails from my contact favorites","label":1,"idx":46}
+{"sentence":"what was the subject of my last email to tom","label":1,"idx":47}
+{"sentence":"please check all new email of rajesh singh","label":1,"idx":48}
+{"sentence":"please send an email to uncle john telling him that i will be there","label":3,"idx":49}
+{"sentence":"check for emails from my employer","label":1,"idx":50}
+{"sentence":"send an email to my wife about next week weather","label":3,"idx":51}
+{"sentence":"did i get any replies from jan","label":1,"idx":52}
+{"sentence":"send email to tim@hotmail dot com","label":3,"idx":53}
+{"sentence":"did i get an email about a job offer","label":1,"idx":54}
+{"sentence":"have you responded my phone calls","label":2,"idx":55}
+{"sentence":"reply email","label":3,"idx":56}
+{"sentence":"open all unread emails","label":1,"idx":57}
+{"sentence":"check mails","label":1,"idx":58}
+{"sentence":"please send an email to parisa","label":3,"idx":59}
+{"sentence":"send an email to scott asking what the weather will be like this week","label":3,"idx":60}
+{"sentence":"add work email address","label":0,"idx":61}
+{"sentence":"check email sent by contact","label":1,"idx":62}
+{"sentence":"please check all new email of amazon","label":1,"idx":63}
+{"sentence":"help me call james","label":2,"idx":64}
+{"sentence":"is there any new email","label":1,"idx":65}
+{"sentence":"hey please reply to last pawel's email","label":3,"idx":66}
+{"sentence":"find emails from bob about the bulldog","label":1,"idx":67}
+{"sentence":"check any mail from amazon","label":1,"idx":68}
+{"sentence":"send mail to someone","label":3,"idx":69}
+{"sentence":"tell me about mary s.","label":2,"idx":70}
+{"sentence":"add this person's email","label":0,"idx":71}
+{"sentence":"are there any new emails received after four o'clock today","label":1,"idx":72}
+{"sentence":"please check whether the email of jancy has come","label":1,"idx":73}
+{"sentence":"can you tell me the phone number of me","label":2,"idx":74}
+{"sentence":"what is this person's contact information","label":2,"idx":75}
+{"sentence":"hey ms the email address of john miller","label":2,"idx":76}
+{"sentence":"can you tell me if i've got any unread emails from today","label":1,"idx":77}
+{"sentence":"send an email to peter that where he is now and if he is at the market text him to bring some wine","label":3,"idx":78}
+{"sentence":"let me know when a new email arrives from rachel","label":1,"idx":79}
+{"sentence":"check any email if i got from rohan","label":1,"idx":80}
+{"sentence":"tell contact mobile number","label":2,"idx":81}
+{"sentence":"send help only to jane","label":3,"idx":82}
+{"sentence":"i need to add a new email to my contacts","label":3,"idx":83}
+{"sentence":"do i have any emails from katherine","label":1,"idx":84}
+{"sentence":"new email notifications","label":1,"idx":85}
+{"sentence":"reply to last received email","label":3,"idx":86}
+{"sentence":"did i get an email today","label":1,"idx":87}
+{"sentence":"email message to address","label":3,"idx":88}
+{"sentence":"has rodger sent me any emails","label":1,"idx":89}
+{"sentence":"did you receive this person email","label":1,"idx":90}
+{"sentence":"please send to new email address listed","label":3,"idx":91}
+{"sentence":"please check my emails for me","label":1,"idx":92}
+{"sentence":"start a new email to george brown","label":3,"idx":93}
+{"sentence":"are there any recent emails from rohit","label":1,"idx":94}
+{"sentence":"what is job title of jan medvesek","label":2,"idx":95}
+{"sentence":"could you please gather a list of local restaurants and email them to my husband","label":3,"idx":96}
+{"sentence":"check inbox","label":1,"idx":97}
+{"sentence":"send email to grandma subject saturday message we are dropping by on saturday see you then","label":3,"idx":98}
+{"sentence":"How to reach hallway","label":2,"idx":99}
+{"sentence":"tell me if i have any new messages in my inbox","label":1,"idx":100}
+{"sentence":"check emails from someone","label":1,"idx":101}
+{"sentence":"change contact","label":3,"idx":102}
+{"sentence":"how many work contacts are in my phone book","label":2,"idx":103}
+{"sentence":"send mom an email now","label":3,"idx":104}
+{"sentence":"send an email to fred from work he is in my contacts","label":3,"idx":105}
+{"sentence":"compose a new email to ray","label":3,"idx":106}
+{"sentence":"hey did i get any new emails","label":1,"idx":107}
+{"sentence":"send a happy birthday message to my aunt","label":3,"idx":108}
+{"sentence":"send an email to my boss","label":3,"idx":109}
+{"sentence":"show me the latest email of jack","label":1,"idx":110}
+{"sentence":"read me new emails","label":1,"idx":111}
+{"sentence":"if it is from a very familiar place mark it as important","label":1,"idx":112}
+{"sentence":"update my inbox please","label":1,"idx":113}
+{"sentence":"add rebecca green to my list of favorite contacts","label":2,"idx":114}
+{"sentence":"send email to new contact","label":3,"idx":115}
+{"sentence":"tell me the landline number","label":2,"idx":116}
+{"sentence":"has ben got in touch","label":1,"idx":117}
+{"sentence":"are there any new emails in outlook","label":1,"idx":118}
+{"sentence":"check someone's recent emails","label":1,"idx":119}
+{"sentence":"send an email to margaret","label":3,"idx":120}
+{"sentence":"check weather i got an email from rohit","label":1,"idx":121}
+{"sentence":"i want to send an email to ali ali that says sorry","label":3,"idx":122}
+{"sentence":"do i have any new emails from dan","label":1,"idx":123}
+{"sentence":"send reply","label":3,"idx":124}
+{"sentence":"send email to daughter","label":3,"idx":125}
+{"sentence":"please reply to my colleagues mail about his query","label":3,"idx":126}
+{"sentence":"any incoming emails in the last five minutes","label":1,"idx":127}
+{"sentence":"what new email says","label":1,"idx":128}
+{"sentence":"bring up my latest emails","label":1,"idx":129}
+{"sentence":"did i get new emails from sarah","label":1,"idx":130}
+{"sentence":"please check email from mom","label":1,"idx":131}
+{"sentence":"search for new email after five pm","label":1,"idx":132}
+{"sentence":"email chris add following content sorry I will be late today","label":3,"idx":133}
+{"sentence":"my mail","label":1,"idx":134}
+{"sentence":"find all the contacts named john","label":2,"idx":135}
+{"sentence":"do i have any more emails","label":1,"idx":136}
+{"sentence":"i need to edit marie jones email address to read","label":3,"idx":137}
+{"sentence":"select the contact","label":2,"idx":138}
+{"sentence":"could you get john's email address for me","label":2,"idx":139}
+{"sentence":"add dr rosenstock as an email contact","label":0,"idx":140}
+{"sentence":"have any emails arrived in the last fifteen minutes","label":1,"idx":141}
+{"sentence":"add email address iamironman@gmail dot com","label":0,"idx":142}
+{"sentence":"send email to joanne@aol dot com and add as new contact","label":3,"idx":143}
+{"sentence":"look for new emails","label":1,"idx":144}
+{"sentence":"will you help me write an email to chelsea","label":3,"idx":145}
+{"sentence":"send new email to joejoe@gmail dot com","label":3,"idx":146}
+{"sentence":"create new message to robert @ work what time you off from me send","label":3,"idx":147}
+{"sentence":"send an email to jeff at gmail dot com","label":3,"idx":148}
+{"sentence":"reply to dad write I will be late","label":3,"idx":149}
+{"sentence":"send an email to ms palmer ask her if dean turned in his last homework assignment","label":3,"idx":150}
+{"sentence":"open email to send to dad","label":3,"idx":151}
+{"sentence":"any junk mails","label":1,"idx":152}
+{"sentence":"send email to newmail@gmail dot com","label":3,"idx":153}
+{"sentence":"do i have any emails from jessica","label":1,"idx":154}
+{"sentence":"send email to my contact","label":3,"idx":155}
+{"sentence":"hi buddy send mail to my friend hellen regarding home builders are not accepted the offer","label":3,"idx":156}
+{"sentence":"send an email to mom asking for a weather update on the week to come","label":3,"idx":157}
+{"sentence":"what is joe joe's home address","label":2,"idx":158}
+{"sentence":"email work team this week's schedule","label":3,"idx":159}
+{"sentence":"you should reply to the mail","label":3,"idx":160}
+{"sentence":"have i gotten any new messages since yesterday","label":1,"idx":161}
+{"sentence":"do we have morgan's office's number","label":2,"idx":162}
+{"sentence":"email family","label":3,"idx":163}
+{"sentence":"compose email to my mom","label":3,"idx":164}
+{"sentence":"email donna plans for today","label":3,"idx":165}
+{"sentence":"do i have email from my friend rachel","label":1,"idx":166}
+{"sentence":"tell me the status of my inbox","label":1,"idx":167}
+{"sentence":"initiate polling for new email","label":1,"idx":168}
+{"sentence":"send a mail to mike tell him we will meet today seven pm for dinner at coffee house","label":3,"idx":169}
+{"sentence":"update me on my emails","label":1,"idx":170}
+{"sentence":"did joe leave any contact information in his email","label":1,"idx":171}
+{"sentence":"please send my family an email that says the following","label":3,"idx":172}
+{"sentence":"hey read any email to me","label":1,"idx":173}
+{"sentence":"reply to the mail with the following content hello you","label":3,"idx":174}
+{"sentence":"i have a new contact newmail@gmail dot com compose mail","label":3,"idx":175}
+{"sentence":"i'd like to email mary and ask if she wanted to meet up after work at tgi friday's","label":3,"idx":176}
+{"sentence":"email to matthew with content project finished send me invoice please","label":3,"idx":177}
+{"sentence":"pass the following using email to jake jake","label":3,"idx":178}
+{"sentence":"check my spam email for phishing","label":1,"idx":179}
+{"sentence":"what street does sarah live on check my phone book","label":2,"idx":180}
+{"sentence":"quick reply to jack so please send a mail","label":3,"idx":181}
+{"sentence":"edit contacts","label":0,"idx":182}
+{"sentence":"have i gotten an email from sean","label":1,"idx":183}
+{"sentence":"are there any new emails from robert jones","label":1,"idx":184}
+{"sentence":"check emails from gary for last hour","label":1,"idx":185}
+{"sentence":"please place my new email address to the contact","label":0,"idx":186}
+{"sentence":"status of my inbox","label":1,"idx":187}
+{"sentence":"please check for new emails","label":1,"idx":188}
+{"sentence":"mary's contact number","label":2,"idx":189}
+{"sentence":"send a reply to the last email","label":3,"idx":190}
+{"sentence":"did sara tried to call me","label":2,"idx":191}
+{"sentence":"give a last minute update on incoming emails please","label":1,"idx":192}
+{"sentence":"do i have new email from work since yesterday","label":1,"idx":193}
+{"sentence":"did i get any emails this week","label":1,"idx":194}
+{"sentence":"all new mail","label":1,"idx":195}
+{"sentence":"reply back to bob smith","label":3,"idx":196}
+{"sentence":"locate jen's most recent email so i can reply","label":3,"idx":197}
+{"sentence":"send the email to this new email address","label":3,"idx":198}
+{"sentence":"show me my contacts","label":2,"idx":199}
+{"sentence":"send reply to joe","label":3,"idx":200}
+{"sentence":"when did i get an email from john smith about car accident","label":1,"idx":201}
+{"sentence":"send an email to mom asking if she was able to order the book from amazon that i told her about","label":3,"idx":202}
+{"sentence":"beep when i get an email from john","label":1,"idx":203}
+{"sentence":"ems","label":1,"idx":204}
+{"sentence":"i want the email to be sent to my new email address abc@gmail dot com","label":3,"idx":205}
+{"sentence":"smsayyad1985@outlook dot com","label":3,"idx":206}
+{"sentence":"put a mail to sandy","label":3,"idx":207}
+{"sentence":"type an email for me please","label":3,"idx":208}
+{"sentence":"list phone and email id of robert","label":2,"idx":209}
+{"sentence":"what's my friend joe's phone number","label":2,"idx":210}
+{"sentence":"reply the email of charles with just thank you right now","label":3,"idx":211}
+{"sentence":"how can i contact this person","label":2,"idx":212}
+{"sentence":"i want to reply to this email","label":3,"idx":213}
+{"sentence":"send the email to john","label":3,"idx":214}
+{"sentence":"make a new contact with this email","label":0,"idx":215}
+{"sentence":"hey send email to john","label":3,"idx":216}
+{"sentence":"send email to robert","label":3,"idx":217}
+{"sentence":"reply to john's email today saying i will be late","label":3,"idx":218}
+{"sentence":"email grandma subject saturday message we are dropping by on saturday see you then","label":3,"idx":219}
+{"sentence":"i need to send an email to bob","label":3,"idx":220}
+{"sentence":"reply back to emily","label":3,"idx":221}
+{"sentence":"any new emails in my inbox","label":1,"idx":222}
+{"sentence":"check my inbox for new emails","label":1,"idx":223}
+{"sentence":"send email to bro and say hi come down for dinner tonight","label":3,"idx":224}
+{"sentence":"please check if there is a new email on the inbox","label":1,"idx":225}
+{"sentence":"reply to email from name","label":3,"idx":226}
+{"sentence":"let me know if there are any new emails from callum","label":1,"idx":227}
+{"sentence":"who's emailed me recently","label":1,"idx":228}
+{"sentence":"please add smurfette@gmail dot com to my email contacts","label":0,"idx":229}
+{"sentence":"what are my new emails","label":1,"idx":230}
+{"sentence":"how many new emails have i received today","label":1,"idx":231}
+{"sentence":"are there any new emails from name","label":1,"idx":232}
+{"sentence":"reply to this please","label":3,"idx":233}
+{"sentence":"please check for new unread emails from paul","label":1,"idx":234}
+{"sentence":"read all new emails please","label":1,"idx":235}
+{"sentence":"can you send an email to","label":3,"idx":236}
+{"sentence":"do i have any new emails from luke","label":1,"idx":237}
+{"sentence":"please open my contact list","label":2,"idx":238}
+{"sentence":"add this email to my contact list","label":0,"idx":239}
+{"sentence":"please send a mail to mr richard stating that i going to met him on first of february twenty seventeen at five pm at this office","label":3,"idx":240}
+{"sentence":"look up contacts","label":3,"idx":241}
+{"sentence":"i need this email sent now","label":3,"idx":242}
+{"sentence":"reply to anthony's email","label":3,"idx":243}
+{"sentence":"check if there are new emails","label":1,"idx":244}
+{"sentence":"please check and tell me contact details of mongomery llc company","label":2,"idx":245}
+{"sentence":"reply to my last email","label":3,"idx":246}
+{"sentence":"dial the number","label":2,"idx":247}
+{"sentence":"send an email to all my co workers","label":3,"idx":248}
+{"sentence":"what is the email sent by this contact read","label":1,"idx":249}
+{"sentence":"answer to pawel's email","label":3,"idx":250}
+{"sentence":"where does this friend live","label":2,"idx":251}
+{"sentence":"please send mom an email saying that i can make it next week","label":3,"idx":252}
+{"sentence":"please check email contain job listing","label":1,"idx":253}
+{"sentence":"reply to the email from john","label":3,"idx":254}
+{"sentence":"have i gotten any emails from mom lately","label":1,"idx":255}
+{"sentence":"do i have any new inbox message","label":1,"idx":256}
+{"sentence":"tell me about new emails","label":1,"idx":257}
+{"sentence":"i added a new email address for joe yesterday will you find it please","label":1,"idx":258}
+{"sentence":"can you tell me the contact information of jo","label":2,"idx":259}
+{"sentence":"please send the email to abc@gmail dot com instead of xyz@gmail dot com","label":3,"idx":260}
+{"sentence":"read the message again","label":1,"idx":261}
+{"sentence":"please find all emails from jane about our sunday church group","label":1,"idx":262}
+{"sentence":"reply email received","label":3,"idx":263}
+{"sentence":"have i got any new email from my company","label":1,"idx":264}
+{"sentence":"where does fred work","label":2,"idx":265}
+{"sentence":"have i received any emails from shaun","label":1,"idx":266}
+{"sentence":"what is john smith's number","label":2,"idx":267}
+{"sentence":"has any personal emails come in yet","label":1,"idx":268}
+{"sentence":"will you send the email to greg","label":3,"idx":269}
+{"sentence":"reply with thanks","label":3,"idx":270}
+{"sentence":"what mail do i have","label":1,"idx":271}
+{"sentence":"find all emails that contain the following subject","label":1,"idx":272}
+{"sentence":"do i have any new email from john","label":1,"idx":273}
+{"sentence":"call vikki","label":2,"idx":274}
+{"sentence":"who did i email last","label":1,"idx":275}
+{"sentence":"read email from julia","label":1,"idx":276}
+{"sentence":"send email to mom starting with the subject vacation","label":3,"idx":277}
+{"sentence":"hello you have a send an email to someone","label":3,"idx":278}
+{"sentence":"are there any recent emails from zita","label":1,"idx":279}
+{"sentence":"add this email address to my contacts and send an email to","label":0,"idx":280}
+{"sentence":"what is the home phone number of mark","label":2,"idx":281}
+{"sentence":"what information do we have on the data breach","label":1,"idx":282}
+{"sentence":"send an email to rae telling her my phone is back in service","label":3,"idx":283}
+{"sentence":"Has john sent me any new emails","label":1,"idx":284}
+{"sentence":"check new emails","label":1,"idx":285}
+{"sentence":"reply to erins email by saying i will be on time","label":3,"idx":286}
+{"sentence":"send an email to dad about the weather for the week","label":3,"idx":287}
+{"sentence":"add the new email to my contacts","label":0,"idx":288}
+{"sentence":"mail administrator","label":3,"idx":289}
+{"sentence":"send a replay email","label":3,"idx":290}
+{"sentence":"new email for contact","label":3,"idx":291}
+{"sentence":"send an email and save the contact information for samuelwaters@hotmail dot com","label":0,"idx":292}
+{"sentence":"open emails","label":1,"idx":293}
+{"sentence":"let me know if there are any new emails from ebay","label":1,"idx":294}
+{"sentence":"email john tomorrow","label":3,"idx":295}
+{"sentence":"give me charles telephone number","label":2,"idx":296}
+{"sentence":"update email","label":1,"idx":297}
+{"sentence":"let me know of any incoming emails for the last hour please","label":1,"idx":298}
+{"sentence":"can you please read the my mom sent this morning at ten am","label":1,"idx":299}
+{"sentence":"can you write an email to chelsea","label":3,"idx":300}
+{"sentence":"are there any new emails","label":1,"idx":301}
+{"sentence":"hi olly please send mail to mom i am coming home on this weekend","label":3,"idx":302}
+{"sentence":"add new contact and send email","label":3,"idx":303}
+{"sentence":"show all the received emails recently with timestamp","label":1,"idx":304}
+{"sentence":"what is jeff's number","label":2,"idx":305}
+{"sentence":"please check my inbox and tell me if there are any new arrivals","label":1,"idx":306}
+{"sentence":"when was the last call i received from jordan","label":2,"idx":307}
+{"sentence":"send an email to jake to tell him thank you","label":3,"idx":308}
+{"sentence":"i want to reply to allen","label":3,"idx":309}
+{"sentence":"please tell me how many emails i have","label":1,"idx":310}
+{"sentence":"email jennifer the new schedule of the meeting for tomorrow","label":3,"idx":311}
+{"sentence":"read me the last email from stefan and oil change","label":1,"idx":312}
+{"sentence":"please send a business email about the time of the meeting change to lauren","label":3,"idx":313}
+{"sentence":"do i have any emails in the last hour","label":1,"idx":314}
+{"sentence":"email to pawel regarding latest news","label":3,"idx":315}
+{"sentence":"reply email to charlotte","label":3,"idx":316}
+{"sentence":"did paul email me recently","label":1,"idx":317}
+{"sentence":"check mail with subject","label":1,"idx":318}
+{"sentence":"send email to yulia","label":3,"idx":319}
+{"sentence":"are there any emails from the school about my conference","label":1,"idx":320}
+{"sentence":"compile information on the data breach","label":1,"idx":321}
+{"sentence":"compose email for robert","label":3,"idx":322}
+{"sentence":"give me notifications when i get any news from the starbucks i applied to","label":1,"idx":323}
+{"sentence":"look up in contacts","label":2,"idx":324}
+{"sentence":"raju phone book","label":2,"idx":325}
+{"sentence":"respond to the mail of ash in morning","label":3,"idx":326}
+{"sentence":"please draft an email to shaun requesting sunday's off for the next schedule","label":3,"idx":327}
+{"sentence":"email george brown","label":3,"idx":328}
+{"sentence":"answer email from sally","label":3,"idx":329}
+{"sentence":"write and send email to friend cindy","label":3,"idx":330}
+{"sentence":"check my mail","label":1,"idx":331}
+{"sentence":"could you please send and email to my friend susie letting her know i won't be at church tomorrow","label":3,"idx":332}
+{"sentence":"please read new emails","label":1,"idx":333}
+{"sentence":"write email","label":3,"idx":334}
+{"sentence":"did sams email arrive","label":1,"idx":335}
+{"sentence":"is there is any new emails","label":1,"idx":336}
+{"sentence":"read my most recent emails","label":1,"idx":337}
+{"sentence":"write an email to luke asking how the weather will be this coming week","label":3,"idx":338}
+{"sentence":"read the contact number of alex from phone book","label":2,"idx":339}
+{"sentence":"reply to last email say sorry cannot make it","label":3,"idx":340}
+{"sentence":"is this my sisters cellphone number","label":2,"idx":341}
+{"sentence":"is this person sent any email","label":1,"idx":342}
+{"sentence":"check inbox for jack","label":1,"idx":343}
+{"sentence":"do i have any new emails in the last hour","label":1,"idx":344}
+{"sentence":"dictate new email","label":3,"idx":345}
+{"sentence":"open my inbox please","label":1,"idx":346}
+{"sentence":"check my mailbox and let me know if there is any mail post seven am today","label":1,"idx":347}
+{"sentence":"add a new email in my contacts from john","label":0,"idx":348}
+{"sentence":"what is the subject of the email that just arrived","label":1,"idx":349}
+{"sentence":"add erosser@hotmail dot com as a new contact for emily rosser","label":0,"idx":350}
+{"sentence":"start email to client","label":3,"idx":351}
+{"sentence":"are any of my new emails from amy","label":1,"idx":352}
+{"sentence":"send email to liz","label":3,"idx":353}
+{"sentence":"compose an email to bob","label":3,"idx":354}
+{"sentence":"find naty from my contacts and send her an email","label":3,"idx":355}
+{"sentence":"did dan send me any emails","label":1,"idx":356}
+{"sentence":"create new contact with email","label":0,"idx":357}
+{"sentence":"respond to my bosses email with the word that i will be in at four in the evening","label":3,"idx":358}
+{"sentence":"what was the name of my last email","label":1,"idx":359}
+{"sentence":"hey reply a mail which i received","label":3,"idx":360}
+{"sentence":"markpolomm@gmail dot com","label":3,"idx":361}
+{"sentence":"add this new email","label":0,"idx":362}
+{"sentence":"emails","label":1,"idx":363}
+{"sentence":"does sarah have a new email address listed","label":1,"idx":364}
+{"sentence":"send the email to jill that is saved in my drafts folder","label":3,"idx":365}
+{"sentence":"are there any new emails for me","label":1,"idx":366}
+{"sentence":"send mom an email about the upcoming weather for the week","label":3,"idx":367}
+{"sentence":"send an email to the newest address added to the address book","label":3,"idx":368}
+{"sentence":"reply to recent emails","label":3,"idx":369}
+{"sentence":"did i have any new email","label":1,"idx":370}
+{"sentence":"compose this email to this new email address","label":3,"idx":371}
+{"sentence":"any new emails from derek","label":1,"idx":372}
+{"sentence":"send email how are you dad to dad","label":3,"idx":373}
+{"sentence":"please let me know when delia replies to my email from this morning","label":1,"idx":374}
+{"sentence":"check recently sent emails from mom","label":1,"idx":375}
+{"sentence":"any new emails after five pm","label":1,"idx":376}
+{"sentence":"have i gotten any new emails from family","label":1,"idx":377}
+{"sentence":"create an email that needs to go out to my family","label":3,"idx":378}
+{"sentence":"did i receive any emails from tori","label":1,"idx":379}
+{"sentence":"compose an email to parisa","label":3,"idx":380}
+{"sentence":"what is the subject of the last email sent to me by q","label":1,"idx":381}
+{"sentence":"are my contacts mostly female or male","label":2,"idx":382}
+{"sentence":"shoot an email to chris about work tomorrow","label":3,"idx":383}
+{"sentence":"give me contact mail id","label":2,"idx":384}
+{"sentence":"to chris write following content sorry I will be late today","label":3,"idx":385}
+{"sentence":"what email notifications do i have","label":1,"idx":386}
+{"sentence":"send email to my wife","label":3,"idx":387}
+{"sentence":"send email to manoj vyas","label":3,"idx":388}
+{"sentence":"play back the last message","label":1,"idx":389}
+{"sentence":"please send dad an email asking about the weather in new jersey","label":3,"idx":390}
+{"sentence":"read my unread emails","label":1,"idx":391}
+{"sentence":"show all emails of contract","label":1,"idx":392}
+{"sentence":"send email to marissa","label":3,"idx":393}
+{"sentence":"answer email","label":3,"idx":394}
+{"sentence":"add dale@gmail dot com to my contacts","label":0,"idx":395}
+{"sentence":"save to contacts","label":0,"idx":396}
+{"sentence":"read email","label":1,"idx":397}
+{"sentence":"through outlook","label":3,"idx":398}
+{"sentence":"compose a mail for jack","label":3,"idx":399}
+{"sentence":"do i have any missed call from patrick","label":2,"idx":400}
+{"sentence":"open reply","label":3,"idx":401}
+{"sentence":"send email thank you very much to sarah as a reply","label":3,"idx":402}
+{"sentence":"please reply to this email","label":3,"idx":403}
+{"sentence":"give me recent emails","label":1,"idx":404}
+{"sentence":"reply to the email received from jennifer","label":3,"idx":405}
+{"sentence":"please check mails quickly","label":1,"idx":406}
+{"sentence":"through mail server","label":3,"idx":407}
+{"sentence":"add jpearsonjessica@gmail dot com to email contacts","label":0,"idx":408}
+{"sentence":"has john sent me a reply via email yet","label":1,"idx":409}
+{"sentence":"i want to send email to jack@gmail dot com","label":3,"idx":410}
+{"sentence":"send email to mom and tell her see her at disney world","label":3,"idx":411}
+{"sentence":"check my email for any new email from joe","label":1,"idx":412}
+{"sentence":"add email to contacts","label":0,"idx":413}
+{"sentence":"how do we organize against trump","label":1,"idx":414}
+{"sentence":"prepare to send an outgoing reply message","label":3,"idx":415}
+{"sentence":"send email to joe@aol dot com","label":3,"idx":416}
+{"sentence":"send an email to bob","label":3,"idx":417}
+{"sentence":"can you open the reply inbox","label":3,"idx":418}
+{"sentence":"run reply to latest email received","label":3,"idx":419}
+{"sentence":"what is mom's email address","label":2,"idx":420}
+{"sentence":"email mom and ask how the weather is there","label":3,"idx":421}
+{"sentence":"has david got back to me yet","label":1,"idx":422}
+{"sentence":"start a reply to marleen's most recent email","label":3,"idx":423}
+{"sentence":"forward the concert dates to jerry by email","label":3,"idx":424}
+{"sentence":"send email to family saying i love you all","label":3,"idx":425}
+{"sentence":"has mike sent me an email","label":1,"idx":426}
+{"sentence":"get me new email","label":1,"idx":427}
+{"sentence":"write an email for john@gmail dot com","label":3,"idx":428}
+{"sentence":"show me all the emails received recently","label":1,"idx":429}
+{"sentence":"did mom text me","label":2,"idx":430}
+{"sentence":"what emails did i get yesterday","label":1,"idx":431}
+{"sentence":"any email in the last hour","label":1,"idx":432}
+{"sentence":"what were the first number of email subjects i got today","label":1,"idx":433}
+{"sentence":"can you pull up jeff","label":2,"idx":434}
+{"sentence":"send email to daughter saying i love you","label":3,"idx":435}
+{"sentence":"have i received any emails since noon","label":1,"idx":436}
+{"sentence":"how many mails have i received today","label":1,"idx":437}
+{"sentence":"refresh my email","label":1,"idx":438}
+{"sentence":"please check my gmail for new mail","label":1,"idx":439}
+{"sentence":"is there a new email in the inbox from jay","label":1,"idx":440}
+{"sentence":"send an email to mom subject weather body what is the weather like there this week","label":3,"idx":441}
+{"sentence":"email my boss that i will be late today because of an emergency and apologize to him for missing the meeting","label":3,"idx":442}
+{"sentence":"did i receive a message from kevin","label":2,"idx":443}
+{"sentence":"could you send that email to chong","label":3,"idx":444}
+{"sentence":"send an email to a new address","label":3,"idx":445}
+{"sentence":"create email to john start body i am interested in seeing the car you have for sale can we schedule a time to meet send","label":3,"idx":446}
+{"sentence":"read me new messages from name","label":1,"idx":447}
+{"sentence":"open new emails","label":1,"idx":448}
+{"sentence":"reply to joes email","label":3,"idx":449}
+{"sentence":"have i received any emails in the past two hours","label":1,"idx":450}
+{"sentence":"search nandy containing payment","label":1,"idx":451}
+{"sentence":"write a reply to my mother's email","label":3,"idx":452}
+{"sentence":"show last mail from john","label":1,"idx":453}
+{"sentence":"create an email to mom and ask about this week's weather","label":3,"idx":454}
+{"sentence":"reply to my most recent email","label":3,"idx":455}
+{"sentence":"is there any email from emilia","label":1,"idx":456}
+{"sentence":"emails in the last hour","label":1,"idx":457}
+{"sentence":"do i have any new emails on my inbox","label":1,"idx":458}
+{"sentence":"add new email address","label":0,"idx":459}
+{"sentence":"are there any email updates","label":1,"idx":460}
+{"sentence":"check for me new emails received from peter","label":1,"idx":461}
+{"sentence":"go to contacts and add a new email to the list","label":3,"idx":462}
+{"sentence":"add apahelp@yahoo dot com in my contact list","label":0,"idx":463}
+{"sentence":"let me know if i have new emails","label":1,"idx":464}
+{"sentence":"send email to carl that i will be late for work tomorrow","label":3,"idx":465}
+{"sentence":"any mail from amazon today","label":1,"idx":466}
+{"sentence":"what are my new contact emails","label":1,"idx":467}
+{"sentence":"are there any new emails from today","label":1,"idx":468}
+{"sentence":"can you send an email to chelsea please","label":3,"idx":469}
+{"sentence":"i need you to add gary's email to my favorites","label":0,"idx":470}
+{"sentence":"tell me my latest email","label":1,"idx":471}
+{"sentence":"did i get an email from sarah","label":1,"idx":472}
+{"sentence":"please add to my contact lists and send them a reminder email","label":0,"idx":473}
+{"sentence":"report what is new in my email inbox please","label":1,"idx":474}
+{"sentence":"select information you want","label":2,"idx":475}
+{"sentence":"how do i dial sarah","label":2,"idx":476}
+{"sentence":"any important notifications","label":1,"idx":477}
+{"sentence":"apply search and check","label":2,"idx":478}
+{"sentence":"what's jesse's birthday","label":2,"idx":479}
+{"sentence":"check if any new emails came from anna","label":1,"idx":480}
+{"sentence":"delete this email","label":3,"idx":481}
+{"sentence":"show all emails sent to me from my boss","label":1,"idx":482}
+{"sentence":"check my email inboxes and tell me about new mails","label":1,"idx":483}
+{"sentence":"forward email","label":3,"idx":484}
+{"sentence":"alex has told me that he will send an email regarding the price of the machine please check if that has come","label":1,"idx":485}
+{"sentence":"what's john's home phone number","label":2,"idx":486}
+{"sentence":"can you send an email for me to a new email address","label":3,"idx":487}
+{"sentence":"what is frieda's home address","label":2,"idx":488}
+{"sentence":"reply mail","label":3,"idx":489}
+{"sentence":"check most current emails","label":1,"idx":490}
+{"sentence":"answer this mail","label":3,"idx":491}
+{"sentence":"take me to emails from my boss","label":1,"idx":492}
+{"sentence":"email karen about the budget meeting","label":3,"idx":493}
+{"sentence":"has jane doe emailed me","label":1,"idx":494}
+{"sentence":"contacts","label":2,"idx":495}
+{"sentence":"please tell me if july has sent me any emails","label":1,"idx":496}
+{"sentence":"display address of john","label":2,"idx":497}
+{"sentence":"just add a new email in my contacts from michael","label":0,"idx":498}
+{"sentence":"new address","label":3,"idx":499}
+{"sentence":"how do i contact charles","label":2,"idx":500}
+{"sentence":"get apahelp@yahoo dot com in my contacts","label":0,"idx":501}
+{"sentence":"or you can email to my sister and ask her how that weather is it in california","label":3,"idx":502}
+{"sentence":"send email to martha saying last evening was wild","label":3,"idx":503}
+{"sentence":"jay's phone number","label":2,"idx":504}
+{"sentence":"check my email please","label":1,"idx":505}
+{"sentence":"do i have email from my work","label":1,"idx":506}
+{"sentence":"see my inbox for mail i received from sarah","label":1,"idx":507}
+{"sentence":"look up for the residential address of my team leader","label":2,"idx":508}
+{"sentence":"email dad how is the weather this week","label":3,"idx":509}
+{"sentence":"start a new email to","label":3,"idx":510}
+{"sentence":"create new contact","label":0,"idx":511}
+{"sentence":"is bills house number in my contacts","label":2,"idx":512}
+{"sentence":"are there any emails i haven't read yet","label":1,"idx":513}
+{"sentence":"has john sent me an email","label":1,"idx":514}
+{"sentence":"where seth lives","label":2,"idx":515}
+{"sentence":"choose contact","label":2,"idx":516}
+{"sentence":"reply to the latest email","label":3,"idx":517}
+{"sentence":"the email of office staff must be checked","label":1,"idx":518}
+{"sentence":"check gmail","label":1,"idx":519}
+{"sentence":"please send a reminder email to peter and ask him how long he will be taking to prepare the presentation ppt","label":3,"idx":520}
+{"sentence":"find me all mails from magda with holidays word in the title","label":1,"idx":521}
+{"sentence":"check email for subject","label":1,"idx":522}
+{"sentence":"go to my gmail and click on compose when finished i will tell you what i want to write in the email","label":3,"idx":523}
+{"sentence":"send a text to alice","label":2,"idx":524}
+{"sentence":"where does joe joe live","label":2,"idx":525}
+{"sentence":"emails now","label":1,"idx":526}
+{"sentence":"could you please send an email to my husband","label":3,"idx":527}
+{"sentence":"send happy new year to john@gmail dot com","label":3,"idx":528}
+{"sentence":"pleas reply to the mail of allen","label":3,"idx":529}
+{"sentence":"can you please check my gmail for new messages","label":1,"idx":530}

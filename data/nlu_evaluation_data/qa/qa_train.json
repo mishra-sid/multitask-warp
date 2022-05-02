@@ -1,1158 +1,1158 @@
-{"text":"what is the capital of nigeria","scenario":"qa","labels":2}
-{"text":"convert one us dollar to british pound","scenario":"qa","labels":0}
-{"text":"give me the exchange rate between united states dollar and japanese yen","scenario":"qa","labels":0}
-{"text":"what is price of dollar","scenario":"qa","labels":0}
-{"text":"how strong is the dollar compared to the peso","scenario":"qa","labels":4}
-{"text":"what does rumplestiltskin mean","scenario":"qa","labels":1}
-{"text":"what is a president","scenario":"qa","labels":1}
-{"text":"definition of marketing","scenario":"qa","labels":1}
-{"text":"tell me something about","scenario":"qa","labels":2}
-{"text":"how hilly is it in sacramento","scenario":"qa","labels":2}
-{"text":"how long is an earth day","scenario":"qa","labels":2}
-{"text":"actually what is the life style of sahara desert","scenario":"qa","labels":2}
-{"text":"how tall is kanye west","scenario":"qa","labels":2}
-{"text":"Where is miami","scenario":"qa","labels":2}
-{"text":"how much is ten u. s. d. to cad","scenario":"qa","labels":0}
-{"text":"what is the current stock rate of facebook","scenario":"qa","labels":4}
-{"text":"how many people live in oxford now","scenario":"qa","labels":2}
-{"text":"what is the us dollar and euro exchange rate","scenario":"qa","labels":0}
-{"text":"what character does chris evans play","scenario":"qa","labels":2}
-{"text":"what does this word mean","scenario":"qa","labels":1}
-{"text":"tell me about george washington","scenario":"qa","labels":2}
-{"text":"where is the bolshoi theatre located","scenario":"qa","labels":2}
-{"text":"show me the exchange rate between czk and dollar","scenario":"qa","labels":0}
-{"text":"what is the answer to that question","scenario":"qa","labels":3}
-{"text":"what is channing tatum's birthday","scenario":"qa","labels":2}
-{"text":"how tall is mount rushmore","scenario":"qa","labels":2}
-{"text":"who is the current prime minister of russia","scenario":"qa","labels":2}
-{"text":"when is jared leto's birthday","scenario":"qa","labels":2}
-{"text":"what does potato mean","scenario":"qa","labels":1}
-{"text":"hey what's a book","scenario":"qa","labels":1}
-{"text":"what is the rate for g. b. p. to u. s. d.","scenario":"qa","labels":0}
-{"text":"is the stocks which i have invested are increasing","scenario":"qa","labels":4}
-{"text":"what is the birth year of barack obama","scenario":"qa","labels":2}
-{"text":"i need to figure out this percentage","scenario":"qa","labels":3}
-{"text":"list the latest books published by favorite authors","scenario":"qa","labels":2}
-{"text":"siri what does survey mean","scenario":"qa","labels":1}
-{"text":"define philosophy","scenario":"qa","labels":1}
-{"text":"how many canadian dollars are in a us dollar","scenario":"qa","labels":0}
-{"text":"was george washington the first president","scenario":"qa","labels":2}
-{"text":"who is jeremy irons","scenario":"qa","labels":2}
-{"text":"can you give me a rundown on john legend","scenario":"qa","labels":2}
-{"text":"show me the demographic growth rate of switzerland in the last ten years","scenario":"qa","labels":2}
-{"text":"tell me billy crytals address","scenario":"qa","labels":2}
-{"text":"at what age did brad pitt marry angelina joli","scenario":"qa","labels":2}
-{"text":"please indicate the opening price of fra stock","scenario":"qa","labels":4}
-{"text":"where is fiji","scenario":"qa","labels":2}
-{"text":"how many beatles are still alive","scenario":"qa","labels":2}
-{"text":"what's the rate between the u. s. d. and ukraine's currency","scenario":"qa","labels":0}
-{"text":"dollar rate of philippiness peso","scenario":"qa","labels":0}
-{"text":"what color is a dragon fruit","scenario":"qa","labels":2}
-{"text":"new exchange rate","scenario":"qa","labels":0}
-{"text":"how many pesos will dollars get me","scenario":"qa","labels":0}
-{"text":"which river in germany is the biggest","scenario":"qa","labels":2}
-{"text":"how much long is atlanta","scenario":"qa","labels":2}
-{"text":"what is the currency of egypt","scenario":"qa","labels":0}
-{"text":"solve the calculation","scenario":"qa","labels":3}
-{"text":"how far does my dollar go in japan","scenario":"qa","labels":2}
-{"text":"is colombo on the coast of sri lanka","scenario":"qa","labels":2}
-{"text":"what is the exchange of euro to dollars","scenario":"qa","labels":0}
-{"text":"demographics","scenario":"qa","labels":2}
-{"text":"who is the current president of united states","scenario":"qa","labels":2}
-{"text":"what's the exchange between u. s. d. and cad","scenario":"qa","labels":0}
-{"text":"get me rate euro to u. s. d. yesterday","scenario":"qa","labels":0}
-{"text":"what is a trebuchet","scenario":"qa","labels":1}
-{"text":"which was longest buildings in the world","scenario":"qa","labels":2}
-{"text":"define rumplestiltskin","scenario":"qa","labels":1}
-{"text":"who was the current prime minister of britain","scenario":"qa","labels":2}
-{"text":"tell me the definition of arrow","scenario":"qa","labels":1}
-{"text":"what is the yen us dollar exchange rate","scenario":"qa","labels":0}
-{"text":"latest iphone","scenario":"qa","labels":1}
-{"text":"explain me about rock","scenario":"qa","labels":1}
-{"text":"i need to know how many dollars there are to a pound","scenario":"qa","labels":0}
-{"text":"what's the pound to dollar exchange rate","scenario":"qa","labels":0}
-{"text":"when can i get off mr bones wild ride","scenario":"qa","labels":2}
-{"text":"what was the last movie that brad pitt starred in","scenario":"qa","labels":2}
-{"text":"how old is jennifer garner","scenario":"qa","labels":2}
-{"text":"what happened to the dow jones today","scenario":"qa","labels":4}
-{"text":"what's the meaning of rumplestiltskin","scenario":"qa","labels":1}
-{"text":"ask my adviser","scenario":"qa","labels":4}
-{"text":"what's the price of ge right now","scenario":"qa","labels":4}
-{"text":"what does tweet mean","scenario":"qa","labels":1}
-{"text":"search the region","scenario":"qa","labels":2}
-{"text":"where are the rocky mountains","scenario":"qa","labels":2}
-{"text":"what is the meaning of this word","scenario":"qa","labels":1}
-{"text":"what is the age of britney spears","scenario":"qa","labels":2}
-{"text":"whats the dow jones at today","scenario":"qa","labels":4}
-{"text":"what is the answer to x","scenario":"qa","labels":3}
-{"text":"please tell me news related to the stock market","scenario":"qa","labels":4}
-{"text":"what exactly is a resin tooth filling","scenario":"qa","labels":1}
-{"text":"what is something that is round","scenario":"qa","labels":2}
-{"text":"who is currently the oldest living person in the world","scenario":"qa","labels":2}
-{"text":"someone","scenario":"qa","labels":1}
-{"text":"what is the definition of plethora","scenario":"qa","labels":1}
-{"text":"check definition of capricious","scenario":"qa","labels":1}
-{"text":"what is the price of ford stock","scenario":"qa","labels":4}
-{"text":"how many countries are in the european union","scenario":"qa","labels":2}
-{"text":"at what age michael phelps got married","scenario":"qa","labels":2}
-{"text":"how do i","scenario":"qa","labels":2}
-{"text":"how much is an euro worth","scenario":"qa","labels":0}
-{"text":"what is x plus y","scenario":"qa","labels":3}
-{"text":"what is the exchange rate between us and canadian dollars","scenario":"qa","labels":0}
-{"text":"what is apple's stock price","scenario":"qa","labels":4}
-{"text":"who is taylor swift","scenario":"qa","labels":2}
-{"text":"how does population play a role in a countries economy","scenario":"qa","labels":2}
-{"text":"check stock price for dinky donuts","scenario":"qa","labels":4}
-{"text":"when was born abraham lincoln","scenario":"qa","labels":2}
-{"text":"what are the dimensions for a buick lesber","scenario":"qa","labels":2}
-{"text":"how long are barack and michelle married","scenario":"qa","labels":2}
-{"text":"what is the distance to the moon","scenario":"qa","labels":2}
-{"text":"what is starbuck's stock worth","scenario":"qa","labels":4}
-{"text":"what is the exchange rate as of today","scenario":"qa","labels":0}
-{"text":"what is the current exchange rate with the g. b. p.","scenario":"qa","labels":0}
-{"text":"from dollar to euro","scenario":"qa","labels":0}
-{"text":"what apple trading at","scenario":"qa","labels":4}
-{"text":"give me a description of lego","scenario":"qa","labels":1}
-{"text":"what is famous in indranagar","scenario":"qa","labels":2}
-{"text":"how many months in a year","scenario":"qa","labels":2}
-{"text":"r","scenario":"qa","labels":1}
-{"text":"what is a virtual reality headset","scenario":"qa","labels":1}
-{"text":"what the euro to dollar exchange rate today","scenario":"qa","labels":0}
-{"text":"divide seventy six in two parts","scenario":"qa","labels":3}
-{"text":"what is the definition of organization","scenario":"qa","labels":1}
-{"text":"where is cambodia situated","scenario":"qa","labels":2}
-{"text":"find the meaning of promise","scenario":"qa","labels":1}
-{"text":"obama information","scenario":"qa","labels":2}
-{"text":"please show me the exchange rate between the dollar and the yen","scenario":"qa","labels":0}
-{"text":"how much is the dollar worth compared to the euro","scenario":"qa","labels":0}
-{"text":"how tall are the rockies","scenario":"qa","labels":2}
-{"text":"where is steven spielberg living","scenario":"qa","labels":2}
-{"text":"check wikipedia for a definition of the word homosapien","scenario":"qa","labels":1}
-{"text":"with all of the information you can gather on the internet could you please provide me with the best probable explanation of who killed president kennedy","scenario":"qa","labels":2}
-{"text":"how much of the earth is made up of water","scenario":"qa","labels":2}
-{"text":"what does sanctimonious mean","scenario":"qa","labels":1}
-{"text":"which currency is greater the us dollar or yen","scenario":"qa","labels":0}
-{"text":"which pole is colder south or north","scenario":"qa","labels":2}
-{"text":"what is the cost of iphone seven","scenario":"qa","labels":2}
-{"text":"where is the hottest place on earth","scenario":"qa","labels":2}
-{"text":"what was george eliot's first november el","scenario":"qa","labels":2}
-{"text":"what movies has neil walker done","scenario":"qa","labels":2}
-{"text":"a word like ramification","scenario":"qa","labels":1}
-{"text":"how much us money do i get from ten kroner","scenario":"qa","labels":0}
-{"text":"tell me what a freeway is","scenario":"qa","labels":1}
-{"text":"tell me the deepest sea in the world","scenario":"qa","labels":2}
-{"text":"what's the exchange rate between australian dollars and american dollars","scenario":"qa","labels":0}
-{"text":"define computer game","scenario":"qa","labels":1}
-{"text":"give me the opening stock price of sony","scenario":"qa","labels":4}
-{"text":"open stock price for name","scenario":"qa","labels":4}
-{"text":"list me the stock of apple right now","scenario":"qa","labels":4}
-{"text":"what is a hibachi grill","scenario":"qa","labels":1}
-{"text":"define schadenfraude","scenario":"qa","labels":1}
-{"text":"Show me current exchange rate between euros and other currencies","scenario":"qa","labels":0}
-{"text":"where is place","scenario":"qa","labels":2}
-{"text":"what an umbrella means","scenario":"qa","labels":1}
-{"text":"google this how much vitamin c is in a carrot","scenario":"qa","labels":2}
-{"text":"where is ashwin","scenario":"qa","labels":2}
-{"text":"where is montana","scenario":"qa","labels":2}
-{"text":"given me the exchange rates between u. s. d. and jpy","scenario":"qa","labels":0}
-{"text":"use this word in a sentence","scenario":"qa","labels":1}
-{"text":"what is the geographic region of madagascar","scenario":"qa","labels":2}
-{"text":"where does rush limbaugh live","scenario":"qa","labels":2}
-{"text":"exchange rates","scenario":"qa","labels":0}
-{"text":"define keyboard","scenario":"qa","labels":1}
-{"text":"to compare in people","scenario":"qa","labels":2}
-{"text":"what is us dollar today","scenario":"qa","labels":0}
-{"text":"how many oceans are there in the world","scenario":"qa","labels":2}
-{"text":"what is the definition of keen","scenario":"qa","labels":1}
-{"text":"when did the ussr dissolve and the soviet union rise to power","scenario":"qa","labels":2}
-{"text":"tell me why bill bur is a better comedian than iliza schleshinger","scenario":"qa","labels":2}
-{"text":"for how many years was abraham lincoln president of united states","scenario":"qa","labels":2}
-{"text":"which was longest river in the world","scenario":"qa","labels":2}
-{"text":"what is the longest river on earth","scenario":"qa","labels":2}
-{"text":"tell me the population of usa","scenario":"qa","labels":2}
-{"text":"what is the exchange rate between the us and canada","scenario":"qa","labels":0}
-{"text":"give me the exchange rate for the us dollar and the euro","scenario":"qa","labels":0}
-{"text":"Who is brad pitt","scenario":"qa","labels":2}
-{"text":"calc","scenario":"qa","labels":3}
-{"text":"where is  the grand canyon","scenario":"qa","labels":2}
-{"text":"when was trump born","scenario":"qa","labels":2}
-{"text":"what's the dollar's exchange rate with the euro","scenario":"qa","labels":0}
-{"text":"what is the exchange rate of mexican pesos to us dollars","scenario":"qa","labels":0}
-{"text":"what are the chances of the stock market closing below the two hundred moving average in the next fourteen days","scenario":"qa","labels":4}
-{"text":"siri what does obstacle mean","scenario":"qa","labels":1}
-{"text":"what is word","scenario":"qa","labels":1}
-{"text":"where is mcmennamin's","scenario":"qa","labels":2}
-{"text":"a","scenario":"qa","labels":2}
-{"text":"can many seashells did sally sell by the seashore","scenario":"qa","labels":2}
-{"text":"when was frank sinatra born","scenario":"qa","labels":2}
-{"text":"what is the capital of denmark","scenario":"qa","labels":2}
-{"text":"what is the coldest country on earth","scenario":"qa","labels":2}
-{"text":"i would like to know the meaning of word","scenario":"qa","labels":1}
-{"text":"actor who acts a role","scenario":"qa","labels":1}
-{"text":"who is rihanna dating right now","scenario":"qa","labels":2}
-{"text":"look up beyonce wikipedia","scenario":"qa","labels":2}
-{"text":"what does animal mean","scenario":"qa","labels":1}
-{"text":"find twitter handle of tom cruise","scenario":"qa","labels":2}
-{"text":"how many cities are on international borders","scenario":"qa","labels":2}
-{"text":"convert ten inches to centimeters","scenario":"qa","labels":3}
-{"text":"what is the sixteenth president","scenario":"qa","labels":2}
-{"text":"where is pategonia","scenario":"qa","labels":2}
-{"text":"how much is twenty two usd in euros","scenario":"qa","labels":0}
-{"text":"currency exchange rates","scenario":"qa","labels":0}
-{"text":"define diverse","scenario":"qa","labels":1}
-{"text":"definition of arrow please","scenario":"qa","labels":1}
-{"text":"solution","scenario":"qa","labels":3}
-{"text":"how old is george clooney","scenario":"qa","labels":2}
-{"text":"the capital of nigeria is what","scenario":"qa","labels":2}
-{"text":"what is the exchange rate between us and mexico","scenario":"qa","labels":0}
-{"text":"whats the scenery like in morocco","scenario":"qa","labels":2}
-{"text":"describe the general topography of central park","scenario":"qa","labels":2}
-{"text":"what new movie is jennifer lawrence working on","scenario":"qa","labels":2}
-{"text":"how long is the nile","scenario":"qa","labels":2}
-{"text":"intel company stock price","scenario":"qa","labels":4}
-{"text":"google the word","scenario":"qa","labels":1}
-{"text":"what is denzel washington's next movie","scenario":"qa","labels":2}
-{"text":"give the definition of motivation","scenario":"qa","labels":1}
-{"text":"i need the definition of the new lg washing machine","scenario":"qa","labels":1}
-{"text":"how far away is the sun","scenario":"qa","labels":2}
-{"text":"which is the safest and most dangerous country to live in","scenario":"qa","labels":2}
-{"text":"id like my to randomly make jokes unprompted","scenario":"qa","labels":2}
-{"text":"tell me how old is ryan seacrest","scenario":"qa","labels":2}
-{"text":"what is the capital of washington","scenario":"qa","labels":2}
-{"text":"how tall is lebron james","scenario":"qa","labels":2}
-{"text":"stock up or down for walgreens","scenario":"qa","labels":4}
-{"text":"what is the current status of resolving general relativity with quantum physics","scenario":"qa","labels":2}
-{"text":"how many shares of apple can i get for","scenario":"qa","labels":4}
-{"text":"how many euro in u. s. d.","scenario":"qa","labels":0}
-{"text":"tell me about it","scenario":"qa","labels":1}
-{"text":"define television","scenario":"qa","labels":1}
-{"text":"why was tesla famous for","scenario":"qa","labels":2}
-{"text":"could you please give me the birthday of mahatma gandhiji","scenario":"qa","labels":2}
-{"text":"show me the big bang theory","scenario":"qa","labels":2}
-{"text":"what is the financial capital of canada","scenario":"qa","labels":2}
-{"text":"i want to learn about donald trump","scenario":"qa","labels":2}
-{"text":"where was kelly clarkson born","scenario":"qa","labels":2}
-{"text":"need background information about person anastasia","scenario":"qa","labels":2}
-{"text":"show me share price of amazon","scenario":"qa","labels":4}
-{"text":"stock price for google","scenario":"qa","labels":4}
-{"text":"give me the description about smartphone","scenario":"qa","labels":1}
-{"text":"what does a grapefruit look like","scenario":"qa","labels":1}
-{"text":"let me know about the exchange rate of rupee to dirham","scenario":"qa","labels":0}
-{"text":"how old was elvis when he died","scenario":"qa","labels":2}
-{"text":"tell me the highest mountain in the world","scenario":"qa","labels":2}
-{"text":"what is the residing place of cricketer dhoni","scenario":"qa","labels":2}
-{"text":"when was einstein's birthday","scenario":"qa","labels":2}
-{"text":"how would you describe the internet","scenario":"qa","labels":1}
-{"text":"how many countries","scenario":"qa","labels":2}
-{"text":"have bing's stocks dropped","scenario":"qa","labels":4}
-{"text":"what is the square root of thirty four","scenario":"qa","labels":3}
-{"text":"how many franks is fifteen dollars","scenario":"qa","labels":0}
-{"text":"what is the price of starbuck's stock","scenario":"qa","labels":4}
-{"text":"dollars to euro","scenario":"qa","labels":0}
-{"text":"how tall is jennifer aniston","scenario":"qa","labels":2}
-{"text":"show conversion rate of u. s. d. and inr","scenario":"qa","labels":0}
-{"text":"what are the climatic conditions in that area","scenario":"qa","labels":2}
-{"text":"when is christmas","scenario":"qa","labels":2}
-{"text":"which country would end up converting the most money out of a thousand dollars us","scenario":"qa","labels":2}
-{"text":"how many us dollars are in one canadian dollar","scenario":"qa","labels":0}
-{"text":"is black sea real","scenario":"qa","labels":2}
-{"text":"what does hesitant mean","scenario":"qa","labels":1}
-{"text":"get me new definition","scenario":"qa","labels":1}
-{"text":"what's the definition of a buffet table","scenario":"qa","labels":1}
-{"text":"who is the wife of obama","scenario":"qa","labels":2}
-{"text":"is california between nevada and new york","scenario":"qa","labels":2}
-{"text":"can you tell me how much one dollar in the us is in mexico","scenario":"qa","labels":0}
-{"text":"rate u. s. d. to g. b. p.","scenario":"qa","labels":0}
-{"text":"how much is the dollar worth in canada","scenario":"qa","labels":0}
-{"text":"how many meetings did mahatma gandhi undertake","scenario":"qa","labels":2}
-{"text":"what does this stitch long sleeved shirt look like","scenario":"qa","labels":1}
-{"text":"please tell me what the word home means","scenario":"qa","labels":1}
-{"text":"what is a workhouse","scenario":"qa","labels":1}
-{"text":"where was keith urban born","scenario":"qa","labels":2}
-{"text":"are you solve my math","scenario":"qa","labels":3}
-{"text":"how many countries are north of alaska","scenario":"qa","labels":2}
-{"text":"what is the lowest population per square mile in africa","scenario":"qa","labels":2}
-{"text":"how would the volkswagen golf car look like","scenario":"qa","labels":1}
-{"text":"what is the price of stock for gm","scenario":"qa","labels":4}
-{"text":"open td ameritrade","scenario":"qa","labels":4}
-{"text":"director who direct an act","scenario":"qa","labels":1}
-{"text":"can you get me the route to chicago before midnight","scenario":"qa","labels":2}
-{"text":"whats meaning of word garden","scenario":"qa","labels":1}
-{"text":"is beyonce married or divorced","scenario":"qa","labels":2}
-{"text":"what is this thing","scenario":"qa","labels":1}
-{"text":"what is the highest point in the us","scenario":"qa","labels":2}
-{"text":"what are the oil prices like today for a barrel of crude oil","scenario":"qa","labels":2}
-{"text":"what's the stock price of this item","scenario":"qa","labels":4}
-{"text":"how much does stock cost in walmart","scenario":"qa","labels":4}
-{"text":"what year did michael jackson die","scenario":"qa","labels":2}
-{"text":"tell me which politician is being investigated","scenario":"qa","labels":2}
-{"text":"please find description of the newest canon rebel camera","scenario":"qa","labels":1}
-{"text":"who was the thirty two president","scenario":"qa","labels":2}
-{"text":"what channel is bates motel on","scenario":"qa","labels":2}
-{"text":"currency converter please","scenario":"qa","labels":0}
-{"text":"exchange rate from cad to u. s. d.","scenario":"qa","labels":0}
-{"text":"what brand hair spray does donald trump use","scenario":"qa","labels":2}
-{"text":"less stock price","scenario":"qa","labels":4}
-{"text":"has my stock increased in value","scenario":"qa","labels":4}
-{"text":"define what a wizard is","scenario":"qa","labels":1}
-{"text":"what is the stock price of i. b. m.","scenario":"qa","labels":4}
-{"text":"what is the square root of one hundred and forty eight thousand five hundred and eighty seven","scenario":"qa","labels":3}
-{"text":"how did paris hilton become famous","scenario":"qa","labels":2}
-{"text":"tell me about barack obama","scenario":"qa","labels":2}
-{"text":"what road is longest","scenario":"qa","labels":2}
-{"text":"what is population per mile in asia","scenario":"qa","labels":2}
-{"text":"if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book","scenario":"qa","labels":3}
-{"text":"how many people live in los angeles","scenario":"qa","labels":2}
-{"text":"if i have dollars in japanese money what does it equal to in american currency","scenario":"qa","labels":0}
-{"text":"give me the definition of the word fondle","scenario":"qa","labels":1}
-{"text":"search for michael buble","scenario":"qa","labels":2}
-{"text":"what about tona","scenario":"qa","labels":2}
-{"text":"what is computer game","scenario":"qa","labels":1}
-{"text":"what does joke mean","scenario":"qa","labels":1}
-{"text":"what is the meaning of","scenario":"qa","labels":1}
-{"text":"could you give me the exact rate for dow nifty futures","scenario":"qa","labels":4}
-{"text":"what color is the sky","scenario":"qa","labels":2}
-{"text":"please define the word hypocrisy","scenario":"qa","labels":1}
-{"text":"what is the us dollar to euro exchange rate","scenario":"qa","labels":0}
-{"text":"what is the longest river in spain","scenario":"qa","labels":2}
-{"text":"define session","scenario":"qa","labels":1}
-{"text":"what is the exchange rate of rupee for dollar","scenario":"qa","labels":0}
-{"text":"what you know about john abraham lincon","scenario":"qa","labels":2}
-{"text":"describe a potato","scenario":"qa","labels":1}
-{"text":"definition of computer","scenario":"qa","labels":1}
-{"text":"who is arnold schwarzenegger","scenario":"qa","labels":2}
-{"text":"what is five divided by one","scenario":"qa","labels":3}
-{"text":"what will be the size of a small panda","scenario":"qa","labels":2}
-{"text":"answer the equation eight times seven","scenario":"qa","labels":3}
-{"text":"please let me know the exchange rate between indian rupees and us","scenario":"qa","labels":0}
-{"text":"what is twenty four times twenty four","scenario":"qa","labels":3}
-{"text":"what country was einstein from","scenario":"qa","labels":2}
-{"text":"what is the exchange between dollar and british pound","scenario":"qa","labels":0}
-{"text":"how many oscars has won meryl streep","scenario":"qa","labels":2}
-{"text":"convert one pound to us dollar","scenario":"qa","labels":0}
-{"text":"define love without invoking the term love","scenario":"qa","labels":1}
-{"text":"tell me if five hundred and forty is subtracted seven time by twenty eight","scenario":"qa","labels":3}
-{"text":"how tall is mt everest","scenario":"qa","labels":2}
-{"text":"which stock markets have lowered in the past three hours","scenario":"qa","labels":4}
-{"text":"how can the word placid be used","scenario":"qa","labels":1}
-{"text":"what's the value of the euro relative to nzd","scenario":"qa","labels":0}
-{"text":"fb stocks","scenario":"qa","labels":4}
-{"text":"what year was chuck norris born","scenario":"qa","labels":2}
-{"text":"describe sphere","scenario":"qa","labels":1}
-{"text":"how many yen for each dollar","scenario":"qa","labels":0}
-{"text":"please tell me the definition of home","scenario":"qa","labels":1}
-{"text":"google michael jackson","scenario":"qa","labels":2}
-{"text":"what is the definition of precocious","scenario":"qa","labels":1}
-{"text":"how much has hp stock gone up","scenario":"qa","labels":4}
-{"text":"current price of coca cola stock","scenario":"qa","labels":4}
-{"text":"search the locality","scenario":"qa","labels":2}
-{"text":"which is the richest country in the world in terms of income and standard of living","scenario":"qa","labels":2}
-{"text":"define transcendet","scenario":"qa","labels":1}
-{"text":"what is s. d. in francs","scenario":"qa","labels":0}
-{"text":"what movies has emma watson acted in","scenario":"qa","labels":2}
-{"text":"may i have a list of five star hotels in paris","scenario":"qa","labels":2}
-{"text":"when can you use word set","scenario":"qa","labels":1}
-{"text":"what is a shoal","scenario":"qa","labels":1}
-{"text":"define the moon for me","scenario":"qa","labels":1}
-{"text":"where was jennifer lopez born","scenario":"qa","labels":2}
-{"text":"use schadenfraude in a sentence","scenario":"qa","labels":1}
-{"text":"show stock value of goog","scenario":"qa","labels":4}
-{"text":"what is an orange like","scenario":"qa","labels":1}
-{"text":"try following these steps to select the correct answer","scenario":"qa","labels":2}
-{"text":"please check the recent trend in stocks","scenario":"qa","labels":4}
-{"text":"how many inches make one feet","scenario":"qa","labels":3}
-{"text":"for what is famous  ellen degeneres","scenario":"qa","labels":2}
-{"text":"define a stronomy","scenario":"qa","labels":1}
-{"text":"give me the stock price of apple","scenario":"qa","labels":4}
-{"text":"how much money will i make for the week if i make dollars per hour and work twenty hours","scenario":"qa","labels":3}
-{"text":"how many calories are in a serving of grapes","scenario":"qa","labels":2}
-{"text":"how many miles across is the widest part of  the grand canyon","scenario":"qa","labels":2}
-{"text":"what is the size of the united states","scenario":"qa","labels":2}
-{"text":"what is a basketball","scenario":"qa","labels":1}
-{"text":"sum of five and two","scenario":"qa","labels":3}
-{"text":"what is the biggest city in new hampshire","scenario":"qa","labels":2}
-{"text":"what is ten times ten","scenario":"qa","labels":3}
-{"text":"convert one euros to us dollars","scenario":"qa","labels":0}
-{"text":"what is the location of moldova","scenario":"qa","labels":2}
-{"text":"convert czk to euro","scenario":"qa","labels":0}
-{"text":"how much money is one dollars worth in denmark","scenario":"qa","labels":0}
-{"text":"has sally fields ever won an academy award","scenario":"qa","labels":2}
-{"text":"can you tell me what hypertrophy means","scenario":"qa","labels":1}
-{"text":"what is the net worth of the celebrity","scenario":"qa","labels":2}
-{"text":"what's a broiler","scenario":"qa","labels":1}
-{"text":"give me the definition for animal","scenario":"qa","labels":1}
-{"text":"how old is bruce willis","scenario":"qa","labels":2}
-{"text":"what is the capital of vietnam","scenario":"qa","labels":2}
-{"text":"can i get the definition to ambulance","scenario":"qa","labels":1}
-{"text":"tell me about alexander the great","scenario":"qa","labels":2}
-{"text":"calculate the resistance of this resistor","scenario":"qa","labels":2}
-{"text":"what is the price for marvel","scenario":"qa","labels":4}
-{"text":"something","scenario":"qa","labels":1}
-{"text":"canadian us exchange rate","scenario":"qa","labels":0}
-{"text":"what is the stock price of hdfc","scenario":"qa","labels":4}
-{"text":"what awards did erica grebe win last night","scenario":"qa","labels":2}
-{"text":"can you give me the details of indian embassy","scenario":"qa","labels":2}
-{"text":"are the falklands in south america","scenario":"qa","labels":2}
-{"text":"give me the description about watch","scenario":"qa","labels":1}
-{"text":"what does the word hypocrisy mean","scenario":"qa","labels":1}
-{"text":"give me the exchange rate between united states dollar and indian rupee","scenario":"qa","labels":0}
-{"text":"person name","scenario":"qa","labels":2}
-{"text":"can you define a baster","scenario":"qa","labels":1}
-{"text":"what's trump been on about this week","scenario":"qa","labels":2}
-{"text":"what is geographic value of great volcano","scenario":"qa","labels":2}
-{"text":"explain","scenario":"qa","labels":1}
-{"text":"what is two times two","scenario":"qa","labels":3}
-{"text":"what is the current value of yen in american money","scenario":"qa","labels":0}
-{"text":"what is the capital of mexico","scenario":"qa","labels":2}
-{"text":"what is an alligator","scenario":"qa","labels":1}
-{"text":"what is the shallowest piece of land","scenario":"qa","labels":2}
-{"text":"is mt everest the tallest mountain in the united states","scenario":"qa","labels":2}
-{"text":"i wanna start skewing how effective will it be","scenario":"qa","labels":1}
-{"text":"define amphibious for me","scenario":"qa","labels":1}
-{"text":"mobile device explanation","scenario":"qa","labels":1}
-{"text":"what is an organism","scenario":"qa","labels":1}
-{"text":"what does obligatory mean","scenario":"qa","labels":1}
-{"text":"exchange rate from euros to dollars","scenario":"qa","labels":0}
-{"text":"how does the dollar compare to the pound","scenario":"qa","labels":0}
-{"text":"how many euros is one dollar","scenario":"qa","labels":0}
-{"text":"give me today's market trends for panasonic","scenario":"qa","labels":4}
-{"text":"describe a chart","scenario":"qa","labels":1}
-{"text":"if i have dollars how much is that in pesos","scenario":"qa","labels":0}
-{"text":"why are whales big","scenario":"qa","labels":2}
-{"text":"stock price of goog","scenario":"qa","labels":4}
-{"text":"tell me if its national holiday tomorrow","scenario":"qa","labels":2}
-{"text":"did you hear about","scenario":"qa","labels":2}
-{"text":"what is the location of kentucky","scenario":"qa","labels":2}
-{"text":"what is the exchange rate between us and canada","scenario":"qa","labels":0}
-{"text":"google","scenario":"qa","labels":3}
-{"text":"show me the stock prices of target today","scenario":"qa","labels":4}
-{"text":"what is trump's approval rating","scenario":"qa","labels":2}
-{"text":"what is apple's stock","scenario":"qa","labels":4}
-{"text":"look up the meaning of logic","scenario":"qa","labels":1}
-{"text":"where in the world is carmen san diego","scenario":"qa","labels":2}
-{"text":"how old was albert einstein when he came up with relativity theory","scenario":"qa","labels":2}
-{"text":"how much is one hundred and thirty six plus three hundred and eighty seven","scenario":"qa","labels":3}
-{"text":"how much is the euro worth versus us dollar","scenario":"qa","labels":0}
-{"text":"how is the current stock price looking for charmin","scenario":"qa","labels":4}
-{"text":"what is the population of alabama","scenario":"qa","labels":2}
-{"text":"google how old is david cameron","scenario":"qa","labels":2}
-{"text":"list the celebrities who have been in my country in the last five years","scenario":"qa","labels":2}
-{"text":"which is the smallest island in the world","scenario":"qa","labels":2}
-{"text":"what is rock sand","scenario":"qa","labels":1}
-{"text":"denmark geographic location","scenario":"qa","labels":2}
-{"text":"could you calculate five plus five","scenario":"qa","labels":3}
-{"text":"how many quarts are in a gallon","scenario":"qa","labels":2}
-{"text":"info of rowan atkinson","scenario":"qa","labels":2}
-{"text":"what is the definition of logic","scenario":"qa","labels":1}
-{"text":"how do you define textual","scenario":"qa","labels":1}
-{"text":"when was albert einstein born","scenario":"qa","labels":2}
-{"text":"what is","scenario":"qa","labels":1}
-{"text":"what are the stock prices of target","scenario":"qa","labels":4}
-{"text":"where is yellowstone","scenario":"qa","labels":2}
-{"text":"how much does one euro cost in rupees","scenario":"qa","labels":0}
-{"text":"for how much is hp selling for","scenario":"qa","labels":4}
-{"text":"list albums of rihana","scenario":"qa","labels":2}
-{"text":"hey what is the definition of survey","scenario":"qa","labels":1}
-{"text":"three times two equals six","scenario":"qa","labels":3}
-{"text":"could you tell me the meaning of the word exorbitant","scenario":"qa","labels":1}
-{"text":"need geographic information about italy","scenario":"qa","labels":2}
-{"text":"describe what a morel mushroom looks like","scenario":"qa","labels":1}
-{"text":"how do i check my currency exchange rate","scenario":"qa","labels":0}
-{"text":"i need to know the price of amazon stock","scenario":"qa","labels":4}
-{"text":"what country has the most population","scenario":"qa","labels":2}
-{"text":"tell me about india location","scenario":"qa","labels":2}
-{"text":"what is the value of pound in rupees","scenario":"qa","labels":0}
-{"text":"what are the stock prices","scenario":"qa","labels":4}
-{"text":"what i can do with laptop","scenario":"qa","labels":1}
-{"text":"for how many years did mahatma gandhi live","scenario":"qa","labels":2}
-{"text":"has pound value decreased","scenario":"qa","labels":0}
-{"text":"tell me the current dollar ratio for the us and canada","scenario":"qa","labels":0}
-{"text":"what is a x","scenario":"qa","labels":1}
-{"text":"how big is  the grand canyon","scenario":"qa","labels":2}
-{"text":"how much does jennifer aniston make","scenario":"qa","labels":2}
-{"text":"is i. b. m. up today","scenario":"qa","labels":4}
-{"text":"where is obama from","scenario":"qa","labels":2}
-{"text":"how large is alaska","scenario":"qa","labels":2}
-{"text":"how much is amazon stock","scenario":"qa","labels":4}
-{"text":"current forex rates","scenario":"qa","labels":0}
-{"text":"what country uses the most coal","scenario":"qa","labels":2}
-{"text":"what did kim kardashian wear to london fashion week","scenario":"qa","labels":2}
-{"text":"whats the current price of mcdonalds stock","scenario":"qa","labels":4}
-{"text":"how many pesos to an american dollar","scenario":"qa","labels":0}
-{"text":"tell me lexmark's current stock price","scenario":"qa","labels":4}
-{"text":"what is a caftan","scenario":"qa","labels":1}
-{"text":"help me to understand the meaning of this life","scenario":"qa","labels":2}
-{"text":"i would like if will be smart and intelligent in way it will be familiar with me and recognise the way i like the result will be","scenario":"qa","labels":2}
-{"text":"search on his informations","scenario":"qa","labels":2}
-{"text":"tell me about martin luther king jr","scenario":"qa","labels":2}
-{"text":"exchange rate of yan with dollar","scenario":"qa","labels":0}
-{"text":"where on earth has the most volcanos","scenario":"qa","labels":2}
-{"text":"what is the definition of pwd","scenario":"qa","labels":1}
-{"text":"what is the exchange rate of currency in uk","scenario":"qa","labels":0}
-{"text":"is angeline having a new movie this year","scenario":"qa","labels":2}
-{"text":"u. s. d. position now","scenario":"qa","labels":0}
-{"text":"what the conversion rate from yen to us dollars","scenario":"qa","labels":0}
-{"text":"if i have fifty dollars and spend twenty four how many dollars will i have left","scenario":"qa","labels":3}
-{"text":"show me prince's biography","scenario":"qa","labels":2}
-{"text":"what is six minus four","scenario":"qa","labels":3}
-{"text":"how much is the canadian dollar worth versus us dollar","scenario":"qa","labels":0}
-{"text":"how old is draymond green","scenario":"qa","labels":2}
-{"text":"why is donald trump the president of the united states and how do we get him kicked out of office","scenario":"qa","labels":2}
-{"text":"automatically enter me into every free sweepstake for which i am eligible for around the globe at all times prioritize those with cash prizes","scenario":"qa","labels":2}
-{"text":"what is the most current exchange rate in china","scenario":"qa","labels":0}
-{"text":"set notification for news on the stock market","scenario":"qa","labels":4}
-{"text":"how does a cheetah look","scenario":"qa","labels":1}
-{"text":"how old is hugh jackman","scenario":"qa","labels":2}
-{"text":"how old is marian carey","scenario":"qa","labels":2}
-{"text":"in what scenario would you use word inconvenience","scenario":"qa","labels":1}
-{"text":"how tall is mount everest","scenario":"qa","labels":2}
-{"text":"answer this mathematical question","scenario":"qa","labels":3}
-{"text":"euro u. s. d.","scenario":"qa","labels":0}
-{"text":"what does a geranium look like","scenario":"qa","labels":1}
-{"text":"convert currency calculator","scenario":"qa","labels":0}
-{"text":"what is the capital of california","scenario":"qa","labels":2}
-{"text":"what is the stock price of apple","scenario":"qa","labels":4}
-{"text":"tell me which mutual funds have maximum yearly returns","scenario":"qa","labels":4}
-{"text":"how long was bryan cranston on breaking bad","scenario":"qa","labels":2}
-{"text":"what is the hottest temperature of alaska in june","scenario":"qa","labels":2}
-{"text":"where is yosemite park","scenario":"qa","labels":2}
-{"text":"how far in steps is home from here","scenario":"qa","labels":2}
-{"text":"what is four plus five","scenario":"qa","labels":3}
-{"text":"give me the exchange rate between united states dollar and canadian dollar","scenario":"qa","labels":0}
-{"text":"was lucille ball a natural redhead","scenario":"qa","labels":2}
-{"text":"one dollar to argentinian pesos","scenario":"qa","labels":0}
-{"text":"what is a canadian dollar worth in the us","scenario":"qa","labels":0}
-{"text":"is willie nelson still alive","scenario":"qa","labels":2}
-{"text":"what is a chair","scenario":"qa","labels":1}
-{"text":"how much is one plus one","scenario":"qa","labels":3}
-{"text":"when is katy perry's birthday","scenario":"qa","labels":2}
-{"text":"what is the sum of 9 and 12","scenario":"qa","labels":3}
-{"text":"what is a geographic fact in this region","scenario":"qa","labels":2}
-{"text":"what is the exchange rate between pound sterling and the us dollar","scenario":"qa","labels":0}
-{"text":"what is the answer to one times two","scenario":"qa","labels":3}
-{"text":"stock exchange rates","scenario":"qa","labels":4}
-{"text":"stock google find out","scenario":"qa","labels":4}
-{"text":"what is a mango","scenario":"qa","labels":1}
-{"text":"exchange euro to dollar","scenario":"qa","labels":0}
-{"text":"convert the american dollar to the euro","scenario":"qa","labels":0}
-{"text":"could you please tell me what is the rate for pound to u. s. d.","scenario":"qa","labels":0}
-{"text":"would like to know the description of a car","scenario":"qa","labels":1}
-{"text":"what is the population of russia","scenario":"qa","labels":2}
-{"text":"what is dollar exchange rate with indian currency","scenario":"qa","labels":0}
-{"text":"what's the sum of the two numbers four and six","scenario":"qa","labels":3}
-{"text":"define computer","scenario":"qa","labels":1}
-{"text":"show meaning of clarion","scenario":"qa","labels":1}
-{"text":"what is the square root of ninety seven","scenario":"qa","labels":3}
-{"text":"what movie did megan fox star in","scenario":"qa","labels":2}
-{"text":"where was steve jobs born","scenario":"qa","labels":2}
-{"text":"give me the stock price of berkshire hathaway","scenario":"qa","labels":4}
-{"text":"more stock price","scenario":"qa","labels":4}
-{"text":"how many euro make dollars","scenario":"qa","labels":0}
-{"text":"what do you know about the statue of liberty","scenario":"qa","labels":1}
-{"text":"how many euro will i get for ten dollars","scenario":"qa","labels":0}
-{"text":"what are amd stock prices","scenario":"qa","labels":4}
-{"text":"where is channing tatum from","scenario":"qa","labels":2}
-{"text":"what is the name of the tallest man","scenario":"qa","labels":2}
-{"text":"what is the mean sea level of that place","scenario":"qa","labels":2}
-{"text":"meaning of enthusiastic","scenario":"qa","labels":1}
-{"text":"bing directions","scenario":"qa","labels":2}
-{"text":"where is the closest barber","scenario":"qa","labels":2}
-{"text":"info on lisa ann please","scenario":"qa","labels":2}
-{"text":"where is the prime meridian","scenario":"qa","labels":2}
-{"text":"what is the dollar equivalent in pesos","scenario":"qa","labels":0}
-{"text":"about vijay","scenario":"qa","labels":2}
-{"text":"what is the us dollar equivalent of one euro","scenario":"qa","labels":0}
-{"text":"can you tell me the price of google stock","scenario":"qa","labels":4}
-{"text":"tell me when the next big earthquake will hit california","scenario":"qa","labels":2}
-{"text":"what is rate of euro to u. s. d.","scenario":"qa","labels":0}
-{"text":"how many euros can i get for one dollar","scenario":"qa","labels":0}
-{"text":"what does turbulence mean","scenario":"qa","labels":1}
-{"text":"how tall was abraham lincoln","scenario":"qa","labels":2}
-{"text":"what is the exchange rates in this region","scenario":"qa","labels":0}
-{"text":"tell me the synonym of telegraph","scenario":"qa","labels":1}
-{"text":"stocks fb","scenario":"qa","labels":4}
-{"text":"what is garam masala","scenario":"qa","labels":1}
-{"text":"what is the coldest state in the us","scenario":"qa","labels":2}
-{"text":"can you tell me where is crimea","scenario":"qa","labels":2}
-{"text":"is it true the gym is seven miles away","scenario":"qa","labels":2}
-{"text":"how many pages long is harry potter","scenario":"qa","labels":2}
-{"text":"give me the stock price for tommy hilfiger","scenario":"qa","labels":4}
-{"text":"what was martin luther kings birthday","scenario":"qa","labels":2}
-{"text":"how did steve irwin die","scenario":"qa","labels":2}
-{"text":"name the capital of nigeria","scenario":"qa","labels":2}
-{"text":"describe what a sphere is","scenario":"qa","labels":1}
-{"text":"when does the super bowl officially start","scenario":"qa","labels":2}
-{"text":"what is the answer to two times three","scenario":"qa","labels":3}
-{"text":"what makes something head cheese","scenario":"qa","labels":1}
-{"text":"how much money in us would i need to have a thousand pesos","scenario":"qa","labels":0}
-{"text":"please give me address of salman khan apartment","scenario":"qa","labels":2}
-{"text":"how tall is madonna","scenario":"qa","labels":2}
-{"text":"what is the largest desk","scenario":"qa","labels":1}
-{"text":"what is the definition of session","scenario":"qa","labels":1}
-{"text":"what is the birthday of hemingway","scenario":"qa","labels":2}
-{"text":"i want to figure out the stock on microsoft","scenario":"qa","labels":4}
-{"text":"how much yens is a dollar worth","scenario":"qa","labels":0}
-{"text":"please search for this word","scenario":"qa","labels":1}
-{"text":"list exchange rate information for the day for u. s. d. to jpy","scenario":"qa","labels":0}
-{"text":"what is a fjord","scenario":"qa","labels":2}
-{"text":"which celebrity is most likely to follow me back on twitter","scenario":"qa","labels":2}
-{"text":"provide valid references with information to help people understand critical thinking and giving credit where credit is due rather than perpetuate fake news and alternative facts","scenario":"qa","labels":2}
-{"text":"please tell me the background of person jeremy irons","scenario":"qa","labels":2}
-{"text":"geo info","scenario":"qa","labels":2}
-{"text":"when was last academy award winning movie","scenario":"qa","labels":2}
-{"text":"what's the capital of kazakhstan","scenario":"qa","labels":2}
-{"text":"how tall is trevor noah","scenario":"qa","labels":2}
-{"text":"what do pink ribbons support","scenario":"qa","labels":2}
-{"text":"what is the home city of the bolshoi theatre","scenario":"qa","labels":2}
-{"text":"please find today's stock prices for samsung company","scenario":"qa","labels":4}
-{"text":"angelina jolie spouses","scenario":"qa","labels":2}
-{"text":"what johncena do","scenario":"qa","labels":2}
-{"text":"what are the current stocks for yahoo","scenario":"qa","labels":4}
-{"text":"what is ten u. s. d. in euros","scenario":"qa","labels":0}
-{"text":"what is today's close of goog","scenario":"qa","labels":4}
-{"text":"who is the prime minister of russia","scenario":"qa","labels":2}
-{"text":"book me a flight to mars next year","scenario":"qa","labels":2}
-{"text":"what is the exchange rate from english currency to yen","scenario":"qa","labels":0}
-{"text":"please define textual","scenario":"qa","labels":1}
-{"text":"what is the square root of thirty six","scenario":"qa","labels":3}
-{"text":"what is the exchange rate of us dollar today for rupee","scenario":"qa","labels":0}
-{"text":"what is the definition of ultra","scenario":"qa","labels":1}
-{"text":"convert one us dollar to euro","scenario":"qa","labels":0}
-{"text":"definition for object name","scenario":"qa","labels":1}
-{"text":"twenty minus ten","scenario":"qa","labels":3}
-{"text":"how much is dollar worth in persos","scenario":"qa","labels":0}
-{"text":"how crowded is los angeles","scenario":"qa","labels":2}
-{"text":"is alaska a republican or democratic state","scenario":"qa","labels":2}
-{"text":"what is the object in this photo","scenario":"qa","labels":1}
-{"text":"who played harry potter in the films","scenario":"qa","labels":2}
-{"text":"where do cows come from","scenario":"qa","labels":2}
-{"text":"how much is the average house","scenario":"qa","labels":2}
-{"text":"tell me about kevin spacey","scenario":"qa","labels":2}
-{"text":"how to spell the word treble","scenario":"qa","labels":1}
-{"text":"what are some updates about the stock market","scenario":"qa","labels":4}
-{"text":"when was the bolshoi theatre constructed","scenario":"qa","labels":2}
-{"text":"movies of tom hanks","scenario":"qa","labels":2}
-{"text":"whats ten percent off forty dollars","scenario":"qa","labels":3}
-{"text":"how big is the empire state building","scenario":"qa","labels":2}
-{"text":"definition xy","scenario":"qa","labels":1}
-{"text":"exchange rate of euro with dollar","scenario":"qa","labels":0}
-{"text":"how is the exchange rate for microsoft","scenario":"qa","labels":4}
-{"text":"what is the linear equation","scenario":"qa","labels":3}
-{"text":"currency rates","scenario":"qa","labels":0}
-{"text":"how much is remaining after subtracting four from eight","scenario":"qa","labels":3}
-{"text":"one plus two equal","scenario":"qa","labels":3}
-{"text":"how smooth is marble floor","scenario":"qa","labels":2}
-{"text":"when is the birth date of taylor lautner","scenario":"qa","labels":2}
-{"text":"calculate a close integral of exponential function from zero to five","scenario":"qa","labels":2}
-{"text":"define acceleration","scenario":"qa","labels":1}
-{"text":"what is ten divided by five","scenario":"qa","labels":3}
-{"text":"how many people live in san francisco","scenario":"qa","labels":2}
-{"text":"i need some details about bruce lee please assist","scenario":"qa","labels":2}
-{"text":"what causes in burmuda triangle","scenario":"qa","labels":2}
-{"text":"define the word absolute","scenario":"qa","labels":1}
-{"text":"where is dell standing in stock market right now","scenario":"qa","labels":4}
-{"text":"if i have a dablune how many dollars is that","scenario":"qa","labels":0}
-{"text":"please tell me about the historic facts about india","scenario":"qa","labels":2}
-{"text":"how hot are summers in gibraltar","scenario":"qa","labels":2}
-{"text":"what year did elvis die","scenario":"qa","labels":2}
-{"text":"can you do nine plus two","scenario":"qa","labels":3}
-{"text":"give me the definition of carion","scenario":"qa","labels":1}
-{"text":"can you really see russia from alaska","scenario":"qa","labels":2}
-{"text":"describe a romantic love","scenario":"qa","labels":1}
-{"text":"how are the top ten stocks at the moment","scenario":"qa","labels":4}
-{"text":"get me info on","scenario":"qa","labels":1}
-{"text":"what is the definition for the word pontificate","scenario":"qa","labels":1}
-{"text":"is elizabeth taylor still alive","scenario":"qa","labels":2}
-{"text":"dollars to euro please","scenario":"qa","labels":0}
-{"text":"how many tablespoons are there in a cup","scenario":"qa","labels":2}
-{"text":"how many miles is it between illinois and louisiana","scenario":"qa","labels":2}
-{"text":"where can i find japan","scenario":"qa","labels":2}
-{"text":"where does brad pitt live","scenario":"qa","labels":2}
-{"text":"calculate two multiplied by two","scenario":"qa","labels":3}
-{"text":"dollar rate at present","scenario":"qa","labels":0}
-{"text":"who is the prettiest actress in the world in this century","scenario":"qa","labels":2}
-{"text":"who is lenin","scenario":"qa","labels":2}
-{"text":"how many floors does the empire state building have","scenario":"qa","labels":2}
-{"text":"who is the governor of new york","scenario":"qa","labels":2}
-{"text":"how much is twenty argentinian pesos in pounds","scenario":"qa","labels":0}
-{"text":"what is an electronic emissions system","scenario":"qa","labels":1}
-{"text":"give me the description of a laptop circuit","scenario":"qa","labels":1}
-{"text":"is the dollar stronger than the pound","scenario":"qa","labels":0}
-{"text":"in which field does that person excel in","scenario":"qa","labels":2}
-{"text":"in what year did george bush become the president of united states","scenario":"qa","labels":2}
-{"text":"is tom cruise an only child","scenario":"qa","labels":2}
-{"text":"what's the one night with paris","scenario":"qa","labels":2}
-{"text":"tvs stock price","scenario":"qa","labels":4}
-{"text":"what is the value of stock per share of best buy","scenario":"qa","labels":4}
-{"text":"how's microsoft's stock","scenario":"qa","labels":4}
-{"text":"what's the answer to one plus one","scenario":"qa","labels":3}
-{"text":"what is arnold schwarzenegger's birthday","scenario":"qa","labels":2}
-{"text":"please describe a car","scenario":"qa","labels":1}
-{"text":"list stock price for this company stock","scenario":"qa","labels":4}
-{"text":"tell me about donald trump","scenario":"qa","labels":2}
-{"text":"set the thermostat to","scenario":"qa","labels":2}
-{"text":"what is now stock price of tata","scenario":"qa","labels":4}
-{"text":"exchange u. s. d. to g. b. p.","scenario":"qa","labels":0}
-{"text":"google maps","scenario":"qa","labels":2}
-{"text":"can you tell me the total number of oceans in the world","scenario":"qa","labels":2}
-{"text":"what is twenty percent of one hundred and twenty","scenario":"qa","labels":3}
-{"text":"what is the definition of subjegant","scenario":"qa","labels":1}
-{"text":"tryout in blog sites","scenario":"qa","labels":1}
-{"text":"four plus five equals nine","scenario":"qa","labels":3}
-{"text":"who is barack obama","scenario":"qa","labels":2}
-{"text":"when was george clooney born","scenario":"qa","labels":2}
-{"text":"what does lady gaga like to eat","scenario":"qa","labels":2}
-{"text":"please provide geographic information about taiwan","scenario":"qa","labels":2}
-{"text":"what is the name of the desert in arizona","scenario":"qa","labels":2}
-{"text":"who is donald trump","scenario":"qa","labels":2}
-{"text":"when was richard nixon born","scenario":"qa","labels":2}
-{"text":"what do you know about eminem","scenario":"qa","labels":2}
-{"text":"does pink have a new baby","scenario":"qa","labels":2}
-{"text":"describe piramid","scenario":"qa","labels":1}
-{"text":"help microphone","scenario":"qa","labels":1}
-{"text":"find the sum of thirteen and fourteen","scenario":"qa","labels":3}
-{"text":"current price of google please","scenario":"qa","labels":4}
-{"text":"where was president madison born","scenario":"qa","labels":2}
-{"text":"where is located the biggest waterfall in the world","scenario":"qa","labels":2}
-{"text":"give me the description of a television circuit","scenario":"qa","labels":1}
-{"text":"what is the circumference of the earth","scenario":"qa","labels":2}
-{"text":"how many pounds would i get for dollars","scenario":"qa","labels":0}
-{"text":"is brad pitt married","scenario":"qa","labels":2}
-{"text":"find the residential address of tom hanks","scenario":"qa","labels":2}
-{"text":"describe joe for me please","scenario":"qa","labels":1}
-{"text":"how do you define it","scenario":"qa","labels":1}
-{"text":"object details","scenario":"qa","labels":1}
-{"text":"what are the stats of room","scenario":"qa","labels":2}
-{"text":"how old is miley cyrus","scenario":"qa","labels":2}
-{"text":"which is worth more the us dollar or the euro","scenario":"qa","labels":0}
-{"text":"where is the statue of liberty","scenario":"qa","labels":2}
-{"text":"tell me everything you know about sloths","scenario":"qa","labels":2}
-{"text":"how old is adele","scenario":"qa","labels":2}
-{"text":"i've got dollars for the month how much can i spend every day this month","scenario":"qa","labels":3}
-{"text":"where can i find a fjord","scenario":"qa","labels":2}
-{"text":"give me the opening stock price of infosys technologies today","scenario":"qa","labels":4}
-{"text":"can you describe to me a bike","scenario":"qa","labels":1}
-{"text":"who is andrew llyod webber","scenario":"qa","labels":2}
-{"text":"when was angelina jolie born","scenario":"qa","labels":2}
-{"text":"what is the meaning of ultra","scenario":"qa","labels":1}
-{"text":"where is botswana","scenario":"qa","labels":2}
-{"text":"how big is the stashable cinch bag and what does it look like","scenario":"qa","labels":2}
-{"text":"exchange rate i will get with foreign currency","scenario":"qa","labels":0}
-{"text":"how many philippine pesos to a dollar","scenario":"qa","labels":0}
-{"text":"where was marlon brando born","scenario":"qa","labels":2}
-{"text":"was there an improvement to the us economy","scenario":"qa","labels":2}
-{"text":"what is the stock price of amazon","scenario":"qa","labels":4}
-{"text":"can you tell me what flabbergasted means","scenario":"qa","labels":1}
-{"text":"what is the result of one hundred minus fifty","scenario":"qa","labels":3}
-{"text":"how is jennifer garner's career doing","scenario":"qa","labels":2}
-{"text":"can you add up thirteen plus five plus nine for me","scenario":"qa","labels":3}
-{"text":"what is the current stock price of samsung","scenario":"qa","labels":4}
-{"text":"what is the stock value of google","scenario":"qa","labels":4}
-{"text":"what is smart plug socket","scenario":"qa","labels":1}
-{"text":"where is the best vacation spot in california","scenario":"qa","labels":2}
-{"text":"was einstein married","scenario":"qa","labels":2}
-{"text":"tell me the brief definition of evacuation","scenario":"qa","labels":1}
-{"text":"please give me detail of one yen equals dollar","scenario":"qa","labels":0}
-{"text":"what is the definition of mutual","scenario":"qa","labels":1}
-{"text":"what's three plus three hundred and fifty five","scenario":"qa","labels":3}
-{"text":"tell me the best exchange rate","scenario":"qa","labels":0}
-{"text":"look up information on mount rushmore","scenario":"qa","labels":2}
-{"text":"describe texture","scenario":"qa","labels":1}
-{"text":"how old is cher","scenario":"qa","labels":2}
-{"text":"is a peso worth more than a dollar","scenario":"qa","labels":0}
-{"text":"what is the answer to life","scenario":"qa","labels":2}
-{"text":"subtract sixty from two hundred and forty four","scenario":"qa","labels":3}
-{"text":"please define the word bibulous","scenario":"qa","labels":1}
-{"text":"what shape is a ball","scenario":"qa","labels":2}
-{"text":"how much does nestle company cost","scenario":"qa","labels":4}
-{"text":"where does sophia vergara live","scenario":"qa","labels":2}
-{"text":"can you tell me what terse means","scenario":"qa","labels":1}
-{"text":"how big is japan","scenario":"qa","labels":2}
-{"text":"please define forensic","scenario":"qa","labels":1}
-{"text":"u. s. d. to yen","scenario":"qa","labels":0}
-{"text":"what is the [currency_name: canadian] exchange rate","scenario":"qa","labels":0}
-{"text":"show stock price of goog","scenario":"qa","labels":4}
-{"text":"what continent is germany on","scenario":"qa","labels":2}
-{"text":"i need the definition of president","scenario":"qa","labels":1}
-{"text":"siri what is the definition of ziggurat","scenario":"qa","labels":1}
-{"text":"please describe laptop","scenario":"qa","labels":1}
-{"text":"show exchange rate of u. s. d. and inr","scenario":"qa","labels":0}
-{"text":"search this object's definition","scenario":"qa","labels":1}
-{"text":"where is the nearest river","scenario":"qa","labels":2}
-{"text":"blanket definition","scenario":"qa","labels":1}
-{"text":"did the stock prices of google go up or down","scenario":"qa","labels":4}
-{"text":"Show geographic location of pyramids","scenario":"qa","labels":2}
-{"text":"stock company name","scenario":"qa","labels":4}
-{"text":"where is niagra falls located","scenario":"qa","labels":2}
-{"text":"stock price for apple","scenario":"qa","labels":4}
-{"text":"are jello shots calorie free","scenario":"qa","labels":2}
-{"text":"does obama have a twitter","scenario":"qa","labels":2}
-{"text":"please solve this math","scenario":"qa","labels":3}
-{"text":"is sofia vergara single","scenario":"qa","labels":2}
-{"text":"what is three hundred and four plus one","scenario":"qa","labels":3}
-{"text":"where is the south pole","scenario":"qa","labels":2}
-{"text":"how many children does sandra bullock have","scenario":"qa","labels":2}
-{"text":"how tall is the empire state building","scenario":"qa","labels":2}
-{"text":"what does a beech tree look like","scenario":"qa","labels":1}
-{"text":"what is a googleplex","scenario":"qa","labels":1}
-{"text":"who is highest scoring football player of all time","scenario":"qa","labels":2}
-{"text":"obama","scenario":"qa","labels":2}
-{"text":"tell me the current price of exxon mobil stock","scenario":"qa","labels":4}
-{"text":"design the chemical compounds necessary to create sugar that doesn't cause diabetes or weight gain but doesn't provide a chemical taste","scenario":"qa","labels":2}
-{"text":"what is the mass of a microwave","scenario":"qa","labels":2}
-{"text":"tell me about fjords","scenario":"qa","labels":2}
-{"text":"who are the greatest hip hop artists","scenario":"qa","labels":2}
-{"text":"who build the paris tower","scenario":"qa","labels":2}
-{"text":"what is the distance between new york and berlin","scenario":"qa","labels":2}
-{"text":"tell me who has the most number one hits on the billboard top twenty","scenario":"qa","labels":2}
-{"text":"find exchange rate for u. s. d. to dollar","scenario":"qa","labels":0}
-{"text":"sanctimonious definition","scenario":"qa","labels":1}
-{"text":"tell me what movie was the winner of last year's academy award for best picture","scenario":"qa","labels":2}
-{"text":"origin of word","scenario":"qa","labels":1}
-{"text":"what is the current exchange rate for yen to euros","scenario":"qa","labels":0}
-{"text":"have stocks gone up or down today for walmart","scenario":"qa","labels":4}
-{"text":"what year did george clooney start acting","scenario":"qa","labels":2}
-{"text":"what's the capital of tanzania","scenario":"qa","labels":2}
-{"text":"show stock of goog","scenario":"qa","labels":4}
-{"text":"check recent news on someone","scenario":"qa","labels":2}
-{"text":"what's thirteen plus fourteen","scenario":"qa","labels":3}
-{"text":"how old is rue mcclanahan","scenario":"qa","labels":2}
-{"text":"dollar rupees exchange rate","scenario":"qa","labels":0}
-{"text":"what is i. b. m. stock at","scenario":"qa","labels":4}
-{"text":"Who is mel gibson","scenario":"qa","labels":2}
-{"text":"what does the word bible mean","scenario":"qa","labels":1}
-{"text":"w","scenario":"qa","labels":1}
-{"text":"how many us dollars are there in one euro","scenario":"qa","labels":0}
-{"text":"rate between these currencies","scenario":"qa","labels":0}
-{"text":"what does apple of my eye mean","scenario":"qa","labels":1}
-{"text":"tell me about amazon's history","scenario":"qa","labels":2}
-{"text":"what is the definition of timeliness","scenario":"qa","labels":1}
-{"text":"two by two is","scenario":"qa","labels":3}
-{"text":"four divided by two equals two","scenario":"qa","labels":3}
-{"text":"how was the first president of us","scenario":"qa","labels":2}
-{"text":"what is the largest ocean in the world","scenario":"qa","labels":2}
-{"text":"when's mark lanegan's next album out","scenario":"qa","labels":2}
-{"text":"where ashwin hasted","scenario":"qa","labels":2}
-{"text":"open internet","scenario":"qa","labels":2}
-{"text":"convert five s. d. to rials","scenario":"qa","labels":0}
-{"text":"how much is one hundred dollars in euros","scenario":"qa","labels":0}
-{"text":"which bank will give better rate for currencies i have","scenario":"qa","labels":0}
-{"text":"will it be good to buy nike stock today","scenario":"qa","labels":4}
-{"text":"hey what's a head cheese","scenario":"qa","labels":1}
-{"text":"can you find and tell me the prices of facebook stock","scenario":"qa","labels":4}
-{"text":"i want some stock on nintendo","scenario":"qa","labels":4}
-{"text":"how far is parana river","scenario":"qa","labels":2}
-{"text":"can you look up the definition of cavil","scenario":"qa","labels":1}
-{"text":"how much is indian rupee going against us dollar","scenario":"qa","labels":0}
-{"text":"how much is fifty us dollars with in china","scenario":"qa","labels":0}
-{"text":"when did prince die","scenario":"qa","labels":2}
-{"text":"how many dollars are in a euro","scenario":"qa","labels":0}
-{"text":"what is the stock price of sensex right now","scenario":"qa","labels":4}
-{"text":"where do most celebrities hang out","scenario":"qa","labels":2}
-{"text":"notify me of the latest news on the stock market","scenario":"qa","labels":4}
-{"text":"what is taylor swift's birthday","scenario":"qa","labels":2}
-{"text":"what is angelina jolie's birthday","scenario":"qa","labels":2}
-{"text":"what does obsessed mean","scenario":"qa","labels":1}
-{"text":"what's a parsec","scenario":"qa","labels":2}
-{"text":"what is google's current stock price","scenario":"qa","labels":4}
-{"text":"what is three times seven","scenario":"qa","labels":3}
-{"text":"how far do the rocky mountains extend","scenario":"qa","labels":2}
-{"text":"abdul kalam president","scenario":"qa","labels":2}
-{"text":"when did the statue of liberty made","scenario":"qa","labels":2}
-{"text":"if it could make phone calls for you and say whatever it is you may text someone since not everyone is text savy","scenario":"qa","labels":2}
-{"text":"what price google up to","scenario":"qa","labels":4}
-{"text":"what is julia roberts natural hair color","scenario":"qa","labels":2}
-{"text":"who is the current us treasury secretary","scenario":"qa","labels":2}
-{"text":"when you ask it to schedule an appointment that it can email the specific person and provide available dates from your calendar","scenario":"qa","labels":2}
-{"text":"how many mountain ranges are there in the united states","scenario":"qa","labels":2}
-{"text":"open calculator","scenario":"qa","labels":3}
-{"text":"current exchange rates for uk pound","scenario":"qa","labels":0}
-{"text":"what is the definition of business","scenario":"qa","labels":1}
-{"text":"how many miles is new york city from los angeles","scenario":"qa","labels":2}
-{"text":"how many stray animals are saved every year","scenario":"qa","labels":2}
-{"text":"what does it mean to be overbearing","scenario":"qa","labels":1}
-{"text":"where is italy","scenario":"qa","labels":2}
-{"text":"what is a narwhal","scenario":"qa","labels":1}
-{"text":"define oscillate","scenario":"qa","labels":1}
-{"text":"where can i use this word","scenario":"qa","labels":1}
-{"text":"give me a biography of donald trump","scenario":"qa","labels":2}
-{"text":"how do you solve three two","scenario":"qa","labels":3}
-{"text":"stock market","scenario":"qa","labels":4}
-{"text":"iphone seven description","scenario":"qa","labels":1}
-{"text":"tell me about chuck norris","scenario":"qa","labels":2}
-{"text":"where are the rockies located","scenario":"qa","labels":2}
-{"text":"what kind of cloth eastern people wear","scenario":"qa","labels":2}
-{"text":"if i have dollars how many yen would that be","scenario":"qa","labels":0}
-{"text":"how many kids jackie chan does have","scenario":"qa","labels":2}
-{"text":"what is the meaning of placid","scenario":"qa","labels":1}
-{"text":"how many euros is one us dollars","scenario":"qa","labels":0}
-{"text":"Who is emma watson","scenario":"qa","labels":2}
-{"text":"what does problematic mean","scenario":"qa","labels":1}
-{"text":"what is the largest active volcano on earth","scenario":"qa","labels":2}
-{"text":"given me the exchange rates between u. s. d. and cad","scenario":"qa","labels":0}
-{"text":"which is the costliest and the cheapest city to live in some particular country","scenario":"qa","labels":2}
-{"text":"where did mel gibson grow up","scenario":"qa","labels":2}
-{"text":"what is the distance from some particular place","scenario":"qa","labels":2}
-{"text":"tell me the exchange rate us versus indian rupees","scenario":"qa","labels":0}
-{"text":"how old is david bowie","scenario":"qa","labels":2}
-{"text":"define alarm","scenario":"qa","labels":1}
-{"text":"how many cups in a quart","scenario":"qa","labels":2}
-{"text":"is the dow up or down","scenario":"qa","labels":4}
-{"text":"how much philippine peso do i need to make fifty dollars","scenario":"qa","labels":0}
-{"text":"how big is australia","scenario":"qa","labels":2}
-{"text":"tell what is the value of sin thirty","scenario":"qa","labels":3}
-{"text":"how much is ten euros in dollars","scenario":"qa","labels":0}
-{"text":"where is the largest volcano in the world","scenario":"qa","labels":2}
-{"text":"what is the population of new york","scenario":"qa","labels":2}
-{"text":"what was elvis presley's birthday","scenario":"qa","labels":2}
-{"text":"map","scenario":"qa","labels":2}
-{"text":"what is hair made up of","scenario":"qa","labels":2}
-{"text":"how old is betty white","scenario":"qa","labels":2}
-{"text":"i will be at pizza hut in ten minutes and will stay there for next forty minutes arrange an uber for me that can drop me home","scenario":"qa","labels":2}
-{"text":"give me the stock price of sony","scenario":"qa","labels":4}
-{"text":"how tall is hulk hogan","scenario":"qa","labels":2}
-{"text":"how old is trump","scenario":"qa","labels":2}
-{"text":"where in the world is lyon","scenario":"qa","labels":2}
-{"text":"how many three are available in twenty seven","scenario":"qa","labels":3}
-{"text":"how many kilometers are in a mile","scenario":"qa","labels":2}
-{"text":"what is the exchange rate from us dollars to euros","scenario":"qa","labels":0}
-{"text":"what year was baseball started","scenario":"qa","labels":2}
-{"text":"where is yellowstone park","scenario":"qa","labels":2}
-{"text":"tell me everything about albert einstein","scenario":"qa","labels":2}
-{"text":"define this object","scenario":"qa","labels":1}
-{"text":"how many bones does a human body have","scenario":"qa","labels":2}
-{"text":"how many people live in takjistan","scenario":"qa","labels":2}
-{"text":"have halifax shares gone up today","scenario":"qa","labels":4}
-{"text":"where is los angeles","scenario":"qa","labels":2}
-{"text":"define photosynthesis","scenario":"qa","labels":1}
-{"text":"what is a peso worth in dollars","scenario":"qa","labels":0}
-{"text":"how effective will be to buy nike stock","scenario":"qa","labels":4}
-{"text":"how far away is dushambe","scenario":"qa","labels":2}
-{"text":"tell about computer definition","scenario":"qa","labels":1}
-{"text":"find me info on","scenario":"qa","labels":1}
-{"text":"how much is the british pound","scenario":"qa","labels":0}
-{"text":"what's on x plus y","scenario":"qa","labels":3}
-{"text":"why is the sky blue","scenario":"qa","labels":2}
-{"text":"what are the coordinates of the equator","scenario":"qa","labels":2}
-{"text":"where is artic ocean","scenario":"qa","labels":2}
-{"text":"explain the exchange rate of rupee for dollar","scenario":"qa","labels":0}
-{"text":"what is computer","scenario":"qa","labels":1}
-{"text":"location","scenario":"qa","labels":1}
-{"text":"how much is one dollar in euros","scenario":"qa","labels":0}
-{"text":"when did prince start singing","scenario":"qa","labels":2}
-{"text":"describe a starfish","scenario":"qa","labels":1}
-{"text":"how tall is roraima mount","scenario":"qa","labels":2}
-{"text":"find a definition","scenario":"qa","labels":1}
-{"text":"what is the definition of word","scenario":"qa","labels":1}
-{"text":"when is the next non working day","scenario":"qa","labels":2}
-{"text":"who is janet jackson currently dating or married to","scenario":"qa","labels":2}
-{"text":"give me the home location of tom hanks","scenario":"qa","labels":2}
-{"text":"what is the exchange rate for mexico money","scenario":"qa","labels":0}
-{"text":"look up the number of people living in miami florida","scenario":"qa","labels":2}
-{"text":"how much does bde cost","scenario":"qa","labels":4}
-{"text":"can you tell me the exchange rate for canadian currency","scenario":"qa","labels":0}
-{"text":"define framework","scenario":"qa","labels":1}
-{"text":"how many dollars is in pounds","scenario":"qa","labels":0}
-{"text":"find me a description of morel mushrooms","scenario":"qa","labels":1}
-{"text":"find stock price for name","scenario":"qa","labels":4}
-{"text":"is pink recording a new album","scenario":"qa","labels":2}
-{"text":"is eddie murphy still alive","scenario":"qa","labels":2}
-{"text":"what does h2o stand for","scenario":"qa","labels":1}
-{"text":"is it better to invest or save","scenario":"qa","labels":2}
-{"text":"how big is ohio","scenario":"qa","labels":2}
-{"text":"what is the answer to two by two","scenario":"qa","labels":3}
-{"text":"what does two plus two equal","scenario":"qa","labels":3}
-{"text":"define","scenario":"qa","labels":1}
-{"text":"what's the latest on stock market","scenario":"qa","labels":4}
-{"text":"achievements of sachin tendulkar","scenario":"qa","labels":2}
-{"text":"what's the stock of apple","scenario":"qa","labels":4}
-{"text":"what is the price of google today","scenario":"qa","labels":4}
-{"text":"how many english pounds can i get for five canadian dollars","scenario":"qa","labels":0}
-{"text":"what does a basketball feel like","scenario":"qa","labels":2}
-{"text":"what is the height of mount everest","scenario":"qa","labels":2}
-{"text":"what is the exchange rate between the british pound and the us dollar","scenario":"qa","labels":0}
-{"text":"what is the length of amazon river","scenario":"qa","labels":2}
-{"text":"what does bling mean","scenario":"qa","labels":1}
-{"text":"help me in knowing the background of person morgan freeman","scenario":"qa","labels":2}
-{"text":"tell me the exchange rate of rupee for dollar","scenario":"qa","labels":0}
-{"text":"give description of statue of liberty","scenario":"qa","labels":1}
-{"text":"how have megatel shares done last week","scenario":"qa","labels":4}
-{"text":"what does the word labyrinth mean","scenario":"qa","labels":1}
-{"text":"where is stonehenge","scenario":"qa","labels":2}
-{"text":"meaning of word","scenario":"qa","labels":1}
-{"text":"what's a wicker chair","scenario":"qa","labels":1}
-{"text":"find a description about a samsung tv","scenario":"qa","labels":1}
-{"text":"what is apple's current stock price","scenario":"qa","labels":4}
-{"text":"what is this","scenario":"qa","labels":1}
-{"text":"tell me about x","scenario":"qa","labels":1}
-{"text":"what is the google stock at","scenario":"qa","labels":4}
-{"text":"what is twelve times eight","scenario":"qa","labels":3}
-{"text":"what is meryl streep famous for","scenario":"qa","labels":2}
-{"text":"how big is the tower of london","scenario":"qa","labels":2}
-{"text":"what is the exchange rate between us dollars and bitcoin","scenario":"qa","labels":0}
-{"text":"find meaning of word garden in dictionary","scenario":"qa","labels":1}
-{"text":"tell me the profession of celebrity","scenario":"qa","labels":2}
-{"text":"give me the birth date of mahatma gandhi","scenario":"qa","labels":2}
-{"text":"stock price fb","scenario":"qa","labels":4}
-{"text":"do you know the definition of school","scenario":"qa","labels":1}
-{"text":"get info","scenario":"qa","labels":2}
-{"text":"what is the definition of capricious","scenario":"qa","labels":1}
-{"text":"how many miles is it from los angeles california to austin texas","scenario":"qa","labels":2}
-{"text":"tell about the origin of the word evolution","scenario":"qa","labels":1}
-{"text":"is michael jackson really dead","scenario":"qa","labels":2}
-{"text":"honda stock price","scenario":"qa","labels":4}
-{"text":"how would you describe a happy birthday","scenario":"qa","labels":1}
-{"text":"what is six hundred euros in u. s. d.","scenario":"qa","labels":0}
-{"text":"what is fourteen divided by two","scenario":"qa","labels":3}
-{"text":"how many records did coldplay sell","scenario":"qa","labels":2}
-{"text":"what is the highest mountain in the world","scenario":"qa","labels":2}
-{"text":"what is the factorial of x","scenario":"qa","labels":3}
-{"text":"show me the stock price for google","scenario":"qa","labels":4}
-{"text":"what is the name of britain's prime minister","scenario":"qa","labels":2}
-{"text":"what is the difference in value of a dollar and a peso","scenario":"qa","labels":0}
-{"text":"how to spell the word giraffe","scenario":"qa","labels":1}
-{"text":"what is laptop","scenario":"qa","labels":1}
-{"text":"explain what a contact lense is","scenario":"qa","labels":1}
-{"text":"what is the geographic area of sudan","scenario":"qa","labels":2}
-{"text":"where was hugh jackson born","scenario":"qa","labels":2}
-{"text":"how many pesos can i get for a dollar right now","scenario":"qa","labels":0}
-{"text":"please give height of lindsey lohan","scenario":"qa","labels":2}
-{"text":"what is the euro to dollar exchange rate","scenario":"qa","labels":0}
-{"text":"where is san francisco","scenario":"qa","labels":2}
-{"text":"where is the biggest mountain","scenario":"qa","labels":2}
-{"text":"notify me when g. b. p. to u. s. d. rate as i expected","scenario":"qa","labels":0}
-{"text":"is the mediterranean sea near to spain","scenario":"qa","labels":2}
-{"text":"define elaborate","scenario":"qa","labels":1}
-{"text":"look up a lamp","scenario":"qa","labels":1}
-{"text":"where is tona","scenario":"qa","labels":2}
-{"text":"please check the exchange rates of the us dollar vs the euro","scenario":"qa","labels":0}
-{"text":"give me the definition of the word armor","scenario":"qa","labels":1}
-{"text":"how much would it cost to buy stock in apple","scenario":"qa","labels":4}
-{"text":"define organism","scenario":"qa","labels":1}
-{"text":"what is the current stock price of rolls royce","scenario":"qa","labels":4}
-{"text":"do you know how to answer this math question","scenario":"qa","labels":3}
-{"text":"i would like to receive updates about the stock market every day","scenario":"qa","labels":4}
-{"text":"when is the next lakers game","scenario":"qa","labels":2}
-{"text":"is texas the biggest state in the united states","scenario":"qa","labels":2}
-{"text":"what is a sphere","scenario":"qa","labels":1}
-{"text":"how much is five dollars in philippine peso","scenario":"qa","labels":0}
-{"text":"is yellowstone park the largest park","scenario":"qa","labels":2}
-{"text":"what is two plus two","scenario":"qa","labels":3}
-{"text":"search on his locality","scenario":"qa","labels":2}
-{"text":"what is the westernmost city in the contiguous forty eight states of the american mainland","scenario":"qa","labels":2}
-{"text":"tell me about hugh lourie","scenario":"qa","labels":2}
-{"text":"exchange rate between dollar and mexican peso","scenario":"qa","labels":0}
-{"text":"object search","scenario":"qa","labels":1}
-{"text":"how high is pikes peak","scenario":"qa","labels":2}
-{"text":"is it true that beyonce is having twins","scenario":"qa","labels":2}
-{"text":"mountain x height","scenario":"qa","labels":2}
-{"text":"is adele going to go on tour","scenario":"qa","labels":2}
-{"text":"what is a torque wrench","scenario":"qa","labels":1}
-{"text":"is the largest ocean in the world the pacific","scenario":"qa","labels":2}
-{"text":"how much is ten u. s. d. in indian rupees","scenario":"qa","labels":0}
-{"text":"show me share price of facebook","scenario":"qa","labels":4}
-{"text":"what part of the world is the safest","scenario":"qa","labels":2}
-{"text":"give me yearly average stock price for the last five years on amazon","scenario":"qa","labels":4}
-{"text":"how would you describe the sun","scenario":"qa","labels":1}
-{"text":"is it true that asia has only two countries","scenario":"qa","labels":2}
-{"text":"how old is steven fry","scenario":"qa","labels":2}
-{"text":"how many keys are on a piano","scenario":"qa","labels":2}
-{"text":"whats the currency exchange rate for china","scenario":"qa","labels":0}
-{"text":"compare more of countries","scenario":"qa","labels":2}
-{"text":"how old is chuck norris","scenario":"qa","labels":2}
-{"text":"where is russia located","scenario":"qa","labels":2}
-{"text":"in this country what is the exchange rate","scenario":"qa","labels":0}
-{"text":"what does this word means","scenario":"qa","labels":1}
-{"text":"how expensive is google stock","scenario":"qa","labels":4}
-{"text":"divide one thousand five hundred by one hundred and sixty","scenario":"qa","labels":3}
-{"text":"stock price for sprint","scenario":"qa","labels":4}
-{"text":"how much is five dollars worth in england","scenario":"qa","labels":0}
-{"text":"please describe about microwave","scenario":"qa","labels":1}
-{"text":"solve this equation one plus one","scenario":"qa","labels":3}
-{"text":"what age is britney spears","scenario":"qa","labels":2}
-{"text":"describe the heart stone card game","scenario":"qa","labels":1}
-{"text":"just let me know the population of india","scenario":"qa","labels":2}
-{"text":"what is the rate of inr","scenario":"qa","labels":0}
-{"text":"hey i would like to know some key facts about mongolia","scenario":"qa","labels":2}
-{"text":"age of brad pitt","scenario":"qa","labels":2}
-{"text":"open map","scenario":"qa","labels":2}
-{"text":"how many times was richard nixon married","scenario":"qa","labels":2}
-{"text":"describe paris for me please","scenario":"qa","labels":1}
-{"text":"check stock prices on this","scenario":"qa","labels":4}
-{"text":"was paul walker working on any movies besides the fast and the furious when he died","scenario":"qa","labels":2}
-{"text":"solution for eighty one divided by nine","scenario":"qa","labels":3}
-{"text":"please tell me about when singapore got freedom","scenario":"qa","labels":2}
-{"text":"please tell me what a crankshaft is","scenario":"qa","labels":1}
-{"text":"what are converse shoes","scenario":"qa","labels":1}
-{"text":"Define economics","scenario":"qa","labels":1}
-{"text":"tell me when obama was born","scenario":"qa","labels":2}
-{"text":"what is a monitor","scenario":"qa","labels":1}
-{"text":"show me the stock prices of walmart","scenario":"qa","labels":4}
-{"text":"i would like my to tell me the trend on foreign exchange rates","scenario":"qa","labels":0}
-{"text":"please find out the share price of i. b. m. in nasdaq","scenario":"qa","labels":4}
-{"text":"what is a hierophant","scenario":"qa","labels":1}
-{"text":"what is the largest continent in the world","scenario":"qa","labels":2}
-{"text":"for how much can we exchange us dollar for indian rupee","scenario":"qa","labels":0}
-{"text":"person name info","scenario":"qa","labels":2}
-{"text":"what's the exchange rate for samsung","scenario":"qa","labels":0}
-{"text":"how would you describe a ball","scenario":"qa","labels":1}
-{"text":"how much did facebook stock increase last night","scenario":"qa","labels":4}
-{"text":"how old is clint eastwood","scenario":"qa","labels":2}
-{"text":"how old is tom hanks","scenario":"qa","labels":2}
-{"text":"where is the taj mahal","scenario":"qa","labels":2}
-{"text":"how many us dollars do i need to have twenty canadian dollars","scenario":"qa","labels":0}
-{"text":"how would i do an psso in my knitting project","scenario":"qa","labels":2}
-{"text":"how many times does fifty go into one million","scenario":"qa","labels":3}
-{"text":"what is two hundred divided by ten","scenario":"qa","labels":3}
-{"text":"whats the currency exchange rate from dollars to euros","scenario":"qa","labels":0}
-{"text":"how much is the dollar verus the pound","scenario":"qa","labels":0}
-{"text":"how were trebuchets built","scenario":"qa","labels":2}
-{"text":"what is the current share value for msnbc","scenario":"qa","labels":4}
-{"text":"what is the definition of the word snafu","scenario":"qa","labels":1}
-{"text":"what is skynet","scenario":"qa","labels":1}
-{"text":"what is coral made of","scenario":"qa","labels":2}
-{"text":"is leonardo married","scenario":"qa","labels":2}
-{"text":"how old is jennifer lopez","scenario":"qa","labels":2}
-{"text":"tell me the definition of scenario","scenario":"qa","labels":1}
-{"text":"what's kim kardashian's measurements","scenario":"qa","labels":2}
-{"text":"tell me about donald trumps early life","scenario":"qa","labels":2}
-{"text":"tell me about john abraham lincon","scenario":"qa","labels":2}
-{"text":"what does penultimate mean","scenario":"qa","labels":1}
-{"text":"seven times seven","scenario":"qa","labels":3}
-{"text":"how many rivers are there in europe","scenario":"qa","labels":2}
-{"text":"what is the value of the yen right now","scenario":"qa","labels":4}
-{"text":"how long does it take to get to the moon","scenario":"qa","labels":2}
-{"text":"look up animal and give me the definition","scenario":"qa","labels":1}
-{"text":"give me the opening stock price of intel today","scenario":"qa","labels":4}
-{"text":"describe the current state of politics","scenario":"qa","labels":2}
-{"text":"find current stock pricing for stock in samsung","scenario":"qa","labels":4}
-{"text":"none","scenario":"qa","labels":2}
-{"text":"detail of rajinikanth","scenario":"qa","labels":2}
-{"text":"where are piramids located","scenario":"qa","labels":2}
-{"text":"identify object","scenario":"qa","labels":1}
-{"text":"awards won by michael jackson","scenario":"qa","labels":2}
-{"text":"what is the sum of fifteen ninety nine dollars and six sixty five dollars","scenario":"qa","labels":3}
-{"text":"what high school did halley barry go to","scenario":"qa","labels":2}
-{"text":"can you define a chair","scenario":"qa","labels":1}
-{"text":"tell me the story of ramanujan and his mathematical journey","scenario":"qa","labels":2}
-{"text":"how old is emma watson newest boyfriend","scenario":"qa","labels":2}
-{"text":"what is five over three","scenario":"qa","labels":3}
-{"text":"what is the prevailing exchange rate us versus indian rupees","scenario":"qa","labels":0}
-{"text":"what is the point of a banana","scenario":"qa","labels":1}
-{"text":"define broiler for me","scenario":"qa","labels":1}
-{"text":"define logic","scenario":"qa","labels":1}
-{"text":"how much money would twenty dollars be in mexico","scenario":"qa","labels":0}
-{"text":"what is the difference between the rate of the american dollar and the pound","scenario":"qa","labels":0}
-{"text":"what is the equivalent of one inr in zimbabwe dollars","scenario":"qa","labels":0}
-{"text":"tell me economic stats","scenario":"qa","labels":2}
-{"text":"what is the exchange rate for the english pound and us dollar","scenario":"qa","labels":0}
-{"text":"give me the definition of arrow","scenario":"qa","labels":1}
-{"text":"when did beyonce and jay z get married","scenario":"qa","labels":2}
-{"text":"tell me the stock rate of hyundai","scenario":"qa","labels":4}
-{"text":"please find me details about mt everest such as height","scenario":"qa","labels":2}
-{"text":"what is the most famous cave in texas","scenario":"qa","labels":2}
-{"text":"what is your biggest city","scenario":"qa","labels":2}
-{"text":"how many number of fans does that person have approximately","scenario":"qa","labels":2}
-{"text":"how many g. b. p. can i get for one dollar","scenario":"qa","labels":0}
-{"text":"how old is meryl streep","scenario":"qa","labels":2}
-{"text":"what is the square root of four","scenario":"qa","labels":3}
+{"sentence":"what is the capital of nigeria","label":2,"idx":0}
+{"sentence":"convert one us dollar to british pound","label":0,"idx":1}
+{"sentence":"give me the exchange rate between united states dollar and japanese yen","label":0,"idx":2}
+{"sentence":"what is price of dollar","label":0,"idx":3}
+{"sentence":"how strong is the dollar compared to the peso","label":4,"idx":4}
+{"sentence":"what does rumplestiltskin mean","label":1,"idx":5}
+{"sentence":"what is a president","label":1,"idx":6}
+{"sentence":"definition of marketing","label":1,"idx":7}
+{"sentence":"tell me something about","label":2,"idx":8}
+{"sentence":"how hilly is it in sacramento","label":2,"idx":9}
+{"sentence":"how long is an earth day","label":2,"idx":10}
+{"sentence":"actually what is the life style of sahara desert","label":2,"idx":11}
+{"sentence":"how tall is kanye west","label":2,"idx":12}
+{"sentence":"Where is miami","label":2,"idx":13}
+{"sentence":"how much is ten u. s. d. to cad","label":0,"idx":14}
+{"sentence":"what is the current stock rate of facebook","label":4,"idx":15}
+{"sentence":"how many people live in oxford now","label":2,"idx":16}
+{"sentence":"what is the us dollar and euro exchange rate","label":0,"idx":17}
+{"sentence":"what character does chris evans play","label":2,"idx":18}
+{"sentence":"what does this word mean","label":1,"idx":19}
+{"sentence":"tell me about george washington","label":2,"idx":20}
+{"sentence":"where is the bolshoi theatre located","label":2,"idx":21}
+{"sentence":"show me the exchange rate between czk and dollar","label":0,"idx":22}
+{"sentence":"what is the answer to that question","label":3,"idx":23}
+{"sentence":"what is channing tatum's birthday","label":2,"idx":24}
+{"sentence":"how tall is mount rushmore","label":2,"idx":25}
+{"sentence":"who is the current prime minister of russia","label":2,"idx":26}
+{"sentence":"when is jared leto's birthday","label":2,"idx":27}
+{"sentence":"what does potato mean","label":1,"idx":28}
+{"sentence":"hey what's a book","label":1,"idx":29}
+{"sentence":"what is the rate for g. b. p. to u. s. d.","label":0,"idx":30}
+{"sentence":"is the stocks which i have invested are increasing","label":4,"idx":31}
+{"sentence":"what is the birth year of barack obama","label":2,"idx":32}
+{"sentence":"i need to figure out this percentage","label":3,"idx":33}
+{"sentence":"list the latest books published by favorite authors","label":2,"idx":34}
+{"sentence":"siri what does survey mean","label":1,"idx":35}
+{"sentence":"define philosophy","label":1,"idx":36}
+{"sentence":"how many canadian dollars are in a us dollar","label":0,"idx":37}
+{"sentence":"was george washington the first president","label":2,"idx":38}
+{"sentence":"who is jeremy irons","label":2,"idx":39}
+{"sentence":"can you give me a rundown on john legend","label":2,"idx":40}
+{"sentence":"show me the demographic growth rate of switzerland in the last ten years","label":2,"idx":41}
+{"sentence":"tell me billy crytals address","label":2,"idx":42}
+{"sentence":"at what age did brad pitt marry angelina joli","label":2,"idx":43}
+{"sentence":"please indicate the opening price of fra stock","label":4,"idx":44}
+{"sentence":"where is fiji","label":2,"idx":45}
+{"sentence":"how many beatles are still alive","label":2,"idx":46}
+{"sentence":"what's the rate between the u. s. d. and ukraine's currency","label":0,"idx":47}
+{"sentence":"dollar rate of philippiness peso","label":0,"idx":48}
+{"sentence":"what color is a dragon fruit","label":2,"idx":49}
+{"sentence":"new exchange rate","label":0,"idx":50}
+{"sentence":"how many pesos will dollars get me","label":0,"idx":51}
+{"sentence":"which river in germany is the biggest","label":2,"idx":52}
+{"sentence":"how much long is atlanta","label":2,"idx":53}
+{"sentence":"what is the currency of egypt","label":0,"idx":54}
+{"sentence":"solve the calculation","label":3,"idx":55}
+{"sentence":"how far does my dollar go in japan","label":2,"idx":56}
+{"sentence":"is colombo on the coast of sri lanka","label":2,"idx":57}
+{"sentence":"what is the exchange of euro to dollars","label":0,"idx":58}
+{"sentence":"demographics","label":2,"idx":59}
+{"sentence":"who is the current president of united states","label":2,"idx":60}
+{"sentence":"what's the exchange between u. s. d. and cad","label":0,"idx":61}
+{"sentence":"get me rate euro to u. s. d. yesterday","label":0,"idx":62}
+{"sentence":"what is a trebuchet","label":1,"idx":63}
+{"sentence":"which was longest buildings in the world","label":2,"idx":64}
+{"sentence":"define rumplestiltskin","label":1,"idx":65}
+{"sentence":"who was the current prime minister of britain","label":2,"idx":66}
+{"sentence":"tell me the definition of arrow","label":1,"idx":67}
+{"sentence":"what is the yen us dollar exchange rate","label":0,"idx":68}
+{"sentence":"latest iphone","label":1,"idx":69}
+{"sentence":"explain me about rock","label":1,"idx":70}
+{"sentence":"i need to know how many dollars there are to a pound","label":0,"idx":71}
+{"sentence":"what's the pound to dollar exchange rate","label":0,"idx":72}
+{"sentence":"when can i get off mr bones wild ride","label":2,"idx":73}
+{"sentence":"what was the last movie that brad pitt starred in","label":2,"idx":74}
+{"sentence":"how old is jennifer garner","label":2,"idx":75}
+{"sentence":"what happened to the dow jones today","label":4,"idx":76}
+{"sentence":"what's the meaning of rumplestiltskin","label":1,"idx":77}
+{"sentence":"ask my adviser","label":4,"idx":78}
+{"sentence":"what's the price of ge right now","label":4,"idx":79}
+{"sentence":"what does tweet mean","label":1,"idx":80}
+{"sentence":"search the region","label":2,"idx":81}
+{"sentence":"where are the rocky mountains","label":2,"idx":82}
+{"sentence":"what is the meaning of this word","label":1,"idx":83}
+{"sentence":"what is the age of britney spears","label":2,"idx":84}
+{"sentence":"whats the dow jones at today","label":4,"idx":85}
+{"sentence":"what is the answer to x","label":3,"idx":86}
+{"sentence":"please tell me news related to the stock market","label":4,"idx":87}
+{"sentence":"what exactly is a resin tooth filling","label":1,"idx":88}
+{"sentence":"what is something that is round","label":2,"idx":89}
+{"sentence":"who is currently the oldest living person in the world","label":2,"idx":90}
+{"sentence":"someone","label":1,"idx":91}
+{"sentence":"what is the definition of plethora","label":1,"idx":92}
+{"sentence":"check definition of capricious","label":1,"idx":93}
+{"sentence":"what is the price of ford stock","label":4,"idx":94}
+{"sentence":"how many countries are in the european union","label":2,"idx":95}
+{"sentence":"at what age michael phelps got married","label":2,"idx":96}
+{"sentence":"how do i","label":2,"idx":97}
+{"sentence":"how much is an euro worth","label":0,"idx":98}
+{"sentence":"what is x plus y","label":3,"idx":99}
+{"sentence":"what is the exchange rate between us and canadian dollars","label":0,"idx":100}
+{"sentence":"what is apple's stock price","label":4,"idx":101}
+{"sentence":"who is taylor swift","label":2,"idx":102}
+{"sentence":"how does population play a role in a countries economy","label":2,"idx":103}
+{"sentence":"check stock price for dinky donuts","label":4,"idx":104}
+{"sentence":"when was born abraham lincoln","label":2,"idx":105}
+{"sentence":"what are the dimensions for a buick lesber","label":2,"idx":106}
+{"sentence":"how long are barack and michelle married","label":2,"idx":107}
+{"sentence":"what is the distance to the moon","label":2,"idx":108}
+{"sentence":"what is starbuck's stock worth","label":4,"idx":109}
+{"sentence":"what is the exchange rate as of today","label":0,"idx":110}
+{"sentence":"what is the current exchange rate with the g. b. p.","label":0,"idx":111}
+{"sentence":"from dollar to euro","label":0,"idx":112}
+{"sentence":"what apple trading at","label":4,"idx":113}
+{"sentence":"give me a description of lego","label":1,"idx":114}
+{"sentence":"what is famous in indranagar","label":2,"idx":115}
+{"sentence":"how many months in a year","label":2,"idx":116}
+{"sentence":"r","label":1,"idx":117}
+{"sentence":"what is a virtual reality headset","label":1,"idx":118}
+{"sentence":"what the euro to dollar exchange rate today","label":0,"idx":119}
+{"sentence":"divide seventy six in two parts","label":3,"idx":120}
+{"sentence":"what is the definition of organization","label":1,"idx":121}
+{"sentence":"where is cambodia situated","label":2,"idx":122}
+{"sentence":"find the meaning of promise","label":1,"idx":123}
+{"sentence":"obama information","label":2,"idx":124}
+{"sentence":"please show me the exchange rate between the dollar and the yen","label":0,"idx":125}
+{"sentence":"how much is the dollar worth compared to the euro","label":0,"idx":126}
+{"sentence":"how tall are the rockies","label":2,"idx":127}
+{"sentence":"where is steven spielberg living","label":2,"idx":128}
+{"sentence":"check wikipedia for a definition of the word homosapien","label":1,"idx":129}
+{"sentence":"with all of the information you can gather on the internet could you please provide me with the best probable explanation of who killed president kennedy","label":2,"idx":130}
+{"sentence":"how much of the earth is made up of water","label":2,"idx":131}
+{"sentence":"what does sanctimonious mean","label":1,"idx":132}
+{"sentence":"which currency is greater the us dollar or yen","label":0,"idx":133}
+{"sentence":"which pole is colder south or north","label":2,"idx":134}
+{"sentence":"what is the cost of iphone seven","label":2,"idx":135}
+{"sentence":"where is the hottest place on earth","label":2,"idx":136}
+{"sentence":"what was george eliot's first november el","label":2,"idx":137}
+{"sentence":"what movies has neil walker done","label":2,"idx":138}
+{"sentence":"a word like ramification","label":1,"idx":139}
+{"sentence":"how much us money do i get from ten kroner","label":0,"idx":140}
+{"sentence":"tell me what a freeway is","label":1,"idx":141}
+{"sentence":"tell me the deepest sea in the world","label":2,"idx":142}
+{"sentence":"what's the exchange rate between australian dollars and american dollars","label":0,"idx":143}
+{"sentence":"define computer game","label":1,"idx":144}
+{"sentence":"give me the opening stock price of sony","label":4,"idx":145}
+{"sentence":"open stock price for name","label":4,"idx":146}
+{"sentence":"list me the stock of apple right now","label":4,"idx":147}
+{"sentence":"what is a hibachi grill","label":1,"idx":148}
+{"sentence":"define schadenfraude","label":1,"idx":149}
+{"sentence":"Show me current exchange rate between euros and other currencies","label":0,"idx":150}
+{"sentence":"where is place","label":2,"idx":151}
+{"sentence":"what an umbrella means","label":1,"idx":152}
+{"sentence":"google this how much vitamin c is in a carrot","label":2,"idx":153}
+{"sentence":"where is ashwin","label":2,"idx":154}
+{"sentence":"where is montana","label":2,"idx":155}
+{"sentence":"given me the exchange rates between u. s. d. and jpy","label":0,"idx":156}
+{"sentence":"use this word in a sentence","label":1,"idx":157}
+{"sentence":"what is the geographic region of madagascar","label":2,"idx":158}
+{"sentence":"where does rush limbaugh live","label":2,"idx":159}
+{"sentence":"exchange rates","label":0,"idx":160}
+{"sentence":"define keyboard","label":1,"idx":161}
+{"sentence":"to compare in people","label":2,"idx":162}
+{"sentence":"what is us dollar today","label":0,"idx":163}
+{"sentence":"how many oceans are there in the world","label":2,"idx":164}
+{"sentence":"what is the definition of keen","label":1,"idx":165}
+{"sentence":"when did the ussr dissolve and the soviet union rise to power","label":2,"idx":166}
+{"sentence":"tell me why bill bur is a better comedian than iliza schleshinger","label":2,"idx":167}
+{"sentence":"for how many years was abraham lincoln president of united states","label":2,"idx":168}
+{"sentence":"which was longest river in the world","label":2,"idx":169}
+{"sentence":"what is the longest river on earth","label":2,"idx":170}
+{"sentence":"tell me the population of usa","label":2,"idx":171}
+{"sentence":"what is the exchange rate between the us and canada","label":0,"idx":172}
+{"sentence":"give me the exchange rate for the us dollar and the euro","label":0,"idx":173}
+{"sentence":"Who is brad pitt","label":2,"idx":174}
+{"sentence":"calc","label":3,"idx":175}
+{"sentence":"where is  the grand canyon","label":2,"idx":176}
+{"sentence":"when was trump born","label":2,"idx":177}
+{"sentence":"what's the dollar's exchange rate with the euro","label":0,"idx":178}
+{"sentence":"what is the exchange rate of mexican pesos to us dollars","label":0,"idx":179}
+{"sentence":"what are the chances of the stock market closing below the two hundred moving average in the next fourteen days","label":4,"idx":180}
+{"sentence":"siri what does obstacle mean","label":1,"idx":181}
+{"sentence":"what is word","label":1,"idx":182}
+{"sentence":"where is mcmennamin's","label":2,"idx":183}
+{"sentence":"a","label":2,"idx":184}
+{"sentence":"can many seashells did sally sell by the seashore","label":2,"idx":185}
+{"sentence":"when was frank sinatra born","label":2,"idx":186}
+{"sentence":"what is the capital of denmark","label":2,"idx":187}
+{"sentence":"what is the coldest country on earth","label":2,"idx":188}
+{"sentence":"i would like to know the meaning of word","label":1,"idx":189}
+{"sentence":"actor who acts a role","label":1,"idx":190}
+{"sentence":"who is rihanna dating right now","label":2,"idx":191}
+{"sentence":"look up beyonce wikipedia","label":2,"idx":192}
+{"sentence":"what does animal mean","label":1,"idx":193}
+{"sentence":"find twitter handle of tom cruise","label":2,"idx":194}
+{"sentence":"how many cities are on international borders","label":2,"idx":195}
+{"sentence":"convert ten inches to centimeters","label":3,"idx":196}
+{"sentence":"what is the sixteenth president","label":2,"idx":197}
+{"sentence":"where is pategonia","label":2,"idx":198}
+{"sentence":"how much is twenty two usd in euros","label":0,"idx":199}
+{"sentence":"currency exchange rates","label":0,"idx":200}
+{"sentence":"define diverse","label":1,"idx":201}
+{"sentence":"definition of arrow please","label":1,"idx":202}
+{"sentence":"solution","label":3,"idx":203}
+{"sentence":"how old is george clooney","label":2,"idx":204}
+{"sentence":"the capital of nigeria is what","label":2,"idx":205}
+{"sentence":"what is the exchange rate between us and mexico","label":0,"idx":206}
+{"sentence":"whats the scenery like in morocco","label":2,"idx":207}
+{"sentence":"describe the general topography of central park","label":2,"idx":208}
+{"sentence":"what new movie is jennifer lawrence working on","label":2,"idx":209}
+{"sentence":"how long is the nile","label":2,"idx":210}
+{"sentence":"intel company stock price","label":4,"idx":211}
+{"sentence":"google the word","label":1,"idx":212}
+{"sentence":"what is denzel washington's next movie","label":2,"idx":213}
+{"sentence":"give the definition of motivation","label":1,"idx":214}
+{"sentence":"i need the definition of the new lg washing machine","label":1,"idx":215}
+{"sentence":"how far away is the sun","label":2,"idx":216}
+{"sentence":"which is the safest and most dangerous country to live in","label":2,"idx":217}
+{"sentence":"id like my to randomly make jokes unprompted","label":2,"idx":218}
+{"sentence":"tell me how old is ryan seacrest","label":2,"idx":219}
+{"sentence":"what is the capital of washington","label":2,"idx":220}
+{"sentence":"how tall is lebron james","label":2,"idx":221}
+{"sentence":"stock up or down for walgreens","label":4,"idx":222}
+{"sentence":"what is the current status of resolving general relativity with quantum physics","label":2,"idx":223}
+{"sentence":"how many shares of apple can i get for","label":4,"idx":224}
+{"sentence":"how many euro in u. s. d.","label":0,"idx":225}
+{"sentence":"tell me about it","label":1,"idx":226}
+{"sentence":"define television","label":1,"idx":227}
+{"sentence":"why was tesla famous for","label":2,"idx":228}
+{"sentence":"could you please give me the birthday of mahatma gandhiji","label":2,"idx":229}
+{"sentence":"show me the big bang theory","label":2,"idx":230}
+{"sentence":"what is the financial capital of canada","label":2,"idx":231}
+{"sentence":"i want to learn about donald trump","label":2,"idx":232}
+{"sentence":"where was kelly clarkson born","label":2,"idx":233}
+{"sentence":"need background information about person anastasia","label":2,"idx":234}
+{"sentence":"show me share price of amazon","label":4,"idx":235}
+{"sentence":"stock price for google","label":4,"idx":236}
+{"sentence":"give me the description about smartphone","label":1,"idx":237}
+{"sentence":"what does a grapefruit look like","label":1,"idx":238}
+{"sentence":"let me know about the exchange rate of rupee to dirham","label":0,"idx":239}
+{"sentence":"how old was elvis when he died","label":2,"idx":240}
+{"sentence":"tell me the highest mountain in the world","label":2,"idx":241}
+{"sentence":"what is the residing place of cricketer dhoni","label":2,"idx":242}
+{"sentence":"when was einstein's birthday","label":2,"idx":243}
+{"sentence":"how would you describe the internet","label":1,"idx":244}
+{"sentence":"how many countries","label":2,"idx":245}
+{"sentence":"have bing's stocks dropped","label":4,"idx":246}
+{"sentence":"what is the square root of thirty four","label":3,"idx":247}
+{"sentence":"how many franks is fifteen dollars","label":0,"idx":248}
+{"sentence":"what is the price of starbuck's stock","label":4,"idx":249}
+{"sentence":"dollars to euro","label":0,"idx":250}
+{"sentence":"how tall is jennifer aniston","label":2,"idx":251}
+{"sentence":"show conversion rate of u. s. d. and inr","label":0,"idx":252}
+{"sentence":"what are the climatic conditions in that area","label":2,"idx":253}
+{"sentence":"when is christmas","label":2,"idx":254}
+{"sentence":"which country would end up converting the most money out of a thousand dollars us","label":2,"idx":255}
+{"sentence":"how many us dollars are in one canadian dollar","label":0,"idx":256}
+{"sentence":"is black sea real","label":2,"idx":257}
+{"sentence":"what does hesitant mean","label":1,"idx":258}
+{"sentence":"get me new definition","label":1,"idx":259}
+{"sentence":"what's the definition of a buffet table","label":1,"idx":260}
+{"sentence":"who is the wife of obama","label":2,"idx":261}
+{"sentence":"is california between nevada and new york","label":2,"idx":262}
+{"sentence":"can you tell me how much one dollar in the us is in mexico","label":0,"idx":263}
+{"sentence":"rate u. s. d. to g. b. p.","label":0,"idx":264}
+{"sentence":"how much is the dollar worth in canada","label":0,"idx":265}
+{"sentence":"how many meetings did mahatma gandhi undertake","label":2,"idx":266}
+{"sentence":"what does this stitch long sleeved shirt look like","label":1,"idx":267}
+{"sentence":"please tell me what the word home means","label":1,"idx":268}
+{"sentence":"what is a workhouse","label":1,"idx":269}
+{"sentence":"where was keith urban born","label":2,"idx":270}
+{"sentence":"are you solve my math","label":3,"idx":271}
+{"sentence":"how many countries are north of alaska","label":2,"idx":272}
+{"sentence":"what is the lowest population per square mile in africa","label":2,"idx":273}
+{"sentence":"how would the volkswagen golf car look like","label":1,"idx":274}
+{"sentence":"what is the price of stock for gm","label":4,"idx":275}
+{"sentence":"open td ameritrade","label":4,"idx":276}
+{"sentence":"director who direct an act","label":1,"idx":277}
+{"sentence":"can you get me the route to chicago before midnight","label":2,"idx":278}
+{"sentence":"whats meaning of word garden","label":1,"idx":279}
+{"sentence":"is beyonce married or divorced","label":2,"idx":280}
+{"sentence":"what is this thing","label":1,"idx":281}
+{"sentence":"what is the highest point in the us","label":2,"idx":282}
+{"sentence":"what are the oil prices like today for a barrel of crude oil","label":2,"idx":283}
+{"sentence":"what's the stock price of this item","label":4,"idx":284}
+{"sentence":"how much does stock cost in walmart","label":4,"idx":285}
+{"sentence":"what year did michael jackson die","label":2,"idx":286}
+{"sentence":"tell me which politician is being investigated","label":2,"idx":287}
+{"sentence":"please find description of the newest canon rebel camera","label":1,"idx":288}
+{"sentence":"who was the thirty two president","label":2,"idx":289}
+{"sentence":"what channel is bates motel on","label":2,"idx":290}
+{"sentence":"currency converter please","label":0,"idx":291}
+{"sentence":"exchange rate from cad to u. s. d.","label":0,"idx":292}
+{"sentence":"what brand hair spray does donald trump use","label":2,"idx":293}
+{"sentence":"less stock price","label":4,"idx":294}
+{"sentence":"has my stock increased in value","label":4,"idx":295}
+{"sentence":"define what a wizard is","label":1,"idx":296}
+{"sentence":"what is the stock price of i. b. m.","label":4,"idx":297}
+{"sentence":"what is the square root of one hundred and forty eight thousand five hundred and eighty seven","label":3,"idx":298}
+{"sentence":"how did paris hilton become famous","label":2,"idx":299}
+{"sentence":"tell me about barack obama","label":2,"idx":300}
+{"sentence":"what road is longest","label":2,"idx":301}
+{"sentence":"what is population per mile in asia","label":2,"idx":302}
+{"sentence":"if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book","label":3,"idx":303}
+{"sentence":"how many people live in los angeles","label":2,"idx":304}
+{"sentence":"if i have dollars in japanese money what does it equal to in american currency","label":0,"idx":305}
+{"sentence":"give me the definition of the word fondle","label":1,"idx":306}
+{"sentence":"search for michael buble","label":2,"idx":307}
+{"sentence":"what about tona","label":2,"idx":308}
+{"sentence":"what is computer game","label":1,"idx":309}
+{"sentence":"what does joke mean","label":1,"idx":310}
+{"sentence":"what is the meaning of","label":1,"idx":311}
+{"sentence":"could you give me the exact rate for dow nifty futures","label":4,"idx":312}
+{"sentence":"what color is the sky","label":2,"idx":313}
+{"sentence":"please define the word hypocrisy","label":1,"idx":314}
+{"sentence":"what is the us dollar to euro exchange rate","label":0,"idx":315}
+{"sentence":"what is the longest river in spain","label":2,"idx":316}
+{"sentence":"define session","label":1,"idx":317}
+{"sentence":"what is the exchange rate of rupee for dollar","label":0,"idx":318}
+{"sentence":"what you know about john abraham lincon","label":2,"idx":319}
+{"sentence":"describe a potato","label":1,"idx":320}
+{"sentence":"definition of computer","label":1,"idx":321}
+{"sentence":"who is arnold schwarzenegger","label":2,"idx":322}
+{"sentence":"what is five divided by one","label":3,"idx":323}
+{"sentence":"what will be the size of a small panda","label":2,"idx":324}
+{"sentence":"answer the equation eight times seven","label":3,"idx":325}
+{"sentence":"please let me know the exchange rate between indian rupees and us","label":0,"idx":326}
+{"sentence":"what is twenty four times twenty four","label":3,"idx":327}
+{"sentence":"what country was einstein from","label":2,"idx":328}
+{"sentence":"what is the exchange between dollar and british pound","label":0,"idx":329}
+{"sentence":"how many oscars has won meryl streep","label":2,"idx":330}
+{"sentence":"convert one pound to us dollar","label":0,"idx":331}
+{"sentence":"define love without invoking the term love","label":1,"idx":332}
+{"sentence":"tell me if five hundred and forty is subtracted seven time by twenty eight","label":3,"idx":333}
+{"sentence":"how tall is mt everest","label":2,"idx":334}
+{"sentence":"which stock markets have lowered in the past three hours","label":4,"idx":335}
+{"sentence":"how can the word placid be used","label":1,"idx":336}
+{"sentence":"what's the value of the euro relative to nzd","label":0,"idx":337}
+{"sentence":"fb stocks","label":4,"idx":338}
+{"sentence":"what year was chuck norris born","label":2,"idx":339}
+{"sentence":"describe sphere","label":1,"idx":340}
+{"sentence":"how many yen for each dollar","label":0,"idx":341}
+{"sentence":"please tell me the definition of home","label":1,"idx":342}
+{"sentence":"google michael jackson","label":2,"idx":343}
+{"sentence":"what is the definition of precocious","label":1,"idx":344}
+{"sentence":"how much has hp stock gone up","label":4,"idx":345}
+{"sentence":"current price of coca cola stock","label":4,"idx":346}
+{"sentence":"search the locality","label":2,"idx":347}
+{"sentence":"which is the richest country in the world in terms of income and standard of living","label":2,"idx":348}
+{"sentence":"define transcendet","label":1,"idx":349}
+{"sentence":"what is s. d. in francs","label":0,"idx":350}
+{"sentence":"what movies has emma watson acted in","label":2,"idx":351}
+{"sentence":"may i have a list of five star hotels in paris","label":2,"idx":352}
+{"sentence":"when can you use word set","label":1,"idx":353}
+{"sentence":"what is a shoal","label":1,"idx":354}
+{"sentence":"define the moon for me","label":1,"idx":355}
+{"sentence":"where was jennifer lopez born","label":2,"idx":356}
+{"sentence":"use schadenfraude in a sentence","label":1,"idx":357}
+{"sentence":"show stock value of goog","label":4,"idx":358}
+{"sentence":"what is an orange like","label":1,"idx":359}
+{"sentence":"try following these steps to select the correct answer","label":2,"idx":360}
+{"sentence":"please check the recent trend in stocks","label":4,"idx":361}
+{"sentence":"how many inches make one feet","label":3,"idx":362}
+{"sentence":"for what is famous  ellen degeneres","label":2,"idx":363}
+{"sentence":"define a stronomy","label":1,"idx":364}
+{"sentence":"give me the stock price of apple","label":4,"idx":365}
+{"sentence":"how much money will i make for the week if i make dollars per hour and work twenty hours","label":3,"idx":366}
+{"sentence":"how many calories are in a serving of grapes","label":2,"idx":367}
+{"sentence":"how many miles across is the widest part of  the grand canyon","label":2,"idx":368}
+{"sentence":"what is the size of the united states","label":2,"idx":369}
+{"sentence":"what is a basketball","label":1,"idx":370}
+{"sentence":"sum of five and two","label":3,"idx":371}
+{"sentence":"what is the biggest city in new hampshire","label":2,"idx":372}
+{"sentence":"what is ten times ten","label":3,"idx":373}
+{"sentence":"convert one euros to us dollars","label":0,"idx":374}
+{"sentence":"what is the location of moldova","label":2,"idx":375}
+{"sentence":"convert czk to euro","label":0,"idx":376}
+{"sentence":"how much money is one dollars worth in denmark","label":0,"idx":377}
+{"sentence":"has sally fields ever won an academy award","label":2,"idx":378}
+{"sentence":"can you tell me what hypertrophy means","label":1,"idx":379}
+{"sentence":"what is the net worth of the celebrity","label":2,"idx":380}
+{"sentence":"what's a broiler","label":1,"idx":381}
+{"sentence":"give me the definition for animal","label":1,"idx":382}
+{"sentence":"how old is bruce willis","label":2,"idx":383}
+{"sentence":"what is the capital of vietnam","label":2,"idx":384}
+{"sentence":"can i get the definition to ambulance","label":1,"idx":385}
+{"sentence":"tell me about alexander the great","label":2,"idx":386}
+{"sentence":"calculate the resistance of this resistor","label":2,"idx":387}
+{"sentence":"what is the price for marvel","label":4,"idx":388}
+{"sentence":"something","label":1,"idx":389}
+{"sentence":"canadian us exchange rate","label":0,"idx":390}
+{"sentence":"what is the stock price of hdfc","label":4,"idx":391}
+{"sentence":"what awards did erica grebe win last night","label":2,"idx":392}
+{"sentence":"can you give me the details of indian embassy","label":2,"idx":393}
+{"sentence":"are the falklands in south america","label":2,"idx":394}
+{"sentence":"give me the description about watch","label":1,"idx":395}
+{"sentence":"what does the word hypocrisy mean","label":1,"idx":396}
+{"sentence":"give me the exchange rate between united states dollar and indian rupee","label":0,"idx":397}
+{"sentence":"person name","label":2,"idx":398}
+{"sentence":"can you define a baster","label":1,"idx":399}
+{"sentence":"what's trump been on about this week","label":2,"idx":400}
+{"sentence":"what is geographic value of great volcano","label":2,"idx":401}
+{"sentence":"explain","label":1,"idx":402}
+{"sentence":"what is two times two","label":3,"idx":403}
+{"sentence":"what is the current value of yen in american money","label":0,"idx":404}
+{"sentence":"what is the capital of mexico","label":2,"idx":405}
+{"sentence":"what is an alligator","label":1,"idx":406}
+{"sentence":"what is the shallowest piece of land","label":2,"idx":407}
+{"sentence":"is mt everest the tallest mountain in the united states","label":2,"idx":408}
+{"sentence":"i wanna start skewing how effective will it be","label":1,"idx":409}
+{"sentence":"define amphibious for me","label":1,"idx":410}
+{"sentence":"mobile device explanation","label":1,"idx":411}
+{"sentence":"what is an organism","label":1,"idx":412}
+{"sentence":"what does obligatory mean","label":1,"idx":413}
+{"sentence":"exchange rate from euros to dollars","label":0,"idx":414}
+{"sentence":"how does the dollar compare to the pound","label":0,"idx":415}
+{"sentence":"how many euros is one dollar","label":0,"idx":416}
+{"sentence":"give me today's market trends for panasonic","label":4,"idx":417}
+{"sentence":"describe a chart","label":1,"idx":418}
+{"sentence":"if i have dollars how much is that in pesos","label":0,"idx":419}
+{"sentence":"why are whales big","label":2,"idx":420}
+{"sentence":"stock price of goog","label":4,"idx":421}
+{"sentence":"tell me if its national holiday tomorrow","label":2,"idx":422}
+{"sentence":"did you hear about","label":2,"idx":423}
+{"sentence":"what is the location of kentucky","label":2,"idx":424}
+{"sentence":"what is the exchange rate between us and canada","label":0,"idx":425}
+{"sentence":"google","label":3,"idx":426}
+{"sentence":"show me the stock prices of target today","label":4,"idx":427}
+{"sentence":"what is trump's approval rating","label":2,"idx":428}
+{"sentence":"what is apple's stock","label":4,"idx":429}
+{"sentence":"look up the meaning of logic","label":1,"idx":430}
+{"sentence":"where in the world is carmen san diego","label":2,"idx":431}
+{"sentence":"how old was albert einstein when he came up with relativity theory","label":2,"idx":432}
+{"sentence":"how much is one hundred and thirty six plus three hundred and eighty seven","label":3,"idx":433}
+{"sentence":"how much is the euro worth versus us dollar","label":0,"idx":434}
+{"sentence":"how is the current stock price looking for charmin","label":4,"idx":435}
+{"sentence":"what is the population of alabama","label":2,"idx":436}
+{"sentence":"google how old is david cameron","label":2,"idx":437}
+{"sentence":"list the celebrities who have been in my country in the last five years","label":2,"idx":438}
+{"sentence":"which is the smallest island in the world","label":2,"idx":439}
+{"sentence":"what is rock sand","label":1,"idx":440}
+{"sentence":"denmark geographic location","label":2,"idx":441}
+{"sentence":"could you calculate five plus five","label":3,"idx":442}
+{"sentence":"how many quarts are in a gallon","label":2,"idx":443}
+{"sentence":"info of rowan atkinson","label":2,"idx":444}
+{"sentence":"what is the definition of logic","label":1,"idx":445}
+{"sentence":"how do you define textual","label":1,"idx":446}
+{"sentence":"when was albert einstein born","label":2,"idx":447}
+{"sentence":"what is","label":1,"idx":448}
+{"sentence":"what are the stock prices of target","label":4,"idx":449}
+{"sentence":"where is yellowstone","label":2,"idx":450}
+{"sentence":"how much does one euro cost in rupees","label":0,"idx":451}
+{"sentence":"for how much is hp selling for","label":4,"idx":452}
+{"sentence":"list albums of rihana","label":2,"idx":453}
+{"sentence":"hey what is the definition of survey","label":1,"idx":454}
+{"sentence":"three times two equals six","label":3,"idx":455}
+{"sentence":"could you tell me the meaning of the word exorbitant","label":1,"idx":456}
+{"sentence":"need geographic information about italy","label":2,"idx":457}
+{"sentence":"describe what a morel mushroom looks like","label":1,"idx":458}
+{"sentence":"how do i check my currency exchange rate","label":0,"idx":459}
+{"sentence":"i need to know the price of amazon stock","label":4,"idx":460}
+{"sentence":"what country has the most population","label":2,"idx":461}
+{"sentence":"tell me about india location","label":2,"idx":462}
+{"sentence":"what is the value of pound in rupees","label":0,"idx":463}
+{"sentence":"what are the stock prices","label":4,"idx":464}
+{"sentence":"what i can do with laptop","label":1,"idx":465}
+{"sentence":"for how many years did mahatma gandhi live","label":2,"idx":466}
+{"sentence":"has pound value decreased","label":0,"idx":467}
+{"sentence":"tell me the current dollar ratio for the us and canada","label":0,"idx":468}
+{"sentence":"what is a x","label":1,"idx":469}
+{"sentence":"how big is  the grand canyon","label":2,"idx":470}
+{"sentence":"how much does jennifer aniston make","label":2,"idx":471}
+{"sentence":"is i. b. m. up today","label":4,"idx":472}
+{"sentence":"where is obama from","label":2,"idx":473}
+{"sentence":"how large is alaska","label":2,"idx":474}
+{"sentence":"how much is amazon stock","label":4,"idx":475}
+{"sentence":"current forex rates","label":0,"idx":476}
+{"sentence":"what country uses the most coal","label":2,"idx":477}
+{"sentence":"what did kim kardashian wear to london fashion week","label":2,"idx":478}
+{"sentence":"whats the current price of mcdonalds stock","label":4,"idx":479}
+{"sentence":"how many pesos to an american dollar","label":0,"idx":480}
+{"sentence":"tell me lexmark's current stock price","label":4,"idx":481}
+{"sentence":"what is a caftan","label":1,"idx":482}
+{"sentence":"help me to understand the meaning of this life","label":2,"idx":483}
+{"sentence":"i would like if will be smart and intelligent in way it will be familiar with me and recognise the way i like the result will be","label":2,"idx":484}
+{"sentence":"search on his informations","label":2,"idx":485}
+{"sentence":"tell me about martin luther king jr","label":2,"idx":486}
+{"sentence":"exchange rate of yan with dollar","label":0,"idx":487}
+{"sentence":"where on earth has the most volcanos","label":2,"idx":488}
+{"sentence":"what is the definition of pwd","label":1,"idx":489}
+{"sentence":"what is the exchange rate of currency in uk","label":0,"idx":490}
+{"sentence":"is angeline having a new movie this year","label":2,"idx":491}
+{"sentence":"u. s. d. position now","label":0,"idx":492}
+{"sentence":"what the conversion rate from yen to us dollars","label":0,"idx":493}
+{"sentence":"if i have fifty dollars and spend twenty four how many dollars will i have left","label":3,"idx":494}
+{"sentence":"show me prince's biography","label":2,"idx":495}
+{"sentence":"what is six minus four","label":3,"idx":496}
+{"sentence":"how much is the canadian dollar worth versus us dollar","label":0,"idx":497}
+{"sentence":"how old is draymond green","label":2,"idx":498}
+{"sentence":"why is donald trump the president of the united states and how do we get him kicked out of office","label":2,"idx":499}
+{"sentence":"automatically enter me into every free sweepstake for which i am eligible for around the globe at all times prioritize those with cash prizes","label":2,"idx":500}
+{"sentence":"what is the most current exchange rate in china","label":0,"idx":501}
+{"sentence":"set notification for news on the stock market","label":4,"idx":502}
+{"sentence":"how does a cheetah look","label":1,"idx":503}
+{"sentence":"how old is hugh jackman","label":2,"idx":504}
+{"sentence":"how old is marian carey","label":2,"idx":505}
+{"sentence":"in what scenario would you use word inconvenience","label":1,"idx":506}
+{"sentence":"how tall is mount everest","label":2,"idx":507}
+{"sentence":"answer this mathematical question","label":3,"idx":508}
+{"sentence":"euro u. s. d.","label":0,"idx":509}
+{"sentence":"what does a geranium look like","label":1,"idx":510}
+{"sentence":"convert currency calculator","label":0,"idx":511}
+{"sentence":"what is the capital of california","label":2,"idx":512}
+{"sentence":"what is the stock price of apple","label":4,"idx":513}
+{"sentence":"tell me which mutual funds have maximum yearly returns","label":4,"idx":514}
+{"sentence":"how long was bryan cranston on breaking bad","label":2,"idx":515}
+{"sentence":"what is the hottest temperature of alaska in june","label":2,"idx":516}
+{"sentence":"where is yosemite park","label":2,"idx":517}
+{"sentence":"how far in steps is home from here","label":2,"idx":518}
+{"sentence":"what is four plus five","label":3,"idx":519}
+{"sentence":"give me the exchange rate between united states dollar and canadian dollar","label":0,"idx":520}
+{"sentence":"was lucille ball a natural redhead","label":2,"idx":521}
+{"sentence":"one dollar to argentinian pesos","label":0,"idx":522}
+{"sentence":"what is a canadian dollar worth in the us","label":0,"idx":523}
+{"sentence":"is willie nelson still alive","label":2,"idx":524}
+{"sentence":"what is a chair","label":1,"idx":525}
+{"sentence":"how much is one plus one","label":3,"idx":526}
+{"sentence":"when is katy perry's birthday","label":2,"idx":527}
+{"sentence":"what is the sum of 9 and 12","label":3,"idx":528}
+{"sentence":"what is a geographic fact in this region","label":2,"idx":529}
+{"sentence":"what is the exchange rate between pound sterling and the us dollar","label":0,"idx":530}
+{"sentence":"what is the answer to one times two","label":3,"idx":531}
+{"sentence":"stock exchange rates","label":4,"idx":532}
+{"sentence":"stock google find out","label":4,"idx":533}
+{"sentence":"what is a mango","label":1,"idx":534}
+{"sentence":"exchange euro to dollar","label":0,"idx":535}
+{"sentence":"convert the american dollar to the euro","label":0,"idx":536}
+{"sentence":"could you please tell me what is the rate for pound to u. s. d.","label":0,"idx":537}
+{"sentence":"would like to know the description of a car","label":1,"idx":538}
+{"sentence":"what is the population of russia","label":2,"idx":539}
+{"sentence":"what is dollar exchange rate with indian currency","label":0,"idx":540}
+{"sentence":"what's the sum of the two numbers four and six","label":3,"idx":541}
+{"sentence":"define computer","label":1,"idx":542}
+{"sentence":"show meaning of clarion","label":1,"idx":543}
+{"sentence":"what is the square root of ninety seven","label":3,"idx":544}
+{"sentence":"what movie did megan fox star in","label":2,"idx":545}
+{"sentence":"where was steve jobs born","label":2,"idx":546}
+{"sentence":"give me the stock price of berkshire hathaway","label":4,"idx":547}
+{"sentence":"more stock price","label":4,"idx":548}
+{"sentence":"how many euro make dollars","label":0,"idx":549}
+{"sentence":"what do you know about the statue of liberty","label":1,"idx":550}
+{"sentence":"how many euro will i get for ten dollars","label":0,"idx":551}
+{"sentence":"what are amd stock prices","label":4,"idx":552}
+{"sentence":"where is channing tatum from","label":2,"idx":553}
+{"sentence":"what is the name of the tallest man","label":2,"idx":554}
+{"sentence":"what is the mean sea level of that place","label":2,"idx":555}
+{"sentence":"meaning of enthusiastic","label":1,"idx":556}
+{"sentence":"bing directions","label":2,"idx":557}
+{"sentence":"where is the closest barber","label":2,"idx":558}
+{"sentence":"info on lisa ann please","label":2,"idx":559}
+{"sentence":"where is the prime meridian","label":2,"idx":560}
+{"sentence":"what is the dollar equivalent in pesos","label":0,"idx":561}
+{"sentence":"about vijay","label":2,"idx":562}
+{"sentence":"what is the us dollar equivalent of one euro","label":0,"idx":563}
+{"sentence":"can you tell me the price of google stock","label":4,"idx":564}
+{"sentence":"tell me when the next big earthquake will hit california","label":2,"idx":565}
+{"sentence":"what is rate of euro to u. s. d.","label":0,"idx":566}
+{"sentence":"how many euros can i get for one dollar","label":0,"idx":567}
+{"sentence":"what does turbulence mean","label":1,"idx":568}
+{"sentence":"how tall was abraham lincoln","label":2,"idx":569}
+{"sentence":"what is the exchange rates in this region","label":0,"idx":570}
+{"sentence":"tell me the synonym of telegraph","label":1,"idx":571}
+{"sentence":"stocks fb","label":4,"idx":572}
+{"sentence":"what is garam masala","label":1,"idx":573}
+{"sentence":"what is the coldest state in the us","label":2,"idx":574}
+{"sentence":"can you tell me where is crimea","label":2,"idx":575}
+{"sentence":"is it true the gym is seven miles away","label":2,"idx":576}
+{"sentence":"how many pages long is harry potter","label":2,"idx":577}
+{"sentence":"give me the stock price for tommy hilfiger","label":4,"idx":578}
+{"sentence":"what was martin luther kings birthday","label":2,"idx":579}
+{"sentence":"how did steve irwin die","label":2,"idx":580}
+{"sentence":"name the capital of nigeria","label":2,"idx":581}
+{"sentence":"describe what a sphere is","label":1,"idx":582}
+{"sentence":"when does the super bowl officially start","label":2,"idx":583}
+{"sentence":"what is the answer to two times three","label":3,"idx":584}
+{"sentence":"what makes something head cheese","label":1,"idx":585}
+{"sentence":"how much money in us would i need to have a thousand pesos","label":0,"idx":586}
+{"sentence":"please give me address of salman khan apartment","label":2,"idx":587}
+{"sentence":"how tall is madonna","label":2,"idx":588}
+{"sentence":"what is the largest desk","label":1,"idx":589}
+{"sentence":"what is the definition of session","label":1,"idx":590}
+{"sentence":"what is the birthday of hemingway","label":2,"idx":591}
+{"sentence":"i want to figure out the stock on microsoft","label":4,"idx":592}
+{"sentence":"how much yens is a dollar worth","label":0,"idx":593}
+{"sentence":"please search for this word","label":1,"idx":594}
+{"sentence":"list exchange rate information for the day for u. s. d. to jpy","label":0,"idx":595}
+{"sentence":"what is a fjord","label":2,"idx":596}
+{"sentence":"which celebrity is most likely to follow me back on twitter","label":2,"idx":597}
+{"sentence":"provide valid references with information to help people understand critical thinking and giving credit where credit is due rather than perpetuate fake news and alternative facts","label":2,"idx":598}
+{"sentence":"please tell me the background of person jeremy irons","label":2,"idx":599}
+{"sentence":"geo info","label":2,"idx":600}
+{"sentence":"when was last academy award winning movie","label":2,"idx":601}
+{"sentence":"what's the capital of kazakhstan","label":2,"idx":602}
+{"sentence":"how tall is trevor noah","label":2,"idx":603}
+{"sentence":"what do pink ribbons support","label":2,"idx":604}
+{"sentence":"what is the home city of the bolshoi theatre","label":2,"idx":605}
+{"sentence":"please find today's stock prices for samsung company","label":4,"idx":606}
+{"sentence":"angelina jolie spouses","label":2,"idx":607}
+{"sentence":"what johncena do","label":2,"idx":608}
+{"sentence":"what are the current stocks for yahoo","label":4,"idx":609}
+{"sentence":"what is ten u. s. d. in euros","label":0,"idx":610}
+{"sentence":"what is today's close of goog","label":4,"idx":611}
+{"sentence":"who is the prime minister of russia","label":2,"idx":612}
+{"sentence":"book me a flight to mars next year","label":2,"idx":613}
+{"sentence":"what is the exchange rate from english currency to yen","label":0,"idx":614}
+{"sentence":"please define textual","label":1,"idx":615}
+{"sentence":"what is the square root of thirty six","label":3,"idx":616}
+{"sentence":"what is the exchange rate of us dollar today for rupee","label":0,"idx":617}
+{"sentence":"what is the definition of ultra","label":1,"idx":618}
+{"sentence":"convert one us dollar to euro","label":0,"idx":619}
+{"sentence":"definition for object name","label":1,"idx":620}
+{"sentence":"twenty minus ten","label":3,"idx":621}
+{"sentence":"how much is dollar worth in persos","label":0,"idx":622}
+{"sentence":"how crowded is los angeles","label":2,"idx":623}
+{"sentence":"is alaska a republican or democratic state","label":2,"idx":624}
+{"sentence":"what is the object in this photo","label":1,"idx":625}
+{"sentence":"who played harry potter in the films","label":2,"idx":626}
+{"sentence":"where do cows come from","label":2,"idx":627}
+{"sentence":"how much is the average house","label":2,"idx":628}
+{"sentence":"tell me about kevin spacey","label":2,"idx":629}
+{"sentence":"how to spell the word treble","label":1,"idx":630}
+{"sentence":"what are some updates about the stock market","label":4,"idx":631}
+{"sentence":"when was the bolshoi theatre constructed","label":2,"idx":632}
+{"sentence":"movies of tom hanks","label":2,"idx":633}
+{"sentence":"whats ten percent off forty dollars","label":3,"idx":634}
+{"sentence":"how big is the empire state building","label":2,"idx":635}
+{"sentence":"definition xy","label":1,"idx":636}
+{"sentence":"exchange rate of euro with dollar","label":0,"idx":637}
+{"sentence":"how is the exchange rate for microsoft","label":4,"idx":638}
+{"sentence":"what is the linear equation","label":3,"idx":639}
+{"sentence":"currency rates","label":0,"idx":640}
+{"sentence":"how much is remaining after subtracting four from eight","label":3,"idx":641}
+{"sentence":"one plus two equal","label":3,"idx":642}
+{"sentence":"how smooth is marble floor","label":2,"idx":643}
+{"sentence":"when is the birth date of taylor lautner","label":2,"idx":644}
+{"sentence":"calculate a close integral of exponential function from zero to five","label":2,"idx":645}
+{"sentence":"define acceleration","label":1,"idx":646}
+{"sentence":"what is ten divided by five","label":3,"idx":647}
+{"sentence":"how many people live in san francisco","label":2,"idx":648}
+{"sentence":"i need some details about bruce lee please assist","label":2,"idx":649}
+{"sentence":"what causes in burmuda triangle","label":2,"idx":650}
+{"sentence":"define the word absolute","label":1,"idx":651}
+{"sentence":"where is dell standing in stock market right now","label":4,"idx":652}
+{"sentence":"if i have a dablune how many dollars is that","label":0,"idx":653}
+{"sentence":"please tell me about the historic facts about india","label":2,"idx":654}
+{"sentence":"how hot are summers in gibraltar","label":2,"idx":655}
+{"sentence":"what year did elvis die","label":2,"idx":656}
+{"sentence":"can you do nine plus two","label":3,"idx":657}
+{"sentence":"give me the definition of carion","label":1,"idx":658}
+{"sentence":"can you really see russia from alaska","label":2,"idx":659}
+{"sentence":"describe a romantic love","label":1,"idx":660}
+{"sentence":"how are the top ten stocks at the moment","label":4,"idx":661}
+{"sentence":"get me info on","label":1,"idx":662}
+{"sentence":"what is the definition for the word pontificate","label":1,"idx":663}
+{"sentence":"is elizabeth taylor still alive","label":2,"idx":664}
+{"sentence":"dollars to euro please","label":0,"idx":665}
+{"sentence":"how many tablespoons are there in a cup","label":2,"idx":666}
+{"sentence":"how many miles is it between illinois and louisiana","label":2,"idx":667}
+{"sentence":"where can i find japan","label":2,"idx":668}
+{"sentence":"where does brad pitt live","label":2,"idx":669}
+{"sentence":"calculate two multiplied by two","label":3,"idx":670}
+{"sentence":"dollar rate at present","label":0,"idx":671}
+{"sentence":"who is the prettiest actress in the world in this century","label":2,"idx":672}
+{"sentence":"who is lenin","label":2,"idx":673}
+{"sentence":"how many floors does the empire state building have","label":2,"idx":674}
+{"sentence":"who is the governor of new york","label":2,"idx":675}
+{"sentence":"how much is twenty argentinian pesos in pounds","label":0,"idx":676}
+{"sentence":"what is an electronic emissions system","label":1,"idx":677}
+{"sentence":"give me the description of a laptop circuit","label":1,"idx":678}
+{"sentence":"is the dollar stronger than the pound","label":0,"idx":679}
+{"sentence":"in which field does that person excel in","label":2,"idx":680}
+{"sentence":"in what year did george bush become the president of united states","label":2,"idx":681}
+{"sentence":"is tom cruise an only child","label":2,"idx":682}
+{"sentence":"what's the one night with paris","label":2,"idx":683}
+{"sentence":"tvs stock price","label":4,"idx":684}
+{"sentence":"what is the value of stock per share of best buy","label":4,"idx":685}
+{"sentence":"how's microsoft's stock","label":4,"idx":686}
+{"sentence":"what's the answer to one plus one","label":3,"idx":687}
+{"sentence":"what is arnold schwarzenegger's birthday","label":2,"idx":688}
+{"sentence":"please describe a car","label":1,"idx":689}
+{"sentence":"list stock price for this company stock","label":4,"idx":690}
+{"sentence":"tell me about donald trump","label":2,"idx":691}
+{"sentence":"set the thermostat to","label":2,"idx":692}
+{"sentence":"what is now stock price of tata","label":4,"idx":693}
+{"sentence":"exchange u. s. d. to g. b. p.","label":0,"idx":694}
+{"sentence":"google maps","label":2,"idx":695}
+{"sentence":"can you tell me the total number of oceans in the world","label":2,"idx":696}
+{"sentence":"what is twenty percent of one hundred and twenty","label":3,"idx":697}
+{"sentence":"what is the definition of subjegant","label":1,"idx":698}
+{"sentence":"tryout in blog sites","label":1,"idx":699}
+{"sentence":"four plus five equals nine","label":3,"idx":700}
+{"sentence":"who is barack obama","label":2,"idx":701}
+{"sentence":"when was george clooney born","label":2,"idx":702}
+{"sentence":"what does lady gaga like to eat","label":2,"idx":703}
+{"sentence":"please provide geographic information about taiwan","label":2,"idx":704}
+{"sentence":"what is the name of the desert in arizona","label":2,"idx":705}
+{"sentence":"who is donald trump","label":2,"idx":706}
+{"sentence":"when was richard nixon born","label":2,"idx":707}
+{"sentence":"what do you know about eminem","label":2,"idx":708}
+{"sentence":"does pink have a new baby","label":2,"idx":709}
+{"sentence":"describe piramid","label":1,"idx":710}
+{"sentence":"help microphone","label":1,"idx":711}
+{"sentence":"find the sum of thirteen and fourteen","label":3,"idx":712}
+{"sentence":"current price of google please","label":4,"idx":713}
+{"sentence":"where was president madison born","label":2,"idx":714}
+{"sentence":"where is located the biggest waterfall in the world","label":2,"idx":715}
+{"sentence":"give me the description of a television circuit","label":1,"idx":716}
+{"sentence":"what is the circumference of the earth","label":2,"idx":717}
+{"sentence":"how many pounds would i get for dollars","label":0,"idx":718}
+{"sentence":"is brad pitt married","label":2,"idx":719}
+{"sentence":"find the residential address of tom hanks","label":2,"idx":720}
+{"sentence":"describe joe for me please","label":1,"idx":721}
+{"sentence":"how do you define it","label":1,"idx":722}
+{"sentence":"object details","label":1,"idx":723}
+{"sentence":"what are the stats of room","label":2,"idx":724}
+{"sentence":"how old is miley cyrus","label":2,"idx":725}
+{"sentence":"which is worth more the us dollar or the euro","label":0,"idx":726}
+{"sentence":"where is the statue of liberty","label":2,"idx":727}
+{"sentence":"tell me everything you know about sloths","label":2,"idx":728}
+{"sentence":"how old is adele","label":2,"idx":729}
+{"sentence":"i've got dollars for the month how much can i spend every day this month","label":3,"idx":730}
+{"sentence":"where can i find a fjord","label":2,"idx":731}
+{"sentence":"give me the opening stock price of infosys technologies today","label":4,"idx":732}
+{"sentence":"can you describe to me a bike","label":1,"idx":733}
+{"sentence":"who is andrew llyod webber","label":2,"idx":734}
+{"sentence":"when was angelina jolie born","label":2,"idx":735}
+{"sentence":"what is the meaning of ultra","label":1,"idx":736}
+{"sentence":"where is botswana","label":2,"idx":737}
+{"sentence":"how big is the stashable cinch bag and what does it look like","label":2,"idx":738}
+{"sentence":"exchange rate i will get with foreign currency","label":0,"idx":739}
+{"sentence":"how many philippine pesos to a dollar","label":0,"idx":740}
+{"sentence":"where was marlon brando born","label":2,"idx":741}
+{"sentence":"was there an improvement to the us economy","label":2,"idx":742}
+{"sentence":"what is the stock price of amazon","label":4,"idx":743}
+{"sentence":"can you tell me what flabbergasted means","label":1,"idx":744}
+{"sentence":"what is the result of one hundred minus fifty","label":3,"idx":745}
+{"sentence":"how is jennifer garner's career doing","label":2,"idx":746}
+{"sentence":"can you add up thirteen plus five plus nine for me","label":3,"idx":747}
+{"sentence":"what is the current stock price of samsung","label":4,"idx":748}
+{"sentence":"what is the stock value of google","label":4,"idx":749}
+{"sentence":"what is smart plug socket","label":1,"idx":750}
+{"sentence":"where is the best vacation spot in california","label":2,"idx":751}
+{"sentence":"was einstein married","label":2,"idx":752}
+{"sentence":"tell me the brief definition of evacuation","label":1,"idx":753}
+{"sentence":"please give me detail of one yen equals dollar","label":0,"idx":754}
+{"sentence":"what is the definition of mutual","label":1,"idx":755}
+{"sentence":"what's three plus three hundred and fifty five","label":3,"idx":756}
+{"sentence":"tell me the best exchange rate","label":0,"idx":757}
+{"sentence":"look up information on mount rushmore","label":2,"idx":758}
+{"sentence":"describe texture","label":1,"idx":759}
+{"sentence":"how old is cher","label":2,"idx":760}
+{"sentence":"is a peso worth more than a dollar","label":0,"idx":761}
+{"sentence":"what is the answer to life","label":2,"idx":762}
+{"sentence":"subtract sixty from two hundred and forty four","label":3,"idx":763}
+{"sentence":"please define the word bibulous","label":1,"idx":764}
+{"sentence":"what shape is a ball","label":2,"idx":765}
+{"sentence":"how much does nestle company cost","label":4,"idx":766}
+{"sentence":"where does sophia vergara live","label":2,"idx":767}
+{"sentence":"can you tell me what terse means","label":1,"idx":768}
+{"sentence":"how big is japan","label":2,"idx":769}
+{"sentence":"please define forensic","label":1,"idx":770}
+{"sentence":"u. s. d. to yen","label":0,"idx":771}
+{"sentence":"what is the [currency_name: canadian] exchange rate","label":0,"idx":772}
+{"sentence":"show stock price of goog","label":4,"idx":773}
+{"sentence":"what continent is germany on","label":2,"idx":774}
+{"sentence":"i need the definition of president","label":1,"idx":775}
+{"sentence":"siri what is the definition of ziggurat","label":1,"idx":776}
+{"sentence":"please describe laptop","label":1,"idx":777}
+{"sentence":"show exchange rate of u. s. d. and inr","label":0,"idx":778}
+{"sentence":"search this object's definition","label":1,"idx":779}
+{"sentence":"where is the nearest river","label":2,"idx":780}
+{"sentence":"blanket definition","label":1,"idx":781}
+{"sentence":"did the stock prices of google go up or down","label":4,"idx":782}
+{"sentence":"Show geographic location of pyramids","label":2,"idx":783}
+{"sentence":"stock company name","label":4,"idx":784}
+{"sentence":"where is niagra falls located","label":2,"idx":785}
+{"sentence":"stock price for apple","label":4,"idx":786}
+{"sentence":"are jello shots calorie free","label":2,"idx":787}
+{"sentence":"does obama have a twitter","label":2,"idx":788}
+{"sentence":"please solve this math","label":3,"idx":789}
+{"sentence":"is sofia vergara single","label":2,"idx":790}
+{"sentence":"what is three hundred and four plus one","label":3,"idx":791}
+{"sentence":"where is the south pole","label":2,"idx":792}
+{"sentence":"how many children does sandra bullock have","label":2,"idx":793}
+{"sentence":"how tall is the empire state building","label":2,"idx":794}
+{"sentence":"what does a beech tree look like","label":1,"idx":795}
+{"sentence":"what is a googleplex","label":1,"idx":796}
+{"sentence":"who is highest scoring football player of all time","label":2,"idx":797}
+{"sentence":"obama","label":2,"idx":798}
+{"sentence":"tell me the current price of exxon mobil stock","label":4,"idx":799}
+{"sentence":"design the chemical compounds necessary to create sugar that doesn't cause diabetes or weight gain but doesn't provide a chemical taste","label":2,"idx":800}
+{"sentence":"what is the mass of a microwave","label":2,"idx":801}
+{"sentence":"tell me about fjords","label":2,"idx":802}
+{"sentence":"who are the greatest hip hop artists","label":2,"idx":803}
+{"sentence":"who build the paris tower","label":2,"idx":804}
+{"sentence":"what is the distance between new york and berlin","label":2,"idx":805}
+{"sentence":"tell me who has the most number one hits on the billboard top twenty","label":2,"idx":806}
+{"sentence":"find exchange rate for u. s. d. to dollar","label":0,"idx":807}
+{"sentence":"sanctimonious definition","label":1,"idx":808}
+{"sentence":"tell me what movie was the winner of last year's academy award for best picture","label":2,"idx":809}
+{"sentence":"origin of word","label":1,"idx":810}
+{"sentence":"what is the current exchange rate for yen to euros","label":0,"idx":811}
+{"sentence":"have stocks gone up or down today for walmart","label":4,"idx":812}
+{"sentence":"what year did george clooney start acting","label":2,"idx":813}
+{"sentence":"what's the capital of tanzania","label":2,"idx":814}
+{"sentence":"show stock of goog","label":4,"idx":815}
+{"sentence":"check recent news on someone","label":2,"idx":816}
+{"sentence":"what's thirteen plus fourteen","label":3,"idx":817}
+{"sentence":"how old is rue mcclanahan","label":2,"idx":818}
+{"sentence":"dollar rupees exchange rate","label":0,"idx":819}
+{"sentence":"what is i. b. m. stock at","label":4,"idx":820}
+{"sentence":"Who is mel gibson","label":2,"idx":821}
+{"sentence":"what does the word bible mean","label":1,"idx":822}
+{"sentence":"w","label":1,"idx":823}
+{"sentence":"how many us dollars are there in one euro","label":0,"idx":824}
+{"sentence":"rate between these currencies","label":0,"idx":825}
+{"sentence":"what does apple of my eye mean","label":1,"idx":826}
+{"sentence":"tell me about amazon's history","label":2,"idx":827}
+{"sentence":"what is the definition of timeliness","label":1,"idx":828}
+{"sentence":"two by two is","label":3,"idx":829}
+{"sentence":"four divided by two equals two","label":3,"idx":830}
+{"sentence":"how was the first president of us","label":2,"idx":831}
+{"sentence":"what is the largest ocean in the world","label":2,"idx":832}
+{"sentence":"when's mark lanegan's next album out","label":2,"idx":833}
+{"sentence":"where ashwin hasted","label":2,"idx":834}
+{"sentence":"open internet","label":2,"idx":835}
+{"sentence":"convert five s. d. to rials","label":0,"idx":836}
+{"sentence":"how much is one hundred dollars in euros","label":0,"idx":837}
+{"sentence":"which bank will give better rate for currencies i have","label":0,"idx":838}
+{"sentence":"will it be good to buy nike stock today","label":4,"idx":839}
+{"sentence":"hey what's a head cheese","label":1,"idx":840}
+{"sentence":"can you find and tell me the prices of facebook stock","label":4,"idx":841}
+{"sentence":"i want some stock on nintendo","label":4,"idx":842}
+{"sentence":"how far is parana river","label":2,"idx":843}
+{"sentence":"can you look up the definition of cavil","label":1,"idx":844}
+{"sentence":"how much is indian rupee going against us dollar","label":0,"idx":845}
+{"sentence":"how much is fifty us dollars with in china","label":0,"idx":846}
+{"sentence":"when did prince die","label":2,"idx":847}
+{"sentence":"how many dollars are in a euro","label":0,"idx":848}
+{"sentence":"what is the stock price of sensex right now","label":4,"idx":849}
+{"sentence":"where do most celebrities hang out","label":2,"idx":850}
+{"sentence":"notify me of the latest news on the stock market","label":4,"idx":851}
+{"sentence":"what is taylor swift's birthday","label":2,"idx":852}
+{"sentence":"what is angelina jolie's birthday","label":2,"idx":853}
+{"sentence":"what does obsessed mean","label":1,"idx":854}
+{"sentence":"what's a parsec","label":2,"idx":855}
+{"sentence":"what is google's current stock price","label":4,"idx":856}
+{"sentence":"what is three times seven","label":3,"idx":857}
+{"sentence":"how far do the rocky mountains extend","label":2,"idx":858}
+{"sentence":"abdul kalam president","label":2,"idx":859}
+{"sentence":"when did the statue of liberty made","label":2,"idx":860}
+{"sentence":"if it could make phone calls for you and say whatever it is you may text someone since not everyone is text savy","label":2,"idx":861}
+{"sentence":"what price google up to","label":4,"idx":862}
+{"sentence":"what is julia roberts natural hair color","label":2,"idx":863}
+{"sentence":"who is the current us treasury secretary","label":2,"idx":864}
+{"sentence":"when you ask it to schedule an appointment that it can email the specific person and provide available dates from your calendar","label":2,"idx":865}
+{"sentence":"how many mountain ranges are there in the united states","label":2,"idx":866}
+{"sentence":"open calculator","label":3,"idx":867}
+{"sentence":"current exchange rates for uk pound","label":0,"idx":868}
+{"sentence":"what is the definition of business","label":1,"idx":869}
+{"sentence":"how many miles is new york city from los angeles","label":2,"idx":870}
+{"sentence":"how many stray animals are saved every year","label":2,"idx":871}
+{"sentence":"what does it mean to be overbearing","label":1,"idx":872}
+{"sentence":"where is italy","label":2,"idx":873}
+{"sentence":"what is a narwhal","label":1,"idx":874}
+{"sentence":"define oscillate","label":1,"idx":875}
+{"sentence":"where can i use this word","label":1,"idx":876}
+{"sentence":"give me a biography of donald trump","label":2,"idx":877}
+{"sentence":"how do you solve three two","label":3,"idx":878}
+{"sentence":"stock market","label":4,"idx":879}
+{"sentence":"iphone seven description","label":1,"idx":880}
+{"sentence":"tell me about chuck norris","label":2,"idx":881}
+{"sentence":"where are the rockies located","label":2,"idx":882}
+{"sentence":"what kind of cloth eastern people wear","label":2,"idx":883}
+{"sentence":"if i have dollars how many yen would that be","label":0,"idx":884}
+{"sentence":"how many kids jackie chan does have","label":2,"idx":885}
+{"sentence":"what is the meaning of placid","label":1,"idx":886}
+{"sentence":"how many euros is one us dollars","label":0,"idx":887}
+{"sentence":"Who is emma watson","label":2,"idx":888}
+{"sentence":"what does problematic mean","label":1,"idx":889}
+{"sentence":"what is the largest active volcano on earth","label":2,"idx":890}
+{"sentence":"given me the exchange rates between u. s. d. and cad","label":0,"idx":891}
+{"sentence":"which is the costliest and the cheapest city to live in some particular country","label":2,"idx":892}
+{"sentence":"where did mel gibson grow up","label":2,"idx":893}
+{"sentence":"what is the distance from some particular place","label":2,"idx":894}
+{"sentence":"tell me the exchange rate us versus indian rupees","label":0,"idx":895}
+{"sentence":"how old is david bowie","label":2,"idx":896}
+{"sentence":"define alarm","label":1,"idx":897}
+{"sentence":"how many cups in a quart","label":2,"idx":898}
+{"sentence":"is the dow up or down","label":4,"idx":899}
+{"sentence":"how much philippine peso do i need to make fifty dollars","label":0,"idx":900}
+{"sentence":"how big is australia","label":2,"idx":901}
+{"sentence":"tell what is the value of sin thirty","label":3,"idx":902}
+{"sentence":"how much is ten euros in dollars","label":0,"idx":903}
+{"sentence":"where is the largest volcano in the world","label":2,"idx":904}
+{"sentence":"what is the population of new york","label":2,"idx":905}
+{"sentence":"what was elvis presley's birthday","label":2,"idx":906}
+{"sentence":"map","label":2,"idx":907}
+{"sentence":"what is hair made up of","label":2,"idx":908}
+{"sentence":"how old is betty white","label":2,"idx":909}
+{"sentence":"i will be at pizza hut in ten minutes and will stay there for next forty minutes arrange an uber for me that can drop me home","label":2,"idx":910}
+{"sentence":"give me the stock price of sony","label":4,"idx":911}
+{"sentence":"how tall is hulk hogan","label":2,"idx":912}
+{"sentence":"how old is trump","label":2,"idx":913}
+{"sentence":"where in the world is lyon","label":2,"idx":914}
+{"sentence":"how many three are available in twenty seven","label":3,"idx":915}
+{"sentence":"how many kilometers are in a mile","label":2,"idx":916}
+{"sentence":"what is the exchange rate from us dollars to euros","label":0,"idx":917}
+{"sentence":"what year was baseball started","label":2,"idx":918}
+{"sentence":"where is yellowstone park","label":2,"idx":919}
+{"sentence":"tell me everything about albert einstein","label":2,"idx":920}
+{"sentence":"define this object","label":1,"idx":921}
+{"sentence":"how many bones does a human body have","label":2,"idx":922}
+{"sentence":"how many people live in takjistan","label":2,"idx":923}
+{"sentence":"have halifax shares gone up today","label":4,"idx":924}
+{"sentence":"where is los angeles","label":2,"idx":925}
+{"sentence":"define photosynthesis","label":1,"idx":926}
+{"sentence":"what is a peso worth in dollars","label":0,"idx":927}
+{"sentence":"how effective will be to buy nike stock","label":4,"idx":928}
+{"sentence":"how far away is dushambe","label":2,"idx":929}
+{"sentence":"tell about computer definition","label":1,"idx":930}
+{"sentence":"find me info on","label":1,"idx":931}
+{"sentence":"how much is the british pound","label":0,"idx":932}
+{"sentence":"what's on x plus y","label":3,"idx":933}
+{"sentence":"why is the sky blue","label":2,"idx":934}
+{"sentence":"what are the coordinates of the equator","label":2,"idx":935}
+{"sentence":"where is artic ocean","label":2,"idx":936}
+{"sentence":"explain the exchange rate of rupee for dollar","label":0,"idx":937}
+{"sentence":"what is computer","label":1,"idx":938}
+{"sentence":"location","label":1,"idx":939}
+{"sentence":"how much is one dollar in euros","label":0,"idx":940}
+{"sentence":"when did prince start singing","label":2,"idx":941}
+{"sentence":"describe a starfish","label":1,"idx":942}
+{"sentence":"how tall is roraima mount","label":2,"idx":943}
+{"sentence":"find a definition","label":1,"idx":944}
+{"sentence":"what is the definition of word","label":1,"idx":945}
+{"sentence":"when is the next non working day","label":2,"idx":946}
+{"sentence":"who is janet jackson currently dating or married to","label":2,"idx":947}
+{"sentence":"give me the home location of tom hanks","label":2,"idx":948}
+{"sentence":"what is the exchange rate for mexico money","label":0,"idx":949}
+{"sentence":"look up the number of people living in miami florida","label":2,"idx":950}
+{"sentence":"how much does bde cost","label":4,"idx":951}
+{"sentence":"can you tell me the exchange rate for canadian currency","label":0,"idx":952}
+{"sentence":"define framework","label":1,"idx":953}
+{"sentence":"how many dollars is in pounds","label":0,"idx":954}
+{"sentence":"find me a description of morel mushrooms","label":1,"idx":955}
+{"sentence":"find stock price for name","label":4,"idx":956}
+{"sentence":"is pink recording a new album","label":2,"idx":957}
+{"sentence":"is eddie murphy still alive","label":2,"idx":958}
+{"sentence":"what does h2o stand for","label":1,"idx":959}
+{"sentence":"is it better to invest or save","label":2,"idx":960}
+{"sentence":"how big is ohio","label":2,"idx":961}
+{"sentence":"what is the answer to two by two","label":3,"idx":962}
+{"sentence":"what does two plus two equal","label":3,"idx":963}
+{"sentence":"define","label":1,"idx":964}
+{"sentence":"what's the latest on stock market","label":4,"idx":965}
+{"sentence":"achievements of sachin tendulkar","label":2,"idx":966}
+{"sentence":"what's the stock of apple","label":4,"idx":967}
+{"sentence":"what is the price of google today","label":4,"idx":968}
+{"sentence":"how many english pounds can i get for five canadian dollars","label":0,"idx":969}
+{"sentence":"what does a basketball feel like","label":2,"idx":970}
+{"sentence":"what is the height of mount everest","label":2,"idx":971}
+{"sentence":"what is the exchange rate between the british pound and the us dollar","label":0,"idx":972}
+{"sentence":"what is the length of amazon river","label":2,"idx":973}
+{"sentence":"what does bling mean","label":1,"idx":974}
+{"sentence":"help me in knowing the background of person morgan freeman","label":2,"idx":975}
+{"sentence":"tell me the exchange rate of rupee for dollar","label":0,"idx":976}
+{"sentence":"give description of statue of liberty","label":1,"idx":977}
+{"sentence":"how have megatel shares done last week","label":4,"idx":978}
+{"sentence":"what does the word labyrinth mean","label":1,"idx":979}
+{"sentence":"where is stonehenge","label":2,"idx":980}
+{"sentence":"meaning of word","label":1,"idx":981}
+{"sentence":"what's a wicker chair","label":1,"idx":982}
+{"sentence":"find a description about a samsung tv","label":1,"idx":983}
+{"sentence":"what is apple's current stock price","label":4,"idx":984}
+{"sentence":"what is this","label":1,"idx":985}
+{"sentence":"tell me about x","label":1,"idx":986}
+{"sentence":"what is the google stock at","label":4,"idx":987}
+{"sentence":"what is twelve times eight","label":3,"idx":988}
+{"sentence":"what is meryl streep famous for","label":2,"idx":989}
+{"sentence":"how big is the tower of london","label":2,"idx":990}
+{"sentence":"what is the exchange rate between us dollars and bitcoin","label":0,"idx":991}
+{"sentence":"find meaning of word garden in dictionary","label":1,"idx":992}
+{"sentence":"tell me the profession of celebrity","label":2,"idx":993}
+{"sentence":"give me the birth date of mahatma gandhi","label":2,"idx":994}
+{"sentence":"stock price fb","label":4,"idx":995}
+{"sentence":"do you know the definition of school","label":1,"idx":996}
+{"sentence":"get info","label":2,"idx":997}
+{"sentence":"what is the definition of capricious","label":1,"idx":998}
+{"sentence":"how many miles is it from los angeles california to austin texas","label":2,"idx":999}
+{"sentence":"tell about the origin of the word evolution","label":1,"idx":1000}
+{"sentence":"is michael jackson really dead","label":2,"idx":1001}
+{"sentence":"honda stock price","label":4,"idx":1002}
+{"sentence":"how would you describe a happy birthday","label":1,"idx":1003}
+{"sentence":"what is six hundred euros in u. s. d.","label":0,"idx":1004}
+{"sentence":"what is fourteen divided by two","label":3,"idx":1005}
+{"sentence":"how many records did coldplay sell","label":2,"idx":1006}
+{"sentence":"what is the highest mountain in the world","label":2,"idx":1007}
+{"sentence":"what is the factorial of x","label":3,"idx":1008}
+{"sentence":"show me the stock price for google","label":4,"idx":1009}
+{"sentence":"what is the name of britain's prime minister","label":2,"idx":1010}
+{"sentence":"what is the difference in value of a dollar and a peso","label":0,"idx":1011}
+{"sentence":"how to spell the word giraffe","label":1,"idx":1012}
+{"sentence":"what is laptop","label":1,"idx":1013}
+{"sentence":"explain what a contact lense is","label":1,"idx":1014}
+{"sentence":"what is the geographic area of sudan","label":2,"idx":1015}
+{"sentence":"where was hugh jackson born","label":2,"idx":1016}
+{"sentence":"how many pesos can i get for a dollar right now","label":0,"idx":1017}
+{"sentence":"please give height of lindsey lohan","label":2,"idx":1018}
+{"sentence":"what is the euro to dollar exchange rate","label":0,"idx":1019}
+{"sentence":"where is san francisco","label":2,"idx":1020}
+{"sentence":"where is the biggest mountain","label":2,"idx":1021}
+{"sentence":"notify me when g. b. p. to u. s. d. rate as i expected","label":0,"idx":1022}
+{"sentence":"is the mediterranean sea near to spain","label":2,"idx":1023}
+{"sentence":"define elaborate","label":1,"idx":1024}
+{"sentence":"look up a lamp","label":1,"idx":1025}
+{"sentence":"where is tona","label":2,"idx":1026}
+{"sentence":"please check the exchange rates of the us dollar vs the euro","label":0,"idx":1027}
+{"sentence":"give me the definition of the word armor","label":1,"idx":1028}
+{"sentence":"how much would it cost to buy stock in apple","label":4,"idx":1029}
+{"sentence":"define organism","label":1,"idx":1030}
+{"sentence":"what is the current stock price of rolls royce","label":4,"idx":1031}
+{"sentence":"do you know how to answer this math question","label":3,"idx":1032}
+{"sentence":"i would like to receive updates about the stock market every day","label":4,"idx":1033}
+{"sentence":"when is the next lakers game","label":2,"idx":1034}
+{"sentence":"is texas the biggest state in the united states","label":2,"idx":1035}
+{"sentence":"what is a sphere","label":1,"idx":1036}
+{"sentence":"how much is five dollars in philippine peso","label":0,"idx":1037}
+{"sentence":"is yellowstone park the largest park","label":2,"idx":1038}
+{"sentence":"what is two plus two","label":3,"idx":1039}
+{"sentence":"search on his locality","label":2,"idx":1040}
+{"sentence":"what is the westernmost city in the contiguous forty eight states of the american mainland","label":2,"idx":1041}
+{"sentence":"tell me about hugh lourie","label":2,"idx":1042}
+{"sentence":"exchange rate between dollar and mexican peso","label":0,"idx":1043}
+{"sentence":"object search","label":1,"idx":1044}
+{"sentence":"how high is pikes peak","label":2,"idx":1045}
+{"sentence":"is it true that beyonce is having twins","label":2,"idx":1046}
+{"sentence":"mountain x height","label":2,"idx":1047}
+{"sentence":"is adele going to go on tour","label":2,"idx":1048}
+{"sentence":"what is a torque wrench","label":1,"idx":1049}
+{"sentence":"is the largest ocean in the world the pacific","label":2,"idx":1050}
+{"sentence":"how much is ten u. s. d. in indian rupees","label":0,"idx":1051}
+{"sentence":"show me share price of facebook","label":4,"idx":1052}
+{"sentence":"what part of the world is the safest","label":2,"idx":1053}
+{"sentence":"give me yearly average stock price for the last five years on amazon","label":4,"idx":1054}
+{"sentence":"how would you describe the sun","label":1,"idx":1055}
+{"sentence":"is it true that asia has only two countries","label":2,"idx":1056}
+{"sentence":"how old is steven fry","label":2,"idx":1057}
+{"sentence":"how many keys are on a piano","label":2,"idx":1058}
+{"sentence":"whats the currency exchange rate for china","label":0,"idx":1059}
+{"sentence":"compare more of countries","label":2,"idx":1060}
+{"sentence":"how old is chuck norris","label":2,"idx":1061}
+{"sentence":"where is russia located","label":2,"idx":1062}
+{"sentence":"in this country what is the exchange rate","label":0,"idx":1063}
+{"sentence":"what does this word means","label":1,"idx":1064}
+{"sentence":"how expensive is google stock","label":4,"idx":1065}
+{"sentence":"divide one thousand five hundred by one hundred and sixty","label":3,"idx":1066}
+{"sentence":"stock price for sprint","label":4,"idx":1067}
+{"sentence":"how much is five dollars worth in england","label":0,"idx":1068}
+{"sentence":"please describe about microwave","label":1,"idx":1069}
+{"sentence":"solve this equation one plus one","label":3,"idx":1070}
+{"sentence":"what age is britney spears","label":2,"idx":1071}
+{"sentence":"describe the heart stone card game","label":1,"idx":1072}
+{"sentence":"just let me know the population of india","label":2,"idx":1073}
+{"sentence":"what is the rate of inr","label":0,"idx":1074}
+{"sentence":"hey i would like to know some key facts about mongolia","label":2,"idx":1075}
+{"sentence":"age of brad pitt","label":2,"idx":1076}
+{"sentence":"open map","label":2,"idx":1077}
+{"sentence":"how many times was richard nixon married","label":2,"idx":1078}
+{"sentence":"describe paris for me please","label":1,"idx":1079}
+{"sentence":"check stock prices on this","label":4,"idx":1080}
+{"sentence":"was paul walker working on any movies besides the fast and the furious when he died","label":2,"idx":1081}
+{"sentence":"solution for eighty one divided by nine","label":3,"idx":1082}
+{"sentence":"please tell me about when singapore got freedom","label":2,"idx":1083}
+{"sentence":"please tell me what a crankshaft is","label":1,"idx":1084}
+{"sentence":"what are converse shoes","label":1,"idx":1085}
+{"sentence":"Define economics","label":1,"idx":1086}
+{"sentence":"tell me when obama was born","label":2,"idx":1087}
+{"sentence":"what is a monitor","label":1,"idx":1088}
+{"sentence":"show me the stock prices of walmart","label":4,"idx":1089}
+{"sentence":"i would like my to tell me the trend on foreign exchange rates","label":0,"idx":1090}
+{"sentence":"please find out the share price of i. b. m. in nasdaq","label":4,"idx":1091}
+{"sentence":"what is a hierophant","label":1,"idx":1092}
+{"sentence":"what is the largest continent in the world","label":2,"idx":1093}
+{"sentence":"for how much can we exchange us dollar for indian rupee","label":0,"idx":1094}
+{"sentence":"person name info","label":2,"idx":1095}
+{"sentence":"what's the exchange rate for samsung","label":0,"idx":1096}
+{"sentence":"how would you describe a ball","label":1,"idx":1097}
+{"sentence":"how much did facebook stock increase last night","label":4,"idx":1098}
+{"sentence":"how old is clint eastwood","label":2,"idx":1099}
+{"sentence":"how old is tom hanks","label":2,"idx":1100}
+{"sentence":"where is the taj mahal","label":2,"idx":1101}
+{"sentence":"how many us dollars do i need to have twenty canadian dollars","label":0,"idx":1102}
+{"sentence":"how would i do an psso in my knitting project","label":2,"idx":1103}
+{"sentence":"how many times does fifty go into one million","label":3,"idx":1104}
+{"sentence":"what is two hundred divided by ten","label":3,"idx":1105}
+{"sentence":"whats the currency exchange rate from dollars to euros","label":0,"idx":1106}
+{"sentence":"how much is the dollar verus the pound","label":0,"idx":1107}
+{"sentence":"how were trebuchets built","label":2,"idx":1108}
+{"sentence":"what is the current share value for msnbc","label":4,"idx":1109}
+{"sentence":"what is the definition of the word snafu","label":1,"idx":1110}
+{"sentence":"what is skynet","label":1,"idx":1111}
+{"sentence":"what is coral made of","label":2,"idx":1112}
+{"sentence":"is leonardo married","label":2,"idx":1113}
+{"sentence":"how old is jennifer lopez","label":2,"idx":1114}
+{"sentence":"tell me the definition of scenario","label":1,"idx":1115}
+{"sentence":"what's kim kardashian's measurements","label":2,"idx":1116}
+{"sentence":"tell me about donald trumps early life","label":2,"idx":1117}
+{"sentence":"tell me about john abraham lincon","label":2,"idx":1118}
+{"sentence":"what does penultimate mean","label":1,"idx":1119}
+{"sentence":"seven times seven","label":3,"idx":1120}
+{"sentence":"how many rivers are there in europe","label":2,"idx":1121}
+{"sentence":"what is the value of the yen right now","label":4,"idx":1122}
+{"sentence":"how long does it take to get to the moon","label":2,"idx":1123}
+{"sentence":"look up animal and give me the definition","label":1,"idx":1124}
+{"sentence":"give me the opening stock price of intel today","label":4,"idx":1125}
+{"sentence":"describe the current state of politics","label":2,"idx":1126}
+{"sentence":"find current stock pricing for stock in samsung","label":4,"idx":1127}
+{"sentence":"none","label":2,"idx":1128}
+{"sentence":"detail of rajinikanth","label":2,"idx":1129}
+{"sentence":"where are piramids located","label":2,"idx":1130}
+{"sentence":"identify object","label":1,"idx":1131}
+{"sentence":"awards won by michael jackson","label":2,"idx":1132}
+{"sentence":"what is the sum of fifteen ninety nine dollars and six sixty five dollars","label":3,"idx":1133}
+{"sentence":"what high school did halley barry go to","label":2,"idx":1134}
+{"sentence":"can you define a chair","label":1,"idx":1135}
+{"sentence":"tell me the story of ramanujan and his mathematical journey","label":2,"idx":1136}
+{"sentence":"how old is emma watson newest boyfriend","label":2,"idx":1137}
+{"sentence":"what is five over three","label":3,"idx":1138}
+{"sentence":"what is the prevailing exchange rate us versus indian rupees","label":0,"idx":1139}
+{"sentence":"what is the point of a banana","label":1,"idx":1140}
+{"sentence":"define broiler for me","label":1,"idx":1141}
+{"sentence":"define logic","label":1,"idx":1142}
+{"sentence":"how much money would twenty dollars be in mexico","label":0,"idx":1143}
+{"sentence":"what is the difference between the rate of the american dollar and the pound","label":0,"idx":1144}
+{"sentence":"what is the equivalent of one inr in zimbabwe dollars","label":0,"idx":1145}
+{"sentence":"tell me economic stats","label":2,"idx":1146}
+{"sentence":"what is the exchange rate for the english pound and us dollar","label":0,"idx":1147}
+{"sentence":"give me the definition of arrow","label":1,"idx":1148}
+{"sentence":"when did beyonce and jay z get married","label":2,"idx":1149}
+{"sentence":"tell me the stock rate of hyundai","label":4,"idx":1150}
+{"sentence":"please find me details about mt everest such as height","label":2,"idx":1151}
+{"sentence":"what is the most famous cave in texas","label":2,"idx":1152}
+{"sentence":"what is your biggest city","label":2,"idx":1153}
+{"sentence":"how many number of fans does that person have approximately","label":2,"idx":1154}
+{"sentence":"how many g. b. p. can i get for one dollar","label":0,"idx":1155}
+{"sentence":"how old is meryl streep","label":2,"idx":1156}
+{"sentence":"what is the square root of four","label":3,"idx":1157}

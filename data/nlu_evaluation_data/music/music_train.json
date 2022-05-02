@@ -1,284 +1,284 @@
-{"text":"wave","scenario":"music","labels":2}
-{"text":"who sang the song that is currently playing","scenario":"music","labels":2}
-{"text":"tag this song with five stars","scenario":"music","labels":1}
-{"text":"what kind of music do you think i like","scenario":"music","labels":2}
-{"text":"do not play rock metal","scenario":"music","labels":0}
-{"text":"i really enjoy rock and roll","scenario":"music","labels":1}
-{"text":"shuffle music by aaron carter","scenario":"music","labels":3}
-{"text":"i like senatra songs","scenario":"music","labels":1}
-{"text":"whose song is this","scenario":"music","labels":2}
-{"text":"what is the name of the artist that created this song","scenario":"music","labels":2}
-{"text":"tell me the singer of this track","scenario":"music","labels":2}
-{"text":"repeat music","scenario":"music","labels":3}
-{"text":"is this song ed sheeran","scenario":"music","labels":2}
-{"text":"what music is it","scenario":"music","labels":2}
-{"text":"show current track in music player","scenario":"music","labels":3}
-{"text":"how is this song titled","scenario":"music","labels":2}
-{"text":"I love the eternal voice of the singer she is my favourite","scenario":"music","labels":1}
-{"text":"save opinion","scenario":"music","labels":1}
-{"text":"what's that the album is current music from","scenario":"music","labels":2}
-{"text":"I don't like that song turn it off","scenario":"music","labels":0}
-{"text":"what list is available for my favorite music from ed sheeran","scenario":"music","labels":2}
-{"text":"remember how i fell about this song","scenario":"music","labels":1}
-{"text":"rating","scenario":"music","labels":1}
-{"text":"tell me the music that is playing","scenario":"music","labels":2}
-{"text":"great song for the commute","scenario":"music","labels":1}
-{"text":"other songs by this artist","scenario":"music","labels":2}
-{"text":"i like this song what is it can you please repeat it once","scenario":"music","labels":1}
-{"text":"what is the name of this song and who sings it","scenario":"music","labels":2}
-{"text":"i do not enjoy this song","scenario":"music","labels":0}
-{"text":"please save my opinion about the song that is currently playing","scenario":"music","labels":1}
-{"text":"set track twenty eight in music player on repeat","scenario":"music","labels":3}
-{"text":"what cd is this song on","scenario":"music","labels":2}
-{"text":"this is a nice song","scenario":"music","labels":1}
-{"text":"please don't shuffle songs in music player just playing continuously","scenario":"music","labels":3}
-{"text":"this is a good tune please notate file accordingly","scenario":"music","labels":1}
-{"text":"show albums of rihana","scenario":"music","labels":2}
-{"text":"save information about love of beyonc","scenario":"music","labels":1}
-{"text":"what is the title of the song that is playing","scenario":"music","labels":2}
-{"text":"who is the singer of this song right now","scenario":"music","labels":2}
-{"text":"play only particular singer songs","scenario":"music","labels":3}
-{"text":"what person produced the song that is on the radio","scenario":"music","labels":2}
-{"text":"what artist is singing that song","scenario":"music","labels":2}
-{"text":"the song playing now is released by which artist","scenario":"music","labels":2}
-{"text":"put the playlist on shuffle","scenario":"music","labels":3}
-{"text":"who is the singer of this song","scenario":"music","labels":2}
-{"text":"tell me the name of the composer","scenario":"music","labels":2}
-{"text":"please proceed to the next available rock song","scenario":"music","labels":3}
-{"text":"what year was the song created","scenario":"music","labels":2}
-{"text":"this song is my favourite","scenario":"music","labels":1}
-{"text":"this song should be on my playlist","scenario":"music","labels":1}
-{"text":"which film the music comes from what is the name of the music","scenario":"music","labels":2}
-{"text":"list of playback of ar rahman collections","scenario":"music","labels":2}
-{"text":"by adding to my playlist","scenario":"music","labels":1}
-{"text":"replay the required of the musics","scenario":"music","labels":3}
-{"text":"what playlist is on shuffle","scenario":"music","labels":2}
-{"text":"spotify current song","scenario":"music","labels":3}
-{"text":"shazam this music","scenario":"music","labels":3}
-{"text":"who is the artist of the song playing now","scenario":"music","labels":2}
-{"text":"does this song belongs to the classic","scenario":"music","labels":2}
-{"text":"what music is being played right now","scenario":"music","labels":2}
-{"text":"i love hip hop","scenario":"music","labels":1}
-{"text":"save my opinion about the current song playing","scenario":"music","labels":1}
-{"text":"olly what songs have i listened to at least ten times","scenario":"music","labels":2}
-{"text":"i'm really enjoying this song","scenario":"music","labels":1}
-{"text":"review","scenario":"music","labels":1}
-{"text":"find me the name of the artist of this music","scenario":"music","labels":2}
-{"text":"name the singer","scenario":"music","labels":2}
-{"text":"save my opinion on the currently playing song","scenario":"music","labels":1}
-{"text":"which song is currently playing","scenario":"music","labels":2}
-{"text":"save settings","scenario":"music","labels":3}
-{"text":"save that song and my opinion","scenario":"music","labels":1}
-{"text":"i like it","scenario":"music","labels":1}
-{"text":"save my music choices","scenario":"music","labels":1}
-{"text":"who sings this","scenario":"music","labels":2}
-{"text":"this song was very good","scenario":"music","labels":1}
-{"text":"save this song in my great songs category","scenario":"music","labels":1}
-{"text":"i don't want to hear any more songs of that type","scenario":"music","labels":0}
-{"text":"how about you save this music","scenario":"music","labels":1}
-{"text":"what music is playing now nine hundred and ninety nine fm","scenario":"music","labels":2}
-{"text":"turn shuffle on music player on","scenario":"music","labels":3}
-{"text":"ye song mera favorite hai main esse bahut baar sun chuka hu","scenario":"music","labels":1}
-{"text":"i find rap music really enjoyable","scenario":"music","labels":1}
-{"text":"what are my favorite types of music","scenario":"music","labels":2}
-{"text":"when is boy band playing","scenario":"music","labels":2}
-{"text":"which was that coldplay song i listened to yesterday evening can you play it again","scenario":"music","labels":2}
-{"text":"what movie is this song from","scenario":"music","labels":2}
-{"text":"tell me the name of this song","scenario":"music","labels":2}
-{"text":"find lyrics of this song and save it it is very nice song","scenario":"music","labels":1}
-{"text":"i like songs from","scenario":"music","labels":1}
-{"text":"tell me this song","scenario":"music","labels":2}
-{"text":"tell me about this song","scenario":"music","labels":2}
-{"text":"could you please create a pandora channel for adele","scenario":"music","labels":3}
-{"text":"do you hear songs of arrahman music","scenario":"music","labels":2}
-{"text":"can you tell me more about my most played music","scenario":"music","labels":2}
-{"text":"Olly save all the songs i have listened to more than once","scenario":"music","labels":1}
-{"text":"repeat this song when it ends","scenario":"music","labels":3}
-{"text":"when did this song come out","scenario":"music","labels":2}
-{"text":"i'd like you to remember that i like this song","scenario":"music","labels":1}
-{"text":"hi olly this song is too noisy","scenario":"music","labels":0}
-{"text":"save this song as my favorite","scenario":"music","labels":1}
-{"text":"display volume strength on current track","scenario":"music","labels":3}
-{"text":"what is the song name","scenario":"music","labels":2}
-{"text":"when was this song first recorded","scenario":"music","labels":2}
-{"text":"what song is on the radio","scenario":"music","labels":2}
-{"text":"what is in my favorites music folder","scenario":"music","labels":1}
-{"text":"who sings the song that i am listening to right now","scenario":"music","labels":2}
-{"text":"save the last radio stations of the last month","scenario":"music","labels":1}
-{"text":"i am forever hip hop","scenario":"music","labels":1}
-{"text":"this song is amazing is not it","scenario":"music","labels":1}
-{"text":"which song am i listening to right now","scenario":"music","labels":2}
-{"text":"who wrote the song that is playing","scenario":"music","labels":2}
-{"text":"can save this music in my playlist","scenario":"music","labels":1}
-{"text":"what music do i like","scenario":"music","labels":2}
-{"text":"the song touches my heart","scenario":"music","labels":1}
-{"text":"i don't like it","scenario":"music","labels":0}
-{"text":"identify song","scenario":"music","labels":2}
-{"text":"what music is currently playing on","scenario":"music","labels":2}
-{"text":"add this song to my music","scenario":"music","labels":1}
-{"text":"please rate this song five stars please","scenario":"music","labels":1}
-{"text":"who's this song by","scenario":"music","labels":2}
-{"text":"what's the name of this song","scenario":"music","labels":2}
-{"text":"who sing we are the world","scenario":"music","labels":2}
-{"text":"how long is this song","scenario":"music","labels":2}
-{"text":"i never want to hear that song again","scenario":"music","labels":0}
-{"text":"recommend artists similar to rihanna","scenario":"music","labels":2}
-{"text":"i love this song","scenario":"music","labels":1}
-{"text":"repeat the current song","scenario":"music","labels":3}
-{"text":"name the artist who sang hotel california","scenario":"music","labels":2}
-{"text":"save opinion on song","scenario":"music","labels":1}
-{"text":"show the playlist","scenario":"music","labels":2}
-{"text":"i want to listen daily to this song","scenario":"music","labels":1}
-{"text":"music change","scenario":"music","labels":3}
-{"text":"how to repeat the song","scenario":"music","labels":2}
-{"text":"who sung this","scenario":"music","labels":2}
-{"text":"add the song to my favorites","scenario":"music","labels":1}
-{"text":"please show me detail of previous played song","scenario":"music","labels":2}
-{"text":"what are the lyrics to this song playing","scenario":"music","labels":2}
-{"text":"save my last playlist","scenario":"music","labels":1}
-{"text":"whats this playing right now","scenario":"music","labels":2}
-{"text":"who's playing the oboe on this piece","scenario":"music","labels":2}
-{"text":"please go to settings of the music player and make the equalizer in the flat sound mode","scenario":"music","labels":3}
-{"text":"who is the artist that sings this song","scenario":"music","labels":2}
-{"text":"do you know the name of the song that is playing","scenario":"music","labels":2}
-{"text":"olly shuffle playlist","scenario":"music","labels":3}
-{"text":"is it possible for you to provide the likes of my music","scenario":"music","labels":2}
-{"text":"add this song to my favorite list","scenario":"music","labels":1}
-{"text":"i like this song","scenario":"music","labels":1}
-{"text":"which is the song playing now","scenario":"music","labels":2}
-{"text":"tell me the song that is currently playing","scenario":"music","labels":2}
-{"text":"the song makes me remember certain memories","scenario":"music","labels":1}
-{"text":"repeat the last song","scenario":"music","labels":3}
-{"text":"i love this music can you please save this to my dance playlist and remember that i like it","scenario":"music","labels":1}
-{"text":"what is this we're listening to","scenario":"music","labels":2}
-{"text":"save my song preferences on playlist","scenario":"music","labels":1}
-{"text":"i like top twenty music","scenario":"music","labels":1}
-{"text":"what are lady gagas most popular songs","scenario":"music","labels":2}
-{"text":"save all songs from katy perry","scenario":"music","labels":1}
-{"text":"who is the artist of the current song playing","scenario":"music","labels":2}
-{"text":"can you locate some gospel music for me","scenario":"music","labels":2}
-{"text":"recommend songs based on my playlist","scenario":"music","labels":2}
-{"text":"change song","scenario":"music","labels":3}
-{"text":"what music is currently playing","scenario":"music","labels":2}
-{"text":"band name","scenario":"music","labels":2}
-{"text":"shuffle the current album of songs","scenario":"music","labels":3}
-{"text":"what's the song title","scenario":"music","labels":2}
-{"text":"save this song to playlist","scenario":"music","labels":1}
-{"text":"tell me length and star ratings","scenario":"music","labels":2}
-{"text":"i like music","scenario":"music","labels":1}
-{"text":"who is the artist of this song","scenario":"music","labels":2}
-{"text":"this song is composed by whom","scenario":"music","labels":2}
-{"text":"i like the songs of yeshudas please play it","scenario":"music","labels":1}
-{"text":"stop repeating this song","scenario":"music","labels":3}
-{"text":"olly skip two songs","scenario":"music","labels":3}
-{"text":"remember that i do not like this music","scenario":"music","labels":0}
-{"text":"i like justin beibers music please play it","scenario":"music","labels":1}
-{"text":"what is my most played song","scenario":"music","labels":2}
-{"text":"tell me the date when this song was recorded","scenario":"music","labels":2}
-{"text":"who is singing","scenario":"music","labels":2}
-{"text":"who is the singer of hotel california","scenario":"music","labels":2}
-{"text":"what is the name of that song","scenario":"music","labels":2}
-{"text":"put the current song on repeat","scenario":"music","labels":3}
-{"text":"i enjoy listening to this song it really calms me down","scenario":"music","labels":1}
-{"text":"save this post about the song that i just listened to","scenario":"music","labels":1}
-{"text":"when was this song released","scenario":"music","labels":2}
-{"text":"repeat the music","scenario":"music","labels":3}
-{"text":"song info","scenario":"music","labels":2}
-{"text":"tell me a play list","scenario":"music","labels":2}
-{"text":"send this song to my favorites","scenario":"music","labels":1}
-{"text":"could you update me with the list of my music likes","scenario":"music","labels":2}
-{"text":"keep that song for when i need cheering up","scenario":"music","labels":1}
-{"text":"i like soft rock music","scenario":"music","labels":1}
-{"text":"opinion pb","scenario":"music","labels":1}
-{"text":"please thumbs up this song","scenario":"music","labels":1}
-{"text":"what is the name of this musical group","scenario":"music","labels":2}
-{"text":"i'm into music","scenario":"music","labels":1}
-{"text":"what's my favorite music at the moment","scenario":"music","labels":2}
-{"text":"suggest me some metal music","scenario":"music","labels":2}
-{"text":"i like jazz","scenario":"music","labels":1}
-{"text":"what is the song playing","scenario":"music","labels":2}
-{"text":"i like alt rock music","scenario":"music","labels":1}
-{"text":"what song in the theme song for frasier","scenario":"music","labels":2}
-{"text":"lyrics","scenario":"music","labels":1}
-{"text":"Please turn off shuffle setting","scenario":"music","labels":3}
-{"text":"who is singing this","scenario":"music","labels":2}
-{"text":"note current song as awesome please","scenario":"music","labels":1}
-{"text":"repeat previous song","scenario":"music","labels":3}
-{"text":"make this my favorite","scenario":"music","labels":1}
-{"text":"i like to be it","scenario":"music","labels":1}
-{"text":"please repeat the current song is being played","scenario":"music","labels":3}
-{"text":"what music do i prefer","scenario":"music","labels":2}
-{"text":"what kind of music am i into","scenario":"music","labels":2}
-{"text":"what is the current song called","scenario":"music","labels":2}
-{"text":"tell me what is song is playing now","scenario":"music","labels":2}
-{"text":"who is singing that song on now","scenario":"music","labels":2}
-{"text":"phone contacts","scenario":"music","labels":3}
-{"text":"what music is playing","scenario":"music","labels":2}
-{"text":"remember what i think about this song","scenario":"music","labels":1}
-{"text":"who is this on the radio","scenario":"music","labels":2}
-{"text":"thumbs down","scenario":"music","labels":0}
-{"text":"what's the name of the piece you are playing","scenario":"music","labels":2}
-{"text":"what is the name of this song playing right now","scenario":"music","labels":2}
-{"text":"who is the song writer","scenario":"music","labels":2}
-{"text":"what do you think","scenario":"music","labels":1}
-{"text":"what music genre do i play most","scenario":"music","labels":2}
-{"text":"skip this song","scenario":"music","labels":0}
-{"text":"the music of this song is very melodious and relaxing","scenario":"music","labels":1}
-{"text":"Song title","scenario":"music","labels":2}
-{"text":"please check my playlist","scenario":"music","labels":1}
-{"text":"what genre is this","scenario":"music","labels":2}
-{"text":"lower battery consumption to save setting","scenario":"music","labels":3}
-{"text":"remember this music","scenario":"music","labels":1}
-{"text":"record pb","scenario":"music","labels":1}
-{"text":"please repeat that music again of akon","scenario":"music","labels":3}
-{"text":"please add this song to my playlist favorites","scenario":"music","labels":1}
-{"text":"show me the name of the song playing right now","scenario":"music","labels":2}
-{"text":"what artist sings this song","scenario":"music","labels":2}
-{"text":"save this music to my favorites","scenario":"music","labels":1}
-{"text":"please save the remarks i have on this current song","scenario":"music","labels":1}
-{"text":"who wrote the song i just wanna dance with you","scenario":"music","labels":2}
-{"text":"who's that song by","scenario":"music","labels":2}
-{"text":"i want the music to be saved can you do it for me","scenario":"music","labels":1}
-{"text":"shuffle music","scenario":"music","labels":3}
-{"text":"repeat album","scenario":"music","labels":3}
-{"text":"i enjoy music","scenario":"music","labels":1}
-{"text":"what song is this","scenario":"music","labels":2}
-{"text":"where can i find this song","scenario":"music","labels":2}
-{"text":"what is the name of the lead singer in this band","scenario":"music","labels":2}
-{"text":"i like classic rock","scenario":"music","labels":1}
-{"text":"please set the equalizer in the party mode","scenario":"music","labels":3}
-{"text":"how do you feel after hearing justin bieber's new album","scenario":"music","labels":2}
-{"text":"i like this song that is playing","scenario":"music","labels":1}
-{"text":"please save my rating on this song it is five stars please","scenario":"music","labels":1}
-{"text":"please put radio in shuffle","scenario":"music","labels":3}
-{"text":"my favorite singer is shakira","scenario":"music","labels":1}
-{"text":"who sings this song","scenario":"music","labels":2}
-{"text":"please repeat the last song","scenario":"music","labels":3}
-{"text":"i favorite singer is arijit singh find his voice on radio","scenario":"music","labels":1}
-{"text":"this song is too good","scenario":"music","labels":1}
-{"text":"when was this song recorded","scenario":"music","labels":2}
-{"text":"find out what song this is and tell me the name","scenario":"music","labels":2}
-{"text":"my all time favorite song is something like this from chainsmokers","scenario":"music","labels":1}
-{"text":"who's current music's author","scenario":"music","labels":2}
-{"text":"what is the name of the singer","scenario":"music","labels":2}
-{"text":"give me the release date of this song","scenario":"music","labels":2}
-{"text":"mark this song as a favorite","scenario":"music","labels":1}
-{"text":"this is the best band ever","scenario":"music","labels":1}
-{"text":"what genre of music is in my music folder","scenario":"music","labels":2}
-{"text":"save this channel on pandora please","scenario":"music","labels":1}
-{"text":"that song in the background is annoying","scenario":"music","labels":0}
-{"text":"this is a five star song","scenario":"music","labels":1}
-{"text":"can you turn down the volume please and tell me what is the title of this song","scenario":"music","labels":2}
-{"text":"what song is that","scenario":"music","labels":2}
-{"text":"please check and repeat this song one time more","scenario":"music","labels":3}
-{"text":"current song rating three stars","scenario":"music","labels":1}
-{"text":"this is one of the best songs for me","scenario":"music","labels":1}
-{"text":"nine hundred and ninety nine fm is currently playing what music","scenario":"music","labels":2}
-{"text":"show me my playlist","scenario":"music","labels":2}
-{"text":"who is the singer of song","scenario":"music","labels":2}
-{"text":"compile favorites list according to my song feedback","scenario":"music","labels":1}
-{"text":"what album is this song on","scenario":"music","labels":2}
-{"text":"what the singer meant by the title of the song bohemian rhapsody","scenario":"music","labels":2}
-{"text":"i want to say something about this song","scenario":"music","labels":1}
-{"text":"are there any upcoming concerts by","scenario":"music","labels":1}
-{"text":"music traking","scenario":"music","labels":2}
+{"sentence":"wave","label":2,"idx":0}
+{"sentence":"who sang the song that is currently playing","label":2,"idx":1}
+{"sentence":"tag this song with five stars","label":1,"idx":2}
+{"sentence":"what kind of music do you think i like","label":2,"idx":3}
+{"sentence":"do not play rock metal","label":0,"idx":4}
+{"sentence":"i really enjoy rock and roll","label":1,"idx":5}
+{"sentence":"shuffle music by aaron carter","label":3,"idx":6}
+{"sentence":"i like senatra songs","label":1,"idx":7}
+{"sentence":"whose song is this","label":2,"idx":8}
+{"sentence":"what is the name of the artist that created this song","label":2,"idx":9}
+{"sentence":"tell me the singer of this track","label":2,"idx":10}
+{"sentence":"repeat music","label":3,"idx":11}
+{"sentence":"is this song ed sheeran","label":2,"idx":12}
+{"sentence":"what music is it","label":2,"idx":13}
+{"sentence":"show current track in music player","label":3,"idx":14}
+{"sentence":"how is this song titled","label":2,"idx":15}
+{"sentence":"I love the eternal voice of the singer she is my favourite","label":1,"idx":16}
+{"sentence":"save opinion","label":1,"idx":17}
+{"sentence":"what's that the album is current music from","label":2,"idx":18}
+{"sentence":"I don't like that song turn it off","label":0,"idx":19}
+{"sentence":"what list is available for my favorite music from ed sheeran","label":2,"idx":20}
+{"sentence":"remember how i fell about this song","label":1,"idx":21}
+{"sentence":"rating","label":1,"idx":22}
+{"sentence":"tell me the music that is playing","label":2,"idx":23}
+{"sentence":"great song for the commute","label":1,"idx":24}
+{"sentence":"other songs by this artist","label":2,"idx":25}
+{"sentence":"i like this song what is it can you please repeat it once","label":1,"idx":26}
+{"sentence":"what is the name of this song and who sings it","label":2,"idx":27}
+{"sentence":"i do not enjoy this song","label":0,"idx":28}
+{"sentence":"please save my opinion about the song that is currently playing","label":1,"idx":29}
+{"sentence":"set track twenty eight in music player on repeat","label":3,"idx":30}
+{"sentence":"what cd is this song on","label":2,"idx":31}
+{"sentence":"this is a nice song","label":1,"idx":32}
+{"sentence":"please don't shuffle songs in music player just playing continuously","label":3,"idx":33}
+{"sentence":"this is a good tune please notate file accordingly","label":1,"idx":34}
+{"sentence":"show albums of rihana","label":2,"idx":35}
+{"sentence":"save information about love of beyonc","label":1,"idx":36}
+{"sentence":"what is the title of the song that is playing","label":2,"idx":37}
+{"sentence":"who is the singer of this song right now","label":2,"idx":38}
+{"sentence":"play only particular singer songs","label":3,"idx":39}
+{"sentence":"what person produced the song that is on the radio","label":2,"idx":40}
+{"sentence":"what artist is singing that song","label":2,"idx":41}
+{"sentence":"the song playing now is released by which artist","label":2,"idx":42}
+{"sentence":"put the playlist on shuffle","label":3,"idx":43}
+{"sentence":"who is the singer of this song","label":2,"idx":44}
+{"sentence":"tell me the name of the composer","label":2,"idx":45}
+{"sentence":"please proceed to the next available rock song","label":3,"idx":46}
+{"sentence":"what year was the song created","label":2,"idx":47}
+{"sentence":"this song is my favourite","label":1,"idx":48}
+{"sentence":"this song should be on my playlist","label":1,"idx":49}
+{"sentence":"which film the music comes from what is the name of the music","label":2,"idx":50}
+{"sentence":"list of playback of ar rahman collections","label":2,"idx":51}
+{"sentence":"by adding to my playlist","label":1,"idx":52}
+{"sentence":"replay the required of the musics","label":3,"idx":53}
+{"sentence":"what playlist is on shuffle","label":2,"idx":54}
+{"sentence":"spotify current song","label":3,"idx":55}
+{"sentence":"shazam this music","label":3,"idx":56}
+{"sentence":"who is the artist of the song playing now","label":2,"idx":57}
+{"sentence":"does this song belongs to the classic","label":2,"idx":58}
+{"sentence":"what music is being played right now","label":2,"idx":59}
+{"sentence":"i love hip hop","label":1,"idx":60}
+{"sentence":"save my opinion about the current song playing","label":1,"idx":61}
+{"sentence":"olly what songs have i listened to at least ten times","label":2,"idx":62}
+{"sentence":"i'm really enjoying this song","label":1,"idx":63}
+{"sentence":"review","label":1,"idx":64}
+{"sentence":"find me the name of the artist of this music","label":2,"idx":65}
+{"sentence":"name the singer","label":2,"idx":66}
+{"sentence":"save my opinion on the currently playing song","label":1,"idx":67}
+{"sentence":"which song is currently playing","label":2,"idx":68}
+{"sentence":"save settings","label":3,"idx":69}
+{"sentence":"save that song and my opinion","label":1,"idx":70}
+{"sentence":"i like it","label":1,"idx":71}
+{"sentence":"save my music choices","label":1,"idx":72}
+{"sentence":"who sings this","label":2,"idx":73}
+{"sentence":"this song was very good","label":1,"idx":74}
+{"sentence":"save this song in my great songs category","label":1,"idx":75}
+{"sentence":"i don't want to hear any more songs of that type","label":0,"idx":76}
+{"sentence":"how about you save this music","label":1,"idx":77}
+{"sentence":"what music is playing now nine hundred and ninety nine fm","label":2,"idx":78}
+{"sentence":"turn shuffle on music player on","label":3,"idx":79}
+{"sentence":"ye song mera favorite hai main esse bahut baar sun chuka hu","label":1,"idx":80}
+{"sentence":"i find rap music really enjoyable","label":1,"idx":81}
+{"sentence":"what are my favorite types of music","label":2,"idx":82}
+{"sentence":"when is boy band playing","label":2,"idx":83}
+{"sentence":"which was that coldplay song i listened to yesterday evening can you play it again","label":2,"idx":84}
+{"sentence":"what movie is this song from","label":2,"idx":85}
+{"sentence":"tell me the name of this song","label":2,"idx":86}
+{"sentence":"find lyrics of this song and save it it is very nice song","label":1,"idx":87}
+{"sentence":"i like songs from","label":1,"idx":88}
+{"sentence":"tell me this song","label":2,"idx":89}
+{"sentence":"tell me about this song","label":2,"idx":90}
+{"sentence":"could you please create a pandora channel for adele","label":3,"idx":91}
+{"sentence":"do you hear songs of arrahman music","label":2,"idx":92}
+{"sentence":"can you tell me more about my most played music","label":2,"idx":93}
+{"sentence":"Olly save all the songs i have listened to more than once","label":1,"idx":94}
+{"sentence":"repeat this song when it ends","label":3,"idx":95}
+{"sentence":"when did this song come out","label":2,"idx":96}
+{"sentence":"i'd like you to remember that i like this song","label":1,"idx":97}
+{"sentence":"hi olly this song is too noisy","label":0,"idx":98}
+{"sentence":"save this song as my favorite","label":1,"idx":99}
+{"sentence":"display volume strength on current track","label":3,"idx":100}
+{"sentence":"what is the song name","label":2,"idx":101}
+{"sentence":"when was this song first recorded","label":2,"idx":102}
+{"sentence":"what song is on the radio","label":2,"idx":103}
+{"sentence":"what is in my favorites music folder","label":1,"idx":104}
+{"sentence":"who sings the song that i am listening to right now","label":2,"idx":105}
+{"sentence":"save the last radio stations of the last month","label":1,"idx":106}
+{"sentence":"i am forever hip hop","label":1,"idx":107}
+{"sentence":"this song is amazing is not it","label":1,"idx":108}
+{"sentence":"which song am i listening to right now","label":2,"idx":109}
+{"sentence":"who wrote the song that is playing","label":2,"idx":110}
+{"sentence":"can save this music in my playlist","label":1,"idx":111}
+{"sentence":"what music do i like","label":2,"idx":112}
+{"sentence":"the song touches my heart","label":1,"idx":113}
+{"sentence":"i don't like it","label":0,"idx":114}
+{"sentence":"identify song","label":2,"idx":115}
+{"sentence":"what music is currently playing on","label":2,"idx":116}
+{"sentence":"add this song to my music","label":1,"idx":117}
+{"sentence":"please rate this song five stars please","label":1,"idx":118}
+{"sentence":"who's this song by","label":2,"idx":119}
+{"sentence":"what's the name of this song","label":2,"idx":120}
+{"sentence":"who sing we are the world","label":2,"idx":121}
+{"sentence":"how long is this song","label":2,"idx":122}
+{"sentence":"i never want to hear that song again","label":0,"idx":123}
+{"sentence":"recommend artists similar to rihanna","label":2,"idx":124}
+{"sentence":"i love this song","label":1,"idx":125}
+{"sentence":"repeat the current song","label":3,"idx":126}
+{"sentence":"name the artist who sang hotel california","label":2,"idx":127}
+{"sentence":"save opinion on song","label":1,"idx":128}
+{"sentence":"show the playlist","label":2,"idx":129}
+{"sentence":"i want to listen daily to this song","label":1,"idx":130}
+{"sentence":"music change","label":3,"idx":131}
+{"sentence":"how to repeat the song","label":2,"idx":132}
+{"sentence":"who sung this","label":2,"idx":133}
+{"sentence":"add the song to my favorites","label":1,"idx":134}
+{"sentence":"please show me detail of previous played song","label":2,"idx":135}
+{"sentence":"what are the lyrics to this song playing","label":2,"idx":136}
+{"sentence":"save my last playlist","label":1,"idx":137}
+{"sentence":"whats this playing right now","label":2,"idx":138}
+{"sentence":"who's playing the oboe on this piece","label":2,"idx":139}
+{"sentence":"please go to settings of the music player and make the equalizer in the flat sound mode","label":3,"idx":140}
+{"sentence":"who is the artist that sings this song","label":2,"idx":141}
+{"sentence":"do you know the name of the song that is playing","label":2,"idx":142}
+{"sentence":"olly shuffle playlist","label":3,"idx":143}
+{"sentence":"is it possible for you to provide the likes of my music","label":2,"idx":144}
+{"sentence":"add this song to my favorite list","label":1,"idx":145}
+{"sentence":"i like this song","label":1,"idx":146}
+{"sentence":"which is the song playing now","label":2,"idx":147}
+{"sentence":"tell me the song that is currently playing","label":2,"idx":148}
+{"sentence":"the song makes me remember certain memories","label":1,"idx":149}
+{"sentence":"repeat the last song","label":3,"idx":150}
+{"sentence":"i love this music can you please save this to my dance playlist and remember that i like it","label":1,"idx":151}
+{"sentence":"what is this we're listening to","label":2,"idx":152}
+{"sentence":"save my song preferences on playlist","label":1,"idx":153}
+{"sentence":"i like top twenty music","label":1,"idx":154}
+{"sentence":"what are lady gagas most popular songs","label":2,"idx":155}
+{"sentence":"save all songs from katy perry","label":1,"idx":156}
+{"sentence":"who is the artist of the current song playing","label":2,"idx":157}
+{"sentence":"can you locate some gospel music for me","label":2,"idx":158}
+{"sentence":"recommend songs based on my playlist","label":2,"idx":159}
+{"sentence":"change song","label":3,"idx":160}
+{"sentence":"what music is currently playing","label":2,"idx":161}
+{"sentence":"band name","label":2,"idx":162}
+{"sentence":"shuffle the current album of songs","label":3,"idx":163}
+{"sentence":"what's the song title","label":2,"idx":164}
+{"sentence":"save this song to playlist","label":1,"idx":165}
+{"sentence":"tell me length and star ratings","label":2,"idx":166}
+{"sentence":"i like music","label":1,"idx":167}
+{"sentence":"who is the artist of this song","label":2,"idx":168}
+{"sentence":"this song is composed by whom","label":2,"idx":169}
+{"sentence":"i like the songs of yeshudas please play it","label":1,"idx":170}
+{"sentence":"stop repeating this song","label":3,"idx":171}
+{"sentence":"olly skip two songs","label":3,"idx":172}
+{"sentence":"remember that i do not like this music","label":0,"idx":173}
+{"sentence":"i like justin beibers music please play it","label":1,"idx":174}
+{"sentence":"what is my most played song","label":2,"idx":175}
+{"sentence":"tell me the date when this song was recorded","label":2,"idx":176}
+{"sentence":"who is singing","label":2,"idx":177}
+{"sentence":"who is the singer of hotel california","label":2,"idx":178}
+{"sentence":"what is the name of that song","label":2,"idx":179}
+{"sentence":"put the current song on repeat","label":3,"idx":180}
+{"sentence":"i enjoy listening to this song it really calms me down","label":1,"idx":181}
+{"sentence":"save this post about the song that i just listened to","label":1,"idx":182}
+{"sentence":"when was this song released","label":2,"idx":183}
+{"sentence":"repeat the music","label":3,"idx":184}
+{"sentence":"song info","label":2,"idx":185}
+{"sentence":"tell me a play list","label":2,"idx":186}
+{"sentence":"send this song to my favorites","label":1,"idx":187}
+{"sentence":"could you update me with the list of my music likes","label":2,"idx":188}
+{"sentence":"keep that song for when i need cheering up","label":1,"idx":189}
+{"sentence":"i like soft rock music","label":1,"idx":190}
+{"sentence":"opinion pb","label":1,"idx":191}
+{"sentence":"please thumbs up this song","label":1,"idx":192}
+{"sentence":"what is the name of this musical group","label":2,"idx":193}
+{"sentence":"i'm into music","label":1,"idx":194}
+{"sentence":"what's my favorite music at the moment","label":2,"idx":195}
+{"sentence":"suggest me some metal music","label":2,"idx":196}
+{"sentence":"i like jazz","label":1,"idx":197}
+{"sentence":"what is the song playing","label":2,"idx":198}
+{"sentence":"i like alt rock music","label":1,"idx":199}
+{"sentence":"what song in the theme song for frasier","label":2,"idx":200}
+{"sentence":"lyrics","label":1,"idx":201}
+{"sentence":"Please turn off shuffle setting","label":3,"idx":202}
+{"sentence":"who is singing this","label":2,"idx":203}
+{"sentence":"note current song as awesome please","label":1,"idx":204}
+{"sentence":"repeat previous song","label":3,"idx":205}
+{"sentence":"make this my favorite","label":1,"idx":206}
+{"sentence":"i like to be it","label":1,"idx":207}
+{"sentence":"please repeat the current song is being played","label":3,"idx":208}
+{"sentence":"what music do i prefer","label":2,"idx":209}
+{"sentence":"what kind of music am i into","label":2,"idx":210}
+{"sentence":"what is the current song called","label":2,"idx":211}
+{"sentence":"tell me what is song is playing now","label":2,"idx":212}
+{"sentence":"who is singing that song on now","label":2,"idx":213}
+{"sentence":"phone contacts","label":3,"idx":214}
+{"sentence":"what music is playing","label":2,"idx":215}
+{"sentence":"remember what i think about this song","label":1,"idx":216}
+{"sentence":"who is this on the radio","label":2,"idx":217}
+{"sentence":"thumbs down","label":0,"idx":218}
+{"sentence":"what's the name of the piece you are playing","label":2,"idx":219}
+{"sentence":"what is the name of this song playing right now","label":2,"idx":220}
+{"sentence":"who is the song writer","label":2,"idx":221}
+{"sentence":"what do you think","label":1,"idx":222}
+{"sentence":"what music genre do i play most","label":2,"idx":223}
+{"sentence":"skip this song","label":0,"idx":224}
+{"sentence":"the music of this song is very melodious and relaxing","label":1,"idx":225}
+{"sentence":"Song title","label":2,"idx":226}
+{"sentence":"please check my playlist","label":1,"idx":227}
+{"sentence":"what genre is this","label":2,"idx":228}
+{"sentence":"lower battery consumption to save setting","label":3,"idx":229}
+{"sentence":"remember this music","label":1,"idx":230}
+{"sentence":"record pb","label":1,"idx":231}
+{"sentence":"please repeat that music again of akon","label":3,"idx":232}
+{"sentence":"please add this song to my playlist favorites","label":1,"idx":233}
+{"sentence":"show me the name of the song playing right now","label":2,"idx":234}
+{"sentence":"what artist sings this song","label":2,"idx":235}
+{"sentence":"save this music to my favorites","label":1,"idx":236}
+{"sentence":"please save the remarks i have on this current song","label":1,"idx":237}
+{"sentence":"who wrote the song i just wanna dance with you","label":2,"idx":238}
+{"sentence":"who's that song by","label":2,"idx":239}
+{"sentence":"i want the music to be saved can you do it for me","label":1,"idx":240}
+{"sentence":"shuffle music","label":3,"idx":241}
+{"sentence":"repeat album","label":3,"idx":242}
+{"sentence":"i enjoy music","label":1,"idx":243}
+{"sentence":"what song is this","label":2,"idx":244}
+{"sentence":"where can i find this song","label":2,"idx":245}
+{"sentence":"what is the name of the lead singer in this band","label":2,"idx":246}
+{"sentence":"i like classic rock","label":1,"idx":247}
+{"sentence":"please set the equalizer in the party mode","label":3,"idx":248}
+{"sentence":"how do you feel after hearing justin bieber's new album","label":2,"idx":249}
+{"sentence":"i like this song that is playing","label":1,"idx":250}
+{"sentence":"please save my rating on this song it is five stars please","label":1,"idx":251}
+{"sentence":"please put radio in shuffle","label":3,"idx":252}
+{"sentence":"my favorite singer is shakira","label":1,"idx":253}
+{"sentence":"who sings this song","label":2,"idx":254}
+{"sentence":"please repeat the last song","label":3,"idx":255}
+{"sentence":"i favorite singer is arijit singh find his voice on radio","label":1,"idx":256}
+{"sentence":"this song is too good","label":1,"idx":257}
+{"sentence":"when was this song recorded","label":2,"idx":258}
+{"sentence":"find out what song this is and tell me the name","label":2,"idx":259}
+{"sentence":"my all time favorite song is something like this from chainsmokers","label":1,"idx":260}
+{"sentence":"who's current music's author","label":2,"idx":261}
+{"sentence":"what is the name of the singer","label":2,"idx":262}
+{"sentence":"give me the release date of this song","label":2,"idx":263}
+{"sentence":"mark this song as a favorite","label":1,"idx":264}
+{"sentence":"this is the best band ever","label":1,"idx":265}
+{"sentence":"what genre of music is in my music folder","label":2,"idx":266}
+{"sentence":"save this channel on pandora please","label":1,"idx":267}
+{"sentence":"that song in the background is annoying","label":0,"idx":268}
+{"sentence":"this is a five star song","label":1,"idx":269}
+{"sentence":"can you turn down the volume please and tell me what is the title of this song","label":2,"idx":270}
+{"sentence":"what song is that","label":2,"idx":271}
+{"sentence":"please check and repeat this song one time more","label":3,"idx":272}
+{"sentence":"current song rating three stars","label":1,"idx":273}
+{"sentence":"this is one of the best songs for me","label":1,"idx":274}
+{"sentence":"nine hundred and ninety nine fm is currently playing what music","label":2,"idx":275}
+{"sentence":"show me my playlist","label":2,"idx":276}
+{"sentence":"who is the singer of song","label":2,"idx":277}
+{"sentence":"compile favorites list according to my song feedback","label":1,"idx":278}
+{"sentence":"what album is this song on","label":2,"idx":279}
+{"sentence":"what the singer meant by the title of the song bohemian rhapsody","label":2,"idx":280}
+{"sentence":"i want to say something about this song","label":1,"idx":281}
+{"sentence":"are there any upcoming concerts by","label":1,"idx":282}
+{"sentence":"music traking","label":2,"idx":283}

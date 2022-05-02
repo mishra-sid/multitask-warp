@@ -1,0 +1,188 @@
+{"sentence":"can you set an alarm for me","label":2,"idx":0}
+{"sentence":"wake me at daybreak","label":2,"idx":1}
+{"sentence":"list all the alarms","label":0,"idx":2}
+{"sentence":"please set my alarm clock for eight am","label":2,"idx":3}
+{"sentence":"show me the list of alarms","label":0,"idx":4}
+{"sentence":"wake me up tomorrow at six am","label":2,"idx":5}
+{"sentence":"set the alarm for five o'clock in the morning","label":2,"idx":6}
+{"sentence":"set an alarm for six am","label":2,"idx":7}
+{"sentence":"set the alarm for five am","label":2,"idx":8}
+{"sentence":"what alarms did i set today","label":0,"idx":9}
+{"sentence":"set an alarm at ten tomorrow to remind me a meeting","label":2,"idx":10}
+{"sentence":"remind me about my alarms today","label":0,"idx":11}
+{"sentence":"check whether i have set any alarms for tomorrow morning","label":0,"idx":12}
+{"sentence":"schedule an alarm to wake me up after three hours","label":2,"idx":13}
+{"sentence":"is my work alarm set for tomorrow","label":0,"idx":14}
+{"sentence":"schedule an alarm for next weeks dentist appointment","label":2,"idx":15}
+{"sentence":"please set the alarm for seven","label":2,"idx":16}
+{"sentence":"remove seven am alarm","label":1,"idx":17}
+{"sentence":"alarm set for time","label":2,"idx":18}
+{"sentence":"remove alarm of six am on tuesday","label":1,"idx":19}
+{"sentence":"wake me up","label":2,"idx":20}
+{"sentence":"please tell about the alarms","label":0,"idx":21}
+{"sentence":"alarm time for twelve pm","label":2,"idx":22}
+{"sentence":"can you tell me if i have any alarms set","label":0,"idx":23}
+{"sentence":"show me my alarms i have set","label":0,"idx":24}
+{"sentence":"olly cancel yoga alarms","label":1,"idx":25}
+{"sentence":"fix alarm","label":2,"idx":26}
+{"sentence":"set alarm for tomorrow at two pm","label":2,"idx":27}
+{"sentence":"remove my morning alarm","label":1,"idx":28}
+{"sentence":"make an alarm for me at five am tomorrow","label":2,"idx":29}
+{"sentence":"checkout today alarm of meeting","label":0,"idx":30}
+{"sentence":"please tell me about upcoming alarms","label":0,"idx":31}
+{"sentence":"set my alarm for six am tomorrow","label":2,"idx":32}
+{"sentence":"alarm set eight am","label":2,"idx":33}
+{"sentence":"remove my bedtime alarm","label":1,"idx":34}
+{"sentence":"see see for me the alarms that you have set tomorrow morning","label":0,"idx":35}
+{"sentence":"are there any alarms for today","label":0,"idx":36}
+{"sentence":"unset all alarm which is set","label":1,"idx":37}
+{"sentence":"please tell me my alarms","label":0,"idx":38}
+{"sentence":"disable alarm for three pm","label":1,"idx":39}
+{"sentence":"what alarms do you have set","label":0,"idx":40}
+{"sentence":"remove all alarms set today","label":1,"idx":41}
+{"sentence":"remove alarms set for tomorrow","label":1,"idx":42}
+{"sentence":"create an alarm for today at ten am","label":2,"idx":43}
+{"sentence":"set an alarm for nine am","label":2,"idx":44}
+{"sentence":"remove all alarm of sunday","label":1,"idx":45}
+{"sentence":"what alarms are on right now","label":0,"idx":46}
+{"sentence":"when is the next alarm","label":0,"idx":47}
+{"sentence":"delete my eight pm alarm","label":1,"idx":48}
+{"sentence":"what's the alarm situation for tomorrow","label":0,"idx":49}
+{"sentence":"remove all alarms if any","label":1,"idx":50}
+{"sentence":"did you set the alarm for five am","label":0,"idx":51}
+{"sentence":"set an alarm in an hour's time","label":2,"idx":52}
+{"sentence":"are there any alarms set","label":0,"idx":53}
+{"sentence":"tell me time of alarm you set","label":0,"idx":54}
+{"sentence":"remove wake up calls for this week","label":1,"idx":55}
+{"sentence":"please make me wake up at four am tomorrow","label":2,"idx":56}
+{"sentence":"list my different alarm","label":0,"idx":57}
+{"sentence":"please set alarm to my mobile phones","label":2,"idx":58}
+{"sentence":"set alarm six am","label":2,"idx":59}
+{"sentence":"is my alarm set for seven am","label":2,"idx":60}
+{"sentence":"remove alarm of seven thirty am on monday","label":1,"idx":61}
+{"sentence":"are there any alarms going off today","label":0,"idx":62}
+{"sentence":"check if alarm is set for six am","label":0,"idx":63}
+{"sentence":"i need a six am wakeup call","label":2,"idx":64}
+{"sentence":"change my alarms to mountain time","label":2,"idx":65}
+{"sentence":"what alarms are set in the house","label":0,"idx":66}
+{"sentence":"set up an alarm clock at one pm","label":2,"idx":67}
+{"sentence":"will set alarm clock one hour before my next dentist appointment","label":2,"idx":68}
+{"sentence":"remove the alarm set for ten pm","label":1,"idx":69}
+{"sentence":"cancel alarm","label":1,"idx":70}
+{"sentence":"alarm for ten am","label":2,"idx":71}
+{"sentence":"tap the system tab tap clock and then select the alarms tab tap and select the day you want the alarm to sound double tap the time displayed on the extreme left to set a time for the alarm","label":0,"idx":72}
+{"sentence":"please set an alarm for tomorrows meeting at seven am","label":2,"idx":73}
+{"sentence":"make an alarm for three pm","label":2,"idx":74}
+{"sentence":"please set alarm for","label":2,"idx":75}
+{"sentence":"is there any alarm active","label":0,"idx":76}
+{"sentence":"fix an alarm","label":2,"idx":77}
+{"sentence":"stop wake up calls for this week","label":1,"idx":78}
+{"sentence":"show alarms","label":0,"idx":79}
+{"sentence":"wake me up at eight o'clock","label":2,"idx":80}
+{"sentence":"what time is my wakeup alarm set for","label":0,"idx":81}
+{"sentence":"remind me at one thousand three hundred","label":2,"idx":82}
+{"sentence":"set an alarm for two hours from now please","label":2,"idx":83}
+{"sentence":"update alarm","label":2,"idx":84}
+{"sentence":"set an alarm for seven am","label":2,"idx":85}
+{"sentence":"alert me at three pm to goto the concert","label":2,"idx":86}
+{"sentence":"make an alarm to wake me up after five hours","label":2,"idx":87}
+{"sentence":"set new alarm on five am","label":2,"idx":88}
+{"sentence":"wake me up at five am every morning","label":2,"idx":89}
+{"sentence":"wake me up in thirty minutes","label":2,"idx":90}
+{"sentence":"cancel alarm for tenth of march two thousand seventeen","label":1,"idx":91}
+{"sentence":"what alarms are set for today","label":0,"idx":92}
+{"sentence":"remove six am alarm of whole week for future","label":1,"idx":93}
+{"sentence":"set alarm for morning six","label":2,"idx":94}
+{"sentence":"what alarms did i set","label":0,"idx":95}
+{"sentence":"change alarm setting","label":2,"idx":96}
+{"sentence":"teach children to never answer the door when home alone","label":1,"idx":97}
+{"sentence":"set alarm of every tuesday of march month morning eight am","label":2,"idx":98}
+{"sentence":"please set an alarm for me","label":2,"idx":99}
+{"sentence":"cancel my eight am alarm","label":1,"idx":100}
+{"sentence":"set alarm at nine am on next sunday","label":2,"idx":101}
+{"sentence":"remove alarm if any","label":1,"idx":102}
+{"sentence":"set alarm for reminder","label":2,"idx":103}
+{"sentence":"personal data assistants","label":1,"idx":104}
+{"sentence":"wake me up at five hundred and thirty","label":2,"idx":105}
+{"sentence":"what times are my alarms set for","label":0,"idx":106}
+{"sentence":"repeat alarm","label":2,"idx":107}
+{"sentence":"please turn off my alarm for this evening","label":1,"idx":108}
+{"sentence":"i no longer need the daily five pm alarm","label":1,"idx":109}
+{"sentence":"remove tomorrow's alarm","label":1,"idx":110}
+{"sentence":"i need to get up at seven am","label":2,"idx":111}
+{"sentence":"list current set alarms","label":0,"idx":112}
+{"sentence":"delete the first alarm","label":1,"idx":113}
+{"sentence":"mike will send me an email tomorrow can you please set up an alarm fifteen minutes after receiving that email","label":2,"idx":114}
+{"sentence":"set an alarm for one hour from now","label":2,"idx":115}
+{"sentence":"disable the alarm which is set at nine thirty pm","label":1,"idx":116}
+{"sentence":"alarm","label":2,"idx":117}
+{"sentence":"make an alarm for five pm on tuesday","label":2,"idx":118}
+{"sentence":"provide me the alarm times you have set","label":0,"idx":119}
+{"sentence":"could you please set an alarm at six am","label":2,"idx":120}
+{"sentence":"please set an alarm clock for my next meeting with the team at three pm next friday","label":2,"idx":121}
+{"sentence":"please turn off the alarm","label":1,"idx":122}
+{"sentence":"start alarm","label":2,"idx":123}
+{"sentence":"turn on an alarm for nine am","label":2,"idx":124}
+{"sentence":"please remove the alarm that is set for weekdays at nine","label":1,"idx":125}
+{"sentence":"set alarm to begin","label":2,"idx":126}
+{"sentence":"all alarms","label":0,"idx":127}
+{"sentence":"set alarm tomorrow at six am","label":2,"idx":128}
+{"sentence":"please ring the wake up alarm at eight am next saturday","label":2,"idx":129}
+{"sentence":"turn off my alarm","label":1,"idx":130}
+{"sentence":"do i have an alarm set for morning flight","label":0,"idx":131}
+{"sentence":"i want to see all set alarms","label":0,"idx":132}
+{"sentence":"please set alarm for all days","label":2,"idx":133}
+{"sentence":"what alarms are upcoming","label":0,"idx":134}
+{"sentence":"set my alarm for six thirty in the morning tomorrow","label":2,"idx":135}
+{"sentence":"what is the wake up time for my alarm i have set for the flight this weekend","label":0,"idx":136}
+{"sentence":"show them where the keys to internal locks are located in case they have to exit your home quickly","label":1,"idx":137}
+{"sentence":"set the alarm tone","label":2,"idx":138}
+{"sentence":"are there any alarms set right now","label":0,"idx":139}
+{"sentence":"reset the alarm","label":1,"idx":140}
+{"sentence":"set alarm for saturday morning soccer practice at eight am","label":2,"idx":141}
+{"sentence":"set an alarm for the dance classes two hours before the classes start","label":2,"idx":142}
+{"sentence":"set an alarm on Wednesday noon so i can register for early adopters program","label":2,"idx":143}
+{"sentence":"wake me up at six thirty","label":2,"idx":144}
+{"sentence":"set alarm for nine am","label":2,"idx":145}
+{"sentence":"how many alarms are currently set","label":0,"idx":146}
+{"sentence":"set an alarm for two hours from now","label":2,"idx":147}
+{"sentence":"tell me when the next alarms are for","label":0,"idx":148}
+{"sentence":"i want an alarm for three today","label":2,"idx":149}
+{"sentence":"turn off the alarm for tomorrow morning","label":1,"idx":150}
+{"sentence":"what time will my alarm wake me up","label":0,"idx":151}
+{"sentence":"new alarm for six am","label":2,"idx":152}
+{"sentence":"please tell me what alarms are on","label":0,"idx":153}
+{"sentence":"wake me up at this time","label":2,"idx":154}
+{"sentence":"what alarms will wake me up tomorrow","label":0,"idx":155}
+{"sentence":"is my alarm set for tomorrow morning","label":0,"idx":156}
+{"sentence":"set the alarm for two hours from now","label":2,"idx":157}
+{"sentence":"please set alarm at five pm","label":2,"idx":158}
+{"sentence":"tell me about my alarms","label":0,"idx":159}
+{"sentence":"let me know the alarm time","label":0,"idx":160}
+{"sentence":"check if any alarm is there after five am","label":0,"idx":161}
+{"sentence":"set an alarm for six thirty am","label":2,"idx":162}
+{"sentence":"is there any alarm after five am","label":0,"idx":163}
+{"sentence":"what alarms have i set for tomorrow","label":0,"idx":164}
+{"sentence":"how many alarms are currently on my phone","label":0,"idx":165}
+{"sentence":"what time is my alarm set for","label":0,"idx":166}
+{"sentence":"delete the alarm i just set","label":1,"idx":167}
+{"sentence":"what home alarms have been set","label":0,"idx":168}
+{"sentence":"what's the description for the alarm at eleven am","label":0,"idx":169}
+{"sentence":"set alarm on tenth november for clock","label":2,"idx":170}
+{"sentence":"quality of sound check","label":2,"idx":171}
+{"sentence":"set an alarm for four pm tuesday","label":2,"idx":172}
+{"sentence":"today how many alarms do i have set","label":0,"idx":173}
+{"sentence":"set an alarm for thursday at seven pm","label":2,"idx":174}
+{"sentence":"what alarms have been set for me","label":0,"idx":175}
+{"sentence":"show me the alarms i set","label":0,"idx":176}
+{"sentence":"reminder","label":2,"idx":177}
+{"sentence":"cancel my three pm alarm","label":1,"idx":178}
+{"sentence":"do i have any alarms set for today","label":0,"idx":179}
+{"sentence":"wake me up at time","label":2,"idx":180}
+{"sentence":"set a reminder alarm for my meeting with the agent this evening","label":2,"idx":181}
+{"sentence":"create an alarm for five pm","label":2,"idx":182}
+{"sentence":"alarm status","label":0,"idx":183}
+{"sentence":"set alarm at six thirty am","label":2,"idx":184}
+{"sentence":"please read me my alarms","label":0,"idx":185}
+{"sentence":"forget alarm","label":1,"idx":186}
+{"sentence":"set an alarm for me for tomorrow at seven pm","label":2,"idx":187}
