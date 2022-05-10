@@ -119,7 +119,7 @@ local H = hparams;
         "namespace": "tags",
         "classifier_bias": H.classifier_bias,
         "classifier_trainable": H.classifier_trainable,
-        "classifier_init": {"use_verbalizer_init" : "True", "path": H.path, "saved_model_path": ".aim/t-all_scenarios/best.th"},
+        "classifier_init": {"use_verbalizer_init" : "True", "path": H.path, "saved_model_path": ".aim/t-all_scenarios/best.th","data":"nlu"},
 
         "initializer": if H.pretrained_prompts == null then {} else {
             "regexes": [

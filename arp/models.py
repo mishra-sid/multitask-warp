@@ -102,14 +102,17 @@ class ArpClassifier(Model):
             self.common_model = torch.load(self.classifier_init["saved_model_path"])
             print("USING STAGE ONE MODEL TO INITIALIZE VERBALIZERSS")
             for cls_idx in range(self._num_labels):
-                org_idx = self.start_labels[self.classifier_init['path']] + cls_idx
+                if self.classifier_init["data"] =="nlu":
+                    org_idx = self.start_labels[self.classifier_init['path']] + cls_idx
+                else:
+                    org_idx = cls_idx
                 print(cls_idx,org_idx)
-                continue
+                
                         
                 with torch.no_grad():
-                    self._classification_layer.weight[class_idx] = self.common_model._classification_layer.weight[org_idx]
+                    self._classification_layer.weight[cls_idx] = self.common_model["_classification_layer.weight"][org_idx]
                     if self._classification_layer.bias is not None:
-                        self._classification_layer.bias[class_idx] = self.common_model.self._classification_layer.bias[org_idx]
+                        self._classification_layer.bias[cls_idx] = self.common_model["_classification_layer.bias"][org_idx]
         
     
         if not classifier_trainable:
