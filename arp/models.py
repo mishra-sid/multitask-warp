@@ -54,6 +54,17 @@ class ArpClassifier(Model):
 
         self._metrics = metrics or []
         self._reports: Dict[str, Any] = {}
+        
+
+        self.classifier_init = classifier_init
+        print(classifier_init)
+        
+        self.start_labels = {'datetime': 12,'recommendation': 56,'alarm': 0,'calendar': 7,'play': 46,'email': 14,'iot': 29,'lists': 38,'qa': 51,'general': 18,'transport': 63,'music': 41,'cooking': 10,'audio': 3,'social': 59,'takeaway': 61}
+
+        print(self.start_labels)
+        
+        
+
 
         if feedforward is not None:
             self._classifier_input_dim = feedforward.get_output_dim()
@@ -87,27 +98,20 @@ class ArpClassifier(Model):
         self._classification_layer = torch.nn.Linear(
             self._classifier_input_dim, self._num_labels, bias=classifier_bias
         )
-        if classifier_init is not None:
-            injector: ArpInjector = self._text_field_embedder._token_embedders[
-                "tokens"
-            ].embeddings_layer.word_embeddings
-            tokenizer = injector.tokenizer
-            lm_head = self._text_field_embedder._token_embedders["tokens"].lm_head
-            for class_name, init_with in classifier_init.items():
-                class_idx = self.vocab.get_token_index(
-                    class_name, namespace=self._label_namespace
-                )
-                init_with = ArpTokenizer.get_space_aware_token(init_with, tokenizer)
-                token_idx = tokenizer.convert_tokens_to_ids(init_with)
+        if self.classifier_init and self.classifier_init["use_verbalizer_init"] == "True":
+            self.common_model = torch.load(self.classifier_init["saved_model_path"])
+            print("USING STAGE ONE MODEL TO INITIALIZE VERBALIZERSS")
+            for cls_idx in range(self._num_labels):
+                org_idx = self.start_labels[self.classifier_init['path']] + cls_idx
+                print(cls_idx,org_idx)
+                continue
+                        
                 with torch.no_grad():
-                    self._classification_layer.weight[
-                        class_idx
-                    ] = injector.embedder.weight[token_idx]
+                    self._classification_layer.weight[class_idx] = self.common_model._classification_layer.weight[org_idx]
                     if self._classification_layer.bias is not None:
-                        self._classification_layer.bias[class_idx] = lm_head.bias[
-                            token_idx
-                        ]
-
+                        self._classification_layer.bias[class_idx] = self.common_model.self._classification_layer.bias[org_idx]
+        
+    
         if not classifier_trainable:
             self._classification_layer.weight.requires_grad = False
 
