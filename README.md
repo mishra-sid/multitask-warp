@@ -1,6 +1,6 @@
 
 
-![WARP Transfer Training](figures/WARP_transfer_training.svg)
+![WARP Transfer Training](figures/WARP_Transfer_training.svg)
 <sup>Training Methodology for WARP Transfer </sup>
 
 ![WARP Transfer](figures/WARP_transfer.svg)
