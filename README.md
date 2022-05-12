@@ -1,9 +1,9 @@
 
 
-![WARP Transfer Training](figures/WARP transfer training.svg)
+![WARP Transfer Training](figures/WARP_transfer_training.svg)
 <sup>Training Methodology for WARP Transfer </sup>
 
-![WARP Transfer](figures/WARP transfer.svg)
+![WARP Transfer](figures/WARP_transfer.svg)
 <sup>WARP Transfer initializes tokens and verbalizers using a hierarchical training approach which leads to significant improvement in results especially in low resource scenarios </sup>
 
 Prompt-based methods have recently gained popularity for their capability to generalize to multiple downstream tasks with high parameter efficiency. In this work, we improve these methods especially WARP by utilizing knowledge transfer between related tasks and thereby increase parameter efficiency in multi-domain scenarios, particularly in natural language understanding.
